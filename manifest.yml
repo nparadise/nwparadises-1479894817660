@@ -6,3 +6,5 @@ applications:
   name: nwparadises
   host: nwparadises
   disk_quota: 1024M
+  services :
+  - Conversation-3d
