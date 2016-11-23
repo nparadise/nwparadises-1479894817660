@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <title>NodeJS Starter Application</title>
     <meta charset="utf-8">
@@ -8,7 +7,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="stylesheets/style.css">
   </head>
-
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script>
+    var context = {};
+    var output = "";
+    var executeFunction = function(){
+      $.ajax({
+        url: "http://nwparadises.mybluemix.net/test",
+        type: "post",
+        contentType: "application/x-www-form-urlencoded",
+        dataType: "text",
+        data: {
+        	input_sentence: $("#input_sentence").val(),
+        	cur_context: JSON.stringify(context)
+        },
+        success: function (data) {
+        	var parsedData = JSON.parse(data);
+        	context = parsedData.context;
+        	output = parsedData.output.text[0];
+        	$("#answer").val(output);
+        }
+      })
+    }
+    executeFunction();
+  </script>
   <body>
     <table>
       <tr>
@@ -16,8 +38,10 @@
           <img class = "newappIcon" src="images/newapp-icon.png">
         </td>
         <td>
-          <h1 id="message">Hello World!</h1>
-          <p class='description'></p> Thanks for creating a <span class = "blue">NodeJS Starter Application</span>.
+          <h1 id="message">Conversation Test</h1>
+          Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
+          Answer Sentence:<t><input type="texT" name="answer" id="answer" size="50"/><br>
+          <input type="button" name="execute" value="make_answer" onclick="executeFunction()"/>
         </td>
       </tr>
     </table>
