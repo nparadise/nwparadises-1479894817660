@@ -51,7 +51,7 @@ app.post("/test", function(req, res){
 	console.log(input_sentence);
 	console.log(context);
 	
-	conversation.message({
+	conversation.message({ 
 		workspace_id: '5ea6409b-dd24-4aad-90d4-0f7a85909a78',
 		input: {'text': input_sentence},
 		context: context
