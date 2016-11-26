@@ -49,7 +49,7 @@
           var i = -1;
           for (ob in target) {
             if (target[ob]['title'] == 'recipe') continue;
-            if (target[ob].parent_id == foodId) {
+            if (i !== -1 && target[ob].parent_id == foodId) {
               if (target[ob]['title'] == 'Nutrition') {
                 var temp = target[ob]['content'][0]['text'].split(" ");
                 var insObj = {
