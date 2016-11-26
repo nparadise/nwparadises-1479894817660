@@ -36,8 +36,8 @@ app.use(express.static("public"));
 var watson = require('watson-developer-cloud');
 
 var conversation = watson.conversation({
-	username: 'a3650549-88bf-48b0-a8c3-0752ecf8d94f',
-	password: 'ScRy4iirXEbJ',
+	username: 'dc86b86e-5f2a-4eef-801e-318469cacdb4',
+	password: 'NyuOTaF24WnS',
 	version: 'v1',
 	version_date: '2016-09-20'
 });
@@ -52,7 +52,7 @@ app.post("/test", function(req, res){
 	console.log(context);
 	
 	conversation.message({ 
-		workspace_id: '5ea6409b-dd24-4aad-90d4-0f7a85909a78',
+		workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
 		input: {'text': input_sentence},
 		context: context
 	}, function(err, response){
