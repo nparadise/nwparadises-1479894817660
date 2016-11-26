@@ -12,8 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat;
-    var target;
+    var stat, target;
 
     var getAnswer = function(){
       $.ajax({
@@ -44,6 +43,35 @@
               });
             });
             console.log(target);
+          }
+          var ob;
+          var foods = [];
+          var foodName, foodId;
+          var i = -1;
+          for (ob in target) {
+            if (ob['title'] == 'recipe') continue;
+            if (ob.hasOwnProperty('parent_id') && ob.parent_id == foodId) {
+              if (ob['title'] == 'Nutrition') {
+                var temp = ob['content'][0]['text'].split(" ");
+                var insObj = new Object();
+                insObj.calories = temp[1];
+                insObj.fat = temp[5];
+                insObj.carbohydrate = temp[9].substring(0, temp[9].length - 1);
+                insObj.protein = temp[12];
+                insObj.cholesterol = temp[16];
+                insObj.sodium = temp[20];
+                foods[i].nutrition = insObj;
+              }
+            } else {
+              foodName = ob['title'];
+              foodId = ob['id']; 
+              var insertingObj = new Object();
+              insertingObj.foodName = foodName;
+              insertingObj.foodId = foodId;
+              foods.push(insertingObj);
+              i += 1;
+            }
+            console.log(foods[0]);
           }
         }
       })
