@@ -11,6 +11,10 @@
   <script>
     var context = {};
     var output = "";
+
+    var stat;
+    var target;
+
     var getAnswer = function(){
       $.ajax({
         url: "http://nwparadises.mybluemix.net/test",
@@ -26,29 +30,25 @@
         	context = parsedData.context;
         	output = parsedData.output.text[0];
         	$("#answer").val(output);
+
+          if (context.hasOwnProperty('health')) {
+            console.log(context[health] + 'is came for input.');
+            stat = context[health];
+            // get data from json file that satisfies the condition which user gave.
+            $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
+              $.each(data, function(key, val) {
+                if (key === 'answer_units') {
+                  // if key is 'answer_units', where all data about food included, get whole data to target.
+                  target = val;
+                }
+              });
+            });
+            console.log(target);
+          }
         }
       })
     }
     getAnswer();
-
-    var stat;
-    var target;
-
-    if (context.hasOwnProperty('health')) {
-      console.log(context[health] + 'is came for input.');
-      stat = context[health];
-      // get data from json file that satisfies the condition which user gave.
-      $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-        $.each(data, function(key, val) {
-          if (key === 'answer_units') {
-            // if key is 'answer_units', where all data about food included, get whole data to target.
-            target = val;
-          }
-        });
-      });
-      console.log(target);
-    }
-
   </script>
   <body>
     <table>
