@@ -47,11 +47,11 @@
           var ob;
           var foodName, foodId;
           var i = -1;
-          for (ob in target) {
-            if (ob['title'] == 'recipe') continue;
-            if (ob.parent_id == foodId) {
-              if (ob['title'] == 'Nutrition') {
-                var temp = ob['content'][0]['text'].split(" ");
+          for (ob = 0; ob < target.length; ob++) {
+            if (target[ob]['title'] == 'recipe') continue;
+            if (target[ob].parent_id == foodId) {
+              if (target[ob]['title'] == 'Nutrition') {
+                var temp = target[ob]['content'][0]['text'].split(" ");
                 var insObj = {
                   calories: temp[1],
                   fat: temp[5],
@@ -64,8 +64,8 @@
                 foods[i].nutrition = insObj;
               }
             } else {
-              foodName = ob['title'];
-              foodId = ob['id']; 
+              foodName = target[ob]['title'];
+              foodId = target[ob]['id']; 
               var insertingObj = {
                 name: foodName,
                 id: foodId
