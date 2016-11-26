@@ -40,6 +40,8 @@
                 if (key === 'answer_units') {
                   // if key is 'answer_units', where all data about food included, get whole data to target.
                   target = val;
+                  console.log(val);
+                  console.log(target);
                 }
               });
             });
@@ -48,7 +50,7 @@
           var foodName, foodId;
           var i = -1;
           for (ob in target) {
-            if (target[ob]['title'] == 'recipe') {
+            if (target[ob]['title'] === 'recipe') {
               console.log('continued');
               continue;
             }
