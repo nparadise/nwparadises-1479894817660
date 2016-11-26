@@ -43,7 +43,7 @@
                 }
               });
             });
-            console.log(target);
+            console.log(target.length);
           }
           var ob;
           var foodName, foodId;
@@ -53,28 +53,30 @@
             if (ob.hasOwnProperty('parent_id') && ob.parent_id == foodId) {
               if (ob['title'] == 'Nutrition') {
                 var temp = ob['content'][0]['text'].split(" ");
-                var insObj = new Object();
-                insObj.calories = temp[1];
-                insObj.fat = temp[5];
-                insObj.carbohydrate = temp[9].substring(0, temp[9].length - 1);
-                insObj.protein = temp[12];
-                insObj.cholesterol = temp[16];
-                insObj.sodium = temp[20];
+                var insObj = {
+                  calories: temp[1],
+                  fat: temp[5],
+                  carbohydrate: temp[9].substring(0, temp[9].length - 1),
+                  protein: temp[12],
+                  cholesterol: temp[16],
+                  sodium: temp[20]
+                };
                 console.log(insObj);
                 foods[i].nutrition = insObj;
               }
             } else {
               foodName = ob['title'];
               foodId = ob['id']; 
-              var insertingObj = new Object();
-              insertingObj.foodName = foodName;
-              insertingObj.foodId = foodId;
+              var insertingObj = {
+                name: foodName,
+                id: foodId
+              };
               console.log(insertingObj);
               foods.push(insertingObj);
               i += 1;
             }
           }
-          console.log(foods[0]);
+          console.log(foods.length);
         }
       })
     }
