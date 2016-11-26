@@ -42,6 +42,7 @@
                   target = val;
                   console.log(val);
                   console.log(target);
+                  console.log(typeof target);
                 }
               });
             });
@@ -55,8 +56,8 @@
               continue;
             }
             console.log(target[ob]['title']);
-            if (i !== -1 && target[ob].parent_id == foodId) {
-              if (target[ob]['title'] == 'Nutrition') {
+            if (i !== -1 && target[ob].parent_id === foodId) {
+              if (target[ob]['title'] === 'Nutrition') {
                 var temp = target[ob]['content'][0]['text'].split(" ");
                 var insObj = {
                   calories: temp[1],
@@ -81,7 +82,6 @@
               i += 1;
             }
           }
-          console.log(foods.length);
         }
       })
     }
