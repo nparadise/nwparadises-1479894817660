@@ -47,7 +47,7 @@
           var ob;
           var foodName, foodId;
           var i = -1;
-          for (ob = 0; ob < target.length; ob++) {
+          for (ob in target) {
             if (target[ob]['title'] == 'recipe') continue;
             if (target[ob].parent_id == foodId) {
               if (target[ob]['title'] == 'Nutrition') {
