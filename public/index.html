@@ -32,8 +32,8 @@
         	$("#answer").val(output);
 
           if (context.hasOwnProperty('health')) {
-            console.log(context[health] + 'is came for input.');
-            stat = context[health];
+            console.log(context['health'] + 'is came for input.');
+            stat = context['health'];
             // get data from json file that satisfies the condition which user gave.
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
               $.each(data, function(key, val) {
