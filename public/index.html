@@ -43,14 +43,13 @@
                 }
               });
             });
-            console.log(target.length);
           }
           var ob;
           var foodName, foodId;
           var i = -1;
           for (ob in target) {
             if (ob['title'] == 'recipe') continue;
-            if (ob.hasOwnProperty('parent_id') && ob.parent_id == foodId) {
+            if (ob.parent_id == foodId) {
               if (ob['title'] == 'Nutrition') {
                 var temp = ob['content'][0]['text'].split(" ");
                 var insObj = {
