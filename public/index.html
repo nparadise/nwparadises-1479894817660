@@ -13,6 +13,7 @@
     var output = "";
 
     var stat, target;
+    var foods = [];
 
     var getAnswer = function(){
       $.ajax({
@@ -21,14 +22,14 @@
         contentType: "application/x-www-form-urlencoded",
         dataType: "text",
         data: {
-        	input_sentence: $("#input_sentence").val(),
-        	cur_context: JSON.stringify(context)
+          input_sentence: $("#input_sentence").val(),
+          cur_context: JSON.stringify(context)
         },
         success: function (data) {
-        	var parsedData = JSON.parse(data);
-        	context = parsedData.context;
-        	output = parsedData.output.text[0];
-        	$("#answer").val(output);
+          var parsedData = JSON.parse(data);
+          context = parsedData.context;
+          output = parsedData.output.text[0];
+          $("#answer").val(output);
 
           if (context.hasOwnProperty('health')) {
             console.log(context['health'] + 'is came for input.');
@@ -45,7 +46,6 @@
             console.log(target);
           }
           var ob;
-          var foods = [];
           var foodName, foodId;
           var i = -1;
           for (ob in target) {
@@ -60,6 +60,7 @@
                 insObj.protein = temp[12];
                 insObj.cholesterol = temp[16];
                 insObj.sodium = temp[20];
+                console.log(insObj);
                 foods[i].nutrition = insObj;
               }
             } else {
@@ -68,11 +69,12 @@
               var insertingObj = new Object();
               insertingObj.foodName = foodName;
               insertingObj.foodId = foodId;
+              console.log(insertingObj);
               foods.push(insertingObj);
               i += 1;
             }
-            console.log(foods[0]);
           }
+          console.log(foods[0]);
         }
       })
     }
