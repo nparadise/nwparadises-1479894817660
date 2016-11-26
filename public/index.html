@@ -11,7 +11,7 @@
   <script>
     var context = {};
     var output = "";
-    var executeFunction = function(){
+    var getAnswer = function(){
       $.ajax({
         url: "http://nwparadises.mybluemix.net/test",
         type: "post",
@@ -28,8 +28,28 @@
         	$("#answer").val(output);
         }
       })
+    };
+
+    if (context.hasOwnProperty('food')) {
+      console.log(context[food] + 'is came for input.');
     }
-    executeFunction();
+    if (context.hasOwnProperty('health')) {
+      console.log(context[health] + 'is came for input.');
+      var stat = context[health];
+      var target;
+      // get data from json file that satisfies the condition which user gave.
+      $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
+        $.each(data, function(key, val) {
+          if (key === 'answer_units') {
+            // if key is 'answer_units', where all data about food included, get whole data to target.
+            target = val;
+          }
+        });
+      });
+      console.log(target);
+    }
+
+    getAnswer();
   </script>
   <body>
     <table>
@@ -41,7 +61,7 @@
           <h1 id="message">Conversation Test</h1>
           Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
           Answer Sentence:<t><input type="texT" name="answer" id="answer" size="50"/><br>
-          <input type="button" name="execute" value="make_answer" onclick="executeFunction()"/>
+          <input type="button" name="execute" value="make_answer" onclick="getAnswer()"/>
         </td>
       </tr>
     </table>

@@ -1,0 +1,24 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-20T15:54:51.287Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    }
+  ],
+  "answer_units": [],
+  "warnings": [
+    {
+      "phase": "normalized_html",
+      "warning_id": "empty_input_to_converter",
+      "description": "The input HTML document has no body content."
+    },
+    {
+      "phase": "answer_units",
+      "warning_id": "empty_input_to_converter",
+      "description": "The input provided to the converter phase is empty or doesn't contain text that can be converted."
+    }
+  ]
+}
