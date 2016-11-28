@@ -7,84 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="stylesheets/style.css">
   </head>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script>
-    var context = {};
-    var output = "";
-
-    var stat, target;
-    var foods = [];
-
-    var getAnswer = function(){
-      $.ajax({
-        url: "http://nwparadises.mybluemix.net/test",
-        type: "post",
-        contentType: "application/x-www-form-urlencoded",
-        dataType: "text",
-        data: {
-          input_sentence: $("#input_sentence").val(),
-          cur_context: JSON.stringify(context)
-        },
-        success: function (data) {
-          var parsedData = JSON.parse(data);
-          var ob, foodName, foodId;
-          var i = -1;
-
-          context = parsedData.context;
-          output = parsedData.output.text[0];
-          $("#answer").val(output);
-
-          if (context.hasOwnProperty('health')) {
-            console.log(context['health'] + 'is came for input.');
-            stat = context['health'];
-            // get data from json file that satisfies the condition which user gave.
-            $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-              var temp = {'arr': data};
-              console.log(temp);
-              var deepcopied = jQuery.extend(true, {}, temp);
-              console.log(deepcopied.arr);
-              target = deepcopied.arr.answer_units;
-              console.log(target);
-            });
-          }
-          console.log(target);
-          for (ob in target) {
-            if (target[ob].title === 'recipe') {
-              console.log('continued');
-              continue;
-            }
-            console.log(target[ob]['title']);
-            if (i !== -1 && target[ob].parent_id === foodId) {
-              if (target[ob]['title'] === 'Nutrition') {
-                var temp = target[ob]['content'][0]['text'].split(" ");
-                var insObj = {
-                  calories: temp[1],
-                  fat: temp[5],
-                  carbohydrate: temp[9].substring(0, temp[9].length - 1),
-                  protein: temp[12],
-                  cholesterol: temp[16],
-                  sodium: temp[20]
-                };
-                console.log(insObj);
-                foods[i].nutrition = insObj;
-              }
-            } else {
-              foodName = target[ob]['title'];
-              foodId = target[ob]['id']; 
-              var insertingObj = {
-                name: foodName,
-                id: foodId
-              };
-              console.log(insertingObj);
-              foods.push(insertingObj);
-              i += 1;
-            }
-          }
-        }
-      })
-    }
-    getAnswer();
-  </script>
   <body>
     <table>
       <tr>
@@ -99,6 +21,84 @@
         </td>
       </tr>
     </table>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+      var context = {};
+      var output = "";
+
+      var stat, target;
+      var foods = [];
+
+      var getAnswer = function(){
+        $.ajax({
+          url: "http://nwparadises.mybluemix.net/test",
+          type: "post",
+          contentType: "application/x-www-form-urlencoded",
+          dataType: "text",
+          data: {
+            input_sentence: $("#input_sentence").val(),
+            cur_context: JSON.stringify(context)
+          },
+          success: function (data) {
+            var parsedData = JSON.parse(data);
+            var ob, foodName, foodId;
+            var i = -1;
+
+            context = parsedData.context;
+            output = parsedData.output.text[0];
+            $("#answer").val(output);
+
+            if (context.hasOwnProperty('health')) {
+              console.log(context['health'] + 'is came for input.');
+              stat = context['health'];
+              // get data from json file that satisfies the condition which user gave.
+              $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
+                var temp = {'arr': data};
+                console.log(temp);
+                var deepcopied = jQuery.extend(true, {}, temp);
+                console.log(deepcopied.arr);
+                target = deepcopied.arr.answer_units;
+                console.log(target);
+              });
+            }
+            console.log(target);
+            for (ob in target) {
+              if (target[ob].title === 'recipe') {
+                console.log('continued');
+                continue;
+              }
+              console.log(target[ob]['title']);
+              if (i !== -1 && target[ob].parent_id === foodId) {
+                if (target[ob]['title'] === 'Nutrition') {
+                  var temp = target[ob]['content'][0]['text'].split(" ");
+                  var insObj = {
+                    calories: temp[1],
+                    fat: temp[5],
+                    carbohydrate: temp[9].substring(0, temp[9].length - 1),
+                    protein: temp[12],
+                    cholesterol: temp[16],
+                    sodium: temp[20]
+                  };
+                  console.log(insObj);
+                  foods[i].nutrition = insObj;
+                }
+              } else {
+                foodName = target[ob]['title'];
+                foodId = target[ob]['id']; 
+                var insertingObj = {
+                  name: foodName,
+                  id: foodId
+                };
+                console.log(insertingObj);
+                foods.push(insertingObj);
+                i += 1;
+              }
+            }
+          }
+        })
+      }
+      getAnswer();
+    </script>
   </body>
 
 </html>
