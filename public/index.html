@@ -39,13 +39,14 @@
             stat = context['health'];
             // get data from json file that satisfies the condition which user gave.
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-              $.each(data, function(key, val) {
-                if (key === 'answer_units') {
-                  // if key is 'answer_units', where all data about food included, get whole data to target.
-                  target = val;
-                  return false;
-                }
-              });
+              target = data['answer_units'];
+              // $.each(data, function(key, val) {
+              //   if (key === 'answer_units') {
+              //     // if key is 'answer_units', where all data about food included, get whole data to target.
+              //     target = val;
+              //     return false;
+              //   }
+              // });
             });
           }
           console.log(typeof target);
