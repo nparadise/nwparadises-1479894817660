@@ -39,8 +39,7 @@
             stat = context['health'];
             // get data from json file that satisfies the condition which user gave.
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-              console.log(data['answer_units']);
-              target = data.answer_units;
+              target = JSON.parse(JSON.stringify(data)).answer_units;
               testTarget = [];
               $.each(data['answer_units'], function(index, value) {
                 testTarget.push(value);
@@ -49,15 +48,15 @@
           }
           console.log(target);
           console.log(testTarget);
-          for (ob in testTarget) {
-            if (testTarget[ob].title === 'recipe') {
+          for (ob in target) {
+            if (target[ob].title === 'recipe') {
               console.log('continued');
               continue;
             }
-            console.log(testTarget[ob]['title']);
-            if (i !== -1 && testTarget[ob].parent_id === foodId) {
-              if (testTarget[ob]['title'] === 'Nutrition') {
-                var temp = testTarget[ob]['content'][0]['text'].split(" ");
+            console.log(target[ob]['title']);
+            if (i !== -1 && target[ob].parent_id === foodId) {
+              if (target[ob]['title'] === 'Nutrition') {
+                var temp = target[ob]['content'][0]['text'].split(" ");
                 var insObj = {
                   calories: temp[1],
                   fat: temp[5],
@@ -70,8 +69,8 @@
                 foods[i].nutrition = insObj;
               }
             } else {
-              foodName = testTarget[ob]['title'];
-              foodId = testTarget[ob]['id']; 
+              foodName = target[ob]['title'];
+              foodId = target[ob]['id']; 
               var insertingObj = {
                 name: foodName,
                 id: foodId
