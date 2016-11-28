@@ -16,7 +16,7 @@
         <td>
           <h1 id="message">Conversation Test</h1>
           Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
-          Answer Sentence:<t><input type="texT" name="answer" id="answer" size="50"/><br>
+          Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
           <input type="button" name="execute" id="executeButton" value="make_answer"/>
         </td>
       </tr>
@@ -57,8 +57,14 @@
           console.log(context['health'] + 'is came for input.');
           stat = context['health'];
           // get data from json file that satisfies the condition which user gave.
+          $.ajaxSetup({
+            async: false
+          });
           $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
             target = data.answer_units;
+          });
+          $.ajaxSetup({
+            async: true
           });
         }
         
