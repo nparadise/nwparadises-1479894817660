@@ -12,7 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat, target, testTarget;
+    var stat, target;
     var foods = [];
 
     var getAnswer = function(){
@@ -39,15 +39,15 @@
             stat = context['health'];
             // get data from json file that satisfies the condition which user gave.
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-              target = JSON.parse(JSON.stringify(data)).answer_units;
-              testTarget = [];
-              $.each(data['answer_units'], function(index, value) {
-                testTarget.push(value);
-              });
+              var temp = {'arr': data};
+              console.log(temp);
+              var deepcopied = jQuery.extend(true, {}, temp);
+              console.log(deepcopied.arr);
+              target = deepcopied.arr.answer_units;
+              console.log(target);
             });
           }
           console.log(target);
-          console.log(testTarget);
           for (ob in target) {
             if (target[ob].title === 'recipe') {
               console.log('continued');
