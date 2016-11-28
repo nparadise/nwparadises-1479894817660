@@ -29,7 +29,7 @@
       var stat, target = [];
       var foods = [];
 
-      var getAnswer = function(){
+      function getAnswer() {
         $.ajax({
           url: "http://nwparadises.mybluemix.net/test",
           type: "post",
@@ -49,7 +49,7 @@
         });
       }
 
-      var afterGetContext = function(){
+      function afterGetContext() {
         var ob, foodName, foodId;
         var i = -1;
 
@@ -64,10 +64,8 @@
         
         for (ob in target) {
           if (target[ob].title === 'recipe') {
-            console.log('continued');
             continue;
           }
-          console.log(target[ob]['title']);
           if (target[ob].parent_id === "") {
             foodName = target[ob]['title'];
             foodId = target[ob]['id']; 
@@ -75,7 +73,6 @@
               name: foodName,
               id: foodId
             };
-            console.log(insertingObj);
             foods.push(insertingObj);
             i++;
           } else {
@@ -89,7 +86,6 @@
                 cholesterol: nutritionText[16],
                 sodium: nutritionText[20]
               };
-              console.log(insObj);
               foods[i].nutrition = insObj;
             }
           }
@@ -100,7 +96,9 @@
 
       $("#executeButton").click(function() {
         getAnswer();
-        afterGetContext();
+        if (target.length !== 0) {
+          afterGetContext();
+        }
       });
     </script>
   </body>
