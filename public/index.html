@@ -12,7 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat, target, testTarget = [];
+    var stat, target, testTarget;
     var foods = [];
 
     var getAnswer = function(){
@@ -41,30 +41,23 @@
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
               console.log(data['answer_units']);
               target = data.answer_units;
+              testTarget = [];
               $.each(data['answer_units'], function(index, value) {
                 testTarget.push(value);
               });
-              // $.each(data, function(key, val) {
-              //   if (key === 'answer_units') {
-              //     // if key is 'answer_units', where all data about food included, get whole data to target.
-              //     target = val;
-              //     return false;
-              //   }
-              // });
             });
           }
-          console.log(target[0].title);
-          console.log(target[1].title);
-          console.log(target[2].title);
-          for (ob in target) {
-            if (target[ob].title === 'recipe') {
+          console.log(target);
+          console.log(testTarget);
+          for (ob in testTarget) {
+            if (testTarget[ob].title === 'recipe') {
               console.log('continued');
               continue;
             }
-            console.log(target[ob]['title']);
-            if (i !== -1 && target[ob].parent_id === foodId) {
-              if (target[ob]['title'] === 'Nutrition') {
-                var temp = target[ob]['content'][0]['text'].split(" ");
+            console.log(testTarget[ob]['title']);
+            if (i !== -1 && testTarget[ob].parent_id === foodId) {
+              if (testTarget[ob]['title'] === 'Nutrition') {
+                var temp = testTarget[ob]['content'][0]['text'].split(" ");
                 var insObj = {
                   calories: temp[1],
                   fat: temp[5],
@@ -77,8 +70,8 @@
                 foods[i].nutrition = insObj;
               }
             } else {
-              foodName = target[ob]['title'];
-              foodId = target[ob]['id']; 
+              foodName = testTarget[ob]['title'];
+              foodId = testTarget[ob]['id']; 
               var insertingObj = {
                 name: foodName,
                 id: foodId
