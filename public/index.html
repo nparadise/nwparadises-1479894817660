@@ -15,12 +15,20 @@
         </td>
         <td>
           <h1 id="message">Conversation Test</h1>
-          Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
-          Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
-          <input type="button" name="execute" id="executeButton" value="make_answer" onclick="getAnswer()"/>
+          <form>
+            Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
+            Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
+            <input type="button" name="execute" id="executeButton" value="make_answer" onclick="getAnswer()"/>
+          </form>
         </td>
       </tr>
     </table>
+    <div>
+      <div id="food_0" style="float: left; margin: 3px; padding: 10px"></div>
+      <div id="food_1" style="float: left; margin: 3px; padding: 10px"></div>
+      <div id="food_2" style="float: left; margin: 3px; padding: 10px"></div>
+      <div id="food_3" style="float: left; margin: 3px; padding: 10px"></div>
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script>
       var context = {},
@@ -28,6 +36,21 @@
 
       var stat, target = [];
       var foods;
+
+      var giveExamples = function() {
+        var j, obje;
+        for (j = 0; j < 4; iterator++, j++) {
+          if (iterator == 300) {
+            alert('no more foods');
+            break;
+          }
+          obje = foods[iterator];
+          $("#food_" + j).html(
+            "<div id=\'name_" + j + "\'><b>" + obje.name + "</div>" +
+            "<div id=\'calories_" + j + "\'>" + obje.nutrition.calories + " kcal</div>"
+          );
+        }
+      };
 
       var getAnswer = function(){
         $.ajax({
@@ -60,44 +83,38 @@
           console.log(context['health'] + 'is came for input.');
           stat = context['health'];
           // get data from json file that satisfies the condition which user gave.
-          $.ajaxSetup({
-            async: false
-          });
           $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
             target = data.answer_units;
-          });
-          $.ajaxSetup({
-            async: true
-          });
-        }
-        
-        for (ob in target) {
-          if (target[ob].title === 'recipe') {
-            continue;
-          }
-          if (target[ob].parent_id === "") {
-            foodName = target[ob]['title'];
-            foodId = target[ob]['id']; 
-            var insertingObj = {
-              name: foodName,
-              id: foodId
-            };
-            foods.push(insertingObj);
-            i++;
-          } else {
-            if (target[ob]['title'] === 'Nutrition') {
-              var nutritionText = target[ob]['content'][0]['text'].split(" ");
-              var insObj = {
-                calories: nutritionText[1],
-                fat: nutritionText[5],
-                carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
-                protein: nutritionText[12],
-                cholesterol: nutritionText[16],
-                sodium: nutritionText[20]
-              };
-              foods[i].nutrition = insObj;
+            for (ob in target) {
+              if (target[ob].title === 'recipe') {
+                continue;
+              }
+              if (target[ob].parent_id === "") {
+                foodName = target[ob]['title'];
+                foodId = target[ob]['id']; 
+                var insertingObj = {
+                  name: foodName,
+                  id: foodId
+                };
+                foods.push(insertingObj);
+                i++;
+              } else {
+                if (target[ob]['title'] === 'Nutrition') {
+                  var nutritionText = target[ob]['content'][0]['text'].split(" ");
+                  var insObj = {
+                    calories: nutritionText[1],
+                    fat: nutritionText[5],
+                    carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
+                    protein: nutritionText[12],
+                    cholesterol: nutritionText[16],
+                    sodium: nutritionText[20]
+                  };
+                  foods[i].nutrition = insObj;
+                }
+              }
             }
-          }
+            giveExamples();
+          });
         }
       }
       getAnswer();
