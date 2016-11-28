@@ -79,11 +79,15 @@
 
         if (context.hasOwnProperty('health')) {
           console.log(context['health'] + 'is came for input.');
+          if (stat !== context['health']) {
+            iterator = 0;
+          }
           stat = context['health'];
           // get data from json file that satisfies the condition which user gave.
           $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
             target = data.answer_units;
             for (ob in target) {
+              // if title of object is recipe, just bypass it
               if (target[ob].title === 'recipe') {
                 continue;
               }
