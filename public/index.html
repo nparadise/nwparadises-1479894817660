@@ -94,12 +94,10 @@
 
       getAnswer();
 
-      $("#executeButton").click(function() {
+      var printButton = function(){
         getAnswer();
-        if (target.length !== 0) {
-          afterGetContext();
-        }
-      });
+        afterGetContext();
+      }
     </script>
   </body>
 </html>
