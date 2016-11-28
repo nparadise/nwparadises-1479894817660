@@ -12,7 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat, target;
+    var stat, target, testTarget = [];
     var foods = [];
 
     var getAnswer = function(){
@@ -41,6 +41,9 @@
             $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
               console.log(data['answer_units']);
               target = data.answer_units;
+              $.each(data['answer_units'], function(index, value) {
+                testTarget.push(value);
+              });
               // $.each(data, function(key, val) {
               //   if (key === 'answer_units') {
               //     // if key is 'answer_units', where all data about food included, get whole data to target.
@@ -50,6 +53,9 @@
               // });
             });
           }
+          console.log(target[0].title);
+          console.log(target[1].title);
+          console.log(target[2].title);
           for (ob in target) {
             if (target[ob].title === 'recipe') {
               console.log('continued');
