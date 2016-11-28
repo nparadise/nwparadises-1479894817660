@@ -27,7 +27,7 @@
           output = "";
 
       var stat, target = [];
-      var foods = [];
+      var foods;
 
       var getAnswer = function(){
         $.ajax({
@@ -46,6 +46,7 @@
             output = parsedData.output.text[0];
             $("#answer").val(output);
 
+            foods = [];
             afterGetContext();
           }
         });
