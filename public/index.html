@@ -30,6 +30,17 @@
       var foods = [];
 
       var afterGetTarget = function(){
+        if (context.hasOwnProperty('health')) {
+          console.log(context['health'] + 'is came for input.');
+          stat = context['health'];
+          // get data from json file that satisfies the condition which user gave.
+          $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
+            var temp = {'arr': data};
+            var deepcopied = jQuery.extend(true, {}, temp);
+            target = deepcopied.arr.answer_units;
+          });
+        }
+        
         for (ob in target) {
           if (target[ob].title === 'recipe') {
             console.log('continued');
@@ -83,20 +94,6 @@
             context = parsedData.context;
             output = parsedData.output.text[0];
             $("#answer").val(output);
-
-            if (context.hasOwnProperty('health')) {
-              console.log(context['health'] + 'is came for input.');
-              stat = context['health'];
-              // get data from json file that satisfies the condition which user gave.
-              $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-                var temp = {'arr': data};
-                console.log(temp);
-                var deepcopied = jQuery.extend(true, {}, temp);
-                console.log(deepcopied.arr);
-                target = deepcopied.arr.answer_units;
-                console.log(target);
-              });
-            }
           }
         });
       }
