@@ -12,7 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat/*, target = []*/;
+    var stat, target;
     var foods = [];
 
     var getAnswer = function(){
@@ -26,8 +26,10 @@
           cur_context: JSON.stringify(context)
         },
         success: function (data) {
-          var target;
           var parsedData = JSON.parse(data);
+          var ob, foodName, foodId;
+          var i = -1;
+
           context = parsedData.context;
           output = parsedData.output.text[0];
           $("#answer").val(output);
@@ -41,14 +43,11 @@
                 if (key === 'answer_units') {
                   // if key is 'answer_units', where all data about food included, get whole data to target.
                   target = val;
-                  return target;
+                  return false;
                 }
               });
             });
           }
-          var ob;
-          var foodName, foodId;
-          var i = -1;
           console.log(typeof target);
           for (ob in target) {
             if (target[ob]['title'] === 'recipe') {
