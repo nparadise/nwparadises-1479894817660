@@ -12,7 +12,7 @@
     var context = {};
     var output = "";
 
-    var stat, target;
+    var stat/*, target = []*/;
     var foods = [];
 
     var getAnswer = function(){
@@ -26,6 +26,7 @@
           cur_context: JSON.stringify(context)
         },
         success: function (data) {
+          var target;
           var parsedData = JSON.parse(data);
           context = parsedData.context;
           output = parsedData.output.text[0];
@@ -40,10 +41,6 @@
                 if (key === 'answer_units') {
                   // if key is 'answer_units', where all data about food included, get whole data to target.
                   target = val;
-                  console.log(val);
-                  console.log(target);
-                  console.log(typeof target);
-                  console.log(target.constructor);
                 }
               });
             });
