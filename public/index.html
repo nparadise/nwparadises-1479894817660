@@ -49,10 +49,10 @@
         });
       }
 
-      var afterGetTarget = function(){
+      var afterGetContext = function(){
         var ob, foodName, foodId;
         var i = -1;
-        
+
         if (context.hasOwnProperty('health')) {
           console.log(context['health'] + 'is came for input.');
           stat = context['health'];
@@ -68,21 +68,7 @@
             continue;
           }
           console.log(target[ob]['title']);
-          if (i !== -1 && target[ob].parent_id === foodId) {
-            if (target[ob]['title'] === 'Nutrition') {
-              var temp = target[ob]['content'][0]['text'].split(" ");
-              var insObj = {
-                calories: temp[1],
-                fat: temp[5],
-                carbohydrate: temp[9].substring(0, temp[9].length - 1),
-                protein: temp[12],
-                cholesterol: temp[16],
-                sodium: temp[20]
-              };
-              console.log(insObj);
-              foods[i].nutrition = insObj;
-            }
-          } else {
+          if (target[ob].parent_id === "") {
             foodName = target[ob]['title'];
             foodId = target[ob]['id']; 
             var insertingObj = {
@@ -91,7 +77,21 @@
             };
             console.log(insertingObj);
             foods.push(insertingObj);
-            i += 1;
+            i++;
+          } else {
+            if (target[ob]['title'] === 'Nutrition') {
+              var nutritionText = target[ob]['content'][0]['text'].split(" ");
+              var insObj = {
+                calories: nutritionText[1],
+                fat: nutritionText[5],
+                carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
+                protein: nutritionText[12],
+                cholesterol: nutritionText[16],
+                sodium: nutritionText[20]
+              };
+              console.log(insObj);
+              foods[i].nutrition = insObj;
+            }
           }
         }
       }
@@ -100,7 +100,7 @@
 
       $("#executeButton").click(function() {
         getAnswer();
-        afterGetTarget();
+        afterGetContext();
       });
     </script>
   </body>
