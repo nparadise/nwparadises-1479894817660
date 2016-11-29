@@ -3,7 +3,7 @@
 	<head>
 		<title>NodeJS Starter Application</title>
 		<meta charset="utf-8">
-		<meta http-equiv="X-UA-compatible" content="IE=edge">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="stylesheets/style.css">
 	</head>
@@ -11,8 +11,8 @@
 		<div>
 			<h1>Convesation API test page</h1>
 			<form>
-				Input Sentence: <input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
-				Answer Sentence:<input type="text" name="answer" id="answer" size="50"/><br>
+				Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
+				Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
 				<input type="button" name="execute" id="execute" value="make_answer" onclick="getAnswer()"/>
 			</form>
 		</div>
@@ -33,17 +33,17 @@
 
 			// function prints 4 examples of foods
 			var printExamples = function() {
-				var j, objec;
+				var j, obje;
 				for (j = 0; j < 4; iterator++, j++) {
 					if (iterator === 300) {
 						alert('no more foods');
 						break;
 					} // when reach last food, stop iterating and printing
-					objec = foods[iterator];
+					obje = foods[iterator];
 					// print food list
 					$("#food_" + j).html(
-						"<div id='name_" + j + "'><b>" + objec.name + "</div>" +
-						"<div id='calories_" + j + "'>" + objec.nutrition.calories + " kcal</div>"
+						"<div id='name_" + j + "'><b>" + obje.name + "</div>" +
+						"<div id='calories_" + j + "'>" + obje.nutrition.calories + " kcal</div>"
 					);
 				}
 			}
@@ -68,7 +68,7 @@
 					// if object has no parent_id, it is food, so get food name
 					if (target[ob].parent_id === "") {
 						var insertingObj = {
-							'name': target[ob].title,
+							'name': target[ob]['title'],
 						};
 						foods.push(insertingObj);
 						i++;
@@ -139,7 +139,6 @@
 						cur_context: JSON.stringify(context)
 					},
 					success: function (data) {
-						console.log(context);
 						var parsedData = JSON.parse(data);
 						console.log(parsedData);
 						context = parsedData.context;		// context passed by watson
