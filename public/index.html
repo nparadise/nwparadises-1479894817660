@@ -1,125 +1,146 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>NodeJS Starter Application</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="stylesheets/style.css">
-  </head>
-  <body>
-    <table>
-      <tr>
-        <td style= "width:30%;">
-          <img class = "newappIcon" src="images/newapp-icon.png">
-        </td>
-        <td>
-          <h1 id="message">Conversation Test</h1>
-          <form>
-            Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
-            Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
-            <input type="button" name="execute" id="executeButton" value="make_answer" onclick="getAnswer()"/>
-          </form>
-        </td>
-      </tr>
-    </table>
-    <div>
-      <div id="food_0" style="float: left; margin: 3px; padding: 10px"></div>
-      <div id="food_1" style="float: left; margin: 3px; padding: 10px"></div>
-      <div id="food_2" style="float: left; margin: 3px; padding: 10px"></div>
-      <div id="food_3" style="float: left; margin: 3px; padding: 10px"></div>
-    </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script>
-      var context = {},
-          output = "";
-      var stat, target = [], foods, iterator = 0;
+	<head>
+		<title>NodeJS Starter Application</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="stylesheets/style.css">
+	</head>
+	<body>
+		<div>
+			<h1>Convesation API test page</h1>
+			<form>
+				Input Sentence: <input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
+				Answer Sentence:<input type="text" name="answer" id="answer" size="50"/><br>
+				<input type="button" name="execute" id="execute" value="make_answer" onclick="getAnswer()"/>
+			</form>
+		</div>
+		<div>
+			<div id="food_0" style="float: left; margin: 3px; padding: 10px"></div>
+			<div id="food_1" style="float: left; margin: 3px; padding: 10px"></div>
+			<div id="food_2" style="float: left; margin: 3px; padding: 10px"></div>
+			<div id="food_3" style="float: left; margin: 3px; padding: 10px"></div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<script>
+			var context = {},	// save context came from conversation api
+				output = "",	// the answer watson will say
+				category,		// what category of food
+				target = [],	// save json file at here
+				foods,			// where a list of foods will be saved
+				iterator = 0;	// iterator for print examples
 
-      var giveExamples = function() {
-        var j, obje;
-        for (j = 0; j < 4; iterator++, j++) {
-          if (iterator == 300) {
-            alert('no more foods');
-            break;
-          }
-          obje = foods[iterator];
-          $("#food_" + j).html(
-            "<div id=\'name_" + j + "\'><b>" + obje.name + "</div>" +
-            "<div id=\'calories_" + j + "\'>" + obje.nutrition.calories + " kcal</div>"
-          );
-        }
-      };
+			// function prints 4 examples of foods
+			var printExamples = function() {
+				var j, objec;
+				for (j = 0; j < 4; iterator++, j++) {
+					if (iterator === 300) {
+						alert('no more foods');
+						break;
+					} // when reach last food, stop iterating and printing
+					objec = foods[iterator];
+					// print food list
+					$("#food_" + j).html(
+						"<div id='name_" + j + "'><b>" + objec.name + "</div>" +
+						"<div id='calories_" + j + "'>" + obje.nutrition.calories + " kcal</div>"
+					);
+				}
+			}
 
-      var getAnswer = function(){
-        $.ajax({
-          url: "http://nwparadises.mybluemix.net/test",
-          type: "post",
-          contentType: "application/x-www-form-urlencoded",
-          dataType: "text",
-          data: {
-            input_sentence: $("#input_sentence").val(),
-            cur_context: JSON.stringify(context)
-          },
-          success: function (data) {
-            var parsedData = JSON.parse(data);
+			// get data based on entities and category
+			var getData = function(entity) {
+				var ob,			// iterator for array of objects about recipe
+					i = -1;		// iterator for food array
+				// get json file
+				$.ajax({
+					dataType: "json",
+					async: false,
+					url: "/jsondata/" + entity + "_" + category + "_300.json",
+					success: function(data) {
+						target = data.answer_units;
+					}
+				});
+				for (ob in target) {
+					// if title is recipe, bypass
+					if (target[ob].title === 'recipe') continue;
 
-            context = parsedData.context;
-            output = parsedData.output.text[0];
-            $("#answer").val(output);
+					// if object has no parent_id, it is food, so get food name
+					if (target[ob].parent_id === "") {
+						var insetringObj = {
+							'name': target[ob].title,
+						};
+						foods.push(insertingObj);
+						i++;
+					}
+					else {
+						// if title is nutrition, it is nutrition data of latest scanned food so put datas into formal food object
+						if (target[ob].title === 'Nutrition') {
+							var nutritionText = target[ob]['content'][0]['text'].split(" ");
+							var insObj = {
+								calories: nutritionText[1],
+								fat: nutritionText[5],
+								carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
+								protein: nutritionText[12],
+								cholesterol: nutritionText[16],
+								sodium: nutritionText[20]
+							};
+							foods[i].nutrition = insObj;
+						}
+					}
+				}
+			}
 
-            foods = [];
-            afterGetContext();
-          }
-        });
-      }
+			// based on context, detemine data to get
+			var afterGetContext = function() {
+				if (context.hasOwnProperty('health')) {
+					console.log(context['health'] + 'is came for input.');
+					if (category !== context['health']) {
+						iterator = 0;
+						foods = [];
+						getData('healthy');
+					}
+					category = context['health'];
+				} else if (context.hasOwnProperty('events')) {
+					console.log(context.events + 'is came for input.');
+					if (category !== context.events) {
+						iterator = 0;
+						foods = [];
+						getData('events');
+					}
+					category = context.events;
+				} else if (context.hasOwnProperty('time')) {
+					console.log(context.time + 'is came for input.');
+					if (category !== context.time) {
+						iterator = 0;
+						foods = [];
+						getData('timeslot');
+					}
+				}
+				printExamples();
+			}
 
-      var afterGetContext = function(){
-        var ob, foodName, foodId;
-        var i = -1;
-
-        if (context.hasOwnProperty('health')) {
-          console.log(context['health'] + 'is came for input.');
-          if (stat !== context['health']) {
-            iterator = 0;
-          }
-          stat = context['health'];
-          // get data from json file that satisfies the condition which user gave.
-          $.getJSON("/jsondata/healthy_" + stat + "_300.json", function(data){
-            target = data.answer_units;
-            for (ob in target) {
-              // if title of object is recipe, just bypass it
-              if (target[ob].title === 'recipe') {
-                continue;
-              }
-              if (target[ob].parent_id === "") {
-                foodName = target[ob]['title'];
-                foodId = target[ob]['id']; 
-                var insertingObj = {
-                  name: foodName,
-                  id: foodId
-                };
-                foods.push(insertingObj);
-                i++;
-              } else {
-                if (target[ob]['title'] === 'Nutrition') {
-                  var nutritionText = target[ob]['content'][0]['text'].split(" ");
-                  var insObj = {
-                    calories: nutritionText[1],
-                    fat: nutritionText[5],
-                    carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
-                    protein: nutritionText[12],
-                    cholesterol: nutritionText[16],
-                    sodium: nutritionText[20]
-                  };
-                  foods[i].nutrition = insObj;
-                }
-              }
-            }
-            giveExamples();
-          });
-        }
-      }
-      getAnswer();
-    </script>
-  </body>
+			// execute when button clicked
+			var getAnswer = function() {
+				$.ajax({
+					url: "http://nwparadises.mybluemix.net/test",
+					type: "post",
+					contentType: "application/x-www-form-urlencoded",
+					dataType: "text",
+					data: {
+						input_sentence: $("#input_sentence").val(),
+						cur_context: JSON.stringify(context)
+					},
+					success: function (data) {
+						var parsedData = JSON.parse(data);
+						context = parsedData.context;		// context passed by watson
+						output = parsedData.output.text[0];	// watson answer
+						$("#answer").val(output);
+						afterGetContext();
+					}
+				});
+			}
+			getAnswer();
+		</script>
+	</body>
 </html>
