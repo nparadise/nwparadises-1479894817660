@@ -123,8 +123,9 @@
 
 			// execute when button clicked
 			var getAnswer = function() {
+				context = [];
 				$.ajax({
-					url: "http://nwparadises.mybluemix.net/test",
+					url: "//nwparadises.mybluemix.net/test",
 					type: "post",
 					contentType: "application/x-www-form-urlencoded",
 					dataType: "text",
