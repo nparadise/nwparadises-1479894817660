@@ -98,9 +98,10 @@
 					if (category !== context['health']) {
 						iterator = 0;
 						foods = [];
-						category = context['health'];
+						category = context.health;
 						getData('healthy');
 					}
+					category = context.health;
 				} else if (context.hasOwnProperty('events')) {
 					console.log(context.events + 'is came for input.');
 					if (category !== context.events) {
@@ -109,6 +110,7 @@
 						category = context.events;
 						getData('events');
 					}
+					category = context.events;					
 				} else if (context.hasOwnProperty('time')) {
 					console.log(context.time + 'is came for input.');
 					if (category !== context.time) {
@@ -117,6 +119,7 @@
 						category = context.time;
 						getData('timeslot');
 					}
+					category = context.time;
 				}
 				printExamples();
 			}
