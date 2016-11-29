@@ -103,6 +103,7 @@
 						getData('healthy');
 					}
 					category = context.health;
+					delete context.health;
 				} else if (context.hasOwnProperty('events')) {
 					console.log(context.events + 'is came for input.');
 					if (category !== context.events) {
@@ -111,7 +112,8 @@
 						category = context.events;
 						getData('events');
 					}
-					category = context.events;					
+					category = context.events;	
+					delete context.events;			
 				} else if (context.hasOwnProperty('time')) {
 					console.log(context.time + 'is came for input.');
 					if (category !== context.time) {
@@ -121,6 +123,7 @@
 						getData('timeslot');
 					}
 					category = context.time;
+					delete context.time;
 				}
 				if (foods.length !== 0)
 					printExamples();
@@ -139,10 +142,8 @@
 					},
 					success: function (data) {
 						var parsedData = JSON.parse(data);
-						console.log(parsedData);
 						context = parsedData.context;		// context passed by watson
 						output = parsedData.output.text[0];	// watson answer
-						console.log(context);
 						$("#answer").val(output);
 						afterGetContext();
 					}
