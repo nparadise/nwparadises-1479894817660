@@ -93,40 +93,25 @@
 
 			// based on context, detemine data to get
 			var afterGetContext = function() {
-				console.log(context['health']);
+				iterator = 0;
+				foods = [];
 				if (context.hasOwnProperty('health')) {
 					console.log(context['health'] + 'is came for input.');
-					if (category !== context['health']) {
-						iterator = 0;
-						foods = [];
-						category = context.health;
-						getData('healthy');
-					}
 					category = context.health;
+					getData('healthy');
 					delete context.health;
 				} else if (context.hasOwnProperty('events')) {
 					console.log(context.events + 'is came for input.');
-					if (category !== context.events) {
-						iterator = 0;
-						foods = [];
-						category = context.events;
-						getData('events');
-					}
-					category = context.events;	
+					category = context.events;
+					getData('events');
 					delete context.events;			
 				} else if (context.hasOwnProperty('time')) {
 					console.log(context.time + 'is came for input.');
-					if (category !== context.time) {
-						iterator = 0;
-						foods = [];
-						category = context.time;
-						getData('timeslot');
-					}
 					category = context.time;
+					getData('timeslot');
 					delete context.time;
 				}
-				if (foods.length !== 0)
-					printExamples();
+				printExamples();
 			}
 
 			// execute when button clicked
@@ -145,6 +130,9 @@
 						context = parsedData.context;		// context passed by watson
 						output = parsedData.output.text[0];	// watson answer
 						$("#answer").val(output);
+						if (context.hasOwnProperty('next') && context.next === true) {
+							printExamples();
+						}
 						afterGetContext();
 					}
 				});
