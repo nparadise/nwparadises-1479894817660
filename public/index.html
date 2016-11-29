@@ -28,7 +28,7 @@
 				output = "",	// the answer watson will say
 				category,		// what category of food
 				target = [],	// save json file at here
-				foods = [],			// where a list of foods will be saved
+				foods = [],		// where a list of foods will be saved
 				iterator = 0;	// iterator for print examples
 
 			// function prints 4 examples of foods
@@ -93,6 +93,7 @@
 
 			// based on context, detemine data to get
 			var afterGetContext = function() {
+				console.log(context['health']);
 				if (context.hasOwnProperty('health')) {
 					console.log(context['health'] + 'is came for input.');
 					if (category !== context['health']) {
@@ -138,9 +139,11 @@
 						cur_context: JSON.stringify(context)
 					},
 					success: function (data) {
+						console.log(context);
 						var parsedData = JSON.parse(data);
 						context = parsedData.context;		// context passed by watson
 						output = parsedData.output.text[0];	// watson answer
+						console.log(context);
 						$("#answer").val(output);
 						afterGetContext();
 					}
