@@ -141,6 +141,7 @@
 					success: function (data) {
 						console.log(context);
 						var parsedData = JSON.parse(data);
+						console.log(parsedData);
 						context = parsedData.context;		// context passed by watson
 						output = parsedData.output.text[0];	// watson answer
 						console.log(context);
