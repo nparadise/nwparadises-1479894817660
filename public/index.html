@@ -35,7 +35,7 @@
 			var printExamples = function() {
 				var j, obje;
 				for (j = 0; j < 4; iterator++, j++) {
-					if (iterator === 300) {
+					if (iterator === 30) {
 						alert('no more foods');
 						break;
 					} // when reach last food, stop iterating and printing
@@ -56,7 +56,7 @@
 				$.ajax({
 					dataType: "json",
 					async: false,
-					url: "/jsondata/" + entity + "_" + category + "_300.json",
+					url: "/jsondata/" + entity + "_" + category + "_30.json",
 					success: function(data) {
 						target = data.answer_units;
 					}
