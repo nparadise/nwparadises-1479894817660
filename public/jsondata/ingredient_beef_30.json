@@ -1,0 +1,4250 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:29:04.010Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969620768001_ari-origin05-arc-137-1352941840692.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969620769001_ari-origin05-arc-137-1352941841005.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1277454263001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Beef Pot Roast"
+    },
+    {
+      "name": "description",
+      "content": "Come home to a delicious slow-cooked pot roast dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "663366"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/31/2012 9:42:56 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "692"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201310/1947/1033249144001_2743834559001_th-1560957178001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/3756/1033249144001_2842499856001_awesome-slow-cooker-pot-roast.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560957178001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Awesome Slow Cooker Pot Roast"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple and satisfying 5-star pot roast in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "724032"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/15/2013 4:42:29 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.64"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6671"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.63"
+    },
+    {
+      "name": "reviewCount",
+      "content": "243"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1778651089001_th-1777234536001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1778596991001_ari-origin05-arc-141-1344535044409.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1777234536001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Boilermaker Tailgate Chili"
+    },
+    {
+      "name": "description",
+      "content": "This chili satisfies any time of year. Make it the night before. Ready? Go team!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "159782"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/25/2013 10:21:14 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.80"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4184"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2577701028001_th-2577659499001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2577686036001_video-still-for-video-2577659499001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2577659499001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "It's Chili by George!!"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a prize-winning beef and bean chili."
+    },
+    {
+      "name": "interactionCount",
+      "content": "107665"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/31/2013 4:52:57 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.64"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2095"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1560876157001_th-1545942738001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1558880180001_ari-origin05-arc-127-1334249009244.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545942738001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Shepherd's Pie VI"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple one-pot meal the family will crave."
+    },
+    {
+      "name": "interactionCount",
+      "content": "170806"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/13/2012 10:26:11 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.46"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1901"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2031829228001_th-2031262486001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2031788170001_900944612-18124-1355360369525.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2031262486001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Beef Stroganoff"
+    },
+    {
+      "name": "description",
+      "content": "See how to put an easy spin on classic beef stroganoff."
+    },
+    {
+      "name": "interactionCount",
+      "content": "279351"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/13/2012 12:48:06 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.37"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2770"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1653349747001_th-1651322613001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1653328424001_ari-origin05-arc-135-1337802877791.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1651322613001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Slow Cooker French Dip"
+    },
+    {
+      "name": "description",
+      "content": "Make this easy French dip in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "76125"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 10:28:35 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.51"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2695"
+    },
+    {
+      "name": "recipeYield",
+      "content": "9"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1756480925001_th-1739764047001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1756308978001_ari-origin05-arc-160-1343347907646.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1739764047001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Beef Stew VI"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a classic stovetop beef stew."
+    },
+    {
+      "name": "interactionCount",
+      "content": "289123"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/8/2014 3:20:59 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.60"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1797"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/2358/1033249144001_3003760026001_th-2999243891001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/502/1033249144001_3003340338001_video-still-for-video-2999243891001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2999243891001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Hamburger Steak with Onions and Gravy"
+    },
+    {
+      "name": "description",
+      "content": "See how to put a simple twist on a delicious diner classic."
+    },
+    {
+      "name": "interactionCount",
+      "content": "135924"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/19/2014 9:41:52 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.58"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1898"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201610/543/1033249144001_5154603290001_th-1560991360001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565097038001_ari-origin05-arc-163-1334597546662.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560991360001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "World’s Best Lasagna"
+    },
+    {
+      "name": "description",
+      "content": "See how to make the best homemade lasagna!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "1379412"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/29/2016 1:54:19 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "10206"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990448059001_th-1959446526001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990421582001_ari-origin05-arc-153-1353954210718.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1959446526001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Spaghetti Sauce with Meatballs"
+    },
+    {
+      "name": "description",
+      "content": "This classic tomato pasta sauce with meatballs is easy and delicious."
+    },
+    {
+      "name": "interactionCount",
+      "content": "137280"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/26/2012 10:49:06 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.51"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2323"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1555431203001_th-1545974395001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1554136571001_ari-origin05-arc-153-1334015886685.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545974395001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Baked Ziti I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make Colleen's five-star baked ziti."
+    },
+    {
+      "name": "interactionCount",
+      "content": "201343"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 10:35:28 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "5284"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655106597001_th-1651084341001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1653328472001_ari-origin05-arc-126-1337805552142.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1651084341001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Salisbury Steak"
+    },
+    {
+      "name": "description",
+      "content": "See how to make quick and easy Salisbury steak with a rich brown gravy."
+    },
+    {
+      "name": "interactionCount",
+      "content": "168756"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/24/2012 5:05:51 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.40"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2821"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.55"
+    },
+    {
+      "name": "reviewCount",
+      "content": "145"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980587776001_th-1546215289001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980577079001_ari-origin05-arc-7145-1353456964420.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546215289001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Beef Stew I"
+    },
+    {
+      "name": "description",
+      "content": "Make this five-star stew in your slow cooker!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "605408"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/5/2014 3:59:47 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.41"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2817"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201409/66/1033249144001_3792818602001_th-2203055031001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2235954233001_video-still-for-video-2203055031001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2203055031001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Stuffed Green Peppers I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make 5-star stuffed peppers."
+    },
+    {
+      "name": "interactionCount",
+      "content": "179022"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/18/2013 2:42:46 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1806"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008557174001_th-1905224217001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008517929001_900944612-144-1354569998700.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1905224217001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Meatball Nirvana"
+    },
+    {
+      "name": "description",
+      "content": "See how to make top-rated baked meatballs."
+    },
+    {
+      "name": "interactionCount",
+      "content": "76612"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/3/2012 4:59:43 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2246"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.47"
+    },
+    {
+      "name": "reviewCount",
+      "content": "659"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2031324106001_th-2031107440001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2031188769001_900944612-18100-1355338600463.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2031107440001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Debdoozie's Blue Ribbon Chili"
+    },
+    {
+      "name": "description",
+      "content": "This may be the easiest chili recipe you ever make. And it's delicious!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "32101"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/12/2012 11:16:43 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.76"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2138"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1554118239001_th-1546021231001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1553952286001_ari-origin05-arc-153-1333997730425.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546021231001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sloppy Joes II"
+    },
+    {
+      "name": "description",
+      "content": "See how to make an All-American classic!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "142019"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 10:43:35 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.65"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4524"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1688173932001_th-1688059870001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1688145055001_ari-origin05-arc-159-1339631788174.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1688059870001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Brown Sugar Meatloaf"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a 5-star meatloaf that’s tangy and slightly sweet."
+    },
+    {
+      "name": "interactionCount",
+      "content": "309933"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/15/2012 1:41:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6076"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571538984001_th-1567265736001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571497796001_ari-origin05-arc-154-1334855267181.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1567265736001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Pepper Steak"
+    },
+    {
+      "name": "description",
+      "content": "See how to make 5-star pepper steak in the slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "215796"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/4/2013 4:27:48 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2096"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1699081727001_RM-meatloaf2.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/3962/1033249144001_3828546084001_Easy-Meatloaf.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560957168001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Meatloaf"
+    },
+    {
+      "name": "description",
+      "content": "A simple, no-fail beef meatloaf with a tangy topping that's ready in no time."
+    },
+    {
+      "name": "interactionCount",
+      "content": "782161"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/8/2014 3:33:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3949"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/e1/pd/1033249144001/1033249144001_1454911655001_stroganoff.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/e1/pd/1033249144001/1033249144001_1445618342001_fw-beefstroganoff.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1398364150001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "How to Make Classic Beef Stroganoff"
+    },
+    {
+      "name": "description",
+      "content": "Watch Chef John prepare his secret recipe for creamy beef stroganoff."
+    },
+    {
+      "name": "interactionCount",
+      "content": "164577"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/15/2013 11:28:59 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.75"
+    },
+    {
+      "name": "reviewCount",
+      "content": "220"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2021638598001_th-1808823533001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2021607893001_900944612-11517-1354926593285.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1808823533001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Filet Mignon with Rich Balsamic Glaze"
+    },
+    {
+      "name": "description",
+      "content": "See how to make an impressive steak dinner for two that's also quick and easy!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "95239"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/10/2012 12:37:08 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.42"
+    },
+    {
+      "name": "reviewCount",
+      "content": "825"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990419211001_th-1978455392001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1982251398001_ari-origin05-arc-172-1353546253798.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1978455392001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Rempel Family Meatloaf"
+    },
+    {
+      "name": "description",
+      "content": "This family favorite is loaded with flavor."
+    },
+    {
+      "name": "interactionCount",
+      "content": "108943"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/28/2012 1:08:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2160"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2307909611001_th-2305869670001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2305985775001_video-still-for-video-2305869670001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2305869670001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Burrito Pie"
+    },
+    {
+      "name": "description",
+      "content": "This spicy casserole features layers of seasoned beef, beans, and cheese."
+    },
+    {
+      "name": "interactionCount",
+      "content": "149528"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/18/2013 2:44:04 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2678"
+    },
+    {
+      "name": "recipeYield",
+      "content": "16"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1642885030001_th-1628833600001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1642832026001_ari-origin05-arc-163-1337201331766.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628833600001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Italian Beef for Sandwiches"
+    },
+    {
+      "name": "description",
+      "content": "Make this great Italian beef for sandwiches in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "100463"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 11:18:18 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.63"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1650"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2575330236001_thumbnail-for-video-2347232534001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2575330238001_video-still-for-video-2347232534001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2347232534001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Salisbury Steak"
+    },
+    {
+      "name": "description",
+      "content": "See how to make simple, savory Salisbury steak in the slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "198582"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/30/2013 1:31:45 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1467"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "0fbd29df-d38b-4aef-a100-775fb1cac3d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f7c7b3a2-b6de-4210-9214-f551f7e4a71a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3536308.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e4c41d9c-e216-4fa7-af09-c968127fc70b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Beef Pot Roast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  692 reviews Recipe by: Chef John \"The real secret here is making sure you sear the meat before the long, slow braising.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cfb532f4-8dee-41f1-9922-71776254a4ea",
+      "type": "h2",
+      "parent_id": "e4c41d9c-e216-4fa7-af09-c968127fc70b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 h 50 m servings 777 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "bac1172f-cce5-4392-87b3-336b84a7cd18",
+      "type": "h3",
+      "parent_id": "cfb532f4-8dee-41f1-9922-71776254a4ea",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 777 kcal 39% Fat: 57.3 g 88% Carbs: 7.5g 2% Protein: 54.5 g 109% Cholesterol: 198 mg 66% Sodium: 539 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2055c539-8435-4b4e-909a-0f2598ef4eaa",
+      "type": "h3",
+      "parent_id": "cfb532f4-8dee-41f1-9922-71776254a4ea",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5f87ca09-16de-4fc7-81da-b461433c53b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (5 pound) bone-in beef pot roast ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1 tablespoon all-purpose flour, or as needed ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 8 ounces sliced mushrooms ADVERTISEMENT 1 medium onion, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 1/2 tablespoons all-purpose flour ADVERTISEMENT 1 tablespoon tomato paste ADVERTISEMENT 2 1/2 cups chicken broth ADVERTISEMENT 3 medium carrots, cut into chunks ADVERTISEMENT 2 stalks celery, cut into chunks ADVERTISEMENT 1 sprig fresh rosemary ADVERTISEMENT 2 sprigs fresh thyme ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1cd2727d-b98d-4174-8e0a-ea56043b6527",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 6 h 30 m Ready In 6 h 50 m Generously season both sides of roast with salt and pepper. Sprinkle flour over the top until well coated, and pat it into the meat. Shake off any excess. Heat vegetable oil in a large skillet over medium-high heat until hot. Sear the roast on both sides for 5-6 minutes each, until well browned. Remove from the skillet and set aside. Reduce the heat to medium and stir in mushrooms and butter; cook for 3-4 minutes. Stir in onion; cook for 5 minutes, until onions are translucent and begin to brown. Add garlic, stir for about a minute. Stir in 1 1/2 tablespoons flour; cook and stir for about 1 minute. Add tomato paste, and cook for another minute. Slowly add chicken stock, stir to combine, and return to a simmer. Remove skillet from the heat. Place carrots and celery in the slow cooker. Place roast over the vegetables and pour in any accumulated juices. Add rosemary and thyme. Pour onion and mushroom mixture over the top of the roast. Cover slow cooker, turn to high and cook the roast for 5-6 hours, until the meat is fork tender. Skim off any fat from the surface and remove the bones. Season with salt and pepper to taste."
+        }
+      ]
+    },
+    {
+      "id": "3b1006b2-5755-4ed5-a6e2-b5b9d7769329",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7f867575-d976-4893-aa27-3b380d7eaad4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2505121.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8efb2fd7-02cc-46a8-8ad8-34412ed78497",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Awesome Slow Cooker Pot Roast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6671 reviews Recipe by: Brenda Arnold \"This is a very easy recipe for a delicious pot roast. It makes its own gravy. It's designed especially for the working person who does not have time to cook all day, but it tastes like you did. You'll want the cut to be between 5 and 6 pounds.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1d3952c9-a4f5-4275-8a6e-cfc5aa228c17",
+      "type": "h2",
+      "parent_id": "8efb2fd7-02cc-46a8-8ad8-34412ed78497",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 10 m servings 426 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a5a06989-f015-4d8f-8017-6234c7558647",
+      "type": "h3",
+      "parent_id": "1d3952c9-a4f5-4275-8a6e-cfc5aa228c17",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 426 kcal 21% Fat: 23.7 g 36% Carbs: 4.9g 2% Protein: 45.6 g 91% Cholesterol: 127 mg 42% Sodium: 639 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2ecc1e7e-cbaf-443f-a72a-f6d1f2dc4070",
+      "type": "h3",
+      "parent_id": "1d3952c9-a4f5-4275-8a6e-cfc5aa228c17",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6914887a-4557-4882-8ebf-2032d07841f9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (10.75 ounce) cans condensed cream of mushroom soup ADVERTISEMENT 1 (1 ounce) package dry onion soup mix ADVERTISEMENT 1 1/4 cups water ADVERTISEMENT 5 1/2 pounds pot roast ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0d75595c-328d-4645-8452-ed86b2f3d43f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 8 h Ready In 8 h 10 m In a slow cooker, mix cream of mushroom soup, dry onion soup mix and water. Place pot roast in slow cooker and coat with soup mixture. Cook on High setting for 3 to 4 hours, or on Low setting for 8 to 9 hours."
+        }
+      ]
+    },
+    {
+      "id": "624e3a5e-bb62-43c4-b388-ebcaa2ef4031",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "703074b7-d16c-4432-b80a-e417f38a2b80",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/455589.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2ba4ed0f-e3ac-4bce-9093-2973641cd4d0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Bolognese Stuffed Bell Peppers",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  243 reviews Recipe by: KASM75 \"This Bolognese filling is spicy, meaty, and creamy. If you're in a hurry you can serve it over pasta instead of filling the peppers; just omit the rice or orzo.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ee9ec82b-fe83-4777-80f5-e7dd7b1d2502",
+      "type": "h2",
+      "parent_id": "2ba4ed0f-e3ac-4bce-9093-2973641cd4d0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 50 m servings 310 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "990abdbc-71cf-434b-a2c9-6f15ee9f1d4b",
+      "type": "h3",
+      "parent_id": "ee9ec82b-fe83-4777-80f5-e7dd7b1d2502",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 310 kcal 16% Fat: 20.4 g 31% Carbs: 17.2g 6% Protein: 13.7 g 27% Cholesterol: 54 mg 18% Sodium: 511 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d7572aa3-da91-4ad5-9a04-9f1e73d019b4",
+      "type": "h3",
+      "parent_id": "ee9ec82b-fe83-4777-80f5-e7dd7b1d2502",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "524693cc-39a8-4e92-b864-4596131754f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup cooked rice ADVERTISEMENT 2 tablespoons olive oil, divided ADVERTISEMENT 1/8 cup minced carrots ADVERTISEMENT 1/8 cup celery ADVERTISEMENT 6 bell peppers (any color) stems and seeds removed, cut in half lengthwise ADVERTISEMENT 1/2 pound ground beef ADVERTISEMENT 1/4 pound pancetta or lightly smoked bacon, diced ADVERTISEMENT 1 1/2 cups prepared marinara sauce ADVERTISEMENT 1/4 cup red wine ADVERTISEMENT 1/2 teaspoon red pepper flakes ADVERTISEMENT 1/3 cup heavy cream ADVERTISEMENT 1/2 cup grated Parmesan cheese, divided ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "96c1e74c-945e-4262-bd7f-a1cbddf2e4d6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h 20 m Ready In 1 h 50 m Preheat oven to 375 degrees F (190 degrees C). Heat 1 tablespoon olive oil in a skillet over medium heat. Stir in the carrots and celery; cook and stir until the vegetables are tender, about 5 minutes. Stir in ground beef and pancetta, and cook until browned and crumbled; drain off any excess liquid, and return to heat. Add marinara sauce, wine, and red pepper flakes, and simmer for 10 minutes. Stir in cream, half of the Parmesan cheese, and rice. Simmer 5 minutes more, or until most liquid has absorbed. Place peppers in a shallow baking dish, and fill with beef mixture. Drizzle with remaining olive oil and top with remaining Parmesan cheese. Bake, uncovered, for 30 minutes in the preheated oven. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "0f61946c-1953-4480-adc3-fd58ba3e58bd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7aa8f907-c7b5-4c1d-ae4b-cf0bcce16379",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/890638.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4dba658d-4261-4682-9fb1-7d44cbfdde61",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Boilermaker Tailgate Chili",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4184 reviews Recipe by: MIGHTYPURDUE22 \"This is the chili recipe the gang eats at Purdue Boilermaker football games. I always prep and cook the chili the night before and then reheat the next day. This is a combination of many different tomato-based chili recipes. Good luck and enjoy.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4d93f3e2-9f3f-41c6-9c7b-281a9eb965cb",
+      "type": "h2",
+      "parent_id": "4dba658d-4261-4682-9fb1-7d44cbfdde61",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 30 m servings 600 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "27a4f7c9-912a-4c2d-a948-129e0d331dbe",
+      "type": "h3",
+      "parent_id": "4d93f3e2-9f3f-41c6-9c7b-281a9eb965cb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 600 kcal 30% Fat: 30.1 g 46% Carbs: 55.3g 18% Protein: 30.8 g 62% Cholesterol: 70 mg 23% Sodium: 2092 mg 84% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4660ce90-2ae9-45fd-a092-befadec15fb4",
+      "type": "h3",
+      "parent_id": "4d93f3e2-9f3f-41c6-9c7b-281a9eb965cb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "35350dde-16cb-4a7e-9443-4c4a895383a3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds ground beef chuck ADVERTISEMENT 1 pound bulk Italian sausage ADVERTISEMENT 3 (15 ounce) cans chili beans, drained ADVERTISEMENT 1 (15 ounce) can chili beans in spicy sauce ADVERTISEMENT 2 (28 ounce) cans diced tomatoes with juice ADVERTISEMENT 1 (6 ounce) can tomato paste ADVERTISEMENT 1 large yellow onion, chopped ADVERTISEMENT 3 stalks celery, chopped ADVERTISEMENT 1 green bell pepper, seeded and chopped ADVERTISEMENT 1 red bell pepper, seeded and chopped ADVERTISEMENT 2 green chile peppers, seeded and chopped ADVERTISEMENT 1 tablespoon bacon bits ADVERTISEMENT 4 cubes beef bouillon ADVERTISEMENT 1/2 cup beer ADVERTISEMENT 1/4 cup chili powder ADVERTISEMENT 1 tablespoon Worcestershire sauce ADVERTISEMENT 1 tablespoon minced garlic ADVERTISEMENT 1 tablespoon dried oregano ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 2 teaspoons hot pepper sauce (e.g. Tabasco™) ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 (10.5 ounce) bag corn chips such as Fritos® ADVERTISEMENT 1 (8 ounce) package shredded Cheddar cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9f9f2d86-531d-4437-9a27-d86eb627c39a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 2 h Ready In 2 h 30 m Heat a large stock pot over medium-high heat. Crumble the ground chuck and sausage into the hot pan, and cook until evenly browned. Drain off excess grease. Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green and red bell peppers, chile peppers, bacon bits, bouillon, and beer. Season with chili powder, Worcestershire sauce, garlic, oregano, cumin, hot pepper sauce, basil, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for at least 2 hours, stirring occasionally. After 2 hours, taste, and adjust salt, pepper, and chili powder if necessary. The longer the chili simmers, the better it will taste. Remove from heat and serve, or refrigerate, and serve the next day. To serve, ladle into bowls, and top with corn chips and shredded Cheddar cheese."
+        }
+      ]
+    },
+    {
+      "id": "3c9a2009-dcde-409d-bc2b-4133f8dc91fb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cb8a1af4-e701-4406-a88f-6b2846bbbefd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/779750.jpg"
+        }
+      ]
+    },
+    {
+      "id": "092bfcd2-1beb-4d83-b8c7-eba7bfc1f351",
+      "type": "h1",
+      "parent_id": "",
+      "title": "It's Chili by George!!",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2095 reviews Recipe by: George Couch \"Can be made on the stove or in the slow cooker. It's quick, easy and so good.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ffc5a5b8-9235-4d86-a0fd-9d9dea0c82cf",
+      "type": "h2",
+      "parent_id": "092bfcd2-1beb-4d83-b8c7-eba7bfc1f351",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 55 m servings 305 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "995bf2a7-11ac-4c53-9445-a2003ccc2d9e",
+      "type": "h3",
+      "parent_id": "ffc5a5b8-9235-4d86-a0fd-9d9dea0c82cf",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 305 kcal 15% Fat: 13.7 g 21% Carbs: 25.5g 8% Protein: 22.3 g 45% Cholesterol: 55 mg 18% Sodium: 1267 mg 51% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "66bf93e8-c86b-480c-83f5-ffddef13a1b3",
+      "type": "h3",
+      "parent_id": "ffc5a5b8-9235-4d86-a0fd-9d9dea0c82cf",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "767afeab-0dfa-45a5-b88e-ab0f67426acb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds lean ground beef ADVERTISEMENT 1 (46 fluid ounce) can tomato juice ADVERTISEMENT 1 (29 ounce) can tomato sauce ADVERTISEMENT 1 (15 ounce) can kidney beans, drained and rinsed ADVERTISEMENT 1 (15 ounce) can pinto beans, drained and rinsed ADVERTISEMENT 1 1/2 cups chopped onion ADVERTISEMENT 1/4 cup chopped green bell pepper ADVERTISEMENT 1/8 teaspoon ground cayenne pepper ADVERTISEMENT 1/2 teaspoon white sugar ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 1/2 teaspoons ground cumin ADVERTISEMENT 1/4 cup chili powder ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a0072b74-4477-48af-a99a-fcea2d721317",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 1 h 45 m Ready In 1 h 55 m Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and crumble. In a large pot over high heat combine the ground beef, tomato juice, tomato sauce, kidney beans, pinto beans, onions, bell pepper, cayenne pepper, sugar, oregano, ground black pepper, salt, cumin and chili powder. Bring to a boil, then reduce heat to low. Simmer for 1 1/2 hours. (Note: If using a slow cooker, set on low, add ingredients, and cook for 8 to 10 hours.)"
+        }
+      ]
+    },
+    {
+      "id": "e97706e8-ba0d-4832-a29d-70ffa437ee2d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d95fff6d-3c1b-4838-aa27-218dfe242748",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/98983.jpg"
+        }
+      ]
+    },
+    {
+      "id": "58e619ad-9c4f-4ff2-9a0a-f8580970cb06",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Shepherd's Pie VI",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1901 reviews Recipe by: Jacquie \"This Shepherd's Pie is a layered casserole of beef, carrots, and potato.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "db54f110-d4c0-453b-ba6c-84fd40f01a19",
+      "type": "h2",
+      "parent_id": "58e619ad-9c4f-4ff2-9a0a-f8580970cb06",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 452 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "45a872e5-10ec-40ff-910c-84b2d2263df3",
+      "type": "h3",
+      "parent_id": "db54f110-d4c0-453b-ba6c-84fd40f01a19",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 452 kcal 23% Fat: 17 g 26% Carbs: 52.5g 17% Protein: 23.1 g 46% Cholesterol: 65 mg 22% Sodium: 295 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "333f4954-b76d-4b39-ab4b-b03f30c9885a",
+      "type": "h3",
+      "parent_id": "db54f110-d4c0-453b-ba6c-84fd40f01a19",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ecc105f2-baa3-4bab-8c81-1326906d3ffe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 large potatoes, peeled and cubed ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 tablespoon finely chopped onion ADVERTISEMENT 1/4 cup shredded Cheddar cheese ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 5 carrots, chopped ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 pound lean ground beef ADVERTISEMENT 2 tablespoons all-purpose flour ADVERTISEMENT 1 tablespoon ketchup ADVERTISEMENT 3/4 cup beef broth ADVERTISEMENT 1/4 cup shredded Cheddar cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8d5b7272-6634-4256-bb2e-9c6e2372d4ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 50 m Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and mash. Mix in butter, finely chopped onion and 1/4 cup shredded cheese. Season with salt and pepper to taste; set aside. Bring a large pot of salted water to a boil. Add carrots and cook until tender but still firm, about 15 minutes. Drain, mash and set aside. Preheat oven to 375 degrees F (190 degrees C.) Heat oil in a large frying pan. Add onion and cook until clear. Add ground beef and cook until well browned. Pour off excess fat, then stir in flour and cook 1 minute. Add ketchup and beef broth. Bring to a boil, reduce heat and simmer for 5 minutes. Spread the ground beef in an even layer on the bottom of a 2 quart casserole dish. Next, spread a layer of mashed carrots. Top with the mashed potato mixture and sprinkle with remaining shredded cheese. Bake in the preheated oven for 20 minutes, or until golden brown."
+        }
+      ]
+    },
+    {
+      "id": "59928922-b655-4a6a-b99a-82292f59f006",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a82ec64-0c07-40bc-9229-205f8ef1d8b3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1328848.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d196e300-d301-4172-a6c7-bcd6ef3c8464",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Beef Stroganoff I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2770 reviews Recipe by: Jessica \"This is an easy variation of a favorite. I used to prepare it the traditional way, with sour cream, but I didn't have any one night, so I used cream cheese instead. My husband and I liked it even better! Serve over hot, cooked egg noodles or rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8f3badf2-74a4-4b70-b127-b9fca13c1db0",
+      "type": "h2",
+      "parent_id": "d196e300-d301-4172-a6c7-bcd6ef3c8464",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 10 m servings 376 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b06b9cc2-78cd-4ab3-8215-b5444ebe83c0",
+      "type": "h3",
+      "parent_id": "8f3badf2-74a4-4b70-b127-b9fca13c1db0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 376 kcal 19% Fat: 27.3 g 42% Carbs: 9.5g 3% Protein: 22 g 44% Cholesterol: 97 mg 32% Sodium: 711 mg 28% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "06b77270-cf4d-4158-ae4b-e0ccd8075b71",
+      "type": "h3",
+      "parent_id": "8f3badf2-74a4-4b70-b127-b9fca13c1db0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8afde233-7644-4eae-bb4b-457d4f229302",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound cubed beef stew meat ADVERTISEMENT 1 (10.75 ounce) can condensed golden mushroom soup ADVERTISEMENT 1/2 cup chopped onion ADVERTISEMENT 1 tablespoon Worcestershire sauce ADVERTISEMENT 1/4 cup water ADVERTISEMENT 4 ounces cream cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "aad1a660-5884-45b9-a4aa-46cd110bc92a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 8 h Ready In 8 h 10 m In a slow cooker, combine the meat, soup, onion, Worcestershire sauce and water. Cook on Low setting for 8 hours, or on High setting for about 5 hours. Stir in cream cheese just before serving."
+        }
+      ]
+    },
+    {
+      "id": "c67f5a7f-0be3-4d3f-b74d-6e2242d5f685",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d38c1f22-79d5-4fea-8de2-39a4f70e25f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/10316.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1d5936af-9900-43eb-8d46-a04822963de7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Slow Cooker French Dip",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2695 reviews Recipe by: lonwolf32 \"This makes a delicious French dip sandwich, perfect for the working mom! Nobody, not even teetotalers, have been able to detect the presence of beer in this recipe, but it adds a wonderful flavor! French fries make a great side dish, and they are good for dipping, too.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "90b698ad-a11d-4f8f-8797-91d058f885ad",
+      "type": "h2",
+      "parent_id": "1d5936af-9900-43eb-8d46-a04822963de7",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "7 h 10 m servings 413 cals for serving adjustment Serving size has been adjusted! Original recipe yields 9 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d19bea70-40a4-47da-aaee-de349d4964c8",
+      "type": "h3",
+      "parent_id": "90b698ad-a11d-4f8f-8797-91d058f885ad",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 413 kcal 21% Fat: 18.1 g 28% Carbs: 19.6g 6% Protein: 39.1 g 78% Cholesterol: 96 mg 32% Sodium: 661 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e21e0c4e-e11c-4f9f-a6a1-6ac7659fe57f",
+      "type": "h3",
+      "parent_id": "90b698ad-a11d-4f8f-8797-91d058f885ad",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1119f545-b5d5-4ccb-a086-2c63c14b511c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 pounds rump roast ADVERTISEMENT 1 (10.5 ounce) can beef broth ADVERTISEMENT 1 (10.5 ounce) can condensed French onion soup ADVERTISEMENT 1 (12 fluid ounce) can or bottle beer ADVERTISEMENT 6 French rolls ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "93f36199-7d67-40cd-a9b4-4abdd9b12e4a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 7 h Ready In 7 h 10 m Trim excess fat from the rump roast, and place in a slow cooker. Add the beef broth, onion soup and beer. Cook on Low setting for 7 hours. Preheat oven to 350 degrees F (175 degrees C). Split French rolls, and spread with butter. Bake 10 minutes, or until heated through. Slice the meat on the diagonal, and place on the rolls. Serve the sauce for dipping."
+        }
+      ]
+    },
+    {
+      "id": "e78b49e8-2e62-4b61-bc56-2d2930882d45",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "84429ede-adc7-4fa8-af5d-0d506ab49768",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/729310.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6dd505ee-922d-42d6-bb01-aa86eb4df71a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Beef Stew VI",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1797 reviews Recipe by: Paula Antoniou \"Thick beef stew good eaten from a bowl or poured over biscuits. Substitute lamb and voila!...Irish stew!! If thicker stew is desired, add more cornstarch and/or take cover off for last 15-20 minutes. The longer this simmers, the better! Vary the herbs to your taste.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ff7f5083-32ce-4f28-b1f0-ef859dea00ab",
+      "type": "h2",
+      "parent_id": "6dd505ee-922d-42d6-bb01-aa86eb4df71a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 20 m servings 401 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4349a323-fde8-4858-af1a-827b1469f134",
+      "type": "h3",
+      "parent_id": "ff7f5083-32ce-4f28-b1f0-ef859dea00ab",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 401 kcal 20% Fat: 21.2 g 33% Carbs: 24.9g 8% Protein: 27.2 g 54% Cholesterol: 79 mg 26% Sodium: 436 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b43490fa-fd47-4ab0-bebf-7b1a99cb92de",
+      "type": "h3",
+      "parent_id": "ff7f5083-32ce-4f28-b1f0-ef859dea00ab",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3814d73d-2dac-4ba7-b195-1b11b54e2342",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds cubed beef stew meat ADVERTISEMENT 3 tablespoons vegetable oil ADVERTISEMENT 4 cubes beef bouillon, crumbled ADVERTISEMENT 4 cups water ADVERTISEMENT 1 teaspoon dried rosemary ADVERTISEMENT 1 teaspoon dried parsley ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 3 large potatoes, peeled and cubed ADVERTISEMENT 4 carrots, cut into 1 inch pieces ADVERTISEMENT 4 stalks celery, cut into 1 inch pieces ADVERTISEMENT 1 large onion, chopped ADVERTISEMENT 2 teaspoons cornstarch ADVERTISEMENT 2 teaspoons cold water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fe0b48f0-765e-48c1-823f-1af2c089bb6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 2 h Ready In 2 h 20 m In a large pot or dutch oven, cook beef in oil over medium heat until brown. Dissolve bouillon in water and pour into pot. Stir in rosemary, parsley and pepper. Bring to a boil, then reduce heat, cover and simmer 1 hour. Stir potatoes, carrots, celery, and onion into the pot. Dissolve cornstarch in 2 teaspoons cold water and stir into stew. Cover and simmer 1 hour more."
+        }
+      ]
+    },
+    {
+      "id": "31b188f7-875d-4a1f-a614-340a38b6d1da",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dddd1e25-7440-400a-92e7-1d038e5c241d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/927031.jpg"
+        }
+      ]
+    },
+    {
+      "id": "66501320-f675-4ba1-978d-638a1b8f6482",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Hamburger Steak with Onions and Gravy",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1898 reviews Recipe by: Anne Marie Sweden \"An easy-to-make classic featuring tasty hamburger 'steaks' smothered in gravy and onions. Traditionally served with hot white rice or potatoes, it's a great way to dress up a pound of ground beef and you probably have all the ingredients on hand!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "22b6eaf6-2a4b-469d-b1d5-025284a25e75",
+      "type": "h2",
+      "parent_id": "66501320-f675-4ba1-978d-638a1b8f6482",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 319 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3cb7dcc5-a027-418f-956f-9b88d784d03a",
+      "type": "h3",
+      "parent_id": "22b6eaf6-2a4b-469d-b1d5-025284a25e75",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 319 kcal 16% Fat: 18.5 g 29% Carbs: 13.5g 4% Protein: 23.1 g 46% Cholesterol: 115 mg 38% Sodium: 597 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8654024c-3ac2-4d48-98df-778f435bef35",
+      "type": "h3",
+      "parent_id": "22b6eaf6-2a4b-469d-b1d5-025284a25e75",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "eabb51b3-4ffa-4bb5-9e78-5e16c5ce35c8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound ground beef ADVERTISEMENT 1 egg ADVERTISEMENT 1/4 cup bread crumbs ADVERTISEMENT 1/8 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon seasoned salt ADVERTISEMENT 1/2 teaspoon onion powder ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 1 teaspoon Worcestershire sauce ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 cup thinly sliced onion ADVERTISEMENT 2 tablespoons all-purpose flour ADVERTISEMENT 1 cup beef broth ADVERTISEMENT 1 tablespoon cooking sherry ADVERTISEMENT 1/2 teaspoon seasoned salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "626400d0-4460-4e30-9ac6-5f4f275209bb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 25 m Ready In 40 m In a large bowl, mix together the ground beef, egg, bread crumbs, pepper, salt, onion powder, garlic powder, and Worcestershire sauce. Form into 8 balls, and flatten into patties. Heat the oil in a large skillet over medium heat. Fry the patties and onion in the oil until patties are nicely browned, about 4 minutes per side. Remove the beef patties to a plate, and keep warm. Sprinkle flour over the onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom as you stir. Gradually mix in the beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat for about 5 minutes, until the gravy thickens. Turn heat to low, return patties to the gravy, cover, and simmer for another 15 minutes."
+        }
+      ]
+    },
+    {
+      "id": "75cfbf04-d884-40de-9ba5-1bd972b98272",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "68806ea6-20bf-433c-aa16-571b6db73f81",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3359675.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e31b0e41-e5b6-4a99-bc8c-57e8c9a2f7c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "World's Best Lasagna",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  10206 reviews Recipe by: John Chandler \"It takes a little work, but it is worth it.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f783ea43-ec24-41c8-8265-7b3d7956c7f2",
+      "type": "h2",
+      "parent_id": "e31b0e41-e5b6-4a99-bc8c-57e8c9a2f7c0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 15 m servings 448 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "982d0d37-581e-4944-9868-2a97a0111969",
+      "type": "h3",
+      "parent_id": "f783ea43-ec24-41c8-8265-7b3d7956c7f2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 448 kcal 22% Fat: 21.3 g 33% Carbs: 36.5g 12% Protein: 29.7 g 59% Cholesterol: 82 mg 27% Sodium: 1788 mg 72% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e4045f5c-c7e1-4fae-bff9-30f5624c2a7e",
+      "type": "h3",
+      "parent_id": "f783ea43-ec24-41c8-8265-7b3d7956c7f2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "88d179ea-2048-43a8-8db4-857bdabfaa6e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound sweet Italian sausage ADVERTISEMENT 3/4 pound lean ground beef ADVERTISEMENT 1/2 cup minced onion ADVERTISEMENT 2 cloves garlic, crushed ADVERTISEMENT 1 (28 ounce) can crushed tomatoes ADVERTISEMENT 2 (6 ounce) cans tomato paste ADVERTISEMENT 2 (6.5 ounce) cans canned tomato sauce ADVERTISEMENT 1/2 cup water ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1 1/2 teaspoons dried basil leaves ADVERTISEMENT 1/2 teaspoon fennel seeds ADVERTISEMENT 1 teaspoon Italian seasoning ADVERTISEMENT 1 tablespoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 4 tablespoons chopped fresh parsley ADVERTISEMENT 12 lasagna noodles ADVERTISEMENT 16 ounces ricotta cheese ADVERTISEMENT 1 egg ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3/4 pound mozzarella cheese, sliced ADVERTISEMENT 3/4 cup grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b8d7f6e7-8144-42ba-9aff-554e6c0b33d7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 2 h 30 m Ready In 3 h 15 m In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally. Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt. Preheat oven to 375 degrees F (190 degrees C). To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese. Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "b7c271d3-48bb-4999-b565-950a6c5eb7d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "11c2b504-2c8e-493d-aada-6a67385bdf67",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/38075.jpg"
+        }
+      ]
+    },
+    {
+      "id": "43dc39b9-59e4-4a56-8893-1181e7d3597f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Spaghetti Sauce with Meatballs",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2323 reviews Recipe by: Jeremy \"This is a recipe I got from my mother years ago -- it's great.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d0fe7d19-edac-4e01-924f-34caf6219f59",
+      "type": "h2",
+      "parent_id": "43dc39b9-59e4-4a56-8893-1181e7d3597f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 20 m servings 349 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "99ed8553-9efe-4f81-800c-468b6fa3a98f",
+      "type": "h3",
+      "parent_id": "d0fe7d19-edac-4e01-924f-34caf6219f59",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 349 kcal 17% Fat: 21.2 g 33% Carbs: 23.7g 8% Protein: 18.9 g 38% Cholesterol: 77 mg 26% Sodium: 1492 mg 60% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "35e6eab0-3925-442b-b70e-507cb8ac7ae3",
+      "type": "h3",
+      "parent_id": "d0fe7d19-edac-4e01-924f-34caf6219f59",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "78032a53-e38c-4b88-ae3f-902d0c75b051",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "MEATBALLS ADVERTISEMENT 1 pound lean ground beef ADVERTISEMENT 1 cup fresh bread crumbs ADVERTISEMENT 1 tablespoon dried parsley ADVERTISEMENT 1 tablespoon grated Parmesan cheese ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/8 teaspoon garlic powder ADVERTISEMENT 1 egg, beaten ADVERTISEMENT SAUCE ADVERTISEMENT 3/4 cup chopped onion ADVERTISEMENT 5 cloves garlic, minced ADVERTISEMENT 1/4 cup olive oil ADVERTISEMENT 2 (28 ounce) cans whole peeled tomatoes ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (6 ounce) can tomato paste ADVERTISEMENT 3/4 teaspoon dried basil ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "69378dc8-dd47-4eb3-8362-d099f621f16e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 2 h Ready In 2 h 20 m In a large bowl, combine ground beef, bread crumbs, parsley, Parmesan, 1/4 teaspoon black pepper, garlic powder and beaten egg. Mix well and form into 12 balls. Store, covered, in refrigerator until needed. In a large saucepan over medium heat, saute onion and garlic in olive oil until onion is translucent. Stir in tomatoes, salt, sugar and bay leaf. Cover, reduce heat to low, and simmer 90 minutes. Stir in tomato paste, basil, 1/2 teaspoon pepper and meatballs and simmer 30 minutes more. Serve."
+        }
+      ]
+    },
+    {
+      "id": "5165b6c5-53f8-4a5c-9e26-1cb9dcb9a8e4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0a57f520-6d9c-4f13-8aed-1118bd593d99",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/14573.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ab3f6908-4866-4311-b334-0b35f916d5b5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baked Ziti I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  5284 reviews Recipe by: Colleen B. Smith \"A lady I worked with brought this in one day, and it was a hit. Now it is the favorite of all my dinner guests. It's great for a covered dish dinner too. I have made this also without the meat, and it is well received.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1c3715ef-56b0-4846-998c-91a0dd9d3e1a",
+      "type": "h2",
+      "parent_id": "ab3f6908-4866-4311-b334-0b35f916d5b5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 578 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "98cbd319-f4d3-4049-81d2-417a29e6754e",
+      "type": "h3",
+      "parent_id": "1c3715ef-56b0-4846-998c-91a0dd9d3e1a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 578 kcal 29% Fat: 25.3 g 39% Carbs: 58.4g 19% Protein: 27.9 g 56% Cholesterol: 71 mg 24% Sodium: 914 mg 37% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b1417664-6279-4bff-928c-b2f802e5c574",
+      "type": "h3",
+      "parent_id": "1c3715ef-56b0-4846-998c-91a0dd9d3e1a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4785d54c-480c-46b7-b7b3-c34f1774d88b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound dry ziti pasta ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 pound lean ground beef ADVERTISEMENT 2 (26 ounce) jars spaghetti sauce ADVERTISEMENT 6 ounces provolone cheese, sliced ADVERTISEMENT 1 1/2 cups sour cream ADVERTISEMENT 6 ounces mozzarella cheese, shredded ADVERTISEMENT 2 tablespoons grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7340d232-8fbe-41d8-9ea6-41215866e206",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 35 m Ready In 55 m Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain. In a large skillet, brown onion and ground beef over medium heat. Add spaghetti sauce, and simmer 15 minutes. Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Layer as follows: 1/2 of the ziti, Provolone cheese, sour cream, 1/2 sauce mixture, remaining ziti, mozzarella cheese and remaining sauce mixture. Top with grated Parmesan cheese. Bake for 30 minutes in the preheated oven, or until cheeses are melted."
+        }
+      ]
+    },
+    {
+      "id": "2da61c7b-c9da-4ec2-ab12-212c0e740ee9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "051604a8-8ab8-43f2-8e81-03179bd5615f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/376047.jpg"
+        }
+      ]
+    },
+    {
+      "id": "663245a2-6d47-4de7-8f61-8fabf8a8853c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Salisbury Steak",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2821 reviews Recipe by: Kelly Berenger \"This recipe has been in my family for years. It's easy to cook, but tastes like it took hours to make! I usually make enough extra sauce to pour over mashed potatoes. YUM!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "327d4bc0-55e6-4818-a08e-9af9f97ba96c",
+      "type": "h2",
+      "parent_id": "663245a2-6d47-4de7-8f61-8fabf8a8853c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 440 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "98d00648-2d20-48d9-9300-01e1c656457e",
+      "type": "h3",
+      "parent_id": "327d4bc0-55e6-4818-a08e-9af9f97ba96c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 440 kcal 22% Fat: 32.3 g 50% Carbs: 14.1g 5% Protein: 23 g 46% Cholesterol: 127 mg 42% Sodium: 818 mg 33% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "de4ad011-102a-4907-996b-a8c827fbc73b",
+      "type": "h3",
+      "parent_id": "327d4bc0-55e6-4818-a08e-9af9f97ba96c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c25d9190-f5df-40b0-8e6c-770d5dc2a881",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (10.5 ounce) can condensed French onion soup ADVERTISEMENT 1 1/2 pounds ground beef ADVERTISEMENT 1/2 cup dry bread crumbs ADVERTISEMENT 1 egg ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/8 teaspoon ground black pepper ADVERTISEMENT 1 tablespoon all-purpose flour ADVERTISEMENT 1/4 cup ketchup ADVERTISEMENT 1/4 cup water ADVERTISEMENT 1 tablespoon Worcestershire sauce ADVERTISEMENT 1/2 teaspoon mustard powder ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8dce1e5d-f32f-4781-915b-ff9ace009b62",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 20 m Ready In 40 m In a large bowl, mix together 1/3 cup condensed French onion soup with ground beef, bread crumbs, egg, salt and black pepper. Shape into 6 oval patties. In a large skillet over medium-high heat, brown both sides of patties. Pour off excess fat. In a small bowl, blend flour and remaining soup until smooth. Mix in ketchup, water, Worcestershire sauce and mustard powder. Pour over meat in skillet. Cover, and cook for 20 minutes, stirring occasionally."
+        }
+      ]
+    },
+    {
+      "id": "a5e60079-735e-47c3-af96-72fcd371c012",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a3974cc1-ba0a-4249-a33f-4b5b3461be12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1110415.jpg"
+        }
+      ]
+    },
+    {
+      "id": "db0aa4f1-835b-480b-9361-cc2694222695",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Cuban Beef Stew",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  145 reviews Recipe by: S. Shames \"The traditional dish uses a good amount of olive oil and meat with a lot of marbling. This version is lower in fat, but is true to the spirit of the recipe. Although it does take a fair amount of time, it is not difficult to make.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f9d2368a-bf3d-4508-811a-4197e86a30fa",
+      "type": "h2",
+      "parent_id": "db0aa4f1-835b-480b-9361-cc2694222695",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 10 m servings 353 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "09553f90-effc-4e63-b1e5-fc581c1c8ee7",
+      "type": "h3",
+      "parent_id": "f9d2368a-bf3d-4508-811a-4197e86a30fa",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 353 kcal 18% Fat: 17.2 g 27% Carbs: 29.4g 9% Protein: 19.5 g 39% Cholesterol: 57 mg 19% Sodium: 498 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ce0c1966-7f6e-49f1-a3a4-6694117f1a41",
+      "type": "h3",
+      "parent_id": "f9d2368a-bf3d-4508-811a-4197e86a30fa",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "036c3f42-2829-477b-9f73-415e406794d4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons olive oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1 red bell pepper, chopped ADVERTISEMENT 1 1/2 pounds sirloin tips, cubed ADVERTISEMENT 2 bay leaves ADVERTISEMENT 1/2 teaspoon ground cumin ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1/2 cup dry sherry ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 2 tablespoons red wine vinegar ADVERTISEMENT 1/4 cup pimento-stuffed green olives ADVERTISEMENT 1/4 cup raisins ADVERTISEMENT 2 tablespoons capers ADVERTISEMENT 4 potatoes, peeled and quartered ADVERTISEMENT salt and pepper to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "5bc9c698-2f8e-4d98-8b96-a0ed8ff85fc6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 2 h Ready In 2 h 10 m In a large saute pan, heat oil over medium heat. Cook onion and garlic in oil, stirring frequently, until transparent. Stir in cubed meat, and cook until browned. Stir in red bell pepper, bay leaf, cumin, and oregano; cook for 2 to 3 minutes. Stir in sherry, tomato sauce, vinegar, olives, raisins, and capers. Pour in enough water to just cover meat. Bring to boil, reduce heat to low, and cover. Simmer until fork tender, about 1 1/2 hours. Add more water if the stew becomes too thick. Stir potatoes into the stew. Season with salt and pepper to taste. Cook, covered, until potatoes are almost tender. Uncover, and cook until done."
+        }
+      ]
+    },
+    {
+      "id": "4947928b-b6a3-4ac6-99c0-67a4853cd642",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d331dbff-0ddc-447f-be13-33d539d4590d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/276397.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2f554aef-005b-4f9a-9eab-b36ade330742",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Beef Stew I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2817 reviews Recipe by: BUCHKO \"A hearty, savory slow cooker stew with potatoes, carrots, celery, broth, herbs and spices. You won't be slow to say 'yum'!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8cec32e8-2c41-480c-a5a2-0b7a17b83822",
+      "type": "h2",
+      "parent_id": "2f554aef-005b-4f9a-9eab-b36ade330742",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "12 h 20 m servings 516 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "92ebd94a-c7af-47e6-9356-ade8466046d8",
+      "type": "h3",
+      "parent_id": "8cec32e8-2c41-480c-a5a2-0b7a17b83822",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 516 kcal 26% Fat: 29.6 g 46% Carbs: 29.8g 10% Protein: 31.8 g 64% Cholesterol: 101 mg 34% Sodium: 531 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "69575f20-505d-4fb2-a34e-4083d8407a86",
+      "type": "h3",
+      "parent_id": "8cec32e8-2c41-480c-a5a2-0b7a17b83822",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dc08b040-7af0-4f44-b09d-d3e084768db4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds beef stew meat, cut into 1 inch cubes ADVERTISEMENT 1/4 cup all-purpose flour ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 1 teaspoon Worcestershire sauce ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 1/2 cups beef broth ADVERTISEMENT 3 potatoes, diced ADVERTISEMENT 4 carrots, sliced ADVERTISEMENT 1 stalk celery, chopped ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4b25fbcd-431a-4ff8-abab-428d3ab0c78f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 12 h Ready In 12 h 20 m Place meat in slow cooker. In a small bowl mix together the flour, salt, and pepper; pour over meat, and stir to coat meat with flour mixture. Stir in the garlic, bay leaf, paprika, Worcestershire sauce, onion, beef broth, potatoes, carrots, and celery. Cover, and cook on Low setting for 10 to 12 hours, or on High setting for 4 to 6 hours."
+        }
+      ]
+    },
+    {
+      "id": "0b3376e1-4195-4854-ad4c-ad8e17e13ed9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "30e99aa0-3464-4eb2-bb9f-051741d47cf5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/452169.jpg"
+        }
+      ]
+    },
+    {
+      "id": "63b1f92e-389d-454b-bcfc-346e3ca1c3f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Stuffed Green Peppers I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1806 reviews Recipe by: Suzanne M. Munson \"Here's a delicious stuffed pepper recipe that's easy to make. Each green bell pepper contains ground beef, onion, tomatoes, rice and cheese, and is cooked in tomato soup.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "24710fe4-84ce-40cb-9e83-f5344fa55938",
+      "type": "h2",
+      "parent_id": "63b1f92e-389d-454b-bcfc-346e3ca1c3f0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 463 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f3e6213f-57cd-48f2-a9ee-d515207a5ee2",
+      "type": "h3",
+      "parent_id": "24710fe4-84ce-40cb-9e83-f5344fa55938",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 463 kcal 23% Fat: 24.3 g 37% Carbs: 35.5g 11% Protein: 27.2 g 54% Cholesterol: 89 mg 30% Sodium: 971 mg 39% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4439f6ec-b0a2-41ce-b504-d3751affbcab",
+      "type": "h3",
+      "parent_id": "24710fe4-84ce-40cb-9e83-f5344fa55938",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b702f033-d1d6-490c-8b36-429658ee207c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 green bell peppers ADVERTISEMENT salt to taste ADVERTISEMENT 1 pound ground beef ADVERTISEMENT 1/3 cup chopped onion ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1 (14.5 ounce) can whole peeled tomatoes, chopped ADVERTISEMENT 1 teaspoon Worcestershire sauce ADVERTISEMENT 1/2 cup uncooked rice ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1 cup shredded Cheddar cheese ADVERTISEMENT 2 (10.75 ounce) cans condensed tomato soup ADVERTISEMENT water as needed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0168de2a-3e8e-4732-8aa3-cf2356f7b036",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Bring a large pot of salted water to a boil. Cut the tops off the peppers, and remove the seeds. Cook peppers in boiling water for 5 minutes; drain. Sprinkle salt inside each pepper, and set aside. In a large skillet, saute beef and onions for 5 minutes, or until beef is browned. Drain off excess fat, and season with salt and pepper. Stir in the tomatoes, rice, 1/2 cup water and Worcestershire sauce. Cover, and simmer for 15 minutes, or until rice is tender. Remove from heat, and stir in the cheese. Preheat the oven to 350 degrees F. (175 degrees C). Stuff each pepper with the beef and rice mixture, and place peppers open side up in a baking dish. In a medium bowl, combine tomato soup with just enough water to make the soup a gravy consistency. Pour over the peppers. Bake covered for 25 to 35 minutes, until heated through and cheese is melted and bubbly."
+        }
+      ]
+    },
+    {
+      "id": "0568d848-0a30-4453-bce6-0ea401acfc5a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "24c90e37-9a7e-42b1-8b55-f8a020597f42",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/397070.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4729b2e8-e1d3-4f7b-8911-d7f38684935f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Meatball Nirvana",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2246 reviews Recipe by: lovestohost \"These meatballs are a compilation of many, many meatball recipes to finally achieve what I was looking for... Meatball Nirvana! Cover with your favorite red sauce and serve with pasta or in crusty garlic bread rolls.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "89c9cdc3-799c-45f0-983f-04f800d74015",
+      "type": "h2",
+      "parent_id": "4729b2e8-e1d3-4f7b-8911-d7f38684935f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 343 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "332b0e53-939a-43bb-bf69-991605e72aa1",
+      "type": "h3",
+      "parent_id": "89c9cdc3-799c-45f0-983f-04f800d74015",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 343 kcal 17% Fat: 16.8 g 26% Carbs: 15.3g 5% Protein: 31 g 62% Cholesterol: 95 mg 32% Sodium: 940 mg 38% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "30c7fde8-bda4-4807-8656-3df6a51fe7d6",
+      "type": "h3",
+      "parent_id": "89c9cdc3-799c-45f0-983f-04f800d74015",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ed8bf3ea-ab15-4f4d-8aec-659c3b210ad7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound extra lean ground beef ADVERTISEMENT 1/2 teaspoon sea salt ADVERTISEMENT 1 small onion, diced ADVERTISEMENT 1/2 teaspoon garlic salt ADVERTISEMENT 1 1/2 teaspoons Italian seasoning ADVERTISEMENT 3/4 teaspoon dried oregano ADVERTISEMENT 3/4 teaspoon crushed red pepper flakes ADVERTISEMENT 1 dash hot pepper sauce (such as Frank's RedHot®), or to taste ADVERTISEMENT 1 1/2 tablespoons Worcestershire sauce ADVERTISEMENT 1/3 cup skim milk ADVERTISEMENT 1/4 cup grated Parmesan cheese ADVERTISEMENT 1/2 cup seasoned bread crumbs ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4eeb2cbe-1e6e-403a-b12a-664c3838dbed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 20 m Ready In 40 m Preheat an oven to 400 degrees F (200 degrees C). Place the beef into a mixing bowl, and season with salt, onion, garlic salt, Italian seasoning, oregano, red pepper flakes, hot pepper sauce, and Worcestershire sauce; mix well. Add the milk, Parmesan cheese, and bread crumbs. Mix until evenly blended, then form into 1 1/2-inch meatballs, and place onto a baking sheet. Bake in the preheated oven until no longer pink in the center, 20 to 25 minutes."
+        }
+      ]
+    },
+    {
+      "id": "547e452c-4056-4709-b90a-f3ff6a169dc3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9c8aaf4a-edf1-4e19-a082-2fe9f69eec1e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1132315.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4e826a19-9ae3-4fcb-b698-e1380a3fb935",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Crispy Orange Beef",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  659 reviews Recipe by: BEC \"A delicious crispy and sweet, yet mildly spiced beef stir-fry recipe served with steamed rice and broccoli.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "086733f4-0d04-42eb-b68a-6c6b625e2857",
+      "type": "h2",
+      "parent_id": "4e826a19-9ae3-4fcb-b698-e1380a3fb935",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 507 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "2c0610f4-cdfb-4b1d-8fe5-88290148b62d",
+      "type": "h3",
+      "parent_id": "086733f4-0d04-42eb-b68a-6c6b625e2857",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 507 kcal 25% Fat: 18.7 g 29% Carbs: 59.2g 19% Protein: 27.4 g 55% Cholesterol: 61 mg 20% Sodium: 649 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d691d71f-8e37-4bbc-95cd-80c6f9dafb6b",
+      "type": "h3",
+      "parent_id": "086733f4-0d04-42eb-b68a-6c6b625e2857",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f4e2c282-64c6-4f5d-98c6-7e0673066420",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds beef top sirloin, thinly sliced ADVERTISEMENT 1/3 cup white sugar ADVERTISEMENT 1/3 cup rice wine vinegar ADVERTISEMENT 2 tablespoons frozen orange juice concentrate ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 tablespoon soy sauce ADVERTISEMENT 1 cup long grain rice ADVERTISEMENT 2 cups water ADVERTISEMENT 1/4 cup cornstarch ADVERTISEMENT 2 teaspoons orange zest ADVERTISEMENT 3 tablespoons grated fresh ginger ADVERTISEMENT 1 1/2 tablespoons minced garlic ADVERTISEMENT 8 broccoli florets, lightly steamed or blanched ADVERTISEMENT 2 cups oil for frying ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8a2640b7-054f-4397-9955-545413bb0698",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 15 m Ready In 1 h 5 m Lay beef strips out in a single layer on a baking sheet lined with paper towels. Allow to dry in the refrigerator for 30 minutes. In a small bowl, mix together the sugar, rice vinegar, orange juice concentrate, salt and soy sauce. Set aside. Meanwhile, combine rice and water in a medium saucepan. Bring to a boil, then reduce heat to medium-low and simmer for 20 minutes, or until rice is tender. Add more water at the end if necessary. Heat oil in a wok over medium-high heat. Toss dried beef in cornstarch to coat. Fry in the hot oil in small batches until crispy and golden brown; set aside. Drain all of the oil from the wok except about 1 tablespoon. Add orange zest, ginger and garlic to the remaining oil, and cook briefly until fragrant. Add the soy sauce mixture to the wok, bring to a boil, and cook until thick and syrupy, about 5 minutes. Add beef, and heat through, stirring to coat. Serve immediately over steamed rice, and garnish with broccoli."
+        }
+      ]
+    },
+    {
+      "id": "f3c28ab2-74d5-4e4e-a609-b1bf0cfae204",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "21f8dc92-94e9-4bb8-817a-01f4fc068a73",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/593156.jpg"
+        }
+      ]
+    },
+    {
+      "id": "61796f13-7bfa-42f4-9c80-47688ff957ca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Debdoozie's Blue Ribbon Chili",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2138 reviews Recipe by: Deb \"This is the tastiest, easiest chili recipe you'll ever find. I recommend serving it with sliced jalapeno chile peppers and crackers or cornbread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "18fd2879-7234-4a93-8b31-0e4dbd519451",
+      "type": "h2",
+      "parent_id": "61796f13-7bfa-42f4-9c80-47688ff957ca",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 480 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d2c279a7-e1bf-4127-afc2-468a8550a763",
+      "type": "h3",
+      "parent_id": "18fd2879-7234-4a93-8b31-0e4dbd519451",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 480 kcal 24% Fat: 31.1 g 48% Carbs: 24.9g 8% Protein: 26.7 g 53% Cholesterol: 96 mg 32% Sodium: 1366 mg 55% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1180925c-5134-4fe9-9b5c-da0b5884e861",
+      "type": "h3",
+      "parent_id": "18fd2879-7234-4a93-8b31-0e4dbd519451",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dd8f1967-85e8-4c5c-a19a-d16b9ad57db5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds ground beef ADVERTISEMENT 1/2 onion, chopped ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon garlic salt ADVERTISEMENT 2 1/2 cups tomato sauce ADVERTISEMENT 1 (8 ounce) jar salsa ADVERTISEMENT 4 tablespoons chili seasoning mix ADVERTISEMENT 1 (15 ounce) can light red kidney beans ADVERTISEMENT 1 (15 ounce) can dark red kidney beans ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1ae49d65-0439-4176-b8e1-77a1a3c9a605",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 1 h Ready In 1 h 10 m In a large saucepan over medium heat, combine the ground beef and the onion and saute for 10 minutes, or until meat is browned and onion is tender. Drain grease, if desired. Add the ground black pepper, garlic salt, tomato sauce, salsa, chili seasoning mix and kidney beans. Mix well, reduce heat to low and simmer for at least an hour."
+        }
+      ]
+    },
+    {
+      "id": "73977962-21c4-48c0-ab37-a5ce9b507653",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0eebee04-cc91-4a12-9290-2be0da071491",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/747244.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d8947f77-ea2c-4086-bd34-599339cbbb69",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sloppy Joes II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4524 reviews Recipe by: Tamara \"This is the recipe my mother used for sloppy joes and it always gets compliments!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3bb4d0a3-cb13-4670-a84d-df4e25b8ee20",
+      "type": "h2",
+      "parent_id": "d8947f77-ea2c-4086-bd34-599339cbbb69",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 189 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "81cbcf9d-fce6-4e00-a80e-e32e0e515aad",
+      "type": "h3",
+      "parent_id": "3bb4d0a3-cb13-4670-a84d-df4e25b8ee20",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 189 kcal 9% Fat: 9.4 g 14% Carbs: 11.2g 4% Protein: 15.1 g 30% Cholesterol: 50 mg 17% Sodium: 416 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "36bffd37-6a62-41f8-9b39-cefe2679d8e1",
+      "type": "h3",
+      "parent_id": "3bb4d0a3-cb13-4670-a84d-df4e25b8ee20",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "82c78ae7-c890-415b-a376-ef91ffd21639",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound lean ground beef ADVERTISEMENT 1/4 cup chopped onion ADVERTISEMENT 1/4 cup chopped green bell pepper ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 1 teaspoon prepared yellow mustard ADVERTISEMENT 3/4 cup ketchup ADVERTISEMENT 3 teaspoons brown sugar ADVERTISEMENT salt to taste ADVERTISEMENT ground black pepper to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "94881571-e4a4-4906-a6d2-47074be04dfd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m In a medium skillet over medium heat, brown the ground beef, onion, and green pepper; drain off liquids. Stir in the garlic powder, mustard, ketchup, and brown sugar; mix thoroughly. Reduce heat, and simmer for 30 minutes. Season with salt and pepper."
+        }
+      ]
+    },
+    {
+      "id": "aff8c755-c466-43ac-b036-450cc9728192",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8d10583c-7a65-4507-ab54-4e16d477748b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1069261.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c6297217-6a83-483b-83e3-ebf393bd7a12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Brown Sugar Meatloaf",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6076 reviews Recipe by: tangastar \"This is an easy tasty meatloaf. It tastes as good as it smells!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fe43c638-ddd5-40dd-94ca-29cddb509ddb",
+      "type": "h2",
+      "parent_id": "c6297217-6a83-483b-83e3-ebf393bd7a12",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 353 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8c3305e9-ad9f-4291-a67b-1479c4ed9011",
+      "type": "h3",
+      "parent_id": "fe43c638-ddd5-40dd-94ca-29cddb509ddb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 353 kcal 18% Fat: 20.1 g 31% Carbs: 24.1g 8% Protein: 18.4 g 37% Cholesterol: 112 mg 37% Sodium: 763 mg 31% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "44cd34c1-73bb-4b25-a78e-52c06037c602",
+      "type": "h3",
+      "parent_id": "fe43c638-ddd5-40dd-94ca-29cddb509ddb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c10fa3bd-e9be-4c76-9224-f64f0a05060b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup packed brown sugar ADVERTISEMENT 1/2 cup ketchup ADVERTISEMENT 1 1/2 pounds lean ground beef ADVERTISEMENT 3/4 cup milk ADVERTISEMENT 2 eggs ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 1/4 teaspoon ground ginger ADVERTISEMENT 3/4 cup finely crushed saltine cracker crumbs ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "6fa9625d-0eaf-4622-9ff7-5128986315b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h Ready In 1 h 30 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 5x9 inch loaf pan. Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar. In a mixing bowl, mix thoroughly all remaining ingredients and shape into a loaf. Place on top of the ketchup. Bake in preheated oven for 1 hour or until juices are clear."
+        }
+      ]
+    },
+    {
+      "id": "1d330737-28e5-49b6-ba3b-f692147f1ab9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c58aade8-820f-4c54-bb6e-d7f26b5697b8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/496244.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5a305240-d1f0-4982-be7c-4b5e5480c2e9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow-Cooker Pepper Steak",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2096 reviews Recipe by: MJWAGNER68 \"Very tender and flavorful, this recipe is one of our family's favorites. It's great to make ahead of time in the slow cooker and then serve over rice, egg noodles, or chow mein.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6ee3ca90-2047-40f6-8504-4f1bcd189d87",
+      "type": "h2",
+      "parent_id": "5a305240-d1f0-4982-be7c-4b5e5480c2e9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 30 m servings 301 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "dc7c751f-711d-48cd-94e4-28c72cb2dbe6",
+      "type": "h3",
+      "parent_id": "6ee3ca90-2047-40f6-8504-4f1bcd189d87",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 301 kcal 15% Fat: 15.8 g 24% Carbs: 11.7g 4% Protein: 28.2 g 56% Cholesterol: 65 mg 22% Sodium: 1189 mg 48% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0c027fbd-cf94-485b-988f-be4892684a60",
+      "type": "h3",
+      "parent_id": "6ee3ca90-2047-40f6-8504-4f1bcd189d87",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1b4dccab-e359-463f-be49-80561c980570",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds beef sirloin, cut into 2 inch strips ADVERTISEMENT garlic powder to taste ADVERTISEMENT 3 tablespoons vegetable oil ADVERTISEMENT 1 cube beef bouillon ADVERTISEMENT 1/4 cup hot water ADVERTISEMENT 1 tablespoon cornstarch ADVERTISEMENT 1/2 cup chopped onion ADVERTISEMENT 2 large green bell peppers, roughly chopped ADVERTISEMENT 1 (14.5 ounce) can stewed tomatoes, with liquid ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "57fcffd6-d156-4080-a0f8-f2f4789fc0cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 4 h 10 m Ready In 4 h 30 m Sprinkle strips of sirloin with garlic powder to taste. In a large skillet over medium heat, heat the vegetable oil and brown the seasoned beef strips. Transfer to a slow cooker. Mix bouillon cube with hot water until dissolved, then mix in cornstarch until dissolved. Pour into the slow cooker with meat. Stir in onion, green peppers, stewed tomatoes, soy sauce, sugar, and salt. Cover, and cook on High for 3 to 4 hours, or on Low for 6 to 8 hours."
+        }
+      ]
+    },
+    {
+      "id": "021c1689-76b3-4270-a37d-122c75c54625",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d908e161-cc77-4042-b5b4-767a618935e2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/682282.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c4cd8616-eed1-44b6-92f2-22f8fc453bdc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Meatloaf",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3949 reviews Recipe by: Janet Caldwell \"This is a very easy and no fail recipe for meatloaf. It won't take long to make at all, and it's quite good!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "786f44c2-b979-4b11-8aff-9bc1e48d8acb",
+      "type": "h2",
+      "parent_id": "c4cd8616-eed1-44b6-92f2-22f8fc453bdc",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 372 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6c8baccd-9544-468b-882c-c2bc0afbb287",
+      "type": "h3",
+      "parent_id": "786f44c2-b979-4b11-8aff-9bc1e48d8acb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 372 kcal 19% Fat: 24.7 g 38% Carbs: 18.5g 6% Protein: 18.2 g 36% Cholesterol: 98 mg 33% Sodium: 335 mg 13% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3cd49e8d-3ed4-475e-a1c6-61d303b12db8",
+      "type": "h3",
+      "parent_id": "786f44c2-b979-4b11-8aff-9bc1e48d8acb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "86b461a1-35f8-4d71-8622-3d32946b1a44",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds ground beef ADVERTISEMENT 1 egg ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 cup milk ADVERTISEMENT 1 cup dried bread crumbs ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 2 tablespoons brown sugar ADVERTISEMENT 2 tablespoons prepared mustard ADVERTISEMENT 1/3 cup ketchup ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "30ffb241-6d29-43dc-8370-9258d1830212",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 1 h Ready In 1 h 10 m Preheat oven to 350 degrees F (175 degrees C). In a large bowl, combine the beef, egg, onion, milk and bread OR cracker crumbs. Season with salt and pepper to taste and place in a lightly greased 5x9 inch loaf pan, OR form into a loaf and place in a lightly greased 9x13 inch baking dish. In a separate small bowl, combine the brown sugar, mustard and ketchup. Mix well and pour over the meatloaf. Bake at 350 degrees F (175 degrees C) for 1 hour."
+        }
+      ]
+    },
+    {
+      "id": "5d332480-464b-4190-a828-409e456f60ce",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cd767a27-a8c8-4d4e-8fb9-73cae52d5e50",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/810499.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0e018efb-9dad-4484-b0aa-5ec7f13720d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chef John's Classic Beef Stroganoff",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  220 reviews Recipe by: Chef John \"This is a fairly lean version of beef stroganoff, as most recipes call for more cream. This is something you can easily adjust to your tastes. I like a little thicker version, with just enough sauce to coat the meat and noodles.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b6741fd3-55cb-42bc-8259-5ae3cab69295",
+      "type": "h2",
+      "parent_id": "0e018efb-9dad-4484-b0aa-5ec7f13720d9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 45 m servings 307 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5da5d634-ddd8-40d3-84d4-c6a943900ba6",
+      "type": "h3",
+      "parent_id": "b6741fd3-55cb-42bc-8259-5ae3cab69295",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 307 kcal 15% Fat: 24.5 g 38% Carbs: 4.1g 1% Protein: 15.8 g 32% Cholesterol: 86 mg 29% Sodium: 288 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c803fc84-ce88-42ab-85fa-02061d8ac9dd",
+      "type": "h3",
+      "parent_id": "b6741fd3-55cb-42bc-8259-5ae3cab69295",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d767803c-0a7d-4f89-813f-2d1552aa2358",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon vegetable oil ADVERTISEMENT 2 pounds beef chuck roast, cut into 1/2-inch thick strips ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1/2 medium onion, sliced or diced ADVERTISEMENT 8 ounces sliced mushrooms ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1 1/2 tablespoons all-purpose flour ADVERTISEMENT 1/2 cup white wine ADVERTISEMENT 2 cups beef broth, divided ADVERTISEMENT 3/4 cup creme fraiche ADVERTISEMENT 1 tablespoon fresh chopped chives ADVERTISEMENT salt and pepper to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3da10df7-e6e7-4ab2-803a-e5cf85f01336",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h 30 m Ready In 1 h 45 m Season beef generously with salt and pepper. Heat oil in a large skillet over high heat until nearly smoking. Stir in beef; cook, stirring constantly, for 6-7 minutes, until liquid evaporates and meat browns. Remove meat from the pan and set aside. Stir butter, mushrooms and onions into the pan; cook and stir over medium heat until the vegetables are lightly browned. Add garlic and stir for 30 seconds. Stir in flour; cook for 1-2 minutes until incorporated. Stir in wine and 1 cup of stock, scraping the bottom of the pan to release any browned bits. Bring to a simmer, cook for 3-4 minutes, until the sauce thickens. Return beef to the pan. Stir in remaining cup of stock; bring to a simmer and cook on low heat for about 1 hour with the lid on, until the beef is tender and the sauce is thick. Stir every 20 minutes. Stir in creme fraiche. Stir in chives. Season with salt and pepper to taste."
+        }
+      ]
+    },
+    {
+      "id": "8d88d2cd-ea61-4681-9997-35d533d8bb5d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "93bcecf5-e578-47ba-ab0b-30f633480ea6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/468582.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b5f8ce57-614a-47f9-b02c-ab28163ef4a9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Filet Mignon with Rich Balsamic Glaze",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  825 reviews Recipe by: LINDA W. \"This is an elegant and quick romantic dinner for two. Wonderful served with steamed asparagus and baby red potatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "811b2273-07ba-42e2-8f3c-b3b2e31a25ce",
+      "type": "h2",
+      "parent_id": "b5f8ce57-614a-47f9-b02c-ab28163ef4a9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 367 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "29d881a1-9722-40ed-bafe-0203db1a822d",
+      "type": "h3",
+      "parent_id": "811b2273-07ba-42e2-8f3c-b3b2e31a25ce",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 367 kcal 18% Fat: 26.2 g 40% Carbs: 5.7g 2% Protein: 20.3 g 41% Cholesterol: 81 mg 27% Sodium: 64 mg 3% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "aaec62fa-a631-4dd4-b009-88bb87b2d286",
+      "type": "h3",
+      "parent_id": "811b2273-07ba-42e2-8f3c-b3b2e31a25ce",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fa746849-581e-4cc2-a0d2-75679c0300ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (4 ounce) filet mignon steaks ADVERTISEMENT 1/2 teaspoon freshly ground black pepper to taste ADVERTISEMENT salt to taste ADVERTISEMENT 1/4 cup balsamic vinegar ADVERTISEMENT 1/4 cup dry red wine ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "df3d9ed0-5537-4ea1-90d3-db198590d17d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 15 m Ready In 20 m Sprinkle freshly ground pepper over both sides of each steak, and sprinkle with salt to taste. Heat a nonstick skillet over medium-high heat. Place steaks in hot pan, and cook for 1 minute on each side, or until browned. Reduce heat to medium-low, and add balsamic vinegar and red wine. Cover, and cook for 4 minutes on each side, basting with sauce when you turn the meat over. Remove steaks to two warmed plates, spoon one tablespoon of glaze over each, and serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "d929ed48-b0ae-4939-b385-3add89651e83",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fc24f809-a5c8-445e-849b-9ec3dbc65fda",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/32473.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6da7bbad-3350-4a8f-8567-56c4aa2aa157",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Rempel Family Meatloaf",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2160 reviews Recipe by: Connie Levesque \"Tired of boring old meat loaf? Well give this one a try. My husband won't eat any other meat loaf but mine.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8b3367cd-113d-4e51-8b5b-151270d92989",
+      "type": "h2",
+      "parent_id": "6da7bbad-3350-4a8f-8567-56c4aa2aa157",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 360 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "041da39a-5c72-404e-8b65-ee8f82615b0d",
+      "type": "h3",
+      "parent_id": "8b3367cd-113d-4e51-8b5b-151270d92989",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 360 kcal 18% Fat: 23.5 g 36% Carbs: 9.5g 3% Protein: 26.8 g 54% Cholesterol: 143 mg 48% Sodium: 803 mg 32% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a570dee1-7f25-4a6a-b3d8-932cfb973171",
+      "type": "h3",
+      "parent_id": "8b3367cd-113d-4e51-8b5b-151270d92989",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "30ad92c2-5c1c-4cf6-80ea-823cd7658c79",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds lean ground beef ADVERTISEMENT 1/2 cup crushed buttery round crackers ADVERTISEMENT 3/4 cup shredded Cheddar cheese ADVERTISEMENT 1 (1 ounce) package dry onion soup mix ADVERTISEMENT 2 eggs, beaten ADVERTISEMENT 1/4 cup ketchup ADVERTISEMENT 2 tablespoons steak sauce ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b73358be-b38b-473a-af81-eaf864f4d2c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 45 m Ready In 55 m Preheat oven to 350 degrees F (175 degrees C). Stir the ground beef, crushed crackers, Cheddar cheese, and onion soup mix in a large bowl until well combined. Whisk the eggs, ketchup, and steak sauce in a separate bowl until smooth. Mix the eggs into the meat until evenly combined, if the mixture seems too dry, add a little water. Press into a 9x5 inch loaf pan. Bake in preheated oven until the meatloaf reaches 160 degrees F (71 degrees C) and is no longer pink in the center, 45 to 60 minutes."
+        }
+      ]
+    },
+    {
+      "id": "3ac3bb81-5580-4260-93a1-05eeaef4b02a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0b38119c-bd60-45c6-95d2-7cd46b4e2a4a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/392583.jpg"
+        }
+      ]
+    },
+    {
+      "id": "199ff985-92fd-4437-aeb0-92bed6c93d10",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Burrito Pie",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2678 reviews Recipe by: KATHIMC \"This is a lot like a lasagna, only Mexican-style! Serve like a pie and garnish with sour cream, salsa, lettuce and tomato. Make sure you like spicy foods before trying this one. It's hot!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "be43a6d6-0ed9-41a6-a380-343057d639b4",
+      "type": "h2",
+      "parent_id": "199ff985-92fd-4437-aeb0-92bed6c93d10",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 432 cals for serving adjustment Serving size has been adjusted! Original recipe yields 16 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "86e00328-43d8-4dd1-b681-6a08c164d594",
+      "type": "h3",
+      "parent_id": "be43a6d6-0ed9-41a6-a380-343057d639b4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 432 kcal 22% Fat: 23.9 g 37% Carbs: 33.3g 11% Protein: 19.8 g 40% Cholesterol: 68 mg 23% Sodium: 847 mg 34% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "68e7f986-8ceb-4309-98da-3fb66db3603b",
+      "type": "h3",
+      "parent_id": "be43a6d6-0ed9-41a6-a380-343057d639b4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2cfdea64-9e89-40db-901a-5397565e822d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds ground beef ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 2 teaspoons minced garlic ADVERTISEMENT 1 (2 ounce) can black olives, sliced ADVERTISEMENT 1 (4 ounce) can diced green chili peppers ADVERTISEMENT 1 (10 ounce) can diced tomatoes with green chile peppers ADVERTISEMENT 1 (16 ounce) jar taco sauce ADVERTISEMENT 2 (16 ounce) cans refried beans ADVERTISEMENT 12 (8 inch) flour tortillas ADVERTISEMENT 9 ounces shredded Colby cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "49b37566-9f91-4b9d-8b06-632db8edb8ca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). In a large skillet over medium heat, saute the ground beef for 5 minutes. Add the onion and garlic, and saute for 5 more minutes. Drain any excess fat, if desired. Mix in the olives, green chile peppers, tomatoes with green chile peppers, taco sauce and refried beans. Stir mixture thoroughly, reduce heat to low, and let simmer for 15 to 20 minutes. Spread a thin layer of the meat mixture in the bottom of a 4 quart casserole dish. Cover with a layer of tortillas followed by more meat mixture, then a layer of cheese. Repeat tortilla, meat, cheese pattern until all the tortillas are used, topping off with a layer of meat mixture and cheese. Bake for 20 to 30 minutes in the preheated oven, or until cheese is slightly brown and bubbly."
+        }
+      ]
+    },
+    {
+      "id": "abdff9c8-7318-4171-b4fd-c74c0c62623b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "799b9543-fd69-43c5-98db-cbb41861a85c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/178087.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2eb8e149-2cdb-4985-83f5-97598cff7c42",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Italian Beef for Sandwiches",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1650 reviews Recipe by: MAUREENBURR \"This makes a sandwich similar to one I used to get at a local restaurant when I lived in a suburb of Chicago. My all time favorite! Serve on crusty rolls with roasted sweet or hot peppers, if desired.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "980b2d0e-2015-42fd-a6bf-bcddaf991415",
+      "type": "h2",
+      "parent_id": "2eb8e149-2cdb-4985-83f5-97598cff7c42",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "12 h 15 m servings 318 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "95bd11d6-813f-4df5-8ef4-a43b0697757c",
+      "type": "h3",
+      "parent_id": "980b2d0e-2015-42fd-a6bf-bcddaf991415",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 318 kcal 16% Fat: 15.8 g 24% Carbs: 1.6g < 1% Protein: 39.4 g 79% Cholesterol: 100 mg 33% Sodium: 819 mg 33% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1773e619-d8e1-4b66-9991-7e0208bcd6c7",
+      "type": "h3",
+      "parent_id": "980b2d0e-2015-42fd-a6bf-bcddaf991415",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "12614d94-3c59-4c94-ae44-bee5db833aa3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups water ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon onion salt ADVERTISEMENT 1 teaspoon dried parsley ADVERTISEMENT 1 teaspoon garlic powder ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (.7 ounce) package dry Italian-style salad dressing mix ADVERTISEMENT 1 (5 pound) rump roast ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "882525c4-e133-4f75-a41a-13838ff59d71",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 12 h Ready In 12 h 15 m Combine water with salt, ground black pepper, oregano, basil, onion salt, parsley, garlic powder, bay leaf, and salad dressing mix in a saucepan. Stir well, and bring to a boil. Place roast in slow cooker, and pour salad dressing mixture over the meat. Cover, and cook on Low for 10 to 12 hours, or on High for 4 to 5 hours. When done, remove bay leaf, and shred meat with a fork."
+        }
+      ]
+    },
+    {
+      "id": "1ed550ce-5c4a-4f6b-9673-5cb991e0491d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "53d3e3de-08ee-499f-b78d-189ecaf58eba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/783784.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5e72ebd7-ea5d-4eae-96e2-61149d72dff6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Salisbury Steak",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1467 reviews Recipe by: TESSLYNN \"This recipe goes together quickly and does not need a lot of time in the slow cooker. It's a delicious way to add flavor to ground beef and the children love it! The gravy is delightful served over mashed potatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d4273ed7-da67-4773-be56-5c34a6415cf2",
+      "type": "h2",
+      "parent_id": "5e72ebd7-ea5d-4eae-96e2-61149d72dff6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 h 15 m servings 388 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "38e576ef-7eef-40a5-938f-3af951914104",
+      "type": "h3",
+      "parent_id": "d4273ed7-da67-4773-be56-5c34a6415cf2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 388 kcal 19% Fat: 24 g 37% Carbs: 18g 6% Protein: 23.5 g 47% Cholesterol: 75 mg 25% Sodium: 1378 mg 55% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "92ed5897-a652-47dd-ad47-a19e052cdc72",
+      "type": "h3",
+      "parent_id": "d4273ed7-da67-4773-be56-5c34a6415cf2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e244f916-a64e-4860-96d9-0d8943d495de",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds lean ground beef ADVERTISEMENT 1 (1 ounce) envelope dry onion soup mix ADVERTISEMENT 1/2 cup Italian seasoned bread crumbs ADVERTISEMENT 1/4 cup milk ADVERTISEMENT 1/4 cup all-purpose flour ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 (10.75 ounce) cans condensed cream of chicken soup ADVERTISEMENT 1 (1 ounce) packet dry au jus mix ADVERTISEMENT 3/4 cup water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "43f12f35-7fca-4c5e-9d43-bb2ed65dcf5b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 5 h Ready In 5 h 15 m In a large bowl, mix together the ground beef, onion soup mix, bread crumbs, and milk using your hands. Shape into 8 patties. Heat the oil in a large skillet over medium-high heat. Dredge the patties in flour just to coat, and quickly brown on both sides in the hot skillet. Place browned patties into the slow cooker stacking alternately like a pyramid. In a medium bowl, mix together the cream of chicken soup, au jus mix, and water. Pour over the meat. Cook on the Low setting for 4 or 5 hours, until ground beef is well done."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

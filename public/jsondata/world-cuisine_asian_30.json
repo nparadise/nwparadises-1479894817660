@@ -1,0 +1,4082 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:30:07.343Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178837046001_th-1867035830001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178800685001_900944612-5388-1361398950657.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1867035830001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Red Lentil Curry"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a quick-and-easy vegetarian curry."
+    },
+    {
+      "name": "interactionCount",
+      "content": "46226"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/28/2013 3:25:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "792"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680536500001_th-1675264266001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1677046212001_ari-origin05-arc-155-1339007159167.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675264266001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Tikka Masala"
+    },
+    {
+      "name": "description",
+      "content": "See how to make this top-rated recipe for spiced chicken in a tomato cream sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "103031"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/8/2012 12:03:14 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2023"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1712837459001_th-1093050014001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/e1/pd/1033249144001/1033249144001_1318726076001_ari-origin05-arc-150-1323461692287.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1093050014001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Coconut Chicken Curry"
+    },
+    {
+      "name": "description",
+      "content": "What's cooking in Pearland, Texas? A sweet-and-savory fusion dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "61880"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2012 11:26:26 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2284"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008557176001_th-1998440655001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008342874001_900944612-148-1354569555567.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1998440655001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Broccoli with Garlic Butter and Cashews"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple broccoli side dish with garlic and cashews."
+    },
+    {
+      "name": "interactionCount",
+      "content": "58897"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/3/2012 5:17:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.58"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1389"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1873555546001_th-1871285048001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1871670424001_ari-origin05-arc-147-1349136086811.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1871285048001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Kung Pao Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Make spicy kung pao chicken that rivals your favorite Chinese restaurant’s versio"
+    },
+    {
+      "name": "interactionCount",
+      "content": "97489"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/2/2012 1:07:43 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.28"
+    },
+    {
+      "name": "reviewCount",
+      "content": "817"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1954542165001_th-1954432754001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1954506908001_ari-origin05-arc-140-1352333849571.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954432754001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Szechwan Shrimp"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a quick, healthy, spicy shrimp dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "93540"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2012 5:17:01 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.42"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1949"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201403/1513/1033249144001_3299176073001_th-2579232873001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201403/738/1033249144001_3298107240001_video-still-for-video-2579232873001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2579232873001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chinese Chicken Fried Rice II"
+    },
+    {
+      "name": "description",
+      "content": "A fantastic use for leftover rice, this is one restaurant quality dish!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "208727"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/7/2014 11:01:24 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1185"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.30"
+    },
+    {
+      "name": "reviewCount",
+      "content": "813"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "35"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2011134778001_th-1932374359001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2011098484001_900944612-134-1354647144116.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1932374359001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mulligatawny Soup I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a creamy Indian-inspired chicken, rice, and curry soup."
+    },
+    {
+      "name": "interactionCount",
+      "content": "24118"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/5/2012 2:03:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "950"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "36"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1709897193001_th-1699390498001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1709833693001_ari-origin05-arc-157-1340837931237.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1699390498001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Asian Orange Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Watch how to make simple, takeout-style crispy orange chicken."
+    },
+    {
+      "name": "interactionCount",
+      "content": "128967"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/29/2012 10:23:27 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.45"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1264"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571545631001_th-1561183848001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571373144001_ari-origin05-arc-169-1334854594671.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561183848001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Naan"
+    },
+    {
+      "name": "description",
+      "content": "See how to make delicious homemade naan."
+    },
+    {
+      "name": "interactionCount",
+      "content": "131856"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/19/2012 5:12:34 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1614"
+    },
+    {
+      "name": "recipeYield",
+      "content": "14"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1813123131001_th-1791478505001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1808812088001_ari-origin05-arc-168-1346102183995.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1791478505001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Makhani (Indian Butter Chicken)"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple, flavorful Indian recipe in just minutes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "113831"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/29/2012 12:19:49 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "841"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1750397854001_th-1728918699001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1750304209001_ari-origin05-arc-157-1343085424777.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1728918699001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Asian Lettuce Wraps"
+    },
+    {
+      "name": "description",
+      "content": "Crunchy lettuce wraps are great for a family-style dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "72112"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/18/2014 10:10:40 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1394"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.55"
+    },
+    {
+      "name": "reviewCount",
+      "content": "180"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1762521309001_th-1729165853001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1762349712001_ari-origin05-arc-137-1343673674284.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1729165853001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Fried Rice Restaurant Style"
+    },
+    {
+      "name": "description",
+      "content": "This easy fried rice goes with just about any entrée."
+    },
+    {
+      "name": "interactionCount",
+      "content": "360015"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 10:00:43 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.32"
+    },
+    {
+      "name": "reviewCount",
+      "content": "840"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201505/945/1033249144001_4264683806001_th-4236724079001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201505/2095/1033249144001_4264675866001_video-still-for-video-4236724079001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=4236724079001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sesame Pasta Chicken Salad"
+    },
+    {
+      "name": "description",
+      "content": "A pasta salad with chicken, sesame dressing, and fresh herbs."
+    },
+    {
+      "name": "interactionCount",
+      "content": "11321"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/29/2015 9:18:56 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.45"
+    },
+    {
+      "name": "reviewCount",
+      "content": "924"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.42"
+    },
+    {
+      "name": "reviewCount",
+      "content": "128"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1667782283001_th-1666325545001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1667659650001_ari-origin05-arc-139-1338568661241.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1666325545001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian Chicken Curry II"
+    },
+    {
+      "name": "description",
+      "content": "This homemade Indian chicken curry dish is so delicious, you won’t miss takeout."
+    },
+    {
+      "name": "interactionCount",
+      "content": "198858"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 12:56:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.27"
+    },
+    {
+      "name": "reviewCount",
+      "content": "871"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2083807822001_th-2081566297001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2083761838001_900944612-131-1357765710041.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2081566297001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Japanese Chicken Wings"
+    },
+    {
+      "name": "description",
+      "content": "See how to make tangy, sticky, delicious 5-star chicken wings."
+    },
+    {
+      "name": "interactionCount",
+      "content": "58719"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/9/2013 1:21:49 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1005"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1935113324001_th-1904432957001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1934945467001_ari-origin05-arc-183-1351640869110.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1904432957001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Biryani"
+    },
+    {
+      "name": "description",
+      "content": "Watch how to make this top-rated Indian dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "65710"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/1/2012 5:07:12 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.34"
+    },
+    {
+      "name": "reviewCount",
+      "content": "109"
+    },
+    {
+      "name": "recipeYield",
+      "content": "7"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "73"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.46"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1054"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2308321132001_th-2305869648001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2308244873001_video-still-for-video-2305869648001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2305869648001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Kalbi (Korean BBQ Short Ribs)"
+    },
+    {
+      "name": "description",
+      "content": "Traditional Korean barbecued beef ribs marinate in a sweet soy sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "23798"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/29/2013 2:04:55 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.76"
+    },
+    {
+      "name": "reviewCount",
+      "content": "97"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680442851001_th-1666275104001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1673000308001_ari-origin05-arc-139-1338845948145.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1666275104001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sweet and Sour Chicken I"
+    },
+    {
+      "name": "description",
+      "content": "This elegant sweet and sour chicken has just the right amount of tang."
+    },
+    {
+      "name": "interactionCount",
+      "content": "153696"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/16/2012 2:28:34 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.51"
+    },
+    {
+      "name": "reviewCount",
+      "content": "829"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178808571001_th-1932475211001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178572437001_900944612-155-1361386649793.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1932475211001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Vegetarian Korma"
+    },
+    {
+      "name": "description",
+      "content": "This easy vegetarian Indian dish is rich, creamy and mildly spicy."
+    },
+    {
+      "name": "interactionCount",
+      "content": "85324"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/20/2013 5:02:58 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "886"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "682"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.65"
+    },
+    {
+      "name": "reviewCount",
+      "content": "591"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201507/2494/1033249144001_4342906726001_th-4313883995001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201507/382/1033249144001_4342904558001_video-still-for-video-4313883995001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=4313883995001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Katsu"
+    },
+    {
+      "name": "description",
+      "content": "A Japanese style pan-fried chicken."
+    },
+    {
+      "name": "interactionCount",
+      "content": "9258"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/7/2015 3:39:26 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.68"
+    },
+    {
+      "name": "reviewCount",
+      "content": "483"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "4c119bd7-9734-4b66-ad58-ca593134489b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ad2bf68d-d942-47f6-a04a-aeb9c37189d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dd254295-7456-4264-822b-524efd13c529",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Red Lentil Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  792 reviews Recipe by: Emma Maher \"This is a rich and hearty lentil curry, great as a main meal rather than as a side dish like the more traditional Indian dhal. Don't let the ingredient list faze you, this really is an easy dish to make. This dish is great served with basmati rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "58a9de6d-0e09-4a4a-b374-e65ef2f85c5b",
+      "type": "h2",
+      "parent_id": "dd254295-7456-4264-822b-524efd13c529",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 192 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "93158a75-3987-45d3-b21e-7fcdf1137240",
+      "type": "h3",
+      "parent_id": "58a9de6d-0e09-4a4a-b374-e65ef2f85c5b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 192 kcal 10% Fat: 2.6 g 4% Carbs: 32.5g 10% Protein: 12.1 g 24% Cholesterol: 0 mg 0% Sodium: 572 mg 23% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "388792fb-81d0-4c40-8ea3-61dea22678e3",
+      "type": "h3",
+      "parent_id": "58a9de6d-0e09-4a4a-b374-e65ef2f85c5b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "91cc922a-4387-4897-93f5-5254912a260b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups red lentils ADVERTISEMENT 1 large onion, diced ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 2 tablespoons curry paste ADVERTISEMENT 1 tablespoon curry powder ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 teaspoon minced fresh ginger ADVERTISEMENT 1 (14.25 ounce) can tomato puree ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "573009d1-93c3-4d31-a688-4bb322a49dc1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils."
+        }
+      ]
+    },
+    {
+      "id": "6e733257-39bb-4c94-8ae2-70f5e9952484",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "83a78a03-0a4d-466d-8df1-5e1ede0b6e02",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/39905.jpg"
+        }
+      ]
+    },
+    {
+      "id": "72ff870c-6997-48dc-a141-cb126bef98ca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Tikka Masala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2023 reviews Recipe by: Yakuta \"This is an easy recipe for Chicken Tikka Masala - Chicken marinated in yogurt and spices and then served in a tomato cream sauce. Serve with rice or warm pita bread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d9288f54-6b59-4bab-89f6-7a8a9dd8e3d0",
+      "type": "h2",
+      "parent_id": "72ff870c-6997-48dc-a141-cb126bef98ca",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 20 m servings 404 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "818e72d9-04e4-4985-9cf9-be8d423f2dea",
+      "type": "h3",
+      "parent_id": "d9288f54-6b59-4bab-89f6-7a8a9dd8e3d0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 404 kcal 20% Fat: 28.9 g 44% Carbs: 13.3g 4% Protein: 24.6 g 49% Cholesterol: 143 mg 48% Sodium: 4499 mg 180% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d066721d-ff26-405f-8f1d-33fc8fe6307c",
+      "type": "h3",
+      "parent_id": "d9288f54-6b59-4bab-89f6-7a8a9dd8e3d0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c6795379-ad21-4c0c-a953-1b5629ab5017",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup yogurt ADVERTISEMENT 1 tablespoon lemon juice ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 2 teaspoons cayenne pepper ADVERTISEMENT 2 teaspoons freshly ground black pepper ADVERTISEMENT 1 tablespoon minced fresh ginger ADVERTISEMENT 4 teaspoons salt, or to taste ADVERTISEMENT 3 boneless skinless chicken breasts, cut into bite-size pieces ADVERTISEMENT 4 long skewers ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 jalapeno pepper, finely chopped ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 2 teaspoons paprika ADVERTISEMENT 1 tablespoon salt, or to taste ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1/4 cup chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1dbecbfc-1c7e-46e5-8704-79de9c05906f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 50 m Ready In 2 h 20 m In a large bowl, combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and 4 teaspoons salt. Stir in chicken, cover, and refrigerate for 1 hour. Preheat a grill for high heat. Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill until juices run clear, about 5 minutes on each side. Melt butter in a large heavy skillet over medium heat. Saute garlic and jalapeno for 1 minute. Season with 2 teaspoons cumin, paprika, and 3 teaspoons salt. Stir in tomato sauce and cream. Simmer on low heat until sauce thickens, about 20 minutes. Add grilled chicken, and simmer for 10 minutes. Transfer to a serving platter, and garnish with fresh cilantro."
+        }
+      ]
+    },
+    {
+      "id": "09e3c57a-2c40-42d8-b1e8-1de3557aa7cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9debbe8b-ac4a-4591-a89e-7fc4431018b0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2627058.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7bb244ca-610a-445a-84f9-030e17279a8c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Curried Coconut Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2284 reviews Recipe by: ROMA \"Curried chicken simmered in coconut milk and tomatoes makes for a mouthwatering hint of the tropics! Goes great with rice and vegetables.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "958dbf59-f39c-4808-afb7-a8e028d57696",
+      "type": "h2",
+      "parent_id": "7bb244ca-610a-445a-84f9-030e17279a8c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 375 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d094e193-fb28-46e3-b601-918dd42e5617",
+      "type": "h3",
+      "parent_id": "958dbf59-f39c-4808-afb7-a8e028d57696",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 375 kcal 19% Fat: 20.9 g 32% Carbs: 16.7g 5% Protein: 32.2 g 64% Cholesterol: 78 mg 26% Sodium: 807 mg 32% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "367784cd-aa36-401b-830b-899e9a9fc454",
+      "type": "h3",
+      "parent_id": "958dbf59-f39c-4808-afb7-a8e028d57696",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "930e4c5e-f33b-4225-8e4c-339f00e83010",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds boneless skinless chicken breasts, cut into 1/2-inch chunks ADVERTISEMENT 1 teaspoon salt and pepper, or to taste ADVERTISEMENT 1 1/2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons curry powder ADVERTISEMENT 1/2 onion, thinly sliced ADVERTISEMENT 2 cloves garlic, crushed ADVERTISEMENT 1 (14 ounce) can coconut milk ADVERTISEMENT 1 (14.5 ounce) can stewed, diced tomatoes ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 3 tablespoons sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "cff3fe94-85a9-4c81-8c83-442245a05850",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 50 m Ready In 1 h 10 m Season chicken pieces with salt and pepper. Heat oil and curry powder in a large skillet over medium-high heat for two minutes. Stir in onions and garlic, and cook 1 minute more. Add chicken, tossing lightly to coat with curry oil. Reduce heat to medium, and cook for 7 to 10 minutes, or until chicken is no longer pink in center and juices run clear. Pour coconut milk, tomatoes, tomato sauce, and sugar into the pan, and stir to combine. Cover and simmer, stirring occasionally, approximately 30 to 40 minutes."
+        }
+      ]
+    },
+    {
+      "id": "afd101a5-cf59-4e91-866a-99ec4bfb4576",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f68293eb-cdf2-4c23-a3e1-000d69170a5e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/814892.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fafffc78-d791-4275-b433-a16f43019339",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Broccoli with Garlic Butter and Cashews",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1389 reviews Recipe by: SALSIEPIE \"A new recipe a neighbor gave us. What a hit with my family. Just the right mixture of garlic and cashews with our favorite side dish, broccoli. And, so very easy to make!! If in a pinch, you could probably use frozen broccoli too, but I haven't tried.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a8e114ce-d428-4651-9b75-e51240fa4691",
+      "type": "h2",
+      "parent_id": "fafffc78-d791-4275-b433-a16f43019339",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 187 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "2b314e29-46c3-455b-b60d-f27da0cd7269",
+      "type": "h3",
+      "parent_id": "a8e114ce-d428-4651-9b75-e51240fa4691",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 187 kcal 9% Fat: 14.2 g 22% Carbs: 13.2g 4% Protein: 5.1 g 10% Cholesterol: 27 mg 9% Sodium: 611 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0c86fea5-39b1-4645-8d2e-c69853433598",
+      "type": "h3",
+      "parent_id": "a8e114ce-d428-4651-9b75-e51240fa4691",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f7432818-e7a8-4396-8401-16ef8257aa63",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds fresh broccoli, cut into bite size pieces ADVERTISEMENT 1/3 cup butter ADVERTISEMENT 1 tablespoon brown sugar ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT 2 teaspoons white vinegar ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1/3 cup chopped salted cashews ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2e927cfb-40b0-4e97-a386-255c3c6b62ae",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m Place the broccoli into a large pot with about 1 inch of water in the bottom. Bring to a boil, and cook for 7 minutes, or until tender but still crisp. Drain, and arrange broccoli on a serving platter. While the broccoli is cooking, melt the butter in a small skillet over medium heat. Mix in the brown sugar, soy sauce, vinegar, pepper and garlic. Bring to a boil, then remove from the heat. Mix in the cashews, and pour the sauce over the broccoli. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "a3675749-b83e-400d-bce7-9118a61f2e18",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "50f8a69e-02e6-4bf4-862d-6a599a0308ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/290890.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7f1a385a-26b4-4e99-b3b3-ee042e54b394",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Kung Pao Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  817 reviews Recipe by: Arlena \"Spicy chicken with peanuts, similar to what is served in Chinese restaurants. It is easy to make, and you can be as sloppy with the measurements as you want. They reduce to a nice, thick sauce. Substitute cashews for peanuts, or bamboo shoots for the water chestnuts. You can't go wrong! Enjoy!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e5276dc1-15b4-4c51-93aa-d80de1a4314e",
+      "type": "h2",
+      "parent_id": "7f1a385a-26b4-4e99-b3b3-ee042e54b394",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 437 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b22bcf63-abef-4c5c-8735-afb13f8d5c13",
+      "type": "h3",
+      "parent_id": "e5276dc1-15b4-4c51-93aa-d80de1a4314e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 437 kcal 22% Fat: 23.3 g 36% Carbs: 25.3g 8% Protein: 34.4 g 69% Cholesterol: 66 mg 22% Sodium: 596 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0c26426d-8f40-4a12-8b23-41e3c3c59878",
+      "type": "h3",
+      "parent_id": "e5276dc1-15b4-4c51-93aa-d80de1a4314e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "689b5d84-c1fe-45e6-b782-af27a4075e8b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound skinless, boneless chicken breast halves - cut into chunks ADVERTISEMENT 2 tablespoons white wine ADVERTISEMENT 2 tablespoons soy sauce ADVERTISEMENT 2 tablespoons sesame oil, divided ADVERTISEMENT 2 tablespoons cornstarch, dissolved in 2 tablespoons water ADVERTISEMENT 1 ounce hot chile paste ADVERTISEMENT 1 teaspoon distilled white vinegar ADVERTISEMENT 2 teaspoons brown sugar ADVERTISEMENT 4 green onions, chopped ADVERTISEMENT 1 tablespoon chopped garlic ADVERTISEMENT 1 (8 ounce) can water chestnuts ADVERTISEMENT 4 ounces chopped peanuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "587a26d7-15eb-4056-ad3b-ded1fd95077c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h 30 m To Make Marinade: Combine 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon oil and 1 tablespoon cornstarch/water mixture and mix together. Place chicken pieces in a glass dish or bowl and add marinade. Toss to coat. Cover dish and place in refrigerator for about 30 minutes. To Make Sauce: In a small bowl combine 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon oil, 1 tablespoon cornstarch/water mixture, chili paste, vinegar and sugar. Mix together and add green onion, garlic, water chestnuts and peanuts. In a medium skillet, heat sauce slowly until aromatic. Meanwhile, remove chicken from marinade and saute in a large skillet until meat is white and juices run clear. When sauce is aromatic, add sauteed chicken to it and let simmer together until sauce thickens."
+        }
+      ]
+    },
+    {
+      "id": "7470fa74-8bd1-4d7b-8b8b-f99fb65ed5c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c20ae09c-fdd7-46b4-8a3e-54719f8322f8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1052895.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8f9017a2-b16e-47b1-bfc8-3f9f3071954b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Szechwan Shrimp",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1949 reviews Recipe by: FOODGU1 \"Don't let some of the ingredients fool you--this spicy shrimp makes a simple, impressive dish, which I usually make for company. For more or less heat, adjust amount of red pepper. Serve over hot steamed rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "13b5ed54-67c8-4a76-be24-ffd2e0c71a92",
+      "type": "h2",
+      "parent_id": "8f9017a2-b16e-47b1-bfc8-3f9f3071954b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 142 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "300845d8-8d44-4fd0-8199-e43df4cf06b1",
+      "type": "h3",
+      "parent_id": "13b5ed54-67c8-4a76-be24-ffd2e0c71a92",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 142 kcal 7% Fat: 4.4 g 7% Carbs: 6.7g 2% Protein: 18.3 g 37% Cholesterol: 164 mg 55% Sodium: 500 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2efe8b95-73f8-4b7b-a12b-560a09754cd4",
+      "type": "h3",
+      "parent_id": "13b5ed54-67c8-4a76-be24-ffd2e0c71a92",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "16f1fb2c-bf9a-4bb7-ad38-734e4a0aacfa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 tablespoons water ADVERTISEMENT 2 tablespoons ketchup ADVERTISEMENT 1 tablespoon soy sauce ADVERTISEMENT 2 teaspoons cornstarch ADVERTISEMENT 1 teaspoon honey ADVERTISEMENT 1/2 teaspoon crushed red pepper ADVERTISEMENT 1/4 teaspoon ground ginger ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1/4 cup sliced green onions ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 12 ounces cooked shrimp, tails removed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "781fda5d-b0d2-40da-bc52-4b1785872f09",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m In a bowl, stir together water, ketchup, soy sauce, cornstarch, honey, crushed red pepper, and ground ginger. Set aside. Heat oil in a large skillet over medium-high heat. Stir in green onions and garlic; cook 30 seconds. Stir in shrimp, and toss to coat with oil. Stir in sauce. Cook and stir until sauce is bubbly and thickened."
+        }
+      ]
+    },
+    {
+      "id": "9ef86531-b24a-4861-b22b-e746a9b0f176",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1713f3d9-f906-48e9-b1d9-b6518980d19f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/855246.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6d79b07e-d5b7-4465-851a-162e6a4dd057",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chinese Chicken Fried Rice II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1185 reviews Recipe by: LISA TOURVILLE \"Chicken, rice, soy sauce and shredded egg stir fried together. This is a very simple recipe. It is easy, but tasty! Note: Never use rice that you have just cooked.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "aa4d1b4b-af9e-4caf-9d77-f40e2fe479d4",
+      "type": "h2",
+      "parent_id": "6d79b07e-d5b7-4465-851a-162e6a4dd057",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 m servings 255 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9d4a6b8e-db0e-41ed-8ef3-ebbb74016506",
+      "type": "h3",
+      "parent_id": "aa4d1b4b-af9e-4caf-9d77-f40e2fe479d4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 255 kcal 13% Fat: 10.2 g 16% Carbs: 25.9g 8% Protein: 14.1 g 28% Cholesterol: 83 mg 28% Sodium: 516 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2e6176f1-cb4d-4749-8397-704fd936fe09",
+      "type": "h3",
+      "parent_id": "aa4d1b4b-af9e-4caf-9d77-f40e2fe479d4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "14c41002-6afc-4cd3-a9cd-7874b38792cf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 egg ADVERTISEMENT 1 tablespoon water ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 2 cups cooked white rice, cold ADVERTISEMENT 2 tablespoons soy sauce ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1 cup cooked, chopped chicken meat ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "62e515f1-fb8d-448e-a787-da9df357d049",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 10 m Ready In 15 m In a small bowl, beat egg with water. Melt butter in a large skillet over medium low heat. Add egg and leave flat for 1 to 2 minutes. Remove from skillet and cut into shreds. Heat oil in same skillet; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "43a8eb2c-2145-4754-851d-f5555de8e1ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3da6b24b-af04-4322-b876-6450c414db08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/971360.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a2d5aedd-7ddf-498d-8538-0ebe9886840f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Asian Beef with Snow Peas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  813 reviews Recipe by: MARBALET \"Stir-fried beef in a light gingery sauce. Serve over steamed rice or hot egg noodles.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2585270a-94d2-43b5-a574-525e17fa442b",
+      "type": "h2",
+      "parent_id": "a2d5aedd-7ddf-498d-8538-0ebe9886840f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 m servings 203 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "21cc918c-4bb4-45e7-8c26-a876455c44fa",
+      "type": "h3",
+      "parent_id": "2585270a-94d2-43b5-a574-525e17fa442b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 203 kcal 10% Fat: 10 g 15% Carbs: 9.7g 3% Protein: 16 g 32% Cholesterol: 39 mg 13% Sodium: 711 mg 28% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a1bb35c6-4431-4c17-a987-80e61280352d",
+      "type": "h3",
+      "parent_id": "2585270a-94d2-43b5-a574-525e17fa442b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c869eb83-6844-4e66-bfcb-1c8c58024c4e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons soy sauce ADVERTISEMENT 2 tablespoons rice wine ADVERTISEMENT 1 tablespoon brown sugar ADVERTISEMENT 1/2 teaspoon cornstarch ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 tablespoon minced fresh ginger root ADVERTISEMENT 1 tablespoon minced garlic ADVERTISEMENT 1 pound beef round steak, cut into thin strips ADVERTISEMENT 8 ounces snow peas ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4740d9df-24af-4f54-8184-7485be972e94",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 10 m Ready In 15 m In a small bowl, combine the soy sauce, rice wine, brown sugar and cornstarch. Set aside. Heat oil in a wok or skillet over medium high heat. Stir-fry ginger and garlic for 30 seconds. Add the steak and stir-fry for 2 minutes or until evenly browned. Add the snow peas and stir-fry for an additional 3 minutes. Add the soy sauce mixture, bring to a boil, stirring constantly. Lower heat and simmer until the sauce is thick and smooth. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "c072e966-65f3-409f-a1a3-6d709f187dec",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a139d20-3d30-49db-821d-89602d29ca3d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/176495.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e229195a-bdaf-4f4c-98e0-ebb5686594cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sinigang na Baka",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  35 reviews Recipe by: ALLYD \"Simple beef, vegetable, tamarind based soup that we eat over rice! A meal in itself!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7ba82833-47d2-4102-86e7-fba59341b9fe",
+      "type": "h2",
+      "parent_id": "e229195a-bdaf-4f4c-98e0-ebb5686594cd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 304 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a6437aa5-e709-4c98-8714-b739ce608d25",
+      "type": "h3",
+      "parent_id": "7ba82833-47d2-4102-86e7-fba59341b9fe",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 304 kcal 15% Fat: 19.7 g 30% Carbs: 15g 5% Protein: 17.8 g 36% Cholesterol: 51 mg 17% Sodium: 1405 mg 56% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "73f9d0a9-9a64-4b54-bb35-2567909419c3",
+      "type": "h3",
+      "parent_id": "7ba82833-47d2-4102-86e7-fba59341b9fe",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3c188545-06aa-489d-b575-74c099115f12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons canola oil ADVERTISEMENT 1 large onion, chopped ADVERTISEMENT 2 cloves garlic, chopped ADVERTISEMENT 1 pound beef stew meat, cut into 1 inch cubes ADVERTISEMENT 1 quart water ADVERTISEMENT 2 large tomatoes, diced ADVERTISEMENT 1/2 pound fresh green beans, rinsed and trimmed ADVERTISEMENT 1/2 medium head bok choy, cut into 1 1/2 inch strips ADVERTISEMENT 1 head fresh broccoli, cut into bite size pieces ADVERTISEMENT 1 (1.41 ounce) package tamarind soup base ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "826ac451-16ba-41df-9b4e-9853d372ae4f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Heat oil in medium stock pot. Saute onion and garlic until tender. Add beef to pot, and saute until browned. Pour in water. Bring to a boil, reduce heat, and simmer 20 to 30 minutes. Place tomatoes and green beans in pot, and continue to simmer for 10 minutes. Stir in bok choy, broccoli and tamarind soup mix. Simmer for an additional 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": "f9da8c44-b9a5-4412-95f6-0c1223931bff",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6d503cc2-7f71-4b3d-bff3-3fa525df1e05",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1096121.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b809e3fa-403b-4c2b-8cd5-46f4dfcdf7b0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mulligatawny Soup I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  950 reviews Recipe by: Lise P. \"The name Mulligatawny means 'pepper water', and curry is the particular ingredient that gives this incredible soup such a delicious flavor...so I'm told. This old recipe was given to me long ago.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bf8b301c-4f84-4e48-bf29-efe3bb109589",
+      "type": "h2",
+      "parent_id": "b809e3fa-403b-4c2b-8cd5-46f4dfcdf7b0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 223 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d3508067-80b2-4ca3-a775-3795f98e2049",
+      "type": "h3",
+      "parent_id": "bf8b301c-4f84-4e48-bf29-efe3bb109589",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 223 kcal 11% Fat: 15.8 g 24% Carbs: 13.5g 4% Protein: 6.9 g 14% Cholesterol: 62 mg 21% Sodium: 734 mg 29% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f4fd6222-dce9-4ee3-900d-8289e5f81693",
+      "type": "h3",
+      "parent_id": "bf8b301c-4f84-4e48-bf29-efe3bb109589",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "10b626ca-4bab-4aa9-a659-d817871ddbd3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup chopped onion ADVERTISEMENT 2 stalks celery, chopped ADVERTISEMENT 1 carrot, diced ADVERTISEMENT 1/4 cup butter ADVERTISEMENT 1 1/2 tablespoons all-purpose flour ADVERTISEMENT 1 1/2 teaspoons curry powder ADVERTISEMENT 4 cups chicken broth ADVERTISEMENT 1/2 apple, cored and chopped ADVERTISEMENT 1/4 cup white rice ADVERTISEMENT 1 skinless, boneless chicken breast half - cut into cubes ADVERTISEMENT salt to taste ADVERTISEMENT ground black pepper to taste ADVERTISEMENT 1 pinch dried thyme ADVERTISEMENT 1/2 cup heavy cream, heated ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ea29ff2b-3035-4381-8d5b-7c76f0e80c42",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h Ready In 1 h 20 m Saute onions, celery, carrot, and butter in a large soup pot. Add flour and curry, and cook 5 more minutes. Add chicken stock, mix well, and bring to a boil. Simmer about 1/2 hour. Add apple, rice, chicken, salt, pepper, and thyme. Simmer 15-20 minutes, or until rice is done. When serving, add hot cream."
+        }
+      ]
+    },
+    {
+      "id": "502e7ac6-d1cf-4fcb-bfd2-31b14bd30753",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "253ed0f8-a997-4635-8517-0c73788bc452",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/294621.jpg"
+        }
+      ]
+    },
+    {
+      "id": "477f535a-6813-44bf-92e5-db0ce548ea56",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mie Goreng - Indonesian Fried Noodles",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  36 reviews Recipe by: Fellicia R \"This tasty noodle dish is the same one my mom used to make for me when I was growing up. It's definitely comfort food. You can alter it with adding your favorite meats and veggies.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ca127d4b-9d1a-45b1-a054-27e6b1c0b4fc",
+      "type": "h2",
+      "parent_id": "477f535a-6813-44bf-92e5-db0ce548ea56",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 356 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "825e50a6-4df2-46d9-bbb5-cf0637425584",
+      "type": "h3",
+      "parent_id": "ca127d4b-9d1a-45b1-a054-27e6b1c0b4fc",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 356 kcal 18% Fat: 14.3 g 22% Carbs: 34g 11% Protein: 22.7 g 45% Cholesterol: 43 mg 14% Sodium: 1824 mg 73% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8708661e-0a86-41ae-ac74-a2cf87f1892b",
+      "type": "h3",
+      "parent_id": "ca127d4b-9d1a-45b1-a054-27e6b1c0b4fc",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "32ccf8c0-1678-440e-866e-af71a0465f7d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 (3 ounce) packages ramen noodles (without flavor packets) ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 pound skinless, boneless chicken breast halves, cut into strips ADVERTISEMENT 1 teaspoon olive oil ADVERTISEMENT 1 teaspoon garlic salt ADVERTISEMENT 1 pinch ground black pepper, or to taste ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1/2 cup chopped shallots ADVERTISEMENT 5 cloves garlic, chopped ADVERTISEMENT 1 cup shredded cabbage ADVERTISEMENT 1 cup shredded carrots ADVERTISEMENT 1 cup broccoli florets ADVERTISEMENT 1 cup sliced fresh mushrooms ADVERTISEMENT 1/4 cup soy sauce ADVERTISEMENT 1/4 cup sweet soy sauce (Indonesian kecap manis) ADVERTISEMENT 1/4 cup oyster sauce ADVERTISEMENT salt and pepper to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e01e7e19-6772-43ce-9b03-352017dd25c5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 15 m Ready In 35 m Bring a pan of water to a boil, and cook the ramen until tender, about 3 minutes. Plunge the noodles into cold water to stop the cooking, drain in a colander set in the sink, and drizzle the noodles with 1 tablespoon of vegetable oil. Set aside. Place the chicken strips in a bowl, and toss with olive oil, garlic salt, and black pepper. Heat 1 tablespoon of oil in a wok over high heat, and cook and stir the chicken until it is no longer pink, about 5 minutes. Stir in the shallots and garlic, and cook and stir until they start to turn brown. Add the cabbage, carrots, broccoli, and mushrooms, and cook and stir until the vegetables are tender, about 5 minutes. Stir in the ramen noodles, soy sauce, sweet soy sauce, and oyster sauce, mixing the noodles and sauces into the vegetables and chicken. Bring the mixture to a simmer, sprinkle with salt and pepper, and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "cc1ef5c8-5b6c-4a4a-b7de-1df95d351292",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2aaba1de-ac4b-4dd1-ab62-6e00313358e4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1207689.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bf22aaa7-aabd-4a6a-a268-c865cbded914",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Asian Orange Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1264 reviews Recipe by: HARRY WETZEL \"A delicious citrus chicken recipe with flavors reminiscent of the orange chicken from a popular restaurant in the mall.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "586b7d71-63d6-489c-85a6-79bd1fe0f0a2",
+      "type": "h2",
+      "parent_id": "bf22aaa7-aabd-4a6a-a268-c865cbded914",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 20 m servings 445 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d1f6e269-afce-46cc-b56f-32dcf7d85471",
+      "type": "h3",
+      "parent_id": "586b7d71-63d6-489c-85a6-79bd1fe0f0a2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 445 kcal 22% Fat: 11.2 g 17% Carbs: 68.7g 22% Protein: 17.8 g 36% Cholesterol: 34 mg 11% Sodium: 763 mg 31% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4686e870-13d3-4ed8-80fd-4d13a4f00734",
+      "type": "h3",
+      "parent_id": "586b7d71-63d6-489c-85a6-79bd1fe0f0a2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f45407e2-cb21-43cc-bcb5-36dffc3d1027",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Sauce: ADVERTISEMENT 1 1/2 cups water ADVERTISEMENT 2 tablespoons orange juice ADVERTISEMENT 1/4 cup lemon juice ADVERTISEMENT 1/3 cup rice vinegar ADVERTISEMENT 2 1/2 tablespoons soy sauce ADVERTISEMENT 1 tablespoon grated orange zest ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 1/2 teaspoon minced fresh ginger root ADVERTISEMENT 1/2 teaspoon minced garlic ADVERTISEMENT 2 tablespoons chopped green onion ADVERTISEMENT 1/4 teaspoon red pepper flakes ADVERTISEMENT 3 tablespoons cornstarch ADVERTISEMENT 2 tablespoons water ADVERTISEMENT Chicken: ADVERTISEMENT 2 boneless, skinless chicken breasts, cut into 1/2 inch pieces ADVERTISEMENT 1 cup all-purpose flour ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/4 teaspoon pepper ADVERTISEMENT 3 tablespoons olive oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fd46b196-0057-42aa-bf77-76baf0bfefc1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 40 m Cook 40 m Ready In 3 h 20 m Pour 1 1/2 cups water, orange juice, lemon juice, rice vinegar, and soy sauce into a saucepan and set over medium-high heat. Stir in the orange zest, brown sugar, ginger, garlic, chopped onion, and red pepper flakes. Bring to a boil. Remove from heat, and cool 10 to 15 minutes. Place the chicken pieces into a resealable plastic bag. When contents of saucepan have cooled, pour 1 cup of sauce into bag. Reserve the remaining sauce. Seal the bag, and refrigerate at least 2 hours. In another resealable plastic bag, mix the flour, salt, and pepper. Add the marinated chicken pieces, seal the bag, and shake to coat. Heat the olive oil in a large skillet over medium heat. Place chicken into the skillet, and brown on both sides. Drain on a plate lined with paper towels, and cover with aluminum foil. Wipe out the skillet, and add the sauce. Bring to a boil over medium-high heat. Mix together the cornstarch and 2 tablespoons water; stir into the sauce. Reduce heat to medium low, add the chicken pieces, and simmer, about 5 minutes, stirring occasionally."
+        }
+      ]
+    },
+    {
+      "id": "308938a1-b7bc-4ddb-a171-c45bf1c9a86b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "126026f7-186a-410f-90ff-6c913998e29b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/115386.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a1a9d43d-f188-4274-90f3-756316eb12b5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Naan",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1614 reviews Recipe by: Mic \"This recipe makes the best naan I have tasted outside of an Indian restaurant. I can't make enough of it for my family. I serve it with shish kabobs, but I think they would eat it plain.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "0ac60f2a-32fc-4c81-a118-5e6bb18f64a4",
+      "type": "h2",
+      "parent_id": "a1a9d43d-f188-4274-90f3-756316eb12b5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h servings 211 cals for serving adjustment Serving size has been adjusted! Original recipe yields 14 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "792ca3f2-3dc5-4adf-98af-27e4ef77c981",
+      "type": "h3",
+      "parent_id": "0ac60f2a-32fc-4c81-a118-5e6bb18f64a4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 211 kcal 11% Fat: 4.5 g 7% Carbs: 36g 12% Protein: 6.1 g 12% Cholesterol: 22 mg 7% Sodium: 364 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3837841f-4a4b-4288-8caa-2d9d11a4c29a",
+      "type": "h3",
+      "parent_id": "0ac60f2a-32fc-4c81-a118-5e6bb18f64a4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c12dd8b7-0a75-4986-95e5-38cc717d4338",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (.25 ounce) package active dry yeast ADVERTISEMENT 1 cup warm water ADVERTISEMENT 1/4 cup white sugar ADVERTISEMENT 3 tablespoons milk ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 4 1/2 cups bread flour ADVERTISEMENT 2 teaspoons minced garlic (optional) ADVERTISEMENT 1/4 cup butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "45ec6786-b9d5-43df-92fe-2214acd05384",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 7 m Ready In 3 h In a large bowl, dissolve yeast in warm water. Let stand about 10 minutes, until frothy. Stir in sugar, milk, egg, salt, and enough flour to make a soft dough. Knead for 6 to 8 minutes on a lightly floured surface, or until smooth. Place dough in a well oiled bowl, cover with a damp cloth, and set aside to rise. Let it rise 1 hour, until the dough has doubled in volume. Punch down dough, and knead in garlic. Pinch off small handfuls of dough about the size of a golf ball. Roll into balls, and place on a tray. Cover with a towel, and allow to rise until doubled in size, about 30 minutes. During the second rising, preheat grill to high heat. At grill side, roll one ball of dough out into a thin circle. Lightly oil grill. Place dough on grill, and cook for 2 to 3 minutes, or until puffy and lightly browned. Brush uncooked side with butter, and turn over. Brush cooked side with butter, and cook until browned, another 2 to 4 minutes. Remove from grill, and continue the process until all the naan has been prepared."
+        }
+      ]
+    },
+    {
+      "id": "84199f65-63aa-4cd7-a72a-b605d8183149",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e6666cc9-2dd0-4c8f-8fa5-21e46f8924e1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/63121.jpg"
+        }
+      ]
+    },
+    {
+      "id": "60567139-1183-4167-9139-338c2a64fcc1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Makhani (Indian Butter Chicken)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  841 reviews Recipe by: MITCHMAN21 \"Chicken Makhani is one of my favorite Indian dishes. It is a full flavored dish that complements the chicken well. It can be made as mild or spicy as you wish by adjusting the cayenne. Serve with basmati rice and naan bread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a77649af-400b-43e9-877f-4278f0a79df2",
+      "type": "h2",
+      "parent_id": "60567139-1183-4167-9139-338c2a64fcc1",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 408 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e100df9d-fa00-48e9-8b23-899bab899a48",
+      "type": "h3",
+      "parent_id": "a77649af-400b-43e9-877f-4278f0a79df2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 408 kcal 20% Fat: 27.8 g 43% Carbs: 15.6g 5% Protein: 23.4 g 47% Cholesterol: 107 mg 36% Sodium: 523 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c4d4e3e4-130a-421c-bce5-77487129c751",
+      "type": "h3",
+      "parent_id": "a77649af-400b-43e9-877f-4278f0a79df2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "077f0205-89f0-4c03-92c0-bc3642935bac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon peanut oil ADVERTISEMENT 1 shallot, finely chopped ADVERTISEMENT 1/4 white onion, chopped ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT 2 teaspoons lemon juice ADVERTISEMENT 1 tablespoon ginger garlic paste ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1/4 cup plain yogurt ADVERTISEMENT 1 cup half-and-half ADVERTISEMENT 1 cup tomato puree ADVERTISEMENT 1/4 teaspoon cayenne pepper, or to taste ADVERTISEMENT 1 pinch salt ADVERTISEMENT 1 pinch black pepper ADVERTISEMENT 1 tablespoon peanut oil ADVERTISEMENT 1 pound boneless, skinless chicken thighs, cut into bite-size pieces ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 pinch cayenne pepper ADVERTISEMENT 1 tablespoon cornstarch ADVERTISEMENT 1/4 cup water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ffd0f91e-bc71-4e07-9a3d-17dad9f71615",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce. Mix together cornstarch and water, then stir into the sauce. Cook for 5 to 10 minutes, or until thickened."
+        }
+      ]
+    },
+    {
+      "id": "e007997a-2f54-413e-a18a-469eb357ed6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ec7b9730-fe3b-4309-9550-c04d3150748e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2630776.jpg"
+        }
+      ]
+    },
+    {
+      "id": "77d751cc-17ab-466e-9c96-9a63ae5b7d63",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Asian Lettuce Wraps",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1394 reviews Recipe by: Rachel Castro \"Delicious and bursting with flavor, Asian lettuce wraps are a great idea for entertaining or a family style meal. Each person can build their own fresh, delicious wrap. Just be sure to have plates or napkins available since the mixture can sometimes drip a little. To serve, allow each person to spoon a portion of the meat into a lettuce leaf. Wrap the lettuce around the meat like a burrito and enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "23998393-b6a6-452a-ba86-616071044a35",
+      "type": "h2",
+      "parent_id": "77d751cc-17ab-466e-9c96-9a63ae5b7d63",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 388 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "dac7eb58-4011-42dc-b7dc-f08989a70d8a",
+      "type": "h3",
+      "parent_id": "23998393-b6a6-452a-ba86-616071044a35",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 388 kcal 19% Fat: 22.3 g 34% Carbs: 24.3g 8% Protein: 23.4 g 47% Cholesterol: 69 mg 23% Sodium: 580 mg 23% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4772d49a-1614-494e-99c8-415e81355f8f",
+      "type": "h3",
+      "parent_id": "23998393-b6a6-452a-ba86-616071044a35",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6da6f6d5-3c94-45bf-bc4e-ebe5ee295e4b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "16 Boston Bibb or butter lettuce leaves ADVERTISEMENT 1 pound lean ground beef ADVERTISEMENT 1 tablespoon cooking oil ADVERTISEMENT 1 large onion, chopped ADVERTISEMENT 1/4 cup hoisin sauce ADVERTISEMENT 2 cloves fresh garlic, minced ADVERTISEMENT 1 tablespoon soy sauce ADVERTISEMENT 1 tablespoon rice wine vinegar ADVERTISEMENT 2 teaspoons minced pickled ginger ADVERTISEMENT 1 dash Asian chile pepper sauce, or to taste (optional) ADVERTISEMENT 1 (8 ounce) can water chestnuts, drained and finely chopped ADVERTISEMENT 1 bunch green onions, chopped ADVERTISEMENT 2 teaspoons Asian (dark) sesame oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "02d9cce9-b060-4b0a-82b3-7131fe17170a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 15 m Ready In 35 m Rinse whole lettuce leaves and pat dry, being careful not tear them. Set aside. Heat a large skillet over medium-high heat. Cook and stir beef and cooking oil in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease; transfer beef to a bowl. Cook and stir onion in the same skillet used for beef until slightly tender, 5 to 10 minutes. Stir hoisin sauce, garlic, soy sauce, vinegar, ginger, and chile pepper sauce into onions. Add water chestnuts, green onions, sesame oil, and cooked beef; cook and stir until the onions just begin to wilt, about 2 minutes. Arrange lettuce leaves around the outer edge of a large serving platter and pile meat mixture in the center."
+        }
+      ]
+    },
+    {
+      "id": "476f9103-741f-499a-ab94-8a14cfeec304",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "52936997-b7fc-4322-8d7a-f869236484af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/236815.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5e349e0a-5917-482e-a8ea-3b31ae363344",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Beef Yakitori",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  180 reviews Recipe by: Rayna \"This marinade is delicious with beef, but is great with pork or chicken too. You will need to adjust the cooking time depending upon the meat or poultry you use for the skewers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "baf6dff4-8758-4207-af95-467e7c9e468f",
+      "type": "h2",
+      "parent_id": "5e349e0a-5917-482e-a8ea-3b31ae363344",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 30 m servings 367 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8e1f6a63-7dde-4076-8eaf-9622949053a5",
+      "type": "h3",
+      "parent_id": "baf6dff4-8758-4207-af95-467e7c9e468f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 367 kcal 18% Fat: 25 g 39% Carbs: 10.8g 3% Protein: 24.4 g 49% Cholesterol: 76 mg 25% Sodium: 1866 mg 75% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "39cb836c-031b-489e-b32a-f51877d53af3",
+      "type": "h3",
+      "parent_id": "baf6dff4-8758-4207-af95-467e7c9e468f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2aa82c34-af14-4753-9338-9fac1d63a635",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup soy sauce ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons lemon juice ADVERTISEMENT 1 tablespoon sesame seeds ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 2 green onions, thinly sliced ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1 pound sirloin steak, cubed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "40b3c642-4ff1-4201-a00a-b98e49a216ee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 15 m Ready In 4 h 30 m In a glass or plastic bowl, whisk together the soy sauce, oil, lemon juice, sesame seeds, sugar, green onions, garlic, and ginger. Thread the meat onto skewers. (If you are using wooden skewers, soak them 30 minutes first.) Place the skewers in a plastic or glass container just large enough to hold them, and pour the marinade over the meat, turning to coat well. Cover, and chill for a minimum of 4 hours. Preheat grill for high heat, and position grate 5 inches from coals. Brush grate with oil, and place skewers on grill. Grill for 10 to 15 minutes, occasionally turning kabobs to ensure even cooking."
+        }
+      ]
+    },
+    {
+      "id": "e21715a7-5f73-4be0-b05a-9fdc5f29a79e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "099f6fe0-2ad6-4520-84d0-fd761f2b1823",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/431469.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0e34ce4f-29e9-43e6-ac15-2a0b09edb5a5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fried Rice Restaurant Style",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  840 reviews Recipe by: jostrander \"A quick fried rice like you get at your favorite Chinese restaurant. A couple of eggs, baby carrots, peas and soy sauce is all you need.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7f5924b4-86bc-4b86-a19d-39e6a72abb7d",
+      "type": "h2",
+      "parent_id": "0e34ce4f-29e9-43e6-ac15-2a0b09edb5a5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 261 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c1828df0-8260-449c-aa7e-6f5f7000074e",
+      "type": "h3",
+      "parent_id": "7f5924b4-86bc-4b86-a19d-39e6a72abb7d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 261 kcal 13% Fat: 8.4 g 13% Carbs: 39.7g 13% Protein: 5.8 g 12% Cholesterol: 46 mg 16% Sodium: 381 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d2bcf78a-f865-451f-b737-09534579ae05",
+      "type": "h3",
+      "parent_id": "7f5924b4-86bc-4b86-a19d-39e6a72abb7d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0d4e5176-e8a7-414b-8fa2-d862a5a87a38",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups enriched white rice ADVERTISEMENT 4 cups water ADVERTISEMENT 2/3 cup chopped baby carrots ADVERTISEMENT 1/2 cup frozen green peas ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 eggs ADVERTISEMENT soy sauce to taste ADVERTISEMENT sesame oil, to taste (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "56aedc1c-4135-475b-9e54-c23ca6278619",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m In a saucepan, combine rice and water. Bring to a boil. Reduce heat, cover, and simmer for 20 minutes. In a small saucepan, boil carrots in water about 3 to 5 minutes. Drop peas into boiling water, and drain. Heat wok over high heat. Pour in oil, then stir in carrots and peas; cook about 30 seconds. Crack in eggs, stirring quickly to scramble eggs with vegetables. Stir in cooked rice. Shake in soy sauce, and toss rice to coat. Drizzle with sesame oil, and toss again."
+        }
+      ]
+    },
+    {
+      "id": "dcd2cd94-0d86-4589-bdb1-056e10c65535",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "33f33ca9-8d33-4014-baca-6b02f17533a2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/92940.jpg"
+        }
+      ]
+    },
+    {
+      "id": "83fe2f16-4da7-4dc5-bbce-67cd949904f9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sesame Pasta Chicken Salad",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  924 reviews Recipe by: ohines \"A refreshing light pasta salad with a delicious Asian flair. Great for a summer cookout or picnic. Tastes great right away, and even better if you can allow it to marinate for a while.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f708fd57-070f-43cf-9f21-b67e186b527b",
+      "type": "h2",
+      "parent_id": "83fe2f16-4da7-4dc5-bbce-67cd949904f9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 349 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "2da275a6-0d56-48b4-815f-528d694fbabc",
+      "type": "h3",
+      "parent_id": "f708fd57-070f-43cf-9f21-b67e186b527b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 349 kcal 17% Fat: 15.2 g 23% Carbs: 38.3g 12% Protein: 15.9 g 32% Cholesterol: 24 mg 8% Sodium: 308 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "37ec84a1-ae55-46f8-b73e-5ff9d88cc0e9",
+      "type": "h3",
+      "parent_id": "f708fd57-070f-43cf-9f21-b67e186b527b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "52cceabe-2aba-4c31-a379-7231944943cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup sesame seeds ADVERTISEMENT 1 (16 ounce) package bow tie pasta ADVERTISEMENT 1/2 cup vegetable oil ADVERTISEMENT 1/3 cup light soy sauce ADVERTISEMENT 1/3 cup rice vinegar ADVERTISEMENT 1 teaspoon sesame oil ADVERTISEMENT 3 tablespoons white sugar ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 3 cups shredded, cooked chicken breast meat ADVERTISEMENT 1/3 cup chopped fresh cilantro ADVERTISEMENT 1/3 cup chopped green onion ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "68f83dad-73a0-44c1-ad7e-a23b0d02f6ff",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 10 m Ready In 30 m Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside. Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl. In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well. Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions."
+        }
+      ]
+    },
+    {
+      "id": "9e26cd65-3ce4-4c77-a346-b93780fba0ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ade3520f-3edf-44f2-9ccd-d4541c88fdeb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/345302.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2a827812-829f-450f-91ef-9b44b66b0b42",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Gyoza",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  128 reviews Recipe by: Mersi \"I learned this recipe for pot stickers while living in Japan. They're great hot or cold, and may be eaten plain or with the dipping sauce. Any ground meat can be substituted for pork.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b9acedb6-639d-4732-8b99-b3d0ad7dd8bb",
+      "type": "h2",
+      "parent_id": "2a827812-829f-450f-91ef-9b44b66b0b42",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 184 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e145134e-83ae-41c3-ae1e-163fdd2668aa",
+      "type": "h3",
+      "parent_id": "b9acedb6-639d-4732-8b99-b3d0ad7dd8bb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 184 kcal 9% Fat: 8.5 g 13% Carbs: 18.5g 6% Protein: 7.9 g 16% Cholesterol: 37 mg 12% Sodium: 546 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4ffc520c-6fe0-402a-beb7-da8b7aa9db5e",
+      "type": "h3",
+      "parent_id": "b9acedb6-639d-4732-8b99-b3d0ad7dd8bb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f710c86b-861c-4882-9ca7-b922f0714d5a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon sesame oil ADVERTISEMENT 2 cups chopped cabbage ADVERTISEMENT 1/4 cup chopped onion ADVERTISEMENT 1 clove garlic, chopped ADVERTISEMENT 1/4 cup chopped carrot ADVERTISEMENT 1/2 pound ground pork ADVERTISEMENT 1 egg ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 (10 ounce) package wonton wrappers ADVERTISEMENT 1/4 cup water ADVERTISEMENT 1/4 cup soy sauce ADVERTISEMENT 2 tablespoons rice vinegar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9a998c09-8ea5-4826-9cfd-69f868507bc8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 40 m Cook 5 m Ready In 45 m Heat sesame oil in a large skillet over medium high heat. Mix in cabbage, onion, garlic and carrot. Cook and stir until cabbage is limp. Mix in ground pork and egg. Cook until pork is evenly brown and egg is no longer runny. Preheat vegetable oil in a large skillet over medium high heat. Place approximately 1 tablespoon of the cabbage and pork mixture in the center of each wrapper. Fold wrappers in half over filling, and seal edges with moistened fingers. In the preheated vegetable oil, cook gyoza approximately 1 minute per side, until lightly browned. Place water into skillet and reduce heat. Cover and allow gyoza to steam until the water is gone. In a small bowl, mix soy sauce and rice vinegar. Use the mixture as a dipping sauce for the finished wrappers."
+        }
+      ]
+    },
+    {
+      "id": "5d8790a8-5672-48d5-bae0-e0410ed3f89c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "90596133-29d2-40f3-842a-1becbdf94eba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/111308.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1fa818e9-17b8-4ae3-a99a-0c8e862389af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Chicken Curry II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  871 reviews Recipe by: Amanda Fetters \"This is an adaptation of yellow chicken curry from India. The aromas and flavors are a delight to the senses! It is best served with fresh Naan bread and Jasmine or Basmati rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6c92421c-a7a6-4a08-90ba-4e5f5d384bd3",
+      "type": "h2",
+      "parent_id": "1fa818e9-17b8-4ae3-a99a-0c8e862389af",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 313 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "dbd37759-5b2d-418d-8082-12ffba759be5",
+      "type": "h3",
+      "parent_id": "6c92421c-a7a6-4a08-90ba-4e5f5d384bd3",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 313 kcal 16% Fat: 21.7 g 33% Carbs: 14g 5% Protein: 19.1 g 38% Cholesterol: 38 mg 13% Sodium: 268 mg 11% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "df1b937c-2d97-4969-84fc-ebdf0e64b1e0",
+      "type": "h3",
+      "parent_id": "6c92421c-a7a6-4a08-90ba-4e5f5d384bd3",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3063dba4-54e5-4c81-9e53-2a577ec2c636",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons olive oil ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 3 tablespoons curry powder ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1/2 teaspoon grated fresh ginger root ADVERTISEMENT 1/2 teaspoon white sugar ADVERTISEMENT salt to taste ADVERTISEMENT 2 skinless, boneless chicken breast halves - cut into bite-size pieces ADVERTISEMENT 1 tablespoon tomato paste ADVERTISEMENT 1 cup plain yogurt ADVERTISEMENT 3/4 cup coconut milk ADVERTISEMENT 1/2 lemon, juiced ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "755a2eb4-661d-492c-a582-041daa35aa93",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 25 m Ready In 45 m Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes. Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes."
+        }
+      ]
+    },
+    {
+      "id": "1117a340-9bc4-48eb-9be8-f5c2a3f98e34",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3fb4be00-adb2-4e64-a8b2-b5940d29fd12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/39538.jpg"
+        }
+      ]
+    },
+    {
+      "id": "adf85ba8-89ad-41ef-b8bb-20defe1533d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Japanese Chicken Wings",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1005 reviews Recipe by: TLTRN \"Chicken wings are egged and fried in butter, then baked in a tangy sauce of soy sauce, water, sugar, vinegar, garlic powder and salt. Delicious, sticky chicken wings!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ff91ed2d-8bb6-4847-9271-eb977a334dd9",
+      "type": "h2",
+      "parent_id": "adf85ba8-89ad-41ef-b8bb-20defe1533d9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 675 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5876657f-ed00-42f6-b581-f29fee237c5f",
+      "type": "h3",
+      "parent_id": "ff91ed2d-8bb6-4847-9271-eb977a334dd9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 675 kcal 34% Fat: 44.3 g 68% Carbs: 51.4g 17% Protein: 18.9 g 38% Cholesterol: 158 mg 53% Sodium: 1112 mg 44% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "63a8d745-78f8-4549-9b94-21ae9bea26e2",
+      "type": "h3",
+      "parent_id": "ff91ed2d-8bb6-4847-9271-eb977a334dd9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "78d09105-a9af-43da-b1ef-c4ea4b19af22",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 pounds chicken wings ADVERTISEMENT 1 egg, lightly beaten ADVERTISEMENT 1 cup all-purpose flour for coating ADVERTISEMENT 1 cup butter ADVERTISEMENT SAUCE ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT 3 tablespoons water ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 1/2 cup white vinegar ADVERTISEMENT 1/2 teaspoon garlic powder, or to taste ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fab3a2a7-f340-48d3-a5a3-e22b4171878f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Cut wings in half, dip in egg and coat with flour. Heat butter in a large, deep skillet over medium-high heat. Fry wings until deep brown. Place in a shallow roasting pan. In a small bowl combine soy sauce, water, sugar, vinegar, garlic powder and salt. Pour over wings. Bake in preheated oven for 30 to 45 minutes, basting wings with sauce often."
+        }
+      ]
+    },
+    {
+      "id": "d961165e-bd9f-4bc1-bd6c-ab6ac9f8443c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fce316ef-b74c-4819-bf53-e2617c56a06b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/2125.jpg"
+        }
+      ]
+    },
+    {
+      "id": "84457e7d-b1f1-4e5d-912f-318f6ae82b41",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Biryani",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  109 reviews Recipe by: Nazia \"This is a delicious Pakistani/Indian rice dish which is often reserved for very special occasions such as weddings, parties, or holidays such as Ramadan. It has a lengthy preparation, but the work is definitely worth it. For biryani, always use long grain rice. Basmati rice with its thin, fine grains is the ideal variety to use. Ghee is butter that has been slowly melted so that the milk solids and golden liquid have been separated and can be used in place of vegetable oil to yield a more authentic taste.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d59303cd-de63-47d3-8bb5-b3864b249d22",
+      "type": "h2",
+      "parent_id": "84457e7d-b1f1-4e5d-912f-318f6ae82b41",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 832 cals for serving adjustment Serving size has been adjusted! Original recipe yields 7 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "203f3fb9-dbcd-4f09-aa56-20da718d2bf1",
+      "type": "h3",
+      "parent_id": "d59303cd-de63-47d3-8bb5-b3864b249d22",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 832 kcal 42% Fat: 35.1 g 54% Carbs: 78.9g 25% Protein: 47.8 g 96% Cholesterol: 134 mg 45% Sodium: 1522 mg 61% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5d9acaa9-9413-4b80-935b-37a270c6f40b",
+      "type": "h3",
+      "parent_id": "d59303cd-de63-47d3-8bb5-b3864b249d22",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "801bc234-a945-40eb-bc6a-32b02636e5ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 tablespoons vegetable oil ADVERTISEMENT 4 small potatoes, peeled and halved ADVERTISEMENT 2 large onions, finely chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1 tablespoon minced fresh ginger root ADVERTISEMENT 1/2 teaspoon chili powder ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 medium tomatoes, peeled and chopped ADVERTISEMENT 2 tablespoons plain yogurt ADVERTISEMENT 2 tablespoons chopped fresh mint leaves ADVERTISEMENT 1/2 teaspoon ground cardamom ADVERTISEMENT 1 (2 inch) piece cinnamon stick ADVERTISEMENT 3 pounds boneless, skinless chicken pieces cut into chunks ADVERTISEMENT 2 1/2 tablespoons vegetable oil ADVERTISEMENT 1 large onion, diced ADVERTISEMENT 1 pinch powdered saffron ADVERTISEMENT 5 pods cardamom ADVERTISEMENT 3 whole cloves ADVERTISEMENT 1 (1 inch) piece cinnamon stick ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1 pound basmati rice ADVERTISEMENT 4 cups chicken stock ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f68b593a-49ef-4656-b70d-339722baad76",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "In a large skillet, in 2 tablespoons vegetable oil (or ghee) fry potatoes until brown, drain and reserve the potatoes. Add remaining 2 tablespoons oil to the skillet and fry onion, garlic and ginger until onion is soft and golden. Add chili, pepper, turmeric, cumin, salt and the tomatoes. Fry, stirring constantly for 5 minutes. Add yogurt, mint, cardamom and cinnamon stick. Cover and cook over low heat, stirring occasionally until the tomatoes are cooked to a pulp. It may be necessary to add a little hot water if the mixture becomes too dry and starts to stick to the pan. When the mixture is thick and smooth, add the chicken pieces and stir well to coat them with the spice mixture. Cover and cook over very low heat until the chicken is tender, approximately 35 to 45 minutes. There should only be a little very thick gravy left when chicken is finished cooking. If necessary cook uncovered for a few minutes to reduce the gravy. Wash rice well and drain in colander for at least 30 minutes. In a large skillet, heat vegetable oil (or ghee) and fry the onions until they are golden. Add saffron, cardamom, cloves, cinnamon stick, ginger and rice. Stir continuously until the rice is coated with the spices. In a medium-size pot, heat the chicken stock and salt. When the mixture is hot pour it over the rice and stir well. Add the chicken mixture and the potatoes; gently mix them into the rice. Bring to boil. Cover the saucepan tightly, turn heat to very low and steam for 20 minutes. Do not lift lid or stir while cooking. Spoon biryani onto a warm serving dish."
+        }
+      ]
+    },
+    {
+      "id": "1150ca41-dddb-4bae-bd9c-060ccd1eb48b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9fc46204-f0da-47bf-ae09-df22592ce110",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/215482.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b0321d2d-c5e3-4d68-9aa5-524f108606ae",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Thai Ginger Chicken (Gai Pad King)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  73 reviews Recipe by: Shae's Mama \"My family loved ordering this dish at our local Thai restaurant, but then they closed down for some unknown reason (they were always busy). So I decided to recreate this traditional dish at home. My husband says it's just like the restaurant...maybe even better? Please note that some people like to eat the ginger, while others don't but like the flavor it gives off. You can easily double this recipe to serve a larger group...plus it makes great leftovers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5dbea5e7-fb14-4f19-96d0-e91b9269b1e9",
+      "type": "h2",
+      "parent_id": "b0321d2d-c5e3-4d68-9aa5-524f108606ae",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 491 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a33c2735-b91f-48ac-81dc-7a5b1d19300c",
+      "type": "h3",
+      "parent_id": "5dbea5e7-fb14-4f19-96d0-e91b9269b1e9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 491 kcal 25% Fat: 9.9 g 15% Carbs: 68.3g 22% Protein: 30.2 g 60% Cholesterol: 65 mg 22% Sodium: 376 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a746cdc1-7815-4203-afa0-d7728b216bd7",
+      "type": "h3",
+      "parent_id": "5dbea5e7-fb14-4f19-96d0-e91b9269b1e9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fb400276-18ce-4006-97fa-de3dca279ef1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups uncooked jasmine rice ADVERTISEMENT 3 1/2 cups water ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 1 pound skinless, boneless chicken breast halves - cut into thin strips ADVERTISEMENT 1 tablespoon Asian fish sauce ADVERTISEMENT 1 tablespoon oyster sauce ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 1/2 cup fresh ginger, cut into matchsticks ADVERTISEMENT 1 large red bell pepper, cut into strips ADVERTISEMENT 3/4 cup sliced fresh mushrooms ADVERTISEMENT 4 green onions cut into 2-inch pieces ADVERTISEMENT 1/2 teaspoon Thai red chile paste, or to taste ADVERTISEMENT 2 tablespoons chicken broth ADVERTISEMENT salt and ground black pepper to taste ADVERTISEMENT 2 tablespoons fresh cilantro leaves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7a217947-c446-4afb-a1db-370023220c4c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 50 m Bring the rice and water to a boil in a saucepan. Reduce heat to medium-low; cover and simmer until the rice is tender and the liquid has been absorbed, 20 to 25 minutes. Meanwhile, heat a wok or large skillet over medium-high heat. Stir in the garlic and chicken; cook for 2 minutes. Add the fish sauce, oyster sauce, sugar, ginger, red pepper, mushrooms, and onions. Cook and stir until the chicken is no longer pink and the vegetables are nearly tender, about 3 minutes. Dissolve the chile paste in the chicken broth, then add to the chicken mixture. Season to taste with salt and pepper; sprinkle with cilantro leaves to garnish. Serve with the hot rice."
+        }
+      ]
+    },
+    {
+      "id": "67cc1ab1-b248-456f-8367-d4affd413348",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bdd3d0e7-1df7-40a2-bee9-ebe74de6c387",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/422062.jpg"
+        }
+      ]
+    },
+    {
+      "id": "901f1422-8261-49a3-88af-cdbf403920aa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Peanut Butter Noodles",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1054 reviews Recipe by: Amy Brolsma \"This is kid friendly with an Asian twist. Can also be made with spaghetti pasta.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b41003b7-b52d-4008-850b-dad9f8022197",
+      "type": "h2",
+      "parent_id": "901f1422-8261-49a3-88af-cdbf403920aa",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 330 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3de5f778-1ef0-4ee9-bde1-36c790c1666a",
+      "type": "h3",
+      "parent_id": "b41003b7-b52d-4008-850b-dad9f8022197",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 330 kcal 16% Fat: 12 g 18% Carbs: 46.8g 15% Protein: 10.7 g 21% Cholesterol: 0 mg 0% Sodium: 1188 mg 48% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c7136eec-2f78-4b91-bdac-c0095871e52a",
+      "type": "h3",
+      "parent_id": "b41003b7-b52d-4008-850b-dad9f8022197",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1ee0abab-982c-4000-95a1-41207c4a1eef",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup chicken broth ADVERTISEMENT 1 1/2 tablespoons minced fresh ginger root ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT 3 tablespoons peanut butter ADVERTISEMENT 1 1/2 tablespoons honey ADVERTISEMENT 2 teaspoons hot chile paste (optional) ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 8 ounces Udon noodles ADVERTISEMENT 1/4 cup chopped green onions ADVERTISEMENT 1/4 cup chopped peanuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f9275dc0-3fa1-4fe1-9f2b-5638b7bb226c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 25 m Bring a large pot of water to a boil. Add noodles and cook until tender according to package directions. Drain. Meanwhile, combine chicken broth, ginger, soy sauce, peanut butter, honey, chili paste, and garlic in a small saucepan. Cook over medium heat until peanut butter melts and is heated through. Add noodles, and toss to coat. Garnish with green onions and peanuts."
+        }
+      ]
+    },
+    {
+      "id": "26fc749a-3f3f-49ce-9a24-daf2349e9cc6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a73b810a-16c4-41cc-80a5-33e19d839ce7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/716493.jpg"
+        }
+      ]
+    },
+    {
+      "id": "17123b4e-f75c-4f4d-a636-f8a3ea59d278",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Kalbi (Korean BBQ Short Ribs)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  97 reviews Recipe by: CC \"This is the staple of Korean fine dining, but too expensive in the restaurants. It is also simple to make at home, and will leave your guests asking for more. Total time includes marinating time. Traditionally, should be served sliced, rolled in romaine lettuce leaves, along with white rice, lightly browned garlic slices, and gochujang (Korean red pepper paste).\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4a410214-c57c-49a1-b5ef-28e6d0732981",
+      "type": "h2",
+      "parent_id": "17123b4e-f75c-4f4d-a636-f8a3ea59d278",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 30 m servings 1096 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "81719421-c1d8-4462-abb6-7fe422f726a9",
+      "type": "h3",
+      "parent_id": "4a410214-c57c-49a1-b5ef-28e6d0732981",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 1096 kcal 55% Fat: 85.6 g 132% Carbs: 44.9g 14% Protein: 35.9 g 72% Cholesterol: 172 mg 57% Sodium: 2831 mg 113% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e2576ec4-72c2-433b-bc60-a6e0b016b67b",
+      "type": "h3",
+      "parent_id": "4a410214-c57c-49a1-b5ef-28e6d0732981",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d6b19d86-1665-4458-8fa2-47d41f603ffe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup soy sauce ADVERTISEMENT 3/4 cup brown sugar ADVERTISEMENT 3/4 cup water ADVERTISEMENT 1 garlic clove, minced ADVERTISEMENT 2 green onions, chopped ADVERTISEMENT 1 tablespoon Asian (toasted) sesame oil ADVERTISEMENT 2 pounds Korean-style short ribs (beef chuck flanken, cut 1/3 to 1/2 inch thick across bones) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c9df793b-a7ff-4e37-8270-e900684092c8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 15 m Ready In 3 h 30 m In a bowl, stir together the soy sauce, brown sugar, water, garlic, green onions, and sesame oil until the sugar has dissolved. Place the ribs in a large plastic zipper bag. Pour the marinade over the ribs, squeeze out all the air, and refrigerate the bag for 3 hours to overnight. Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Remove the ribs from the bag, shake off the excess marinade, and discard the marinade. Grill the ribs on the preheated grill until the meat is still pink but not bloody nearest the bone, 5 to 7 minutes per side."
+        }
+      ]
+    },
+    {
+      "id": "151e2b1c-96e0-4905-8988-2dcb2a9e43f3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "63f0b8d2-c0be-4053-a697-9ae70a0789b9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1660326.jpg"
+        }
+      ]
+    },
+    {
+      "id": "eff44d01-8452-4d14-8a65-5b46deda1c73",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sweet and Sour Chicken I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  829 reviews Recipe by: LINDAHU \"Pan fried chicken cubes served with a sweet and sour sauce.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "17da8be4-f20a-4d7c-b280-80f7ba79e19c",
+      "type": "h2",
+      "parent_id": "eff44d01-8452-4d14-8a65-5b46deda1c73",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 639 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e5afb32f-a97c-47bc-9e41-52b8771df28f",
+      "type": "h3",
+      "parent_id": "17da8be4-f20a-4d7c-b280-80f7ba79e19c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 639 kcal 32% Fat: 18.4 g 28% Carbs: 56.2g 18% Protein: 59.2 g 118% Cholesterol: 160 mg 53% Sodium: 759 mg 30% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7cf15958-a8cd-4380-907a-be490155951b",
+      "type": "h3",
+      "parent_id": "17da8be4-f20a-4d7c-b280-80f7ba79e19c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "69f95817-ee38-472b-a052-15683ec2ffc6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (8 ounce) can pineapple chunks, drained (juice reserved) ADVERTISEMENT 1/4 cup cornstarch ADVERTISEMENT 1 3/4 cups water, divided ADVERTISEMENT 3/4 cup white sugar ADVERTISEMENT 1/2 cup distilled white vinegar ADVERTISEMENT 2 drops orange food color ADVERTISEMENT 8 skinless, boneless chicken breast halves - cut into 1 inch cubes ADVERTISEMENT 2 1/4 cups self-rising flour ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons cornstarch ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/4 teaspoon ground white pepper ADVERTISEMENT 1 egg ADVERTISEMENT 1 1/2 cups water ADVERTISEMENT 1 quart vegetable oil for frying ADVERTISEMENT 2 green bell pepper, cut into 1 inch pieces ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7fb96cd4-cb60-4180-8b90-c62c81ef83ad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 1 h In a saucepan, combine 1 1/2 cups water, sugar, vinegar, reserved pineapple juice, and orange food coloring. Heat to boiling. Turn off heat. Combine 1/4 cup cornstarch and 1/4 cup water; slowly stir into saucepan. Continue stirring until mixture thickens. Combine flour, 2 tablespoons oil, 2 tablespoons cornstarch, salt, white pepper, and egg. Add 1 1/2 cups water gradually to make a thick batter. Stir to blend thoroughly. Add chicken pieces, and stir until chicken is well coated. Heat oil in skillet or wok to 360 degrees F (180 degrees C). Fry chicken pieces in hot oil 10 minutes, or until golden. Remove chicken, and drain on paper towels. When ready to serve, layer green peppers, pineapple chunks, and cooked chicken pieces on a platter. Pour hot sweet and sour sauce over top."
+        }
+      ]
+    },
+    {
+      "id": "41e61123-ca5b-40d6-ad65-147902745a06",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "99156336-e978-4ebb-ac4f-81def7baabf2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3787267.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aae7bece-8752-4f18-9490-3c04c7e325da",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Vegetarian Korma",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  886 reviews Recipe by: YAKUTA \"This is an easy and exotic Indian dish. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2a3e3f4f-c605-4758-a57f-3537994da616",
+      "type": "h2",
+      "parent_id": "aae7bece-8752-4f18-9490-3c04c7e325da",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 462 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b6b688a2-efa9-4cdf-81ff-c8cda65e6c6b",
+      "type": "h3",
+      "parent_id": "2a3e3f4f-c605-4758-a57f-3537994da616",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 462 kcal 23% Fat: 31.1 g 48% Carbs: 41.3g 13% Protein: 8.6 g 17% Cholesterol: 82 mg 27% Sodium: 1434 mg 57% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cc60ace6-ce6d-4c87-82c5-80124704ae43",
+      "type": "h3",
+      "parent_id": "2a3e3f4f-c605-4758-a57f-3537994da616",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f760141b-53ea-48b0-9b32-d8880619940a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 tablespoons vegetable oil ADVERTISEMENT 1 small onion, diced ADVERTISEMENT 1 teaspoon minced fresh ginger root ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 2 potatoes, cubed ADVERTISEMENT 4 carrots, cubed ADVERTISEMENT 1 fresh jalapeno pepper, seeded and sliced ADVERTISEMENT 3 tablespoons ground unsalted cashews ADVERTISEMENT 1 (4 ounce) can tomato sauce ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 1/2 tablespoons curry powder ADVERTISEMENT 1 cup frozen green peas ADVERTISEMENT 1/2 green bell pepper, chopped ADVERTISEMENT 1/2 red bell pepper, chopped ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1 bunch fresh cilantro for garnish ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3abb5aaf-41cf-45c8-9e2f-fccf820bd70a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 30 m Ready In 55 m Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender. Mix in ginger and garlic, and continue cooking 1 minute. Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender. Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes. Garnish with cilantro to serve."
+        }
+      ]
+    },
+    {
+      "id": "94eb048c-7eb3-42e0-9a33-a7c55c186990",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d751d98b-3c30-460d-9078-ee8edfb22e8a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/562877.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9c065ac5-2044-4b1c-87c5-a8ab72e02169",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mama's Asian Chicken and Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  682 reviews Recipe by: scarlett \"A great orange chicken dish!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "10a5fb66-4e7e-46c6-bb90-3c85fa3d4c11",
+      "type": "h2",
+      "parent_id": "9c065ac5-2044-4b1c-87c5-a8ab72e02169",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 347 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4647fbfe-d767-40dd-991f-ca1a85db55ac",
+      "type": "h3",
+      "parent_id": "10a5fb66-4e7e-46c6-bb90-3c85fa3d4c11",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 347 kcal 17% Fat: 8.4 g 13% Carbs: 38g 12% Protein: 28.3 g 57% Cholesterol: 69 mg 23% Sodium: 424 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bf71594d-2270-4a4a-8951-8fd6b63a910b",
+      "type": "h3",
+      "parent_id": "10a5fb66-4e7e-46c6-bb90-3c85fa3d4c11",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "71d98687-51b6-45ab-9e08-e2ccc8bc5f1c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/3 cup warm water ADVERTISEMENT 1/4 cup packed brown sugar ADVERTISEMENT 2 tablespoons orange juice ADVERTISEMENT 2 tablespoons soy sauce ADVERTISEMENT 2 tablespoons ketchup ADVERTISEMENT 1 tablespoon white vinegar ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1/2 teaspoon crushed red pepper flakes ADVERTISEMENT 1/4 teaspoon Chinese five-spice powder ADVERTISEMENT 1 teaspoon grated orange peel ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 1/2 pounds skinless, boneless chicken breast halves, cubed ADVERTISEMENT 2 cups water ADVERTISEMENT 1 cup uncooked white rice ADVERTISEMENT 2 teaspoons cornstarch ADVERTISEMENT 2 tablespoons cold water ADVERTISEMENT chopped green onions for garnish ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "853ed010-73e7-4e69-970f-d66f8f567c90",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h In a bowl, stir together warm water, brown sugar, orange juice, soy sauce, ketchup, white vinegar, garlic, red pepper flakes, five-spice powder, and orange peel until the sugar has dissolved and the mixture is well combined. Heat the olive oil in a large skillet or wok over medium heat, and cook and stir the chicken until the outside is golden brown and the inside is no longer pink, 10 to 12 minutes. Pour the sauce mixture over the chicken, bring to a boil, reduce heat to medium-low, and cover the skillet. Simmer for 30 minutes, stirring occasionally. While the chicken and sauce are simmering, bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Set the rice aside and keep warm. Whisk the cornstarch and 2 tablespoons of cold water in a small bowl until smooth, and stir into the chicken and sauce, a few teaspoons at a time. Let the chicken and sauce cook for about 2 minutes to thicken, then serve over hot cooked rice, sprinkled with green onion."
+        }
+      ]
+    },
+    {
+      "id": "f518afbc-85bf-4bb2-8c35-79635b9357df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2b891136-e2bb-47c0-a668-9227afbaffa2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/695345.jpg"
+        }
+      ]
+    },
+    {
+      "id": "21001936-5030-463b-bc04-d57402daca2d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Shoyu Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  591 reviews Recipe by: The Big E \"Shoyu Chicken is a popular Hawaiian dish. It is often served with rice. The word shoyu is Japanese for soy sauce. Let the chicken soak in the marinade for at least an hour, the longer the better. \" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b0a85781-75c7-44f1-a525-8c39de0adbb3",
+      "type": "h2",
+      "parent_id": "21001936-5030-463b-bc04-d57402daca2d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 338 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d5123782-aed4-4bc6-b12e-d3b9ac58ae81",
+      "type": "h3",
+      "parent_id": "b0a85781-75c7-44f1-a525-8c39de0adbb3",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 338 kcal 17% Fat: 12.6 g 19% Carbs: 21.7g 7% Protein: 33.4 g 67% Cholesterol: 114 mg 38% Sodium: 1304 mg 52% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d14f48d8-23ff-4a3d-9d60-90c73847a7eb",
+      "type": "h3",
+      "parent_id": "b0a85781-75c7-44f1-a525-8c39de0adbb3",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "774aed0c-f1b5-4f38-b953-fc4cafe64e58",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup soy sauce ADVERTISEMENT 1 cup brown sugar ADVERTISEMENT 1 cup water ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 tablespoon grated fresh ginger root ADVERTISEMENT 1 tablespoon ground black pepper ADVERTISEMENT 1 tablespoon dried oregano ADVERTISEMENT 1 teaspoon crushed red pepper flakes (optional) ADVERTISEMENT 1 teaspoon ground cayenne pepper (optional) ADVERTISEMENT 1 teaspoon ground paprika (optional) ADVERTISEMENT 5 pounds skinless chicken thighs ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8952e1df-1156-461c-81d2-517963d5aa5c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Cook 30 m Ready In 1 h 30 m Whisk together the soy sauce, brown sugar, water, garlic, onion, ginger, black pepper, oregano, red pepper flakes, cayenne pepper, and paprika in a large glass or ceramic bowl. Add the chicken thighs, and toss to evenly coat. Cover the bowl with plastic wrap, and marinate the chicken in the refrigerator for at least 1 hour. Preheat an outdoor grill for medium heat, and lightly oil the grate. Remove the chicken thighs from the marinade. Discard the remaining marinade. Grill the chicken thighs on the preheated grill until cooked through, about 15 minutes per side."
+        }
+      ]
+    },
+    {
+      "id": "02e2429f-bf05-4f19-bb21-f9af73ff1fa7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bc666ee7-dce9-4c21-aa0b-004269295efe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/653617.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cac01d7b-5dc8-4020-9ed7-95675e98cdea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Katsu",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  483 reviews Recipe by: sakuraiiko \"This is my family recipe for Chicken Katsu - Japanese style fried chicken. Can also be used to make Tonkatsu, just use pork cutlets instead of chicken. Serve with white rice and tonkatsu sauce.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "859cc0c9-0762-48c6-90d6-d47a3f4d0294",
+      "type": "h2",
+      "parent_id": "cac01d7b-5dc8-4020-9ed7-95675e98cdea",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 297 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f9832fbf-97d5-48b5-8113-d1c85897c08d",
+      "type": "h3",
+      "parent_id": "859cc0c9-0762-48c6-90d6-d47a3f4d0294",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 297 kcal 15% Fat: 11.4 g 18% Carbs: 22.2g 7% Protein: 31.2 g 62% Cholesterol: 118 mg 39% Sodium: 251 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "61acaa58-6d1d-4c87-9bdc-75c90d9eae08",
+      "type": "h3",
+      "parent_id": "859cc0c9-0762-48c6-90d6-d47a3f4d0294",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "aaed6ec8-d9e6-452e-947e-c199f63b9e4f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves - pounded to 1/2 inch thickness ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 2 tablespoons all-purpose flour ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 1 cup panko bread crumbs ADVERTISEMENT 1 cup oil for frying, or as needed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ddc23142-c9db-4410-b31b-2e2d68b66667",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m Season the chicken breasts on both sides with salt and pepper. Place the flour, egg and panko crumbs into separate shallow dishes. Coat the chicken breasts in flour, shaking off any excess. Dip them into the egg, and then press into the panko crumbs until well coated on both sides. Heat 1/4 inch of oil in a large skillet over medium-high heat. Place chicken in the hot oil, and cook 3 or 4 minutes per side, or until golden brown."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

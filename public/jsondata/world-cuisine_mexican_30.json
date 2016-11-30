@@ -1,0 +1,4056 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:30:06.528Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2014203940001_900944612-168-1354754984916.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2014203941001_900944612-168-1354754985891.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546090122001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Guacamole"
+    },
+    {
+      "name": "description",
+      "content": "See how to make classic guacamole with all fresh ingredients."
+    },
+    {
+      "name": "interactionCount",
+      "content": "339717"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/9/2012 4:00:50 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3926"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2307906332001_th-2306014276001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/2251/1033249144001_3566371273001_Angela-s-Awesome-Enchiladas.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2306014276001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Angela's Awesome Enchiladas"
+    },
+    {
+      "name": "description",
+      "content": "The secret to these savory chicken enchiladas is the seasoning."
+    },
+    {
+      "name": "interactionCount",
+      "content": "116365"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/14/2014 11:16:14 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1757"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2487991967001_th-1560889041001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2014203944001_900944612-168-1354755063549.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560889041001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Enchiladas I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make delicious chicken enchiladas the easy way!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "343329"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/18/2013 3:26:17 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1848"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1678881188001_th-1675348220001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1677046202001_ari-origin05-arc-148-1339007003461.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675348220001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Fish Tacos"
+    },
+    {
+      "name": "description",
+      "content": "See how to make 5-star San Diego-style fish tacos."
+    },
+    {
+      "name": "interactionCount",
+      "content": "220980"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/7/2012 1:27:47 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1752"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1640672434001_th-1628960674001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1638810799001_ari-origin05-arc-151-1337033202920.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628960674001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mexican Rice II"
+    },
+    {
+      "name": "description",
+      "content": "See how to make easy, tasty Mexican rice."
+    },
+    {
+      "name": "interactionCount",
+      "content": "92011"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 11:27:48 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.47"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1950"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.63"
+    },
+    {
+      "name": "reviewCount",
+      "content": "122"
+    },
+    {
+      "name": "recipeYield",
+      "content": "9"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008765831001_th-1822996913001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2008518005001_900944612-137-1354571769635.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1822996913001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Tortilla Soup V"
+    },
+    {
+      "name": "description",
+      "content": "Chili powder and salsa give this 5-star tortilla soup just the right kick."
+    },
+    {
+      "name": "interactionCount",
+      "content": "66280"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/8/2014 3:17:36 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1468"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.24"
+    },
+    {
+      "name": "reviewCount",
+      "content": "165"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1813208347001_th-1793986819001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1813154460001_ari-origin05-arc-133-1346272808807.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1793986819001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Catherine's Spicy Chicken Soup"
+    },
+    {
+      "name": "description",
+      "content": "This delicious soup takes a little time but is oh so worth it."
+    },
+    {
+      "name": "interactionCount",
+      "content": "33609"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/9/2012 3:34:32 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.75"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1561"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969402101001_th-1954487083001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/835/1033249144001_3499841546001_Mexican-Bean-Salad.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954487083001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mexican Bean Salad"
+    },
+    {
+      "name": "description",
+      "content": "A perfect potluck partner. Three beans, corn, peppers, and plenty of kick."
+    },
+    {
+      "name": "interactionCount",
+      "content": "100292"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/24/2014 4:22:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1449"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1799546460001_th-1797607088001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/1130/1033249144001_3830398334001_Addictive-Sweet-Potato-Burritos.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1797607088001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Addictive Sweet Potato Burritos"
+    },
+    {
+      "name": "description",
+      "content": "These vegetarian burritos have a slightly spicy and utterly addictive flavor."
+    },
+    {
+      "name": "interactionCount",
+      "content": "73430"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/9/2014 10:46:29 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.26"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1783"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1628405272001_th-1622190991001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1626596358001_ari-origin05-arc-124-1336426163792.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1622190991001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Annie's Fruit Salsa and Cinnamon Chips"
+    },
+    {
+      "name": "description",
+      "content": "Chips and salsa get a sweet, fruity makeover!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "78463"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/8/2012 3:57:46 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3217"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.63"
+    },
+    {
+      "name": "reviewCount",
+      "content": "21"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "337"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201605/215/1033249144001_4913539694001_4913510956001-th.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201605/215/1033249144001_4913539696001_4913510956001-vs.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=4913510956001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Enchiladas II"
+    },
+    {
+      "name": "description",
+      "content": "Make these family-pleasing chicken enchiladas."
+    },
+    {
+      "name": "interactionCount",
+      "content": "7747"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/26/2016 3:56:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3035"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1569381865001_th-1567284627001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1567518313001_ari-origin05-arc-138-1334695862091.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1567284627001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Seven Layer Taco Dip"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple taco dip made with seven essential ingredients."
+    },
+    {
+      "name": "interactionCount",
+      "content": "340550"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/25/2013 10:12:37 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.73"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1761"
+    },
+    {
+      "name": "recipeYield",
+      "content": "56"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655264757001_ari-origin05-arc-162-1337897588391.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655264758001_ari-origin05-arc-162-1337897588815.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1653550832001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken Tortilla Soup"
+    },
+    {
+      "name": "description",
+      "content": "Make this tasty chicken tortilla soup in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "180254"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/10/2013 11:45:53 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3596"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/1287/1033249144001_3024623663001_th-2976482739001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201409/1957/1033249144001_3764022458001_Salsa-Chicken.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2976482739001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Salsa Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Simple, savory baked chicken flavored with taco seasoning and salsa."
+    },
+    {
+      "name": "interactionCount",
+      "content": "143297"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/2/2014 3:47:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2939"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/3121/1033249144001_3851239794001_th-3786440303001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/687/1033249144001_3851083586001_video-still-for-video-3786440303001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3786440303001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Lime Chicken Soft Tacos"
+    },
+    {
+      "name": "description",
+      "content": "Check out these lime flavored chicken soft tacos."
+    },
+    {
+      "name": "interactionCount",
+      "content": "17139"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/21/2014 11:08:51 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1677"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "257"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.61"
+    },
+    {
+      "name": "reviewCount",
+      "content": "204"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/2195/1033249144001_3525349608001_th-3507409140001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/871/1033249144001_3508007501001_video-still-for-video-3507409140001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3507409140001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Delicious Black Bean Burritos"
+    },
+    {
+      "name": "description",
+      "content": "Black beans, cream cheese, & green chiles give basic burrito’s a tasty makeover."
+    },
+    {
+      "name": "interactionCount",
+      "content": "73277"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/30/2014 5:04:59 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.45"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1354"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1550838631001_th-1547110497001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1547392474001_ari-origin05-arc-137-1333571942677.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1547110497001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Taco Seasoning I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make your own five-star taco-seasoning mix."
+    },
+    {
+      "name": "interactionCount",
+      "content": "160224"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/6/2012 3:19:54 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.82"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4017"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "63"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1809112358001_th-1793932385001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1808812080001_ari-origin05-arc-141-1346101933761.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1793932385001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Refried Beans without the Refry"
+    },
+    {
+      "name": "description",
+      "content": "See how easy (and delicious) it is to make refried beans in your slow cooker!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "48318"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/27/2012 5:34:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1715"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "183"
+    },
+    {
+      "name": "recipeYield",
+      "content": "18"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2307909611001_th-2305869670001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2305985775001_video-still-for-video-2305869670001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2305869670001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Burrito Pie"
+    },
+    {
+      "name": "description",
+      "content": "This spicy casserole features layers of seasoned beef, beans, and cheese."
+    },
+    {
+      "name": "interactionCount",
+      "content": "149528"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/18/2013 2:44:04 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2678"
+    },
+    {
+      "name": "recipeYield",
+      "content": "16"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680452072001_th-1662271141001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1675051392001_ari-origin05-arc-162-1338926553702.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1662271141001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken Taco Soup"
+    },
+    {
+      "name": "description",
+      "content": "Making this chicken taco soup is a snap in the slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "173742"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/28/2012 10:13:01 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4640"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/1429/1033249144001_2948024195001_th-2944273946001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/2555/1033249144001_2947650133001_video-still-for-video-2944273946001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2944273946001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pollo Fajitas"
+    },
+    {
+      "name": "description",
+      "content": "See how to make simple chicken fajitas with a zesty marinade."
+    },
+    {
+      "name": "interactionCount",
+      "content": "12491"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/18/2013 3:46:30 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.44"
+    },
+    {
+      "name": "reviewCount",
+      "content": "810"
+    },
+    {
+      "name": "recipeYield",
+      "content": "5"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "08f3e5a8-7e03-416d-b8ae-e0f2bb964692",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "182d3beb-4743-4d49-978d-ae3a8327bf30",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/811729.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ca7b0b3c-f0d9-4f42-afec-a80b2d5c1826",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Guacamole",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3926 reviews Recipe by: Bob Cody \"You can make this avocado salad smooth or chunky depending on your tastes.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3dfe1799-7d49-4ec6-8adc-2b611ec2b758",
+      "type": "h2",
+      "parent_id": "ca7b0b3c-f0d9-4f42-afec-a80b2d5c1826",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 m servings 262 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e3b0a326-8a1b-4067-a78c-e8166a1d6081",
+      "type": "h3",
+      "parent_id": "3dfe1799-7d49-4ec6-8adc-2b611ec2b758",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 262 kcal 13% Fat: 22.2 g 34% Carbs: 18g 6% Protein: 3.7 g 7% Cholesterol: 0 mg 0% Sodium: 596 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a25e4f4e-e016-47bc-921b-a0dc03d14539",
+      "type": "h3",
+      "parent_id": "3dfe1799-7d49-4ec6-8adc-2b611ec2b758",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "653eb114-bee4-4ffe-a746-a1f1df2f2fe5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 avocados - peeled, pitted, and mashed ADVERTISEMENT 1 lime, juiced ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/2 cup diced onion ADVERTISEMENT 3 tablespoons chopped fresh cilantro ADVERTISEMENT 2 roma (plum) tomatoes, diced ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 pinch ground cayenne pepper (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8c8beda9-3d74-486d-8b64-2a15f5338047",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Ready In 10 m In a medium bowl, mash together the avocados, lime juice, and salt. Mix in onion, cilantro, tomatoes, and garlic. Stir in cayenne pepper. Refrigerate 1 hour for best flavor, or serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "de630408-444e-4c13-8f94-d0a8e4f04520",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e7d8f162-2544-481d-8c44-220d504182ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/683438.jpg"
+        }
+      ]
+    },
+    {
+      "id": "84b293a1-4874-4a71-9d4f-6ce36a7ac686",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Angela's Awesome Enchiladas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1757 reviews Recipe by: MomSavedbyGrace \"The secret is in the seasonings! I whipped these up on my own using stuff I had on hand. Shredding the chicken is the most time-consuming step, but it's worth it in the end. Give these babies a try! Serve with sour cream and a side of Spanish rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "84121516-43e7-4dea-b087-c7f887bfde23",
+      "type": "h2",
+      "parent_id": "84b293a1-4874-4a71-9d4f-6ce36a7ac686",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 45 m servings 709 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "133eec5a-ccc7-4804-9250-f33b3f9a30ec",
+      "type": "h3",
+      "parent_id": "84121516-43e7-4dea-b087-c7f887bfde23",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 709 kcal 35% Fat: 36.3 g 56% Carbs: 52.5g 17% Protein: 42.2 g 84% Cholesterol: 126 mg 42% Sodium: 1764 mg 71% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "67b2dec0-cb96-4339-9a57-18a24b8395ee",
+      "type": "h3",
+      "parent_id": "84121516-43e7-4dea-b087-c7f887bfde23",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cae94dff-3f32-4285-ba1f-e91715b162a7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds skinless, boneless chicken breast meat - cut into chunks ADVERTISEMENT 1 (10.75 ounce) can condensed cream of chicken soup ADVERTISEMENT 1 1/4 cups sour cream ADVERTISEMENT 1/4 teaspoon chili powder ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 1 (4 ounce) can chopped green chilies, drained ADVERTISEMENT 1 (1.25 ounce) package mild taco seasoning mix ADVERTISEMENT 1 bunch green onions, chopped, divided ADVERTISEMENT 1 cup water ADVERTISEMENT 1 teaspoon lime juice ADVERTISEMENT 1/2 teaspoon onion powder ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 5 (12 inch) flour tortillas ADVERTISEMENT 3 cups Cheddar cheese, shredded, divided ADVERTISEMENT 1 (10 ounce) can enchilada sauce ADVERTISEMENT 1 (6 ounce) can sliced black olives ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e9ef5354-a780-4d46-afe0-e40b6a6ed569",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 45 m Cook 1 h Ready In 1 h 45 m Place the chicken in a large pot and add water to cover. Bring to a boil over high heat, then reduce the heat to medium-low, cover, and simmer until the chicken pieces are no longer pink, about 10 minutes. Shred chicken by placing two forks back to back and pulling meat apart. Set the shredded chicken aside. Meanwhile, combine the cream of chicken soup, sour cream, and chili powder in a saucepan. Bring to a simmer over low heat, stirring occasionally, then turn off the heat and cover to keep warm. Heat the butter in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Add the shredded chicken, chopped green chilies, taco seasoning, half of the bunch of chopped green onion, and water. Allow to simmer for 10 minutes. Stir in the lime juice, onion powder, and garlic powder; simmer for an additional 10 minutes. Preheat an oven to 350 degrees F (175 degrees C). Stir 1 cup of the soup mixture into the skillet with the chicken mixture. Spread the remaining soup mixture on the bottom of a 9x13 inch baking dish. Fill each tortilla with chicken mixture. Sprinkle Cheddar cheese over the chicken filling before folding the tortillas, reserving half of the shredded cheese for topping the enchiladas. Fold tortillas over the filling and place seam-side down in the prepared pan. Pour enchilada sauce evenly over the enchiladas. Cover with the remaining 1 1/2 cups of Cheddar cheese. Sprinkle the reserved chopped green onions and the sliced olives on top of the cheese. Bake in the preheated oven until filling is heated through and the cheese is melted and bubbling, about 25 minutes."
+        }
+      ]
+    },
+    {
+      "id": "f22d01e4-23e2-439f-80f5-12c36a27ae48",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9361b5e6-0b7a-4997-8996-92b02ff09a91",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/306964.jpg"
+        }
+      ]
+    },
+    {
+      "id": "25a2281a-e7db-4c50-92d9-ce5bb8d3fd17",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Enchiladas I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1848 reviews Recipe by: Debbie Donham \"This is a quick and easy recipe. Good for quick suppers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "432ec0ac-2c7d-4804-a916-8585433f76cf",
+      "type": "h2",
+      "parent_id": "25a2281a-e7db-4c50-92d9-ce5bb8d3fd17",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 498 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5657584f-4ec4-4067-a39c-06c8171861c6",
+      "type": "h3",
+      "parent_id": "432ec0ac-2c7d-4804-a916-8585433f76cf",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 498 kcal 25% Fat: 15.9 g 25% Carbs: 49.7g 16% Protein: 26.7 g 53% Cholesterol: 72 mg 24% Sodium: 1227 mg 49% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bd2156ff-8431-49fd-b14a-c8da5c3666eb",
+      "type": "h3",
+      "parent_id": "432ec0ac-2c7d-4804-a916-8585433f76cf",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9737ecc4-0454-4ca8-b018-2a9018188f91",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1/2 pint sour cream ADVERTISEMENT 1 cup shredded Cheddar cheese ADVERTISEMENT 1 tablespoon dried parsley ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon salt (optional) ADVERTISEMENT 1 (15 ounce) can tomato sauce ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1 tablespoon chili powder ADVERTISEMENT 1/3 cup chopped green bell pepper ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 8 (10 inch) flour tortillas ADVERTISEMENT 1 (12 ounce) jar taco sauce ADVERTISEMENT 3/4 cup shredded Cheddar cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "84d7931d-0a71-4db0-af7d-f79c58fca0e5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h 30 m Preheat oven to 350 degrees F (175 degrees C). In a medium, non-stick skillet over medium heat, cook chicken until no longer pink and juices run clear. Drain excess fat. Cube the chicken and return it to the skillet. Add the onion, sour cream, Cheddar cheese, parsley, oregano and ground black pepper. Heat until cheese melts. Stir in salt, tomato sauce, water, chili powder, green pepper and garlic. Roll even amounts of the mixture in the tortillas. Arrange in a 9x13 inch baking dish. Cover with taco sauce and 3/4 cup Cheddar cheese. Bake uncovered in the preheated oven 20 minutes. Cool 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "56c8aa38-8400-46d0-8d40-979ff1ca93ce",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "377b7f4f-0bc4-4b9d-a618-75ed9d34e7e0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/317051.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4a5617bb-2bb0-4eec-a316-77b6d6b7af4b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fish Tacos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1752 reviews Recipe by: BREESE823 \"I'm from San Diego and these taste just like home! We live in the south now, and nobody has heard of these! Serve with homemade pico de gallo, and lime wedges to squeeze on top!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7c49e3df-3711-4675-86b5-c0d9048af3bb",
+      "type": "h2",
+      "parent_id": "4a5617bb-2bb0-4eec-a316-77b6d6b7af4b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 409 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "652a23f3-d2d1-47eb-acd1-46416766a96d",
+      "type": "h3",
+      "parent_id": "7c49e3df-3711-4675-86b5-c0d9048af3bb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 409 kcal 20% Fat: 18.8 g 29% Carbs: 43g 14% Protein: 17.3 g 35% Cholesterol: 54 mg 18% Sodium: 407 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "754520ff-72ce-4049-baec-f406044e2935",
+      "type": "h3",
+      "parent_id": "7c49e3df-3711-4675-86b5-c0d9048af3bb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5f2152f7-b294-43be-96b9-1c5e9309f584",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup all-purpose flour ADVERTISEMENT 2 tablespoons cornstarch ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 egg ADVERTISEMENT 1 cup beer ADVERTISEMENT 1/2 cup plain yogurt ADVERTISEMENT 1/2 cup mayonnaise ADVERTISEMENT 1 lime, juiced ADVERTISEMENT 1 jalapeno pepper, minced ADVERTISEMENT 1 teaspoon minced capers ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 1/2 teaspoon ground cumin ADVERTISEMENT 1/2 teaspoon dried dill weed ADVERTISEMENT 1 teaspoon ground cayenne pepper ADVERTISEMENT 1 quart oil for frying ADVERTISEMENT 1 pound cod fillets, cut into 2 to 3 ounce portions ADVERTISEMENT 1 (12 ounce) package corn tortillas ADVERTISEMENT 1/2 medium head cabbage, finely shredded ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e1faea77-88a6-408a-92a8-6eefc477dfca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 40 m Cook 20 m Ready In 1 h To make beer batter: In a large bowl, combine flour, cornstarch, baking powder, and salt. Blend egg and beer, then quickly stir into the flour mixture (don't worry about a few lumps). To make white sauce: In a medium bowl, mix together yogurt and mayonnaise. Gradually stir in fresh lime juice until consistency is slightly runny. Season with jalapeno, capers, oregano, cumin, dill, and cayenne. Heat oil in deep-fryer to 375 degrees F (190 degrees C). Dust fish pieces lightly with flour. Dip into beer batter, and fry until crisp and golden brown. Drain on paper towels. Lightly fry tortillas; not too crisp. To serve, place fried fish in a tortilla, and top with shredded cabbage, and white sauce."
+        }
+      ]
+    },
+    {
+      "id": "8ac15b15-0634-4479-82b9-89886a617a6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3ee1d896-e1d2-4c1f-9e0b-b3e8a522ed53",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/437348.jpg"
+        }
+      ]
+    },
+    {
+      "id": "66c8b41a-528a-4205-ac40-452ff5c2a6f2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mexican Rice II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1950 reviews Recipe by: Mommyto2 \"This is a wonderful side dish for any Mexican dinner.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "70a8aff0-87f4-4edd-96cc-b23b323b4dd4",
+      "type": "h2",
+      "parent_id": "66c8b41a-528a-4205-ac40-452ff5c2a6f2",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 291 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "80bfc7f6-c804-42ca-bd6d-89b3cd760dd0",
+      "type": "h3",
+      "parent_id": "70a8aff0-87f4-4edd-96cc-b23b323b4dd4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 291 kcal 15% Fat: 11 g 17% Carbs: 42.4g 14% Protein: 4.8 g 10% Cholesterol: 2 mg < 1% Sodium: 1096 mg 44% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bfe6496a-7db8-48c0-8fee-d84f50b4f480",
+      "type": "h3",
+      "parent_id": "70a8aff0-87f4-4edd-96cc-b23b323b4dd4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "89d042f1-2758-4f82-8c8d-e79ab6577ec8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons vegetable oil ADVERTISEMENT 1 cup uncooked long-grain rice ADVERTISEMENT 1 teaspoon garlic salt ADVERTISEMENT 1/2 teaspoon ground cumin ADVERTISEMENT 1/4 cup chopped onion ADVERTISEMENT 1/2 cup tomato sauce ADVERTISEMENT 2 cups chicken broth ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "681fcb4c-565c-4498-91be-7217620bee2f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 25 m Ready In 30 m Heat oil in a large saucepan over medium heat and add rice. Cook, stirring constantly, until puffed and golden. While rice is cooking, sprinkle with salt and cumin. Stir in onions and cook until tender. Stir in tomato sauce and chicken broth; bring to a boil. Reduce heat to low, cover and simmer for 20 to 25 minutes. Fluff with a fork."
+        }
+      ]
+    },
+    {
+      "id": "48089968-55b0-47a8-b274-78f3d9f6a73d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9ea291ae-05df-4026-bae5-a7d21bd3f01b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/392206.jpg"
+        }
+      ]
+    },
+    {
+      "id": "363adc23-abb2-4af3-80e6-8c73a12b0632",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Enchiladas Verdes",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  122 reviews Recipe by: gema \"I learned this recipe from an amazing cook from Puebla. I've been perfecting it for over 15 years and realized that it was time to share it when my foodie friends tried to drink the sauce out of the saucepan. I use the roasted or baked chicken from the grocery store. I did it once only to save time, but found that they are tastier. Be conservative with the cream and the cheese. Do not use sour cream!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "eb1839ce-ae2d-48db-8b07-7605d19f3778",
+      "type": "h2",
+      "parent_id": "363adc23-abb2-4af3-80e6-8c73a12b0632",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 284 cals for serving adjustment Serving size has been adjusted! Original recipe yields 9 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "64a19352-13ab-45a6-9e79-ff354c921ad2",
+      "type": "h3",
+      "parent_id": "eb1839ce-ae2d-48db-8b07-7605d19f3778",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 284 kcal 14% Fat: 20.3 g 31% Carbs: 17.1g 6% Protein: 11 g 22% Cholesterol: 70 mg 23% Sodium: 222 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5c583320-5d06-440a-803a-f1f4e9497f7e",
+      "type": "h3",
+      "parent_id": "eb1839ce-ae2d-48db-8b07-7605d19f3778",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "87a100ea-8c65-4b1d-912d-c3328d12f10a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cloves garlic ADVERTISEMENT 3 serrano peppers ADVERTISEMENT 1 pound small green tomatillos, husks removed ADVERTISEMENT 1 cup vegetable oil for frying ADVERTISEMENT 9 corn tortillas ADVERTISEMENT 3 cups water ADVERTISEMENT 4 teaspoons chicken bouillon granules ADVERTISEMENT 1/2 store-bought rotisserie chicken, meat removed and shredded ADVERTISEMENT 1/4 head iceberg lettuce, shredded ADVERTISEMENT 1 cup cilantro leaves ADVERTISEMENT 1 (8 ounce) container Mexican crema, crema fresca ADVERTISEMENT 1 cup grated cotija cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ef374ef9-0b7e-4a8a-9a9e-4a9522aef7ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Cover a large griddle with aluminum foil and preheat to medium-high. Cook the garlic, serrano peppers, and tomatillos on the hot griddle until toasted and blackened, turning occasionally, about 5 minutes for the garlic, 10 minutes for the peppers, and 15 minutes for the tomatillos. Remove to a bowl and allow to cool. Heat oil in a small, deep skillet to 350 degrees F (175 degrees C). Using kitchen tongs, fry the tortillas individually, turning them once. They shouldn't be in the hot oil for more than 5 seconds per side. Remove excess oil with paper towels and keep warm. Remember that the hotter the oil, the less that the tortillas will absorb. Place the toasted garlic, serrano peppers, tomatillos, and the water in a blender and blend until smooth; pour into a saucepan over medium heat and bring to a boil. Dissolve the chicken bouillon into the mixture, reduce heat to medium-low, and cook at a simmer until slightly thickened, about 10 minutes. The sauce shouldn't be too thick. Soak three tortillas in the sauce, one at a time, for a few seconds, fill them with shredded chicken, sprinkle the meat with some of the sauce, roll them and place them seam side down on a pasta bowl. Spoon a generous amount of sauce over them and top them with lettuce, cilantro, crema, and cotija cheese. Pour a little more sauce over the whole thing if desired. Repeat the procedure twice more. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "967c6c6e-0587-49cb-a2ac-0fe320bba9af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8cb4f256-5f4b-4d44-bc58-f82970c8f8e6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/328329.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3fbd7b7d-2954-4831-bf7b-93708ed60ac1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Tortilla Soup V",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1468 reviews Recipe by: Betty \"An easy to make soup that's quite good. Fresh chicken and tortilla chips with vegetables. Makes for a delicious, warm soup. Try garnishing with cheese and/or a little sour cream.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "961087e3-89c3-4325-a34f-e9a4bca2a369",
+      "type": "h2",
+      "parent_id": "3fbd7b7d-2954-4831-bf7b-93708ed60ac1",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 486 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "00c3cc5c-960a-4037-a888-8b9aa79444c9",
+      "type": "h3",
+      "parent_id": "961087e3-89c3-4325-a34f-e9a4bca2a369",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 486 kcal 24% Fat: 19.8 g 31% Carbs: 55.2g 18% Protein: 25.2 g 50% Cholesterol: 51 mg 17% Sodium: 1618 mg 65% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3df4b086-e4f0-4fea-8d9f-525f02ee1241",
+      "type": "h3",
+      "parent_id": "961087e3-89c3-4325-a34f-e9a4bca2a369",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0cf62874-67e5-41e9-80fb-02eaec38901c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 skinless, boneless chicken breasts, cut into cubes ADVERTISEMENT 1/2 teaspoon olive oil ADVERTISEMENT 1/2 teaspoon minced garlic ADVERTISEMENT 1/4 teaspoon ground cumin ADVERTISEMENT 2 (14.5 ounce) cans chicken broth ADVERTISEMENT 1 cup frozen corn kernels ADVERTISEMENT 1 cup chopped onion ADVERTISEMENT 1/2 teaspoon chili powder ADVERTISEMENT 1 tablespoon lemon juice ADVERTISEMENT 1 cup chunky salsa ADVERTISEMENT 8 ounces corn tortilla chips ADVERTISEMENT 1/2 cup shredded Monterey Jack cheese (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8561f0f2-7829-405d-92b8-1a05b2b5639c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "In a large pot over medium heat, cook and stir chicken in the oil for 5 minutes. Add the garlic and cumin and mix well. Then add the broth, corn, onion, chili powder, lemon juice, and salsa. Reduce heat to low and simmer for about 20 to 30 minutes. Break up some tortilla chips into individual bowls and pour soup over chips. Top with the Monterey Jack cheese and a little sour cream."
+        }
+      ]
+    },
+    {
+      "id": "b046fabd-484f-46b9-8464-e4775ab3e7c4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2189cc4a-45a3-42a9-bd24-5551ec89490f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/702327.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bd141fb6-e192-4dee-89b4-7891fbe9fe5a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mexican Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  165 reviews Recipe by: ginger \"This flavored rice is a local favorite in San Antonio.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "41b53827-523e-4978-828f-8ec29a818780",
+      "type": "h2",
+      "parent_id": "bd141fb6-e192-4dee-89b4-7891fbe9fe5a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 199 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "401d9718-d435-4ec4-a3e6-2c21990ed5d4",
+      "type": "h3",
+      "parent_id": "41b53827-523e-4978-828f-8ec29a818780",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 199 kcal 10% Fat: 5.6 g 9% Carbs: 33.8g 11% Protein: 3.4 g 7% Cholesterol: 0 mg 0% Sodium: 809 mg 32% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "62a31ae8-103a-4ff3-99ef-6a245c521d8e",
+      "type": "h3",
+      "parent_id": "41b53827-523e-4978-828f-8ec29a818780",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7639129b-19d5-4921-b610-ebc6201be395",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons vegetable oil ADVERTISEMENT 2/3 cup diced onion ADVERTISEMENT 1 1/2 cups uncooked white rice ADVERTISEMENT 1 cup chopped green bell pepper ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 1/2 (8 ounce) cans tomato sauce ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1/8 teaspoon powdered saffron ADVERTISEMENT 3 cups water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b4cfc3e6-d5b3-4d95-b627-6add3afcb629",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 30 m Ready In 50 m In a large saucepan, heat vegetable oil over a medium-low heat. Place the onions in the pan, and saute until golden. Add rice to pan, and stir to coat grains with oil. Mix in green bell pepper, cumin, chili powder, tomato sauce, salt, garlic, saffron, and water. Cover, bring to a boil, and then reduce heat to simmer. Cook for 30 to 40 minutes, or until rice is tender. Stir occasionally."
+        }
+      ]
+    },
+    {
+      "id": "f5c5388d-9503-4fc8-b46a-691496d30c69",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "19cbd0ec-71f3-423c-9ccb-4134ce58bcab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/698391.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c6ec46a2-20e6-4115-8be9-e2f535f915d3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Catherine's Spicy Chicken Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1561 reviews Recipe by: AUNTTAF \"This is a great recipe that you can fix to your taste! The longer it simmers the better. Top with crushed tortilla chips and shredded cheese. Enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cc1b21b6-c0db-4cc6-b8ec-645dc1c8326a",
+      "type": "h2",
+      "parent_id": "c6ec46a2-20e6-4115-8be9-e2f535f915d3",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 473 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "61c29a26-0342-4eb1-8493-2a70766247dc",
+      "type": "h3",
+      "parent_id": "cc1b21b6-c0db-4cc6-b8ec-645dc1c8326a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 473 kcal 24% Fat: 15.3 g 24% Carbs: 50.3g 16% Protein: 39.6 g 79% Cholesterol: 82 mg 27% Sodium: 2436 mg 97% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e6768a19-8c72-4052-a7b2-cc9da8ef3525",
+      "type": "h3",
+      "parent_id": "cc1b21b6-c0db-4cc6-b8ec-645dc1c8326a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "daaeedc3-8f52-4f47-b93c-1645efbc13b0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 quarts water ADVERTISEMENT 8 skinless, boneless chicken breast halves ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1 teaspoon garlic powder ADVERTISEMENT 2 tablespoons dried parsley ADVERTISEMENT 1 tablespoon onion powder ADVERTISEMENT 5 cubes chicken bouillon ADVERTISEMENT 3 tablespoons olive oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 3 cloves garlic, chopped ADVERTISEMENT 1 (16 ounce) jar chunky salsa ADVERTISEMENT 2 (14.5 ounce) cans peeled and diced tomatoes ADVERTISEMENT 1 (14.5 ounce) can whole peeled tomatoes ADVERTISEMENT 1 (10.75 ounce) can condensed tomato soup ADVERTISEMENT 3 tablespoons chili powder ADVERTISEMENT 1 (15 ounce) can whole kernel corn, drained ADVERTISEMENT 2 (16 ounce) cans chili beans, undrained ADVERTISEMENT 1 (8 ounce) container sour cream ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fcdc8b8d-e1ff-4501-8de0-86b91010beab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m In a large pot over medium heat, combine water, chicken, salt, pepper, garlic powder, parsley, onion powder and bouillon cubes. Bring to a boil, then reduce heat and simmer 1 hour, or until chicken juices run clear. Remove chicken, reserve broth. Shred chicken. In a large pot over medium heat, cook onion and garlic in olive oil until slightly browned. Stir in salsa, diced tomatoes, whole tomatoes, tomato soup, chili powder, corn, chili beans, sour cream, shredded chicken and 5 cups broth. Simmer 30 minutes."
+        }
+      ]
+    },
+    {
+      "id": "e8754357-5b48-4c38-9c48-3be2501fcfa7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a94651c4-e15b-417e-b7cd-f13b2ba840a4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/828805.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3a878a43-abf5-4286-bad6-703f5eec4983",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mexican Bean Salad",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1449 reviews Recipe by: Karen Castle \"A colorful, spicy, and refreshing bean and corn salad.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "49ce21c9-38c1-4065-80ec-99b0efdcc686",
+      "type": "h2",
+      "parent_id": "3a878a43-abf5-4286-bad6-703f5eec4983",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 15 m servings 334 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d7e20e09-a282-4b75-80d1-b49389d322c8",
+      "type": "h3",
+      "parent_id": "49ce21c9-38c1-4065-80ec-99b0efdcc686",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 334 kcal 17% Fat: 14.8 g 23% Carbs: 41.7g 13% Protein: 11.2 g 22% Cholesterol: 0 mg 0% Sodium: 1159 mg 46% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "92f1f9e3-6da2-4a3d-a55b-5e147a9f9e37",
+      "type": "h3",
+      "parent_id": "49ce21c9-38c1-4065-80ec-99b0efdcc686",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6b382566-02cc-4ca0-b0b9-a0c26153383d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (15 ounce) can black beans, rinsed and drained ADVERTISEMENT 1 (15 ounce) can kidney beans, drained ADVERTISEMENT 1 (15 ounce) can cannellini beans, drained and rinsed ADVERTISEMENT 1 green bell pepper, chopped ADVERTISEMENT 1 red bell pepper, chopped ADVERTISEMENT 1 (10 ounce) package frozen corn kernels ADVERTISEMENT 1 red onion, chopped ADVERTISEMENT 1/2 cup olive oil ADVERTISEMENT 1/2 cup red wine vinegar ADVERTISEMENT 2 tablespoons fresh lime juice ADVERTISEMENT 1 tablespoon lemon juice ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1 tablespoon salt ADVERTISEMENT 1 clove crushed garlic ADVERTISEMENT 1/4 cup chopped fresh cilantro ADVERTISEMENT 1/2 tablespoon ground cumin ADVERTISEMENT 1/2 tablespoon ground black pepper ADVERTISEMENT 1 dash hot pepper sauce ADVERTISEMENT 1/2 teaspoon chili powder ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "152b651e-22bc-4c91-b7dc-b528d2a511e8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Ready In 1 h 15 m In a large bowl, combine beans, bell peppers, frozen corn, and red onion. In a small bowl, whisk together olive oil, red wine vinegar, lime juice, lemon juice, sugar, salt, garlic, cilantro, cumin, and black pepper. Season to taste with hot sauce and chili powder. Pour olive oil dressing over vegetables; mix well. Chill thoroughly, and serve cold."
+        }
+      ]
+    },
+    {
+      "id": "88c3d1f6-a8b9-411e-9fee-bb69f991942f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "29c28a02-50fa-488f-8c2e-f6016db87bc6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/269632.jpg"
+        }
+      ]
+    },
+    {
+      "id": "08714aa5-8ac4-4985-9e9f-ce1a781f30c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Addictive Sweet Potato Burritos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1783 reviews Recipe by: Karena \"Once you've had one, you'll want another. The recipe is a little different from most burrito recipes, but I've had many, many requests for it. Serve these with sour cream, chopped green onions, and salsa.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b2244d81-a0e9-44bc-b870-0302250733ce",
+      "type": "h2",
+      "parent_id": "08714aa5-8ac4-4985-9e9f-ce1a781f30c0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 505 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ba733fbe-abf2-4275-a964-9f52921ad697",
+      "type": "h3",
+      "parent_id": "b2244d81-a0e9-44bc-b870-0302250733ce",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 505 kcal 25% Fat: 8.5 g 13% Carbs: 76.6g 25% Protein: 20 g 40% Cholesterol: 20 mg 7% Sodium: 1029 mg 41% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "236278c2-50c8-422f-80ff-4b870d7b4e47",
+      "type": "h3",
+      "parent_id": "b2244d81-a0e9-44bc-b870-0302250733ce",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0345c46b-162c-4bbf-bca7-d43414e6c3be",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon vegetable oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 6 cups canned kidney beans, drained ADVERTISEMENT 2 cups water ADVERTISEMENT 3 tablespoons chili powder ADVERTISEMENT 4 teaspoons prepared mustard ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 1 pinch cayenne pepper, or to taste ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT 4 cups mashed cooked sweet potatoes ADVERTISEMENT 12 (10 inch) flour tortillas, warmed ADVERTISEMENT 8 ounces shredded Cheddar cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "6bcb6a57-6869-4592-ae44-6ec1a5fe5a29",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 25 m Ready In 40 m Preheat oven to 350 degrees F (175 degrees C). Heat oil in a medium skillet and saute onion and garlic until soft. Mash beans into the onion mixture. Gradually stir in water; heat until warm, 2 to 3 minutes. Remove from heat and stir in the soy sauce, chili powder, mustard, cumin, and cayenne pepper. Divide bean mixture and mashed sweet potatoes evenly between the tortillas; top with cheese. Fold tortillas burrito-style around the fillings and place on a baking sheet. Bake in the preheated oven until warmed through, about 12 minutes."
+        }
+      ]
+    },
+    {
+      "id": "382ef691-5782-4423-af99-2d43ff42d8bc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "048e86cc-9c58-474c-9959-ff1358086b90",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/829527.jpg"
+        }
+      ]
+    },
+    {
+      "id": "720ea659-ec49-4d19-be4c-085a605ffafd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Annie's Fruit Salsa and Cinnamon Chips",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3217 reviews Recipe by: Ann Page \"Easy to make, tasty fruit salsa and cinnamon tortilla chips. Great as an appetizer or a snack. Great for anytime!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e25dc306-e7ec-4980-8320-96fbc68c6b1c",
+      "type": "h2",
+      "parent_id": "720ea659-ec49-4d19-be4c-085a605ffafd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 312 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f2a2fe55-03ea-478b-9b1b-cdb51b67b3bd",
+      "type": "h3",
+      "parent_id": "e25dc306-e7ec-4980-8320-96fbc68c6b1c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 312 kcal 16% Fat: 5.9 g 9% Carbs: 59g 19% Protein: 6.8 g 14% Cholesterol: 0 mg 0% Sodium: 462 mg 18% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "096cbcf3-02a1-4122-9b87-3a562dc44464",
+      "type": "h3",
+      "parent_id": "e25dc306-e7ec-4980-8320-96fbc68c6b1c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d8e94b4f-cadd-4bf9-853c-830f9fa5eab8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 kiwis, peeled and diced ADVERTISEMENT 2 Golden Delicious apples - peeled, cored and diced ADVERTISEMENT 8 ounces raspberries ADVERTISEMENT 1 pound strawberries ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1 tablespoon brown sugar ADVERTISEMENT 3 tablespoons fruit preserves, any flavor ADVERTISEMENT 10 (10 inch) flour tortillas ADVERTISEMENT butter flavored cooking spray ADVERTISEMENT 2 tablespoons cinnamon sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f2c58be4-6438-4a20-9625-85825898a475",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 45 m In a large bowl, thoroughly mix kiwis, Golden Delicious apples, raspberries, strawberries, white sugar, brown sugar and fruit preserves. Cover and chill in the refrigerator at least 15 minutes. Preheat oven to 350 degrees F (175 degrees C). Coat one side of each flour tortilla with butter flavored cooking spray. Cut into wedges and arrange in a single layer on a large baking sheet. Sprinkle wedges with desired amount of cinnamon sugar. Spray again with cooking spray. Bake in the preheated oven 8 to 10 minutes. Repeat with any remaining tortilla wedges. Allow to cool approximately 15 minutes. Serve with chilled fruit mixture."
+        }
+      ]
+    },
+    {
+      "id": "f67bd651-cd9e-41be-a0a8-ced866a5518c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bc83b9c4-6055-4ae6-a101-d8ccfbdc6af0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/627399.jpg"
+        }
+      ]
+    },
+    {
+      "id": "17ae909d-b6e3-47cf-a11d-a368d99e44b3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Frijoles de Olla",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  21 reviews Recipe by: JOEBOB22 \"Pinto beans are cooked simply in this classic recipe. Make a batch for your next fiesta!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "34883a93-f139-4f1b-abbc-63cffc253c46",
+      "type": "h2",
+      "parent_id": "17ae909d-b6e3-47cf-a11d-a368d99e44b3",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 5 m servings 196 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "82e88fba-328b-424e-a79a-d0ef095b81e4",
+      "type": "h3",
+      "parent_id": "34883a93-f139-4f1b-abbc-63cffc253c46",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 196 kcal 10% Fat: 3.8 g 6% Carbs: 30.2g 10% Protein: 10.3 g 21% Cholesterol: 3 mg 1% Sodium: 596 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b4915db2-e285-4332-96c5-8ef478a7ad1e",
+      "type": "h3",
+      "parent_id": "34883a93-f139-4f1b-abbc-63cffc253c46",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "60bafac7-969e-4424-9628-edf9134a5f16",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 cups water ADVERTISEMENT 2 tablespoons lard ADVERTISEMENT 2 cups dry pinto beans, rinsed ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2328e868-657b-4f3f-94b1-a256e8d9a2fb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 3 h Ready In 3 h 5 m Measure water and lard into a large pot. Bring to a boil and add beans. Cook over medium heat for 2 to 2 1/2 hours. Season with salt and continue cooking until tender, about 30 more minutes."
+        }
+      ]
+    },
+    {
+      "id": "a9452ad3-ad0c-48d1-a65e-e1ffb6c5fc22",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "aa19ab31-401e-4410-9628-b8bf2fb00736",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/216473.jpg"
+        }
+      ]
+    },
+    {
+      "id": "84925222-7ee7-4355-a7ac-4b807af7895d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fish Tacos with Honey-Cumin Cilantro Slaw and Chipotle Mayo",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  337 reviews Recipe by: SCAREY76 \"I loved a local chain restaurant's fish tacos so much, that I had to try to duplicate them. They combine flour tortillas filled with breaded, fried tilapia, layered with chipotle mayo, topped with napa cabbage, dressed with honey-cumin sauce, and served with pico de gallo, sour cream, chips and salsa. You'll find them very refreshing and packed full of flavor!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bc5bd2cc-3bd0-4481-b83f-721543ecc78c",
+      "type": "h2",
+      "parent_id": "84925222-7ee7-4355-a7ac-4b807af7895d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 40 m servings 984 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "44aa4e1c-edce-40ec-8110-cd2becc80687",
+      "type": "h3",
+      "parent_id": "bc5bd2cc-3bd0-4481-b83f-721543ecc78c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 984 kcal 49% Fat: 44.4 g 68% Carbs: 117.5g 38% Protein: 42.2 g 84% Cholesterol: 137 mg 46% Sodium: 1154 mg 46% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fa3f1c99-0fe6-4594-8f12-6978a12da1e6",
+      "type": "h3",
+      "parent_id": "bc5bd2cc-3bd0-4481-b83f-721543ecc78c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1e2eab45-5441-4d16-b6ab-d2476a5e936b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound tilapia fillets, cut into chunks ADVERTISEMENT 1/2 cup fresh lime juice ADVERTISEMENT 1/3 cup fresh lime juice ADVERTISEMENT 2 tablespoons honey ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1/2 cup mayonnaise ADVERTISEMENT 2 chipotle chilies in adobo sauce ADVERTISEMENT 1 tablespoon adobo sauce from chipotle peppers ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/8 teaspoon cayenne pepper ADVERTISEMENT 1/3 cup all-purpose flour ADVERTISEMENT 2 eggs, lightly beaten ADVERTISEMENT 2 cups panko crumbs ADVERTISEMENT salt and ground black pepper to taste ADVERTISEMENT 1 cup vegetable oil for frying ADVERTISEMENT 2 cups 3 color coleslaw blend ADVERTISEMENT 1 cup minced fresh cilantro leaves ADVERTISEMENT 8 (7 inch) flour tortillas, warmed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c2d99e33-6626-42e3-847f-1b7febd224e4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 10 m Ready In 4 h 40 m Place the tilapia chunks in a flat dish and pour 1/2 cup lime juice over the fish. Cover, and refrigerate at least 4 hours. Meanwhile, make the honey-cumin sauce by whisking together 1/3 cup lime juice, honey, vegetable oil, and ground cumin a small bowl. Set aside until needed. To make the chipotle mayonnaise dressing, place the mayonnaise, chilies, adobo sauce, 1/4 teaspoon salt, and cayenne pepper together in the bowl of a food processor. Pulse until smooth. Cover, and refrigerate until needed. To bread the fish, place the flour, eggs, and panko crumbs in three separate shallow dishes. Season the fish with salt and pepper to taste. Dip the fish pieces first in the four, coating evenly, and shaking off any excess. Dip next in the eggs, and last in the panko crumbs, patting the pieces to help the breadcrumbs hold. Set the fish aside on a plate. To cook the breaded fish, pour 1 cup vegetable oil into a skillet to 1/4 inch deep. Heat the oil to 365 degrees F (185 degrees C) over medium heat. Cook the fish, turning until all sides are golden brown, and flesh is easily flaked with a fork. Drain on paper towels. Brush the fish with the honey-cumin sauce. Mix the coleslaw and cilantro together in a bowl. Reserve 1/4 cup of the chipotle mayonnaise dressing, and pour the remaining dressing over the coleslaw mixture. Toss to coat evenly with the dressing. Place the tortillas on a flat surface, and spread each with 1 tablespoon reserved chipotle mayonnaise dressing. Divide the fish between the tortillas. Top with the cilantro coleslaw."
+        }
+      ]
+    },
+    {
+      "id": "c821c291-8460-4774-8a82-577299ee3fd2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bd4911e4-0529-4207-9461-e1ad5299909f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/663423.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1a040c6b-f980-4f45-8806-6832b0922d46",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Enchiladas II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3035 reviews Recipe by: teppij \"A great way to use leftover chicken. Even kids love these!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "dcfd3226-91e7-488f-b333-c6a8978cc47a",
+      "type": "h2",
+      "parent_id": "1a040c6b-f980-4f45-8806-6832b0922d46",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 619 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6491d5d8-4e89-4b08-9b13-f304c82853a3",
+      "type": "h3",
+      "parent_id": "dcfd3226-91e7-488f-b333-c6a8978cc47a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 619 kcal 31% Fat: 27.1 g 42% Carbs: 66.8g 22% Protein: 26.1 g 52% Cholesterol: 60 mg 20% Sodium: 1459 mg 58% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ee913d5f-e0cf-4bc5-af5c-2092cd61d29a",
+      "type": "h3",
+      "parent_id": "dcfd3226-91e7-488f-b333-c6a8978cc47a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9b2e8f7b-515c-4e78-ab9f-b08d5dc866f1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon butter ADVERTISEMENT 1/2 cup chopped green onions ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 1 (4 ounce) can diced green chiles ADVERTISEMENT 1 (10.75 ounce) can condensed cream of mushroom soup ADVERTISEMENT 1/2 cup sour cream ADVERTISEMENT 1 1/2 cups cubed cooked chicken breast meat ADVERTISEMENT 1 cup shredded Cheddar cheese, divided ADVERTISEMENT 6 (12 inch) flour tortillas ADVERTISEMENT 1/4 cup milk ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "430a85f1-f765-449a-8efc-462bac413b6e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a large baking dish. In a medium saucepan over medium heat, melt the butter and saute the green onion until tender (about 3 to 4 minutes). Add the garlic powder, then stir in the green chiles, cream of mushroom soup and sour cream. Mix well. Reserve 3/4 of this sauce and set aside. To the remaining 1/4 of the sauce in the saucepan, add the chicken and 1/2 cup of shredded Cheddar cheese. Stir together. Fill each flour tortilla with the chicken mixture and roll up. Place seam side down in the prepared baking dish. In a small bowl combine the reserved 3/4 of the sauce with the milk. Spoon this mixture over the rolled tortillas and top with the remaining 1/2 cup of shredded Cheddar cheese. Bake in the preheated oven for 30 to 35 minutes, or until cheese is bubbly."
+        }
+      ]
+    },
+    {
+      "id": "e547e546-2dd5-434f-ae49-8d40ec8233b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6be24996-efec-451a-8912-001c00d82d0d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2258291.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8fdf3fea-a9fb-4c47-915d-6ddab6343ded",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Avocado Paletas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6 reviews Recipe by: Danielle Walquist Lynch \"Rich and satisfying Mexican ice pops. These are so creamy and delicious! If you like avocados, I guarantee you'll love these pops.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f2419c35-de9a-446c-9a46-503a394d3fc2",
+      "type": "h2",
+      "parent_id": "8fdf3fea-a9fb-4c47-915d-6ddab6343ded",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "14 h 25 m servings 137 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f2da00bb-324d-4e92-8f40-eda0c6940cbf",
+      "type": "h3",
+      "parent_id": "f2419c35-de9a-446c-9a46-503a394d3fc2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 137 kcal 7% Fat: 8.9 g 14% Carbs: 15.8g 5% Protein: 1.3 g 3% Cholesterol: 0 mg 0% Sodium: 63 mg 3% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "53f2aba5-5588-4b39-9a51-f52891f2b258",
+      "type": "h3",
+      "parent_id": "f2419c35-de9a-446c-9a46-503a394d3fc2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2b8875e4-14f1-48e9-88e6-a368a9e5e768",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup water ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 3 avocados, peeled and pitted ADVERTISEMENT 1 lime, juiced ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "86972690-ed28-4787-b399-36077790ff72",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 5 m Ready In 14 h 25 m Bring water and sugar to a boil together in a saucepan; stir continually until sugar dissolves. Set aside to cool. Pour sugar-water mixture into a blender with avocados, lime juice, and salt; blend until smooth. Pour the mixture into 10 ice pop molds. Freeze until solid yet still soft, about 2 hours; insert wooden sticks and continue freezing until firm, 12 to 24 hours."
+        }
+      ]
+    },
+    {
+      "id": "693d0b46-d779-4512-9cfe-5a6e59c9b536",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8139e217-5ea0-4f60-8d46-88dcb4ec5d80",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/246196.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6d71a6c7-143c-4f98-a68e-2a3035b1aac4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Seven Layer Taco Dip",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1761 reviews Recipe by: SUE CASE \"I am continuously asked to bring this dip for parties and family get-togethers. People gather around the platter until it's gone.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "13c0b3b9-8b2a-4dfe-be5a-025f3379bfe1",
+      "type": "h2",
+      "parent_id": "6d71a6c7-143c-4f98-a68e-2a3035b1aac4",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 66 cals for serving adjustment Serving size has been adjusted! Original recipe yields 56 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b2d8f480-d7e5-40ef-81ae-6a68bae8d824",
+      "type": "h3",
+      "parent_id": "13c0b3b9-8b2a-4dfe-be5a-025f3379bfe1",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 66 kcal 3% Fat: 4.9 g 8% Carbs: 3.5g 1% Protein: 2.3 g 5% Cholesterol: 13 mg 4% Sodium: 178 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "40d95cfa-5ef4-4200-b791-072ca262d08d",
+      "type": "h3",
+      "parent_id": "13c0b3b9-8b2a-4dfe-be5a-025f3379bfe1",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "85b1e4f1-e4b1-43c8-8e49-651dcdd365b7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (1 ounce) package taco seasoning mix ADVERTISEMENT 1 (16 ounce) can refried beans ADVERTISEMENT 1 (8 ounce) package cream cheese, softened ADVERTISEMENT 1 (16 ounce) container sour cream ADVERTISEMENT 1 (16 ounce) jar salsa ADVERTISEMENT 1 large tomato, chopped ADVERTISEMENT 1 green bell pepper, chopped ADVERTISEMENT 1 bunch chopped green onions ADVERTISEMENT 1 small head iceberg lettuce, shredded ADVERTISEMENT 1 (6 ounce) can sliced black olives, drained ADVERTISEMENT 2 cups shredded Cheddar cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "35aa1ba9-b8ee-4eca-a94d-dd016b280d51",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Ready In 30 m In a medium bowl, blend the taco seasoning mix and refried beans. Spread the mixture onto a large serving platter. Mix the sour cream and cream cheese in a medium bowl. Spread over the refried beans. Top the layers with salsa. Place a layer of tomato, green bell pepper, green onions and lettuce over the salsa, and top with Cheddar cheese. Garnish with black olives."
+        }
+      ]
+    },
+    {
+      "id": "92aad8d9-9674-4ab7-97eb-e59b8444b17b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cbeba027-f2dd-4390-902a-8dc9b714a3c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/193211.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0d96c98d-61f8-4e37-98ce-1645f3560ba5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow-Cooker Chicken Tortilla Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3596 reviews Recipe by: Elena \"This tortilla soup tastes better than anything you can get at a restaurant. And it's healthy too! Don't let the long list of ingredients fool you. All you do is dump everything into the slow cooker and walk away. Garnish with grated Cheddar, avocadoes, and a splash of fresh lime juice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "0ec963ad-2242-4d14-bf25-a92003003b0f",
+      "type": "h2",
+      "parent_id": "0d96c98d-61f8-4e37-98ce-1645f3560ba5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 30 m servings 262 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "7c4ffa6e-5cb8-4c96-b93e-1448f6c6d630",
+      "type": "h3",
+      "parent_id": "0ec963ad-2242-4d14-bf25-a92003003b0f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 262 kcal 13% Fat: 10.8 g 17% Carbs: 24.7g 8% Protein: 18 g 36% Cholesterol: 45 mg 15% Sodium: 893 mg 36% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e8e70c23-dff0-46bd-98a1-150e60743661",
+      "type": "h3",
+      "parent_id": "0ec963ad-2242-4d14-bf25-a92003003b0f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d7f86be2-0c2c-45df-8c7e-145cfedc3b07",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound shredded, cooked chicken ADVERTISEMENT 1 (15 ounce) can whole peeled tomatoes, mashed ADVERTISEMENT 1 (10 ounce) can enchilada sauce ADVERTISEMENT 1 medium onion, chopped ADVERTISEMENT 1 (4 ounce) can chopped green chile peppers ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 2 cups water ADVERTISEMENT 1 (14.5 ounce) can chicken broth ADVERTISEMENT 1 teaspoon cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/4 teaspoon black pepper ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (10 ounce) package frozen corn ADVERTISEMENT 1 tablespoon chopped cilantro ADVERTISEMENT 7 corn tortillas ADVERTISEMENT vegetable oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f485eb6f-3846-437a-ad4f-c6a047435701",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 8 h Ready In 8 h 30 m Place chicken, tomatoes, enchilada sauce, onion, green chiles, and garlic into a slow cooker. Pour in water and chicken broth, and season with cumin, chili powder, salt, pepper, and bay leaf. Stir in corn and cilantro. Cover, and cook on Low setting for 6 to 8 hours or on High setting for 3 to 4 hours. Preheat oven to 400 degrees F (200 degrees C). Lightly brush both sides of tortillas with oil. Cut tortillas into strips, then spread on a baking sheet. Bake in preheated oven until crisp, about 10 to 15 minutes. To serve, sprinkle tortilla strips over soup."
+        }
+      ]
+    },
+    {
+      "id": "671edd39-1ad0-4dea-bb9d-18b443105ba4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "36b538d6-064d-4343-91fc-510f9f303d74",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/117563.jpg"
+        }
+      ]
+    },
+    {
+      "id": "968fccec-265d-4553-806f-c42c86dbaf9f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Salsa Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2939 reviews Recipe by: Faye \"Someone gave me this recipe a few years back and it's become a household favorite. You can use mild, medium or hot salsa depending on your taste. I usually serve it with Spanish rice and Mexican-style canned corn. Very easy and quick!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3b5eed80-0e81-43f8-8180-49393a3f6255",
+      "type": "h2",
+      "parent_id": "968fccec-265d-4553-806f-c42c86dbaf9f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 287 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e7e7bbd4-e9bf-45a1-b14a-5014e97c6cc1",
+      "type": "h3",
+      "parent_id": "3b5eed80-0e81-43f8-8180-49393a3f6255",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 287 kcal 14% Fat: 12.4 g 19% Carbs: 6.8g 2% Protein: 35.5 g 71% Cholesterol: 101 mg 34% Sodium: 863 mg 35% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3ab63956-6c7d-457c-a108-310f53342bc9",
+      "type": "h3",
+      "parent_id": "3b5eed80-0e81-43f8-8180-49393a3f6255",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c594e3fb-38e3-432f-a768-b86eb5b13428",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves ADVERTISEMENT 4 teaspoons taco seasoning mix ADVERTISEMENT 1 cup salsa ADVERTISEMENT 1 cup shredded Cheddar cheese ADVERTISEMENT 2 tablespoons sour cream (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ccf2a70e-6651-4d21-b6a0-2913c6125866",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 40 m Ready In 45 m Preheat oven to 375 degrees F (190 degrees C) Place chicken breasts in a lightly greased 9x13 inch baking dish. Sprinkle taco seasoning on both sides of chicken breasts, and pour salsa over all. Bake at 375 degrees F (190 degrees C) for 25 to 35 minutes, or until chicken is tender and juicy and its juices run clear. Sprinkle chicken evenly with cheese, and continue baking for an additional 3 to 5 minutes, or until cheese is melted and bubbly. Top with sour cream if desired, and serve."
+        }
+      ]
+    },
+    {
+      "id": "79395136-fc73-4ea1-8b65-c1b4c1468903",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45149ac7-acfb-4eb5-a583-a02f142dd9d2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/642313.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a0a222a7-3a25-4535-83bf-8a7f2a1bae95",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Lime Chicken Soft Tacos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1677 reviews Recipe by: Marissa Wright \"I was given this recipe by my mom when I went away to college, and it has become all of my friends' favorite!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "81ee9ebe-3101-4bef-8089-4c72f361b5f4",
+      "type": "h2",
+      "parent_id": "a0a222a7-3a25-4535-83bf-8a7f2a1bae95",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 204 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "2922bb17-2d22-4263-b2b6-cafe8e063a04",
+      "type": "h3",
+      "parent_id": "81ee9ebe-3101-4bef-8089-4c72f361b5f4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 204 kcal 10% Fat: 6.8 g 10% Carbs: 18.9g 6% Protein: 16.2 g 32% Cholesterol: 37 mg 12% Sodium: 433 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7246d564-59fb-4790-b09c-91f617703349",
+      "type": "h3",
+      "parent_id": "81ee9ebe-3101-4bef-8089-4c72f361b5f4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c69db24d-9b48-41b4-8c00-a03b7213e2de",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds skinless, boneless chicken breast meat - cubed ADVERTISEMENT 1/8 cup red wine vinegar ADVERTISEMENT 1/2 lime, juiced ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 2 green onions, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 10 (6 inch) flour tortillas ADVERTISEMENT 1 tomato, diced ADVERTISEMENT 1/4 cup shredded lettuce ADVERTISEMENT 1/4 cup shredded Monterey Jack cheese ADVERTISEMENT 1/4 cup salsa ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c4b657ce-faca-40a3-8550-6f831eba2582",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 30 m Ready In 50 m Saute chicken in a medium saucepan over medium high heat for about 20 minutes. Add vinegar, lime juice, sugar, salt, pepper, green onion, garlic and oregano. Simmer for an extra 10 minutes. Heat an iron skillet over medium heat. Place a tortilla in the pan, warm, and turn over to heat the other side. Repeat with remaining tortillas. Serve lime chicken mixture in warm tortillas topped with tomato, lettuce, cheese and salsa."
+        }
+      ]
+    },
+    {
+      "id": "b3702eaf-9b18-4c7b-89f3-8f5a0974600e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a3505355-737c-4aef-b35a-58150df35520",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/234705.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7fd0c980-cd22-49b1-9ecc-71de8aebfc62",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ultimate Frozen Strawberry Margarita",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  257 reviews Recipe by: JTWTECH \"A near perfect strawberry margarita with frozen strawberries and limeade concentrate.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a941d85b-e638-4a61-babb-81988c919f4e",
+      "type": "h2",
+      "parent_id": "7fd0c980-cd22-49b1-9ecc-71de8aebfc62",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 m servings for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9e12d3a7-2ab3-448d-8a75-b5c9c82e68f5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 fluid ounces tequila ADVERTISEMENT 2 fluid ounces triple sec ADVERTISEMENT 8 ounces frozen sliced strawberries in syrup ADVERTISEMENT 4 fluid ounces frozen limeade concentrate ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9ec6582b-0994-4158-885b-b5ec9b73fba6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Ready In 5 m Fill a blender with ice and crush. Pour in the tequila and triple sec. Add the strawberries and limeade. Blend for 30 seconds or until smooth. Serve in margarita glasses with the rims dipped in powdered sugar."
+        }
+      ]
+    },
+    {
+      "id": "9480eeab-483e-4a88-937e-81d9f3997502",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "24e9fd96-dabc-43de-8da4-caa575a7d712",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/243799.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d0c07cbf-d0d7-404d-b8a1-f77f27533523",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Simple Carnitas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  204 reviews Recipe by: Ken from CA \"This the easiest recipe for tasty carnitas. Once cooked, the meat can also be shredded and mixed with BBQ sauce for incredible pulled pork sandwiches, or pan fried in a little oil until crisp on the outside.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1cab5cc7-a1b9-4331-a67e-7b5061b87991",
+      "type": "h2",
+      "parent_id": "d0c07cbf-d0d7-404d-b8a1-f77f27533523",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h servings 188 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "05578bdb-d198-4594-a129-2fe88e33429f",
+      "type": "h3",
+      "parent_id": "1cab5cc7-a1b9-4331-a67e-7b5061b87991",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 188 kcal 9% Fat: 9.6 g 15% Carbs: 6.6g 2% Protein: 18.4 g 37% Cholesterol: 63 mg 21% Sodium: 2332 mg 93% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bdda5596-8993-4212-afb7-0d1653256c97",
+      "type": "h3",
+      "parent_id": "1cab5cc7-a1b9-4331-a67e-7b5061b87991",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7a47d144-2eda-47c9-9dea-2f6e30dbf9dc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (3 1/2) pound boneless pork shoulder, trimmed and cut into 2 inch chunks ADVERTISEMENT 2 oranges, quartered ADVERTISEMENT 1 large white onion, quartered ADVERTISEMENT 6 cloves garlic, peeled and crushed ADVERTISEMENT 1/4 cup kosher salt ADVERTISEMENT 1 tablespoon ground cumin ADVERTISEMENT 1 tablespoon whole black peppercorns ADVERTISEMENT 2 bay leaves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d9bc91ff-4364-4fa4-a266-8139e700444e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h 45 m Ready In 3 h Place the pork shoulder, oranges, onion, garlic, kosher salt, cumin, black peppercorns, and bay leaves into a large Dutch oven. Add water to cover. Bring to a boil over high heat, then reduce the heat to medium-low, and simmer for 10 minutes. Skim off any foam that rises to the top. Cover loosely, and simmer until the meat is tender, about 1 1/2 hours. Allow the pork to cool, covered, in the broth for 1 hour. Shred the meat with two forks."
+        }
+      ]
+    },
+    {
+      "id": "8a06778b-f3f5-4eee-8a46-62c12e267c94",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a5d802ce-1eaa-4f61-8d1e-ca2d4076f989",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/641449.jpg"
+        }
+      ]
+    },
+    {
+      "id": "37730d75-dcd8-40d4-9457-efa300f77648",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Delicious Black Bean Burritos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1354 reviews Recipe by: jessie \"These burritos are soooo good, you'll want to have them every night.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b3c196f4-992a-4519-a4a8-f4142e3eb0e6",
+      "type": "h2",
+      "parent_id": "37730d75-dcd8-40d4-9457-efa300f77648",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 692 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "463e2fd0-39b9-4bad-b3b4-afe29df4e067",
+      "type": "h3",
+      "parent_id": "b3c196f4-992a-4519-a4a8-f4142e3eb0e6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 692 kcal 35% Fat: 35.8 g 55% Carbs: 70.2g 23% Protein: 21.2 g 42% Cholesterol: 47 mg 16% Sodium: 1803 mg 72% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5eb6aabb-8cf4-499d-8aa2-8420d3c97863",
+      "type": "h3",
+      "parent_id": "b3c196f4-992a-4519-a4a8-f4142e3eb0e6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ae82c8f9-0c8f-40ee-8d6a-af17ea48c2ef",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (10 inch) flour tortillas ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 1/2 red bell pepper, chopped ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 (15 ounce) can black beans, rinsed and drained ADVERTISEMENT 1 teaspoon minced jalapeno peppers ADVERTISEMENT 3 ounces cream cheese ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 2 tablespoons chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c07c3e1f-b76f-4432-9fb3-e24a29547dfc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 15 m Ready In 25 m Wrap tortillas in foil and place in oven heated to 350 degrees F (175 degrees C). Bake for 15 minutes or until heated through. Heat oil in a 10-inch skillet over medium heat. Place onion, bell pepper, garlic and jalapenos in skillet, cook for 2 minutes stirring occasionally. Pour beans into skillet, cook 3 minutes stirring. Cut cream cheese into cubes and add to skillet with salt. Cook for 2 minutes stirring occasionally. Stir cilantro into mixture. Spoon mixture evenly down center of warmed tortilla and roll tortillas up. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "621a43a7-8058-434d-ae90-8aadad09f91f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "54ddb271-3d4f-4a0d-8b95-57fc90581db4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/109067.jpg"
+        }
+      ]
+    },
+    {
+      "id": "974d4b5b-c87b-4289-bc5e-8ec29f99f4b7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Taco Seasoning I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4017 reviews Recipe by: BILL ECHOLS \"Depending on how spicy you and your family like your dishes, use as little or as much as you want.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d39f05d5-df38-4503-8015-e1abd278b57a",
+      "type": "h2",
+      "parent_id": "974d4b5b-c87b-4289-bc5e-8ec29f99f4b7",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 m servings 5 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f31c1526-f741-4a7d-8c61-3dca7e7574ba",
+      "type": "h3",
+      "parent_id": "d39f05d5-df38-4503-8015-e1abd278b57a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 5 kcal < 1% Fat: 0.2 g < 1% Carbs: 0.9g < 1% Protein: 0.2 g < 1% Cholesterol: 0 mg 0% Sodium: 185 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8f1ba3f9-452f-4cac-9908-8ec010baf8f6",
+      "type": "h3",
+      "parent_id": "d39f05d5-df38-4503-8015-e1abd278b57a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "58f613fe-f2a9-4ab2-b376-a0c609cb42b5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon chili powder ADVERTISEMENT 1/4 teaspoon garlic powder ADVERTISEMENT 1/4 teaspoon onion powder ADVERTISEMENT 1/4 teaspoon crushed red pepper flakes ADVERTISEMENT 1/4 teaspoon dried oregano ADVERTISEMENT 1/2 teaspoon paprika ADVERTISEMENT 1 1/2 teaspoons ground cumin ADVERTISEMENT 1 teaspoon sea salt ADVERTISEMENT 1 teaspoon black pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "dc96b144-3e4a-40c1-a869-67e262a9435c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 1 m Ready In 1 m In a small bowl, mix together chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt and pepper. Store in an airtight container."
+        }
+      ]
+    },
+    {
+      "id": "fe0878b4-a908-40cc-81e3-98ac3adeaef4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "26d0919d-cd6f-4453-ad95-3bc80d317aa4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/698318.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e3c77d12-508b-449c-8d4c-a5ee03e2b48c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Calabacitas con Elote (Zucchini with Corn)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  63 reviews Recipe by: gema \"One of the most popular Mexican side dishes. It is so good, that Mexicans often double the portion and eat it as main dish with warm tortillas. This is a keeper for vegetarians and meat lovers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cefa26e7-876a-41f7-bf04-062d1307c884",
+      "type": "h2",
+      "parent_id": "e3c77d12-508b-449c-8d4c-a5ee03e2b48c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 121 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4fae11d9-6111-4576-aa0e-3b14aab7b0eb",
+      "type": "h3",
+      "parent_id": "cefa26e7-876a-41f7-bf04-062d1307c884",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 121 kcal 6% Fat: 4.9 g 8% Carbs: 17.8g 6% Protein: 4.8 g 10% Cholesterol: 6 mg 2% Sodium: 83 mg 3% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8cd18df5-00eb-44b9-a5a0-6b4287dbfa0e",
+      "type": "h3",
+      "parent_id": "cefa26e7-876a-41f7-bf04-062d1307c884",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "64ce1394-6a7d-41c1-aa08-4a9a7f0afaa3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/2 cups fresh corn kernels ADVERTISEMENT 1 tablespoon olive oil ADVERTISEMENT 1/4 cup chopped onion ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 pound zucchini, sliced ADVERTISEMENT 3 roma (plum) tomatoes, chopped ADVERTISEMENT 1 fresh poblano chile pepper - seeded, deveined, and chopped ADVERTISEMENT salt and black pepper to taste ADVERTISEMENT 1/4 cup crumbled cotija cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7e64fe4f-61ce-4778-8b2e-8b91d254ac08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 30 m Ready In 50 m Place the corn in a saucepan with enough water to cover; bring to a boil. Place a cover on the saucepan, reduce heat to medium, and cook until tender, about 10 minutes. Drain. Heat the olive oil in a large skillet over medium-high heat; cook and stir the onion and garlic in the hot oil until fragrant, about 5 minutes. Mix the zucchini and tomato into the onion and garlic; cook together 5 minutes. Stir the corn kernels into the mixture; add the poblano pepper. Season with salt and pepper; stir. Cover the skillet with a lid and cook until the zucchini is tender, about 10 minutes. Sprinkle with the cotija cheese to serve."
+        }
+      ]
+    },
+    {
+      "id": "5d5a3d41-aead-49e8-b663-07477e9f2785",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e7775883-0ef6-45b0-b951-67eb61d0f527",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/373926.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cd6fd01c-fd05-4005-941d-f296fe9f6dc5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Refried Beans Without the Refry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1715 reviews Recipe by: CHEFCLAUDE \"Refried beans are simple to make when cooked in a slow cooker. This recipe will yield flavorful, fat-free refried beans seasoned with garlic, jalapeno, and cumin.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1adb6548-b8d4-4c73-872c-7dc67e977d6a",
+      "type": "h2",
+      "parent_id": "cd6fd01c-fd05-4005-941d-f296fe9f6dc5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 15 m servings 139 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a9efb151-84a6-4f83-ac65-56ab1c6a1d74",
+      "type": "h3",
+      "parent_id": "1adb6548-b8d4-4c73-872c-7dc67e977d6a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 139 kcal 7% Fat: 0.5 g < 1% Carbs: 25.4g 8% Protein: 8.5 g 17% Cholesterol: 0 mg 0% Sodium: 785 mg 31% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "320fd73b-14f1-4e85-9ea8-49b7d31b79af",
+      "type": "h3",
+      "parent_id": "1adb6548-b8d4-4c73-872c-7dc67e977d6a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5b3d8ee5-629f-4d8a-aa26-53abd3e7fd32",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 onion, peeled and halved ADVERTISEMENT 3 cups dry pinto beans, rinsed ADVERTISEMENT 1/2 fresh jalapeno pepper, seeded and chopped ADVERTISEMENT 2 tablespoons minced garlic ADVERTISEMENT 5 teaspoons salt ADVERTISEMENT 1 3/4 teaspoons fresh ground black pepper ADVERTISEMENT 1/8 teaspoon ground cumin, optional ADVERTISEMENT 9 cups water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "97eff552-861b-4245-b08e-2effb7efeb0a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 8 h Ready In 8 h 15 m Place the onion, rinsed beans, jalapeno, garlic, salt, pepper, and cumin into a slow cooker. Pour in the water and stir to combine. Cook on High for 8 hours, adding more water as needed. Note: if more than 1 cup of water has evaporated during cooking, then the temperature is too high. Once the beans have cooked, strain them, and reserve the liquid. Mash the beans with a potato masher, adding the reserved water as needed to attain desired consistency."
+        }
+      ]
+    },
+    {
+      "id": "4b00dbde-7978-44cc-b4ca-565b98258559",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "09b2b061-2471-4d01-a921-329c8b26becb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/885601.jpg"
+        }
+      ]
+    },
+    {
+      "id": "efc38508-573e-4890-94a5-679d9717108d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mexican Wedding Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  183 reviews Recipe by: Bernie \"Delicious nutty cookies that are rolled in powdered sugar. These are perfect for any special occasion.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3c6134a4-1802-4aa2-87af-5df296363c27",
+      "type": "h2",
+      "parent_id": "efc38508-573e-4890-94a5-679d9717108d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 207 cals for serving adjustment Serving size has been adjusted! Original recipe yields 18 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "21b5472c-94e7-4367-b1b6-258950c8c2a6",
+      "type": "h3",
+      "parent_id": "3c6134a4-1802-4aa2-87af-5df296363c27",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 207 kcal 10% Fat: 13 g 20% Carbs: 20.6g 7% Protein: 2.7 g 5% Cholesterol: 27 mg 9% Sodium: 73 mg 3% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4597bdf4-cd21-4dfa-a514-4f930d7c934e",
+      "type": "h3",
+      "parent_id": "3c6134a4-1802-4aa2-87af-5df296363c27",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "de8ac014-4e28-4584-a56e-58b9b502d383",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 teaspoons water ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 1 cup chopped almonds ADVERTISEMENT 1/2 cup confectioners' sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4c46d245-099e-41e4-a6c2-1ded9ca49ae3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "In a medium bowl, cream the butter and sugar. Stir in vanilla and water. Add the flour and almonds, mix until blended. Cover and chill for 3 hours. Preheat oven to 325 degrees. Shape dough into balls or crescents. Place on an unprepared cookie sheet and bake for 15 to 20 minutes in the preheated oven. Remove from pan to cool on wire racks. When cookies are cool, roll in confectioners' sugar. Store at room temperature in an airtight container."
+        }
+      ]
+    },
+    {
+      "id": "5104f2da-4aaf-4048-ae35-85bb3bc8c686",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cbf77859-7719-45ee-8c79-e85215c86983",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/392583.jpg"
+        }
+      ]
+    },
+    {
+      "id": "35f8b94d-47d0-4ecc-bd3a-280052fcf022",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Burrito Pie",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2678 reviews Recipe by: KATHIMC \"This is a lot like a lasagna, only Mexican-style! Serve like a pie and garnish with sour cream, salsa, lettuce and tomato. Make sure you like spicy foods before trying this one. It's hot!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c314c30a-79f7-45ef-8996-3137b2cd5222",
+      "type": "h2",
+      "parent_id": "35f8b94d-47d0-4ecc-bd3a-280052fcf022",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 432 cals for serving adjustment Serving size has been adjusted! Original recipe yields 16 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4e6852f6-1e01-4bc5-a709-a390822db478",
+      "type": "h3",
+      "parent_id": "c314c30a-79f7-45ef-8996-3137b2cd5222",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 432 kcal 22% Fat: 23.9 g 37% Carbs: 33.3g 11% Protein: 19.8 g 40% Cholesterol: 68 mg 23% Sodium: 847 mg 34% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3f985d65-01f4-4abd-abf4-17fb874e1832",
+      "type": "h3",
+      "parent_id": "c314c30a-79f7-45ef-8996-3137b2cd5222",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "27f88d34-c87f-45b8-b74e-173f37a88645",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds ground beef ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 2 teaspoons minced garlic ADVERTISEMENT 1 (2 ounce) can black olives, sliced ADVERTISEMENT 1 (4 ounce) can diced green chili peppers ADVERTISEMENT 1 (10 ounce) can diced tomatoes with green chile peppers ADVERTISEMENT 1 (16 ounce) jar taco sauce ADVERTISEMENT 2 (16 ounce) cans refried beans ADVERTISEMENT 12 (8 inch) flour tortillas ADVERTISEMENT 9 ounces shredded Colby cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "90919703-3c0c-4126-97b4-a6d47937f4ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). In a large skillet over medium heat, saute the ground beef for 5 minutes. Add the onion and garlic, and saute for 5 more minutes. Drain any excess fat, if desired. Mix in the olives, green chile peppers, tomatoes with green chile peppers, taco sauce and refried beans. Stir mixture thoroughly, reduce heat to low, and let simmer for 15 to 20 minutes. Spread a thin layer of the meat mixture in the bottom of a 4 quart casserole dish. Cover with a layer of tortillas followed by more meat mixture, then a layer of cheese. Repeat tortilla, meat, cheese pattern until all the tortillas are used, topping off with a layer of meat mixture and cheese. Bake for 20 to 30 minutes in the preheated oven, or until cheese is slightly brown and bubbly."
+        }
+      ]
+    },
+    {
+      "id": "f9c54a48-5364-493a-934e-f7464f70b5af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bfaf3234-f90b-4ebb-aeef-11ffda1627e7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/322598.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6d5bb1a0-becb-48e3-b2c8-bddc1c316c13",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Chicken Taco Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4640 reviews Recipe by: RaisinKane aka Patti \"You can call this soup or chili, but either way it is wonderful! This recipe is also very adaptable to your personal taste. I recommend using Bill Echols' Taco Seasoning from this website. Serve topped with shredded Cheddar cheese, a dollop of sour cream, and crushed tortilla chips, if you like. I hope you enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "541ef9b9-2bbd-4e75-a19b-7e96a453fc80",
+      "type": "h2",
+      "parent_id": "6d5bb1a0-becb-48e3-b2c8-bddc1c316c13",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "7 h 15 m servings 434 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8e382ade-5afc-4c29-bcc3-c60c3d1fa42b",
+      "type": "h3",
+      "parent_id": "541ef9b9-2bbd-4e75-a19b-7e96a453fc80",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 434 kcal 22% Fat: 17.7 g 27% Carbs: 42.3g 14% Protein: 27.2 g 54% Cholesterol: 68 mg 23% Sodium: 1597 mg 64% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "421edf42-4b07-4c05-81bd-72b663e52529",
+      "type": "h3",
+      "parent_id": "541ef9b9-2bbd-4e75-a19b-7e96a453fc80",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6b79ae6b-59f6-4b56-a3f1-87083a85d4ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 onion, chopped ADVERTISEMENT 1 (16 ounce) can chili beans ADVERTISEMENT 1 (15 ounce) can black beans ADVERTISEMENT 1 (15 ounce) can whole kernel corn, drained ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1 (12 fluid ounce) can or bottle beer ADVERTISEMENT 2 (10 ounce) cans diced tomatoes with green chilies, undrained ADVERTISEMENT 1 (1.25 ounce) package taco seasoning ADVERTISEMENT 3 whole skinless, boneless chicken breasts ADVERTISEMENT 1 (8 ounce) package shredded Cheddar cheese (optional) ADVERTISEMENT sour cream (optional) ADVERTISEMENT crushed tortilla chips (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0d054558-a9d0-4f2e-8a5e-48c6a54e03af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 7 h Ready In 7 h 15 m Place the onion, chili beans, black beans, corn, tomato sauce, beer, and diced tomatoes in a slow cooker. Add taco seasoning, and stir to blend. Lay chicken breasts on top of the mixture, pressing down slightly until just covered by the other ingredients. Set slow cooker for low heat, cover, and cook for 5 hours. Remove chicken breasts from the soup, and allow to cool long enough to be handled. Stir the shredded chicken back into the soup, and continue cooking for 2 hours. Serve topped with shredded Cheddar cheese, a dollop of sour cream, and crushed tortilla chips, if desired."
+        }
+      ]
+    },
+    {
+      "id": "a15e2a3d-f5b4-46ce-81db-ea54c43fa442",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d24bebe1-ac21-4afa-be81-ddd50e2a9530",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/834770.jpg"
+        }
+      ]
+    },
+    {
+      "id": "12a0214d-252e-4ecb-ba5d-0911a40086c8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pollo Fajitas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  810 reviews Recipe by: Teresa C. Rouzer \"Chicken thighs are used in this recipe, but boneless, skinless breasts could be used instead. Be careful not to overcook, as the result could be rather dry chicken. Serve with warm flour tortillas, salsa and sour cream.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "59ebdbeb-3054-4a8b-a0ac-b20f70c10dfb",
+      "type": "h2",
+      "parent_id": "12a0214d-252e-4ecb-ba5d-0911a40086c8",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 210 cals for serving adjustment Serving size has been adjusted! Original recipe yields 5 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d30b5e23-2147-42aa-920e-af239e3424e1",
+      "type": "h3",
+      "parent_id": "59ebdbeb-3054-4a8b-a0ac-b20f70c10dfb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 210 kcal 10% Fat: 8.3 g 13% Carbs: 5.7g 2% Protein: 27.6 g 55% Cholesterol: 113 mg 38% Sodium: 344 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "81a0d058-e9ac-4c98-87bf-14464063a8e9",
+      "type": "h3",
+      "parent_id": "59ebdbeb-3054-4a8b-a0ac-b20f70c10dfb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6e465cef-98df-495c-9593-2d7ab5575931",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon Worcestershire sauce ADVERTISEMENT 1 tablespoon cider vinegar ADVERTISEMENT 1 tablespoon soy sauce ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 dash hot pepper sauce ADVERTISEMENT 1 1/2 pounds boneless, skinless chicken thighs, cut into strips ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 onion, thinly sliced ADVERTISEMENT 1 green bell pepper, sliced ADVERTISEMENT 1/2 lemon, juiced ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "897c8340-49c1-441a-a333-ba8e940d0f35",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 55 m In a medium bowl, combine Worcestershire sauce, vinegar, soy sauce, chili powder, garlic and hot pepper sauce. Place chicken in sauce, and turn once to coat. Marinate for 30 minutes at room temperature, or cover and refrigerate for several hours. Heat oil in a large skillet over high heat. Add chicken strips to the pan, and saute for 5 minutes. Add the onion and green pepper, and saute another 3 minutes. Remove from heat, and sprinkle with lemon juice."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

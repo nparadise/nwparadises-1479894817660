@@ -1,0 +1,4194 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:28:16.893Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "3.86"
+    },
+    {
+      "name": "reviewCount",
+      "content": "18"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1550838610001_th-1545850871001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1549137780001_ari-origin05-arc-126-1333655319770.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545850871001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Best Big, Fat, Chewy Chocolate Chip Cookie"
+    },
+    {
+      "name": "description",
+      "content": "See how to make chewy, bakery-style cookies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "320722"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/26/2014 12:11:51 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "7675"
+    },
+    {
+      "name": "recipeYield",
+      "content": "18"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969100726001_ari-origin05-arc-139-1352918860517.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969100727001_ari-origin05-arc-139-1352918860843.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1651019268001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Soft Oatmeal Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See a top-rated recipe for soft, chewy oatmeal cookies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "247848"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/24/2012 5:17:49 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2973"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.22"
+    },
+    {
+      "name": "reviewCount",
+      "content": "103"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969439506001_th-1959428059001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969229614001_ari-origin05-arc-137-1352928518326.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1959428059001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Too Much Chocolate Cake"
+    },
+    {
+      "name": "description",
+      "content": "Too much chocolate is just enough with this moist, prize-winning cake."
+    },
+    {
+      "name": "interactionCount",
+      "content": "281243"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/14/2012 1:54:30 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4896"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2697933829001_th-1729060934001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969177871001_ari-origin05-arc-153-1352921014840.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1729060934001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Iced Pumpkin Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to make spicy, frosted pumpkin cookies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "91942"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/26/2013 12:45:22 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3047"
+    },
+    {
+      "name": "recipeYield",
+      "content": "36"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1964360024001_th-1959451683001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1964340053001_ari-origin05-arc-185-1352762371823.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1959451683001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Apple Crisp II"
+    },
+    {
+      "name": "description",
+      "content": "This satisfying warm dessert goes perfectly with vanilla ice cream."
+    },
+    {
+      "name": "interactionCount",
+      "content": "260490"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/25/2013 11:17:29 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4665"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1550845131001_th-1545961130001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1547392488001_ari-origin05-arc-129-1333572232943.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545961130001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Best Chocolate Chip Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to bake the perfect chocolate chip cookie."
+    },
+    {
+      "name": "interactionCount",
+      "content": "832440"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/25/2013 10:26:13 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.60"
+    },
+    {
+      "name": "reviewCount",
+      "content": "8214"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969177864001_ari-origin05-arc-179-1352920878997.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969177865001_ari-origin05-arc-179-1352920881063.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561228407001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chewy Chocolate Chip Oatmeal Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to make one of our most popular cookies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "208008"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/23/2012 10:56:06 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3426"
+    },
+    {
+      "name": "recipeYield",
+      "content": "42"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980543127001_th-1902652062001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980523789001_ari-origin05-arc-181-1353454489476.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1902652062001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Peanut Blossoms II"
+    },
+    {
+      "name": "description",
+      "content": "Chewy little “hats” combine the best of two worlds, chocolate and peanut butter."
+    },
+    {
+      "name": "interactionCount",
+      "content": "19141"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/30/2013 10:47:35 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "386"
+    },
+    {
+      "name": "recipeYield",
+      "content": "84"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/3269/1033249144001_3841478895001_th-3830515678001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201410/251/1033249144001_3841409519001_video-still-for-video-3830515678001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3830515678001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Apple Slab Pie"
+    },
+    {
+      "name": "description",
+      "content": "Apple pie baked in a rectangular pan with a crumble topping."
+    },
+    {
+      "name": "interactionCount",
+      "content": "31157"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/15/2014 2:20:40 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.44"
+    },
+    {
+      "name": "reviewCount",
+      "content": "61"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1712799325001_th-1699409888001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1700816926001_ari-origin05-arc-178-1340300003444.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1699409888001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mrs. Sigg's Snickerdoodles"
+    },
+    {
+      "name": "description",
+      "content": "If you love cookies with crispy edges and soft centers, these are for you."
+    },
+    {
+      "name": "interactionCount",
+      "content": "75894"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/29/2012 11:14:55 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.74"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4129"
+    },
+    {
+      "name": "recipeYield",
+      "content": "48"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1550818211001_th-1545961107001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1549352929001_ari-origin05-arc-166-1333666644732.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545961107001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Creamy Rice Pudding"
+    },
+    {
+      "name": "description",
+      "content": "Learn the secret to making the creamiest ever sweet rice pudding."
+    },
+    {
+      "name": "interactionCount",
+      "content": "230951"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 10:56:11 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3810"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1956827119001_th-1954329063001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1956041244001_ari-origin05-arc-179-1352395418477.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954329063001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Sugar Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to make this all-time favorite cookie."
+    },
+    {
+      "name": "interactionCount",
+      "content": "549660"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/8/2012 2:50:06 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4642"
+    },
+    {
+      "name": "recipeYield",
+      "content": "48"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2257723668001_th-2255656254001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2257652139001_video-still-for-video-2255656254001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2255656254001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Beth's Spicy Oatmeal Raisin Cookies"
+    },
+    {
+      "name": "description",
+      "content": "These chewy oatmeal raisin cookies are spiced with cinnamon and cloves."
+    },
+    {
+      "name": "interactionCount",
+      "content": "35063"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/29/2013 3:54:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.74"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3634"
+    },
+    {
+      "name": "recipeYield",
+      "content": "36"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "184"
+    },
+    {
+      "name": "recipeYield",
+      "content": "48"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/2609/1033249144001_3127837369001_th-2999243888001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/3233/1033249144001_3127692607001_video-still-for-video-2999243888001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2999243888001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Brooke's Best Bombshell Brownies"
+    },
+    {
+      "name": "description",
+      "content": "See how to make rich, fudgy brownies that are truly the bomb."
+    },
+    {
+      "name": "interactionCount",
+      "content": "103826"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/30/2014 4:28:29 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3119"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1550838612001_th-1546979607001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1547392494001_ari-origin05-arc-126-1333572465943.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546979607001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Award-Winning Soft Chocolate Chip Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to bake a top-rated chocolate chip cookie."
+    },
+    {
+      "name": "interactionCount",
+      "content": "293600"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 10:57:36 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.65"
+    },
+    {
+      "name": "reviewCount",
+      "content": "8096"
+    },
+    {
+      "name": "recipeYield",
+      "content": "72"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1957443554001_th-1629100183001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/3563/1033249144001_2836657877001_Apple-Pie-by-Grandma-Ople.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1629100183001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Apple Pie by Grandma Ople"
+    },
+    {
+      "name": "description",
+      "content": "Learn how to make Grandma Ople's famous apple pie."
+    },
+    {
+      "name": "interactionCount",
+      "content": "840824"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/13/2013 5:27:09 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.77"
+    },
+    {
+      "name": "reviewCount",
+      "content": "7272"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777258045001_th-1777099561001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777143064001_ari-origin05-arc-140-1344457396843.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1777099561001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Country Apple Dumplings"
+    },
+    {
+      "name": "description",
+      "content": "See the easy way to make homemade apple dumplings."
+    },
+    {
+      "name": "interactionCount",
+      "content": "183988"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/30/2012 1:07:03 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.77"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2335"
+    },
+    {
+      "name": "recipeYield",
+      "content": "16"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.73"
+    },
+    {
+      "name": "reviewCount",
+      "content": "714"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1957329390001_th-1954487107001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1956147511001_ari-origin05-arc-166-1352395807504.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954487107001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chantal’s New York Cheesecake"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a top-rated cheesecake."
+    },
+    {
+      "name": "interactionCount",
+      "content": "278939"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/8/2012 4:30:21 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4964"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1709890851001_th-1699346904001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1709833697001_ari-origin05-arc-126-1340837994417.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1699346904001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Big Soft Ginger Cookies"
+    },
+    {
+      "name": "description",
+      "content": "Make these 5-star ginger cookies for Christmas—or any time."
+    },
+    {
+      "name": "interactionCount",
+      "content": "118157"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/29/2012 10:39:17 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.74"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4175"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.61"
+    },
+    {
+      "name": "reviewCount",
+      "content": "205"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/2818/1033249144001_3003216391001_thumbnail-for-video-2581559303001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/1818/1033249144001_3003216392001_video-still-for-video-2581559303001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2581559303001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "The Best Rolled Sugar Cookies"
+    },
+    {
+      "name": "description",
+      "content": "See how to make the ultimate sugar cookie from scratch."
+    },
+    {
+      "name": "interactionCount",
+      "content": "420011"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/2/2014 3:01:58 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "7232"
+    },
+    {
+      "name": "recipeYield",
+      "content": "60"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2591458913001_th-2579195177001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2591418608001_video-still-for-video-2579195177001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2579195177001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Black Magic Cake"
+    },
+    {
+      "name": "description",
+      "content": "See how to make one of moistest chocolate cakes in existence."
+    },
+    {
+      "name": "interactionCount",
+      "content": "104886"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/31/2014 3:21:03 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.77"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1949"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1959253976001_th-1954330071001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1956147513001_ari-origin05-arc-181-1352395932523.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954330071001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Carrot Cake III"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple, moist, and yummy carrot cake."
+    },
+    {
+      "name": "interactionCount",
+      "content": "221273"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/9/2012 1:03:35 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4758"
+    },
+    {
+      "name": "recipeYield",
+      "content": "18"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1729329484001_th-1709931737001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1729311107001_ari-origin05-arc-155-1341958301176.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1709931737001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Peanut Butter Cup Cookies"
+    },
+    {
+      "name": "description",
+      "content": "Combine chewy cookies with peanut butter cups for a real treat."
+    },
+    {
+      "name": "interactionCount",
+      "content": "214545"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 1:15:12 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.80"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2935"
+    },
+    {
+      "name": "recipeYield",
+      "content": "40"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/2516/1033249144001_2842653225001_th-1547157958001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/100/1033249144001_2842550383001_best-brownies.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1547157958001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Best Brownies"
+    },
+    {
+      "name": "description",
+      "content": "Moist and fudgy, these 5-star brownies are deliciously decadent."
+    },
+    {
+      "name": "interactionCount",
+      "content": "628073"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/15/2013 5:02:31 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "7359"
+    },
+    {
+      "name": "recipeYield",
+      "content": "16"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/3304/1033249144001_3203125650001_th-2998568692001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/2593/1033249144001_3199287993001_video-still-for-video-2998568692001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2998568692001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Zucchini Brownies"
+    },
+    {
+      "name": "description",
+      "content": "Moist fudgy brownies with a secret squash surprise."
+    },
+    {
+      "name": "interactionCount",
+      "content": "30489"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/13/2014 12:48:11 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2319"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "d3f00143-3b68-4ca9-96b8-5ea598ef6bdc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "76d0d91c-7658-42ae-ac99-1a07060b103d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1054935.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f8ad5b1b-977c-49c9-a5e7-fc3fdcfe025c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pumpkin Spice Cupcakes With Cream Cheese Frosting",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  18 reviews Recipe by: Cupcakebakinfeind \"Definitely a hit for Halloween!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d9dbccb1-cef3-4d15-b908-332c3a762a56",
+      "type": "h2",
+      "parent_id": "f8ad5b1b-977c-49c9-a5e7-fc3fdcfe025c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 345 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6c85e3aa-e708-4c13-8278-521da853d8b3",
+      "type": "h3",
+      "parent_id": "d9dbccb1-cef3-4d15-b908-332c3a762a56",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 345 kcal 17% Fat: 13.8 g 21% Carbs: 53.8g 17% Protein: 3.4 g 7% Cholesterol: 59 mg 20% Sodium: 174 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0b122ce8-4e61-459d-ad74-0f084f054e64",
+      "type": "h3",
+      "parent_id": "d9dbccb1-cef3-4d15-b908-332c3a762a56",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "433c42f4-2746-47ce-930f-4a7155d9f136",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Cupcakes: ADVERTISEMENT 2 1/2 cups white sugar ADVERTISEMENT 3/4 cup butter, softened ADVERTISEMENT 3 eggs ADVERTISEMENT 1 (15 ounce) can solid-pack pumpkin puree ADVERTISEMENT 2 1/3 cups all-purpose flour ADVERTISEMENT 1 tablespoon pumpkin pie spice ADVERTISEMENT 1 tablespoon ground cinnamon ADVERTISEMENT 3/4 teaspoon baking powder ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1 cup buttermilk ADVERTISEMENT Frosting: ADVERTISEMENT 1 (8 ounce) package cream cheese, softened ADVERTISEMENT 1/2 cup butter, softened ADVERTISEMENT 4 cups confectioners' sugar ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c7656bcd-f1c2-4f9c-90fb-fc28963e965c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 20 m Ready In 50 m Preheat oven to 350 degrees F (175 degrees C). Line 24 muffin cups with paper liners. Beat white sugar and 3/4 cup butter together in a bowl using an electric mixer until smooth and creamy; add eggs, 1 at a time, beating well after each addition. Beat pumpkin into creamed butter mixture. Mix flour, pumpkin pie spice, 1 tablespoon cinnamon, baking powder, and ginger together in a bowl; stir into creamed butter mixture, alternating with buttermilk, until batter is smooth. Fill each muffin cup 3/4-full with batter. Bake in the preheated oven until a toothpick inserted in the center of a cupcake comes out clean, 20 to 25 minutes. Cool in muffin tin for 10 minutes before transferring to wire rack. Beat cream cheese and 1/2 cup butter together in a bowl using an electric mixer until fluffy. Beat confectioners' sugar, 2 teaspoons cinnamon, and vanilla extract into creamed butter until frosting is smooth. Spread frosting on each cupcake."
+        }
+      ]
+    },
+    {
+      "id": "d8c671c0-3c17-4fb1-b841-e11866e6699e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7133de0c-cf4d-4eea-b355-f0fc04c827b2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1107530.jpg"
+        }
+      ]
+    },
+    {
+      "id": "29d8ffcd-8e75-4b0a-8f20-21e9486764aa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Best Big, Fat, Chewy Chocolate Chip Cookie",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  7675 reviews Recipe by: ELIZABETHBH \"These cookies are the pinnacle of perfection! If you want a big, fat, chewy cookie like the kind you see at bakeries and specialty shops, then these are the cookies for you!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "13307c99-39b4-4b4c-ada6-3677a8eb64ed",
+      "type": "h2",
+      "parent_id": "29d8ffcd-8e75-4b0a-8f20-21e9486764aa",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 285 cals for serving adjustment Serving size has been adjusted! Original recipe yields 18 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ac281ae3-b50f-46ec-8280-7e5f57be7326",
+      "type": "h3",
+      "parent_id": "13307c99-39b4-4b4c-ada6-3677a8eb64ed",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 285 kcal 14% Fat: 13.9 g 21% Carbs: 40.1g 13% Protein: 2.8 g 6% Cholesterol: 42 mg 14% Sodium: 111 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1c640660-2cc9-495a-96fe-b36be569d378",
+      "type": "h3",
+      "parent_id": "13307c99-39b4-4b4c-ada6-3677a8eb64ed",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3b5e21cf-4fa9-4202-aa8b-53588a61dd6f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups all-purpose flour ADVERTISEMENT 1/2 teaspoon baking soda ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3/4 cup unsalted butter, melted ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 1 tablespoon vanilla extract ADVERTISEMENT 1 egg ADVERTISEMENT 1 egg yolk ADVERTISEMENT 2 cups semisweet chocolate chips ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "219d0af2-b5c1-432e-b978-d3c6c617ef29",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 15 m Ready In 40 m Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets or line with parchment paper. Sift together the flour, baking soda and salt; set aside. In a medium bowl, cream together the melted butter, brown sugar and white sugar until well blended. Beat in the vanilla, egg, and egg yolk until light and creamy. Mix in the sifted ingredients until just blended. Stir in the chocolate chips by hand using a wooden spoon. Drop cookie dough 1/4 cup at a time onto the prepared cookie sheets. Cookies should be about 3 inches apart. Bake for 15 to 17 minutes in the preheated oven, or until the edges are lightly toasted. Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+        }
+      ]
+    },
+    {
+      "id": "5e2effb4-aa4a-45a0-9849-1eadeff5762f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "77507bf9-28e2-4b61-a8d6-4f0ed59b4694",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2410419.jpg"
+        }
+      ]
+    },
+    {
+      "id": "172b0646-a629-4b19-a18d-47eb040b2c64",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Soft Oatmeal Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2973 reviews Recipe by: BITTERSWEET1 \"These oatmeal cookies are very moist with a good flavor. Add a cup of raisins or nuts if you desire.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "df3a45a3-b366-4549-aff4-40f07db0df75",
+      "type": "h2",
+      "parent_id": "172b0646-a629-4b19-a18d-47eb040b2c64",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h servings 218 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a0514172-ada1-44b7-9a14-8dae9d1c1a25",
+      "type": "h3",
+      "parent_id": "df3a45a3-b366-4549-aff4-40f07db0df75",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 218 kcal 11% Fat: 8.8 g 14% Carbs: 32.3g 10% Protein: 3 g 6% Cholesterol: 36 mg 12% Sodium: 213 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "09a42390-31a0-45d9-8c72-17576ff09b4e",
+      "type": "h3",
+      "parent_id": "df3a45a3-b366-4549-aff4-40f07db0df75",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8f78b825-e93b-4f0b-907b-5b4240176c85",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter, softened ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 1/2 teaspoons ground cinnamon ADVERTISEMENT 3 cups quick cooking oats ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "68c3c91a-0e70-4a1e-91b0-618e80635706",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 2 h In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a time, then stir in vanilla. Combine flour, baking soda, salt, and cinnamon; stir into the creamed mixture. Mix in oats. Cover, and chill dough for at least one hour. Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Roll the dough into walnut sized balls, and place 2 inches apart on cookie sheets. Flatten each cookie with a large fork dipped in sugar. Bake for 8 to 10 minutes in preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+        }
+      ]
+    },
+    {
+      "id": "0df6664d-15eb-4217-80ac-a2542cfab219",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4fde04d5-da60-44bb-8505-ba59acd8575f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/40356.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1725523e-5bd5-476d-b6f6-cfac26821574",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Aunt Joyce's Chocolate Cake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  103 reviews Recipe by: Karen \"This cake is so moist and chocolaty! Everybody always wants the recipe. This one is a MUST TRY!!!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b001d992-35cc-4856-b612-a1e924a4f514",
+      "type": "h2",
+      "parent_id": "1725523e-5bd5-476d-b6f6-cfac26821574",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 416 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5176a617-c2b6-4317-9144-f4e70b8f5983",
+      "type": "h3",
+      "parent_id": "b001d992-35cc-4856-b612-a1e924a4f514",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 416 kcal 21% Fat: 18.5 g 28% Carbs: 60.1g 19% Protein: 4.3 g 9% Cholesterol: 7 mg 2% Sodium: 510 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5942f50f-d303-4cec-90fc-822c574e79ef",
+      "type": "h3",
+      "parent_id": "b001d992-35cc-4856-b612-a1e924a4f514",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "54956c4f-7daf-47e0-a61f-b02d76e386b2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 (1 ounce) squares unsweetened chocolate, chopped ADVERTISEMENT 1 cup mayonnaise ADVERTISEMENT 2 tablespoons vinegar ADVERTISEMENT 2 tablespoons vanilla extract ADVERTISEMENT 3 cups all-purpose flour ADVERTISEMENT 2 cups white sugar ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 cups warm water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "30adebc3-ab5c-4176-915b-ef80f79483d6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 40 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. Melt the chocolate in a double boiler or in the microwave. Pour the melted chocolate into a large mixing bowl. Blend in the mayonnaise, vinegar and vanilla. Combine the flour, sugar, baking soda, and salt and gradually stir into the chocolate mixture. Slowly stir in the warm water. Pour batter into prepared pan. Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool."
+        }
+      ]
+    },
+    {
+      "id": "f957b907-5a7b-4f67-9045-2757216c44d2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "146694f6-b3cd-478a-8c5e-9b51632c7ce9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1130307.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f8f6348c-93c3-4873-8713-8e3c385ad47e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Too Much Chocolate Cake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4896 reviews Recipe by: Denise \"This cake won me First Prize at the county fair last year. It is very chocolaty.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "45c45b94-7da0-462a-b073-0c0c9c68ae89",
+      "type": "h2",
+      "parent_id": "f8f6348c-93c3-4873-8713-8e3c385ad47e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 600 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e3ef9fc5-7445-4a07-9305-f1f435abd46c",
+      "type": "h3",
+      "parent_id": "45c45b94-7da0-462a-b073-0c0c9c68ae89",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 600 kcal 30% Fat: 38.6 g 59% Carbs: 60.9g 20% Protein: 7.6 g 15% Cholesterol: 79 mg 26% Sodium: 550 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dabb0e79-1ece-461f-bdb4-775fea5a501d",
+      "type": "h3",
+      "parent_id": "45c45b94-7da0-462a-b073-0c0c9c68ae89",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4617fce6-c525-4056-95f5-72e792df80fd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (18.25 ounce) package devil's food cake mix ADVERTISEMENT 1 (5.9 ounce) package instant chocolate pudding mix ADVERTISEMENT 1 cup sour cream ADVERTISEMENT 1 cup vegetable oil ADVERTISEMENT 4 eggs ADVERTISEMENT 1/2 cup warm water ADVERTISEMENT 2 cups semisweet chocolate chips ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8a84acb9-0b77-4e66-b317-14f55389bc42",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Preheat oven to 350 degrees F (175 degrees C). In a large bowl, mix together the cake and pudding mixes, sour cream, oil, beaten eggs and water. Stir in the chocolate chips and pour batter into a well greased 12 cup bundt pan. Bake for 50 to 55 minutes, or until top is springy to the touch and a wooden toothpick inserted comes out clean. Cool cake thoroughly in pan at least an hour and a half before inverting onto a plate If desired, dust the cake with powdered sugar."
+        }
+      ]
+    },
+    {
+      "id": "85613239-2d53-4a11-90ae-3329c83c1247",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f53c47a9-581e-49f9-b2dd-39e81a46772f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/4035.jpg"
+        }
+      ]
+    },
+    {
+      "id": "44add971-0dee-4a6b-8171-d3c24d3f060f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Iced Pumpkin Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3047 reviews Recipe by: Gina \"Wonderful spicy iced pumpkin cookies that both kids and adults love!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f998ea12-b5f2-4fe2-813f-c5186889b0ff",
+      "type": "h2",
+      "parent_id": "44add971-0dee-4a6b-8171-d3c24d3f060f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 122 cals for serving adjustment Serving size has been adjusted! Original recipe yields 36 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e8dd2ff1-f9c7-4d99-85c9-804c90b17d2c",
+      "type": "h3",
+      "parent_id": "f998ea12-b5f2-4fe2-813f-c5186889b0ff",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 122 kcal 6% Fat: 3.2 g 5% Carbs: 22.4g 7% Protein: 1.2 g 2% Cholesterol: 13 mg 4% Sodium: 120 mg 5% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fd885f13-a932-4425-8a56-d7903c28e716",
+      "type": "h3",
+      "parent_id": "f998ea12-b5f2-4fe2-813f-c5186889b0ff",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "325636c8-25c8-4c48-b4c8-ee2cb603e27f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/2 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 1/2 teaspoon ground nutmeg ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/2 cup butter, softened ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 1 cup canned pumpkin puree ADVERTISEMENT 1 egg ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 2 cups confectioners' sugar ADVERTISEMENT 3 tablespoons milk ADVERTISEMENT 1 tablespoon melted butter ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "08ac7047-d7b4-4014-a745-f98b38a9a92c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 20 m Ready In 1 h 20 m Preheat oven to 350 degrees F (175 degrees C). Combine flour, baking powder, baking soda, cinnamon, nutmeg, ground cloves, and salt; set aside. In a medium bowl, cream together the 1/2 cup of butter and white sugar. Add pumpkin, egg, and 1 teaspoon vanilla to butter mixture, and beat until creamy. Mix in dry ingredients. Drop on cookie sheet by tablespoonfuls; flatten slightly. Bake for 15 to 20 minutes in the preheated oven. Cool cookies, then drizzle glaze with fork. To Make Glaze: Combine confectioners' sugar, milk, 1 tablespoon melted butter, and 1 teaspoon vanilla. Add milk as needed, to achieve drizzling consistency."
+        }
+      ]
+    },
+    {
+      "id": "e0948642-2e92-4862-82a7-0b1bc1a06f31",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b6d68ab7-9799-4edc-a5f6-3b1c7555faf7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/277070.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cd88b395-4251-4965-8974-1a1f5f97cada",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Apple Crisp II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4665 reviews Recipe by: Diane Kester \"A simple dessert that's great served with ice cream.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fdc2a183-7baf-4e18-bd6e-42bfde861eaa",
+      "type": "h2",
+      "parent_id": "cd88b395-4251-4965-8974-1a1f5f97cada",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 316 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8fe15738-40a4-4d78-a9ce-206f666ab8cc",
+      "type": "h3",
+      "parent_id": "fdc2a183-7baf-4e18-bd6e-42bfde861eaa",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 316 kcal 16% Fat: 8.4 g 13% Carbs: 60.5g 20% Protein: 2.4 g 5% Cholesterol: 20 mg 7% Sodium: 98 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b7d741b0-f843-46c8-ac31-8fef01f5e808",
+      "type": "h3",
+      "parent_id": "fdc2a183-7baf-4e18-bd6e-42bfde861eaa",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "162740a2-9612-4def-a657-8c8c19bd624c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 cups all-purpose apples, peeled, cored and sliced ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 1 tablespoon all-purpose flour ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1 cup quick-cooking oats ADVERTISEMENT 1 cup all-purpose flour ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 1/4 teaspoon baking powder ADVERTISEMENT 1/4 teaspoon baking soda ADVERTISEMENT 1/2 cup butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "5b1666a6-74b7-4659-8f7f-a126a3ff47e3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 45 m Ready In 1 h 20 m Preheat oven to 350 degrees F (175 degree C). Place the sliced apples in a 9x13 inch pan. Mix the white sugar, 1 tablespoon flour and ground cinnamon together, and sprinkle over apples. Pour water evenly over all. Combine the oats, 1 cup flour, brown sugar, baking powder, baking soda and melted butter together. Crumble evenly over the apple mixture. Bake at 350 degrees F (175 degrees C) for about 45 minutes."
+        }
+      ]
+    },
+    {
+      "id": "6845b305-5433-4225-89c7-cd45c796567e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "36cfeaca-be48-4e5b-b0ba-c9ab5c930fdb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2514148.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a429cbb0-e705-41b1-b70a-85d8923c9a62",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Best Chocolate Chip Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  8214 reviews Recipe by: Dora \"Crisp edges, chewy middles.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bb9c10d1-15cf-4dde-8d26-cad3c139207b",
+      "type": "h2",
+      "parent_id": "a429cbb0-e705-41b1-b70a-85d8923c9a62",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 298 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3921a6b7-305b-4c04-b569-808327e52615",
+      "type": "h3",
+      "parent_id": "bb9c10d1-15cf-4dde-8d26-cad3c139207b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 298 kcal 15% Fat: 15.6 g 24% Carbs: 38.8g 13% Protein: 3.6 g 7% Cholesterol: 36 mg 12% Sodium: 166 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2deecff3-37e3-472c-b2fc-82d5a14bf1e2",
+      "type": "h3",
+      "parent_id": "bb9c10d1-15cf-4dde-8d26-cad3c139207b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6c38b003-315e-40cc-a9ac-10478c0fad99",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter, softened ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 3 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 2 teaspoons hot water ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 2 cups semisweet chocolate chips ADVERTISEMENT 1 cup chopped walnuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "41a62bbb-0ef1-489a-9c8a-16749aabbc7b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 10 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned."
+        }
+      ]
+    },
+    {
+      "id": "a95a3ff3-c20f-48cf-a6c0-4d790d298da5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6a84b47b-d6ed-4afc-8f53-2c24095ff0f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/508714.jpg"
+        }
+      ]
+    },
+    {
+      "id": "79c3f716-f047-4e92-9ebf-ec7de64b62c8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chewy Chocolate Chip Oatmeal Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3426 reviews Recipe by: PANTHERA \"I modified Beatrice's Excellent Oatmeal cookies very slightly. I came up with something that my boyfriend went CRAZY over! I've never seen him enjoy cookies to that extent! He said I blew his mother's recipe away.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "eb7b49f8-0e81-4bd3-ab37-a8c2e26e5911",
+      "type": "h2",
+      "parent_id": "79c3f716-f047-4e92-9ebf-ec7de64b62c8",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 145 cals for serving adjustment Serving size has been adjusted! Original recipe yields 42 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e03e35b2-47c1-4183-9434-e3b182a18aee",
+      "type": "h3",
+      "parent_id": "eb7b49f8-0e81-4bd3-ab37-a8c2e26e5911",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 145 kcal 7% Fat: 8.1 g 12% Carbs: 17.2g 6% Protein: 2.1 g 4% Cholesterol: 20 mg 7% Sodium: 107 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6aa979a5-9416-4ef3-a89d-b83ce6684052",
+      "type": "h3",
+      "parent_id": "eb7b49f8-0e81-4bd3-ab37-a8c2e26e5911",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "03c1ab90-7ca3-499c-a4dd-4b75675aca85",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter, softened ADVERTISEMENT 1 cup packed light brown sugar ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 1 1/4 cups all-purpose flour ADVERTISEMENT 1/2 teaspoon baking soda ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 3 cups quick-cooking oats ADVERTISEMENT 1 cup chopped walnuts ADVERTISEMENT 1 cup semisweet chocolate chips ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "902c29a7-8ee1-4cbf-8744-b443510f0c0f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 12 m Ready In 55 m Preheat the oven to 325 degrees F (165 degrees C). In a large bowl, cream together the butter, brown sugar, and white sugar until smooth. Beat in eggs one at a time, then stir in vanilla. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended. Mix in the quick oats, walnuts, and chocolate chips. Drop by heaping spoonfuls onto ungreased baking sheets. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+        }
+      ]
+    },
+    {
+      "id": "82a260d7-2ab6-4209-a6f0-56c70cca9d43",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "391faaf6-4e75-4989-b2c6-1cfb958ca423",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3210836.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d361c40a-bb44-47a9-8735-e3c4a910b55e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Peanut Blossoms II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  386 reviews Recipe by: Rosemarie Magee \"I make these every year for our annual cookie open house. We make about 15 to 20 different kinds of cookies and have a 4 hour open house with friends. We then prepare cookie trays to take to shut ins and freeze the rest to enjoy all year long. My husband helps with this four day project! He's retired ... and I'm partially retired. It has been a long standing tradition that we enjoy every year!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "55a30702-b518-43a7-8c0f-de16ff720ca6",
+      "type": "h2",
+      "parent_id": "d361c40a-bb44-47a9-8735-e3c4a910b55e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 116 cals for serving adjustment Serving size has been adjusted! Original recipe yields 84 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "964a561f-e529-42d4-96b1-85ae4569dab6",
+      "type": "h3",
+      "parent_id": "55a30702-b518-43a7-8c0f-de16ff720ca6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 116 kcal 6% Fat: 6 g 9% Carbs: 14.3g 5% Protein: 1.9 g 4% Cholesterol: 6 mg 2% Sodium: 79 mg 3% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a5fd021b-fbba-455f-a45b-5b9d08d1d1d6",
+      "type": "h3",
+      "parent_id": "55a30702-b518-43a7-8c0f-de16ff720ca6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2308b01d-9720-4497-ac05-bcbb81ab7b03",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup shortening ADVERTISEMENT 1 cup peanut butter ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1/4 cup milk ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 3 1/2 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/2 cup white sugar for decoration ADVERTISEMENT 2 (9 ounce) bags milk chocolate candy kisses, unwrapped ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3482086b-63ea-403f-aea0-2d886f5c2906",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 12 m Ready In 1 h 30 m Preheat oven to 375 degrees F (190 degrees C). Grease cookie sheets. In a large bowl, cream together the shortening, peanut butter, brown sugar, and 1 cup white sugar until smooth. Beat in the eggs one at a time, and stir in the milk and vanilla. Combine the flour, baking soda, and salt; stir into the peanut butter mixture until well blended. Shape tablespoonfuls of dough into balls, and roll in remaining white sugar. Place cookies 2 inches apart on the prepared cookie sheets. Bake for 10 to12 minutes in the preheated oven. Remove from oven, and immediately press a chocolate kiss into each cookie. Allow to cool completely; the kiss will harden as it cools."
+        }
+      ]
+    },
+    {
+      "id": "8d8328f9-3fc9-41de-8c5a-b7637c8a39ce",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "26aabe86-8d3f-48a9-8eca-56b324117dc4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1050640.jpg"
+        }
+      ]
+    },
+    {
+      "id": "318e5f28-a2cb-4fd1-a8a1-51ca7262de06",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Apple Slab Pie",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  61 reviews Recipe by: Marsha Crom \"A good choice if the school or church asks you to bring dessert. Kind of like Dutch apple pie.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "344d2dab-5a44-4f22-9efb-303c5bffc780",
+      "type": "h2",
+      "parent_id": "318e5f28-a2cb-4fd1-a8a1-51ca7262de06",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 405 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "7e59cb32-7416-46a1-9968-7e02edf8c248",
+      "type": "h3",
+      "parent_id": "344d2dab-5a44-4f22-9efb-303c5bffc780",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 405 kcal 20% Fat: 17.5 g 27% Carbs: 61.5g 20% Protein: 2.9 g 6% Cholesterol: 53 mg 18% Sodium: 125 mg 5% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "69b1d17e-ab4e-490d-b38f-5b214a356fbb",
+      "type": "h3",
+      "parent_id": "344d2dab-5a44-4f22-9efb-303c5bffc780",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "03255aa8-5534-4ce8-870c-7bde3373147c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups all-purpose flour ADVERTISEMENT 1 1/2 tablespoons white sugar ADVERTISEMENT 1/2 cup shortening ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/2 teaspoon baking powder ADVERTISEMENT 2 egg yolks, beaten ADVERTISEMENT 4 tablespoons water ADVERTISEMENT 8 apples - peeled, cored and cut into thin wedges ADVERTISEMENT 2 tablespoons lemon juice ADVERTISEMENT 2 tablespoons all-purpose flour ADVERTISEMENT 1 3/4 cups white sugar ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT 1 cup all-purpose flour ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 2/3 cup brown sugar ADVERTISEMENT 2/3 cup butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2f88cf73-e6a6-4fb8-b4dc-63250478031a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 1 h 30 m Preheat oven to 350 degrees F (175 degrees C.) In a large bowl, combine flour sugar, salt and baking powder. Cut in shortening until mixture resembles coarse crumbs. Mix egg yolk and water together and mix into flour until it forms a ball. Roll out to fit the bottom of a 10x15 inch pan. In a large bowl, combine apples, lemon juice, 2 tablespoons flour, sugar and cinnamon. Pour filling into pie crust and dot with 2 tablespoons butter. In a medium bowl, combine 1 cup flour, 1 teaspoon cinnamon, 2/3 cup brown sugar and 2/3 cup butter. Cut in the butter until crumbly, then sprinkle over apples. Bake in the preheated oven for 60 minutes, or until topping is golden brown."
+        }
+      ]
+    },
+    {
+      "id": "69348dfe-abfa-47b3-aaae-610b26adf9d2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "081b7083-efa2-443a-9e4c-570067ff9ee8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3206419.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e6e86705-b3ed-4ef4-b276-95fa84320d23",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mrs. Sigg's Snickerdoodles",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4129 reviews Recipe by: Beth Sigworth \"These wonderful cinnamon-sugar cookies became very popular with my friends at church. My pastor loves them! You will too! Crispy edges, and chewy centers; these cookies are a crowd pleaser for sure!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9812cc1b-82a9-4d24-a963-a342e6e17f1e",
+      "type": "h2",
+      "parent_id": "e6e86705-b3ed-4ef4-b276-95fa84320d23",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 92 cals for serving adjustment Serving size has been adjusted! Original recipe yields 48 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "638e84fc-c643-4aba-9863-eaf545cbe107",
+      "type": "h3",
+      "parent_id": "9812cc1b-82a9-4d24-a963-a342e6e17f1e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 92 kcal 5% Fat: 4.3 g 7% Carbs: 12.4g 4% Protein: 1 g 2% Cholesterol: 13 mg 4% Sodium: 55 mg 2% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "97f8e12d-f6a6-4501-a2fb-7205855f3edd",
+      "type": "h3",
+      "parent_id": "9812cc1b-82a9-4d24-a963-a342e6e17f1e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "963d1e42-6cc3-47dd-b283-1aa24d642ed8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup butter, softened ADVERTISEMENT 1/2 cup shortening ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 3/4 cups all-purpose flour ADVERTISEMENT 2 teaspoons cream of tartar ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "26082fcb-8481-4442-914b-c60ba9dae846",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 10 m Ready In 1 h Preheat oven to 400 degrees F (200 degrees C). Cream together butter, shortening, 1 1/2 cups sugar, the eggs and the vanilla. Blend in the flour, cream of tartar, soda and salt. Shape dough by rounded spoonfuls into balls. Mix the 2 tablespoons sugar and the cinnamon. Roll balls of dough in mixture. Place 2 inches apart on ungreased baking sheets. Bake 8 to 10 minutes, or until set but not too hard. Remove immediately from baking sheets."
+        }
+      ]
+    },
+    {
+      "id": "389c1a6d-5a3e-4640-8e08-babb80cd3c1c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e19b53a6-f6d8-408e-a996-2b07e538b3cc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/108681.jpg"
+        }
+      ]
+    },
+    {
+      "id": "00aa6f5c-3a92-4116-a96a-0cd937877259",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Creamy Rice Pudding",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3810 reviews Recipe by: Erica G. \"This is my mom's recipe for Rice Pudding. It's the best I've ever tasted and it gets rave reviews from everyone I serve it to. Sprinkle with nutmeg or cinnamon, if desired. For creamier pudding, use short or medium grain rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b277b2ab-a590-4145-b715-b8142913cea9",
+      "type": "h2",
+      "parent_id": "00aa6f5c-3a92-4116-a96a-0cd937877259",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 366 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "48d1e00e-a4f2-4afa-9659-2c34207cb1a9",
+      "type": "h3",
+      "parent_id": "b277b2ab-a590-4145-b715-b8142913cea9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 366 kcal 18% Fat: 6.9 g 11% Carbs: 67.6g 22% Protein: 8.8 g 18% Cholesterol: 64 mg 21% Sodium: 237 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "47828b8b-2e19-46b4-bc49-4260d936ff7c",
+      "type": "h3",
+      "parent_id": "b277b2ab-a590-4145-b715-b8142913cea9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7f9daf36-5f3a-460b-83ad-06ecdb7a9914",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup uncooked white rice ADVERTISEMENT 2 cups milk, divided ADVERTISEMENT 1/3 cup white sugar ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 2/3 cup golden raisins ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1/2 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b303f829-51a0-454c-82bd-8fc2dc5f2498",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 20 m Ready In 45 m Bring 1 1/2 cups water to a boil in a saucepan; stir rice into boiling water. Reduce heat to low, cover, and simmer for 20 minutes. In a clean saucepan, combine 1 1/2 cups cooked rice, 1 1/2 cups milk, sugar and salt. Cook over medium heat until thick and creamy, 15 to 20 minutes. Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla."
+        }
+      ]
+    },
+    {
+      "id": "da549334-2e52-4ade-895f-0e6dc332ad31",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "532e976b-f8a4-4166-b2bb-fe06665ddc76",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1754462.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5155dc0d-96ef-43f6-91fc-a0cf1c32086e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Sugar Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4642 reviews Recipe by: Stephanie \"Quick and easy sugar cookies! They are really good, plain or with candies in them. My friend uses chocolate mints on top, and they're great!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c22dd206-e617-4bff-9862-43ec6c9c8fd8",
+      "type": "h2",
+      "parent_id": "5155dc0d-96ef-43f6-91fc-a0cf1c32086e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 86 cals for serving adjustment Serving size has been adjusted! Original recipe yields 48 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "de9eaa7a-205a-4bb9-9de4-429c0b2f33d3",
+      "type": "h3",
+      "parent_id": "c22dd206-e617-4bff-9862-43ec6c9c8fd8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 86 kcal 4% Fat: 4 g 6% Carbs: 11.7g 4% Protein: 0.9 g 2% Cholesterol: 14 mg 5% Sodium: 60 mg 2% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4928d845-8a99-42dc-b5cf-d442ccb3796f",
+      "type": "h3",
+      "parent_id": "c22dd206-e617-4bff-9862-43ec6c9c8fd8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5324e19a-586f-448e-8215-6ac62f40d92a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 3/4 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1/2 teaspoon baking powder ADVERTISEMENT 1 cup butter, softened ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 1 egg ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1100b604-889e-406c-8dcb-ab896b01bfbe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 25 m Preheat oven to 375 degrees F (190 degrees C). In a small bowl, stir together flour, baking soda, and baking powder. Set aside. In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets. Bake 8 to 10 minutes in the preheated oven, or until golden. Let stand on cookie sheet two minutes before removing to cool on wire racks."
+        }
+      ]
+    },
+    {
+      "id": "b0db07e4-764f-4cf3-ab8a-51131380bef9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d989c823-034d-46da-a414-a2cee93af12e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/472586.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a89fe7b2-20c4-407d-ac7d-b93ecf1a9996",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Beth's Spicy Oatmeal Raisin Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3634 reviews Recipe by: Beth Sigworth \"With a little experimenting, I came up with these chewy, spicy, oatmeal raisin cookies. They make your kitchen smell wonderful while they are baking. They almost remind me of Christmas because the spices smell so good.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a11db6eb-4ddd-4fc0-9179-ca5103114b62",
+      "type": "h2",
+      "parent_id": "a89fe7b2-20c4-407d-ac7d-b93ecf1a9996",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 144 cals for serving adjustment Serving size has been adjusted! Original recipe yields 36 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "69c1fc06-8be0-426f-b9ac-a8b7025d3a9e",
+      "type": "h3",
+      "parent_id": "a11db6eb-4ddd-4fc0-9179-ca5103114b62",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 144 kcal 7% Fat: 6.3 g 10% Carbs: 20.6g 7% Protein: 1.9 g 4% Cholesterol: 17 mg 6% Sodium: 92 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2cb56f9f-5b3c-42da-99c5-b36a0a8bbc17",
+      "type": "h3",
+      "parent_id": "a11db6eb-4ddd-4fc0-9179-ca5103114b62",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "57cbe1e5-3485-48e9-aabe-2ccf122fe056",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup butter, softened ADVERTISEMENT 1/2 cup butter flavored shortening ADVERTISEMENT 1 cup packed light brown sugar ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 1/2 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3 cups rolled oats ADVERTISEMENT 1 cup raisins ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "64d979a0-f107-4ad9-9cbf-6af50c896212",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 12 m Ready In 50 m Preheat oven to 350 degrees F (175 degrees C). In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth. Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture. Stir in the oats and raisins. Drop by rounded teaspoonfuls onto ungreased cookie sheets. Bake 10 to 12 minutes until light and golden. Do not overbake. Let them cool for 2 minutes before removing from cookie sheets to cool completely. Store in airtight container. Make sure you get some, because they don't last long!"
+        }
+      ]
+    },
+    {
+      "id": "b792162a-5a99-4c57-b1f3-11c5521ed59e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c96d49bc-4465-4959-a5f4-204d56ae305c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/490285.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5cf43e48-746f-49a2-b575-61809e650dc9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Apple Crisp Cups",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  184 reviews Recipe by: weeble \"A yummy one-biter! Whenever I ask 'what can I bring?' these top the list! Sweet cinnamon-scented apples held in a buttery crispy oatmeal cup and crunchy sweet topping. I like to make sweet treats to share with friends. I came up with this recipe so that I could bake and take apple crisp to share easily with everyone.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3d201825-8c42-4618-8c93-d3a3756fe0e6",
+      "type": "h2",
+      "parent_id": "5cf43e48-746f-49a2-b575-61809e650dc9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 109 cals for serving adjustment Serving size has been adjusted! Original recipe yields 48 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "34dfccb1-dc82-438a-bb51-269891bd4f62",
+      "type": "h3",
+      "parent_id": "3d201825-8c42-4618-8c93-d3a3756fe0e6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 109 kcal 5% Fat: 6.1 g 9% Carbs: 13.1g 4% Protein: 1.1 g 2% Cholesterol: 15 mg 5% Sodium: 43 mg 2% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6095c96f-979c-42ac-a1b9-fcabdeb01666",
+      "type": "h3",
+      "parent_id": "3d201825-8c42-4618-8c93-d3a3756fe0e6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f3bcfcc5-26d9-4df8-bb36-50f93d8fa672",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 large McIntosh apples - peeled, cored, and chopped ADVERTISEMENT 1/4 cup water ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1/2 teaspoon ground cinnamon, or to taste ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 2 cups rolled oats ADVERTISEMENT 1 1/2 cups brown sugar ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1/2 teaspoon ground nutmeg (optional) ADVERTISEMENT 1 1/2 cups butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "aadad961-2a86-4b73-b028-5663af858555",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 45 m Cook 20 m Ready In 1 h 5 m Preheat oven to 350 degrees F (175 degrees C). Grease 4 12-cup mini-muffin tins. Mix apples, water, white sugar, and 1/2 teaspoon of cinnamon together in a saucepan, and bring to a simmer over medium-low heat, stirring occasionally. Simmer until apples are partially cooked, about 5 minutes; remove from heat. Combine flour, oats, brown sugar, 1 teaspoon of cinnamon, and nutmeg in a large bowl; cut the butter into the flour mixture with a pastry cutter until the mixture looks like coarse crumbs. Place a heaping tablespoon of the crust mixture into a mini muffin cup, and press it into the cup so that it covers the bottom and pushes up the sides of the cup. Make the crust go all the way to the top of the little muffin cup, and patch any holes with more crust mixture. There will be crust mixture left over. Place about 2 teaspoons of apple filling in the crust. Sprinkle about 1 teaspoon of the remaining crust mixture on the filling. Bake in the preheated oven until golden brown, 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "baef4ee8-7345-4061-9e5b-a6cd2b964b64",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "426a3379-c247-4d81-86e1-c118ea64def1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/358859.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3c979f9e-f598-4415-b529-66a4829a5c63",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Brooke's Best Bombshell Brownies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3119 reviews Recipe by: BROOKE \"These brownies are the bomb! I've found the perfect combination of ingredients to make the fudgiest brownies yet... Enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c2c91e54-44fd-4b38-9216-693bb1539c80",
+      "type": "h2",
+      "parent_id": "3c979f9e-f598-4415-b529-66a4829a5c63",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 248 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ac12cabf-aeaf-4d1d-bb79-d8351910ee82",
+      "type": "h3",
+      "parent_id": "c2c91e54-44fd-4b38-9216-693bb1539c80",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 248 kcal 12% Fat: 11.2 g 17% Carbs: 37.5g 12% Protein: 2.9 g 6% Cholesterol: 51 mg 17% Sodium: 165 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b3ae9b9c-f678-4246-b4c0-582fd34620a8",
+      "type": "h3",
+      "parent_id": "c2c91e54-44fd-4b38-9216-693bb1539c80",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e20e2df8-9d58-4c0f-9afa-0d8c6290d500",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter, melted ADVERTISEMENT 3 cups white sugar ADVERTISEMENT 1 tablespoon vanilla extract ADVERTISEMENT 4 eggs ADVERTISEMENT 1 1/2 cups all-purpose flour ADVERTISEMENT 1 cup unsweetened cocoa powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 cup semisweet chocolate chips ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "df5ad933-c52c-4865-88fc-83f5366b604a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 35 m Ready In 50 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 baking dish. Combine the melted butter, sugar, and vanilla in a large bowl. Beat in the eggs, one at a time, mixing well after each, until thoroughly blended. Sift the flour, cocoa powder, and salt in a bowl. Gradually stir flour mixture into the egg mixture until blended. Stir in the chocolate morsels. Spread the batter evenly into the prepared baking dish. Bake in preheated oven until an inserted toothpick comes out clean, 35 to 40 minutes. Remove, and cool pan on wire rack before cutting."
+        }
+      ]
+    },
+    {
+      "id": "5f70d8dc-0c64-4657-9705-47309a0a87e3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cac7d05a-8097-4687-be5f-f3d2dc8c1813",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/693521.jpg"
+        }
+      ]
+    },
+    {
+      "id": "94cef639-3180-4886-b61e-9aa4f3f255ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Award Winning Soft Chocolate Chip Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  8096 reviews Recipe by: Debbi Borsick \"Everybody wants this recipe when I take them in for a carry-in. To make them award winning, my daughter, Tegan, made them for a cookie baking contest and won a red ribbon! You can use any flavor pudding you like for this recipe.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "082b46b9-1703-414c-9154-5af6ecdf9536",
+      "type": "h2",
+      "parent_id": "94cef639-3180-4886-b61e-9aa4f3f255ba",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 40 m servings 177 cals for serving adjustment Serving size has been adjusted! Original recipe yields 72 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c5990f72-f068-47b4-b792-c33430c87516",
+      "type": "h3",
+      "parent_id": "082b46b9-1703-414c-9154-5af6ecdf9536",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 177 kcal 9% Fat: 10.5 g 16% Carbs: 20.7g 7% Protein: 2.1 g 4% Cholesterol: 24 mg 8% Sodium: 116 mg 5% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8f8b705f-f695-486a-ba8b-360aafdf6c79",
+      "type": "h3",
+      "parent_id": "082b46b9-1703-414c-9154-5af6ecdf9536",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "14ca46d9-f52f-4ad2-b4a0-3a5ade4412a0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 1/2 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 2 cups butter, softened ADVERTISEMENT 1 1/2 cups packed brown sugar ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 (3.4 ounce) packages instant vanilla pudding mix ADVERTISEMENT 4 eggs ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 4 cups semisweet chocolate chips ADVERTISEMENT 2 cups chopped walnuts (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "31855823-5f4b-46dc-b2ac-97cded695fc0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 12 m Ready In 1 h 40 m Preheat oven to 350 degrees F (175 degrees C). Sift together the flour and baking soda, set aside. In a large bowl, cream together the butter, brown sugar, and white sugar. Beat in the instant pudding mix until blended. Stir in the eggs and vanilla. Blend in the flour mixture. Finally, stir in the chocolate chips and nuts. Drop cookies by rounded spoonfuls onto ungreased cookie sheets. Bake for 10 to 12 minutes in the preheated oven. Edges should be golden brown."
+        }
+      ]
+    },
+    {
+      "id": "b4de8fe2-f95a-43ac-ac6b-ccc81fd4902c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c1d38bcb-6e5a-4f92-bdfd-d12a477d4882",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/736203.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9d930aa1-4cec-4176-a423-ebee1f0175fd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Apple Pie by Grandma Ople",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  7272 reviews Recipe by: MOSHASMAMA \"This was my grandmother's apple pie recipe. I have never seen another one quite like it. It will always be my favorite and has won me several first place prizes in local competitions. I hope it becomes one of your favorites as well!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e40e0323-3474-44a3-8d8e-ebe22a83838a",
+      "type": "h2",
+      "parent_id": "9d930aa1-4cec-4176-a423-ebee1f0175fd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 512 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8b521993-7bc9-4c25-940a-fe95baa204ac",
+      "type": "h3",
+      "parent_id": "e40e0323-3474-44a3-8d8e-ebe22a83838a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 512 kcal 26% Fat: 26.7 g 41% Carbs: 67.8g 22% Protein: 3.6 g 7% Cholesterol: 31 mg 10% Sodium: 241 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6dfc172d-a5bc-4eef-b20d-591c210bc40c",
+      "type": "h3",
+      "parent_id": "e40e0323-3474-44a3-8d8e-ebe22a83838a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "47daea8a-b7b1-44d0-a8b9-15e098efa9db",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 recipe pastry for a 9 inch double crust pie ADVERTISEMENT 1/2 cup unsalted butter ADVERTISEMENT 3 tablespoons all-purpose flour ADVERTISEMENT 1/4 cup water ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 1/2 cup packed brown sugar ADVERTISEMENT 8 Granny Smith apples - peeled, cored and sliced ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0ddb4af5-82dd-4518-8ea5-2599fe7e8eb8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 1 h 30 m Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer. Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off. Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft."
+        }
+      ]
+    },
+    {
+      "id": "6ad55079-d1ae-4bc7-897a-570f1dfbb325",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3567b3db-fa9b-47b0-9ec5-8d19a5fd7121",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/655095.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d2bcf2cc-5bfd-4512-a811-0361d6ab1306",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Country Apple Dumplings",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2335 reviews Recipe by: docswife \"Oh my Goodness!! Who knew that fresh apples, crescent roll dough, and citrus soda could make such a wonderful treat!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1b3f11a8-8a10-4783-833c-4ee4e1dee53c",
+      "type": "h2",
+      "parent_id": "d2bcf2cc-5bfd-4512-a811-0361d6ab1306",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 333 cals for serving adjustment Serving size has been adjusted! Original recipe yields 16 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "48905ad7-164a-48d5-92fd-d018d61db177",
+      "type": "h3",
+      "parent_id": "1b3f11a8-8a10-4783-833c-4ee4e1dee53c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 333 kcal 17% Fat: 19 g 29% Carbs: 38.5g 12% Protein: 2.7 g 5% Cholesterol: 31 mg 10% Sodium: 360 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "53863245-2d73-45e5-9d15-865c624a548b",
+      "type": "h3",
+      "parent_id": "1b3f11a8-8a10-4783-833c-4ee4e1dee53c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c8e8334c-36b5-44db-aae2-fb02e123f9db",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 large Granny Smith apples, peeled and cored ADVERTISEMENT 2 (10 ounce) cans refrigerated crescent roll dough ADVERTISEMENT 1 cup butter ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1 (12 fluid ounce) can or bottle Mountain Dew ™ ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9c82a240-bbde-4646-83b2-968fdeec36e6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 45 m Ready In 1 h 5 m Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish. Cut each apple into 8 wedges and set aside. Separate the crescent roll dough into triangles. Roll each apple wedge in crescent roll dough starting at the smallest end. Pinch to seal and place in the baking dish. Melt butter in a small saucepan and stir in the sugar and cinnamon. Pour over the apple dumplings. Pour Mountain Dew(TM) over the dumplings. Bake for 35 to 45 minutes in the preheated oven, or until golden brown."
+        }
+      ]
+    },
+    {
+      "id": "ec2100ce-dc15-484c-823b-9c2376d2419d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0316b786-c937-4713-8701-b782fb9478fa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/126606.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ea5c4854-9b92-4048-868f-e9f1236b05e0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Autumn Cheesecake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  714 reviews Recipe by: Stephanie \"This is a delicious Apple Cheesecake that I usually make in the fall.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7d3c0f1a-af90-45ea-97b0-c0ae125ac5fa",
+      "type": "h2",
+      "parent_id": "ea5c4854-9b92-4048-868f-e9f1236b05e0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h servings 341 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "59d2a687-d45e-47bb-b771-515b182810e5",
+      "type": "h3",
+      "parent_id": "7d3c0f1a-af90-45ea-97b0-c0ae125ac5fa",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 341 kcal 17% Fat: 23.4 g 36% Carbs: 30.3g 10% Protein: 5.1 g 10% Cholesterol: 82 mg 27% Sodium: 165 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8d292252-2766-479c-bedd-7f955d0cd062",
+      "type": "h3",
+      "parent_id": "7d3c0f1a-af90-45ea-97b0-c0ae125ac5fa",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a49377f8-3e32-430d-98d9-d4935cf2f2ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup graham cracker crumbs ADVERTISEMENT 1/2 cup finely chopped pecans ADVERTISEMENT 3 tablespoons white sugar ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1/4 cup unsalted butter, melted ADVERTISEMENT 2 (8 ounce) packages cream cheese, softened ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1/2 teaspoon vanilla extract ADVERTISEMENT 4 cups apples - peeled, cored and thinly sliced ADVERTISEMENT 1/3 cup white sugar ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1/4 cup chopped pecans ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "53f4b4ae-3bd2-42f3-ba97-0c5b6851c139",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h 10 m Ready In 4 h Preheat oven to 350 degrees F (175 degrees C). In a large bowl, stir together the graham cracker crumbs, 1/2 cup finely chopped pecans, 3 tablespoons sugar, 1/2 teaspoon cinnamon and melted butter; press into the bottom of a 9 inch springform pan. Bake in preheated oven for 10 minutes. In a large bowl, combine cream cheese and 1/2 cup sugar. Mix at medium speed until smooth. Beat in eggs one at a time, mixing well after each addition. Blend in vanilla; pour filling into the baked crust. In a small bowl, stir together 1/3 cup sugar and 1/2 teaspoon cinnamon. Toss the cinnamon-sugar with the apples to coat. Spoon apple mixture over cream cheese layer and sprinkle with 1/4 cup chopped pecans. Bake in preheated oven for 60 to 70 minutes. With a knife, loosen cake from rim of pan. Let cool, then remove the rim of pan. Chill cake before serving."
+        }
+      ]
+    },
+    {
+      "id": "92d3e90f-ec10-4d61-9181-0d8ef5c8fb90",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f1f3bc31-3deb-41f7-87a9-5f4d6ca004a9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/730824.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0e9960cb-38e0-42d7-8d02-0b8757e67195",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chantal's New York Cheesecake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4964 reviews Recipe by: Taliesen \"This cake is easy to make, and it's so delicious. Everyone that's tried it has said it tasted just like the ones in a deli! You'll love it!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5343b153-7bee-4cb7-85cc-05d700a2e4dc",
+      "type": "h2",
+      "parent_id": "0e9960cb-38e0-42d7-8d02-0b8757e67195",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "7 h 30 m servings 533 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ea97772e-9db6-4052-ad61-bd4b3a6c6d4a",
+      "type": "h3",
+      "parent_id": "5343b153-7bee-4cb7-85cc-05d700a2e4dc",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 533 kcal 27% Fat: 35.7 g 55% Carbs: 44.2g 14% Protein: 10.3 g 21% Cholesterol: 159 mg 53% Sodium: 380 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e307725d-3880-4922-8e9e-b63eabf77dcb",
+      "type": "h3",
+      "parent_id": "5343b153-7bee-4cb7-85cc-05d700a2e4dc",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "69d4ff12-9f9d-4923-a022-54fd4752ae45",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 graham crackers, crushed ADVERTISEMENT 2 tablespoons butter, melted ADVERTISEMENT 4 (8 ounce) packages cream cheese ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 3/4 cup milk ADVERTISEMENT 4 eggs ADVERTISEMENT 1 cup sour cream ADVERTISEMENT 1 tablespoon vanilla extract ADVERTISEMENT 1/4 cup all-purpose flour ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "51e12c28-7f77-450c-949b-36ee2de619ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 7 h 30 m Preheat oven to 350 degrees F (175 degrees C). Grease a 9 inch springform pan. In a medium bowl, mix graham cracker crumbs with melted butter. Press onto bottom of springform pan. In a large bowl, mix cream cheese with sugar until smooth. Blend in milk, and then mix in the eggs one at a time, mixing just enough to incorporate. Mix in sour cream, vanilla and flour until smooth. Pour filling into prepared crust. Bake in preheated oven for 1 hour. Turn the oven off, and let cake cool in oven with the door closed for 5 to 6 hours; this prevents cracking. Chill in refrigerator until serving."
+        }
+      ]
+    },
+    {
+      "id": "d736d36b-dcab-458c-8d2c-a78169eadf37",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c1d2842b-f9a6-422b-b57c-6fb6d037718b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/288811.jpg"
+        }
+      ]
+    },
+    {
+      "id": "eaeef5b9-7e06-4e81-a0e9-77fbbc9f9793",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Big Soft Ginger Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4175 reviews Recipe by: AMY1028 \"These are just what they say: big, soft, gingerbread cookies. They stay soft, too. My oldest son's favorite.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "938ac04c-1148-4c18-a1f7-65cc0b282eaf",
+      "type": "h2",
+      "parent_id": "eaeef5b9-7e06-4e81-a0e9-77fbbc9f9793",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 143 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5bb00c5a-d4dd-472b-a9dc-99ed93cbcdf4",
+      "type": "h3",
+      "parent_id": "938ac04c-1148-4c18-a1f7-65cc0b282eaf",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 143 kcal 7% Fat: 6 g 9% Carbs: 21.1g 7% Protein: 1.6 g 3% Cholesterol: 8 mg 3% Sodium: 147 mg 6% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7db499ea-b463-4003-b632-e0824e279a34",
+      "type": "h3",
+      "parent_id": "938ac04c-1148-4c18-a1f7-65cc0b282eaf",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f58f3da6-23c4-4fef-992c-e2f2fd4842ed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/4 cups all-purpose flour ADVERTISEMENT 2 teaspoons ground ginger ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 3/4 teaspoon ground cinnamon ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 3/4 cup margarine, softened ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 1 egg ADVERTISEMENT 1 tablespoon water ADVERTISEMENT 1/4 cup molasses ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4d29c2db-d91b-49cc-900c-1abc04253f94",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 50 m Preheat oven to 350 degrees F (175 degrees C). Sift together the flour, ginger, baking soda, cinnamon, cloves, and salt. Set aside. In a large bowl, cream together the margarine and 1 cup sugar until light and fluffy. Beat in the egg, then stir in the water and molasses. Gradually stir the sifted ingredients into the molasses mixture. Shape dough into walnut sized balls, and roll them in the remaining 2 tablespoons of sugar. Place the cookies 2 inches apart onto an ungreased cookie sheet, and flatten slightly. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container."
+        }
+      ]
+    },
+    {
+      "id": "a8ca3ce8-c423-4884-9811-3c292c337aab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7483f64d-347c-4477-87de-d1e3940fd86f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/445258.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2091fc0c-bf11-4146-9e91-4e4b35a5cd91",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Apple Harvest Pound Cake with Caramel Glaze",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  205 reviews Recipe by: DaniBanani \"This is a fantastic Bundt cake that my grandmother used to make for Thanksgiving. It has been a family favorite for years!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1e557bc1-c6fc-487e-8fc2-dbce55d18166",
+      "type": "h2",
+      "parent_id": "2091fc0c-bf11-4146-9e91-4e4b35a5cd91",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 50 m servings 682 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ba89a201-a84c-4a7b-a851-a7c74ccfd7a0",
+      "type": "h3",
+      "parent_id": "1e557bc1-c6fc-487e-8fc2-dbce55d18166",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 682 kcal 34% Fat: 42.8 g 66% Carbs: 71.1g 23% Protein: 6.5 g 13% Cholesterol: 67 mg 22% Sodium: 375 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "04fd3cc5-c0d8-430c-86b7-8b9ff168d6fd",
+      "type": "h3",
+      "parent_id": "1e557bc1-c6fc-487e-8fc2-dbce55d18166",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "616942cd-6faa-4fda-9d78-fca1c985bd8e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups white sugar ADVERTISEMENT 1 1/2 cups vegetable oil ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 3 eggs ADVERTISEMENT 3 cups all-purpose flour ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 medium Granny Smith apples - peeled, cored and chopped ADVERTISEMENT 1 cup chopped walnuts ADVERTISEMENT 1/2 cup butter or margarine ADVERTISEMENT 2 teaspoons milk ADVERTISEMENT 1/2 cup brown sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7f56ab8d-92b2-4d2d-9d9d-a1b93182eb84",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h 20 m Ready In 1 h 50 m Preheat the oven to 350 degrees F (175 degrees C). Grease a 9 inch Bundt pan. In a large bowl, beat the sugar, oil, vanilla and eggs with an electric mixer until light and fluffy. Combine the flour, baking soda, cinnamon and salt; stir into the batter just until blended. Fold in the apples and walnuts using a spoon. Pour into the prepared pan. Bake for 1 hour and 20 minutes in the preheated oven, until a toothpick inserted into the crown or the cake comes out clean. Allow to cool for about 20 minutes then invert on to a wire rack. Make the glaze by heating the butter, milk and brown sugar in a small saucepan over medium heat. Bring to a boil, stirring to dissolve the sugar, then remove from the heat. Drizzle over the warm cake. I like to place a sheet of aluminum foil under the cooling rack to catch the drips for easy clean up."
+        }
+      ]
+    },
+    {
+      "id": "aa5192d0-0445-4189-a967-c04c7cd47211",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ae2801ca-54e7-4faf-b109-a639cefea1ff",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/495217.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8709a64a-3e90-4d19-9e1d-901d7c5da4ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "The Best Rolled Sugar Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  7232 reviews Recipe by: Jill Saunders \"Whenever you make these cookies for someone, be sure to bring along several copies of the recipe! You will be asked for it, I promise! NOTE: I make icing with confectioners' sugar and milk. I make it fairly thin, as I 'paint' the icing on the cookies with a pastry brush. Thin enough to spread easily but not so thin that it just makes your cookies wet and runs off.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "23577581-afec-4445-8414-ca380f7d646a",
+      "type": "h2",
+      "parent_id": "8709a64a-3e90-4d19-9e1d-901d7c5da4ac",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h servings 109 cals for serving adjustment Serving size has been adjusted! Original recipe yields 60 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c389b892-2e5f-4508-ba4f-9eb85de6dc9e",
+      "type": "h3",
+      "parent_id": "23577581-afec-4445-8414-ca380f7d646a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 109 kcal 5% Fat: 5 g 8% Carbs: 14.7g 5% Protein: 1.5 g 3% Cholesterol: 25 mg 8% Sodium: 93 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c30e1ece-f3d0-4805-8bfa-631c3b06262b",
+      "type": "h3",
+      "parent_id": "23577581-afec-4445-8414-ca380f7d646a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4accde1a-0e7a-47d4-856f-dc17b5b7c545",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups butter, softened ADVERTISEMENT 2 cups white sugar ADVERTISEMENT 4 eggs ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 5 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1ae92384-20b9-49da-9697-1d81544f60bb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 8 m Ready In 3 h In a large bowl, cream together butter and sugar until smooth. Beat in eggs and vanilla. Stir in the flour, baking powder, and salt. Cover, and chill dough for at least one hour (or overnight). Preheat oven to 400 degrees F (200 degrees C). Roll out dough on floured surface 1/4 to 1/2 inch thick. Cut into shapes with any cookie cutter. Place cookies 1 inch apart on ungreased cookie sheets. Bake 6 to 8 minutes in preheated oven. Cool completely."
+        }
+      ]
+    },
+    {
+      "id": "8356546c-0c8e-4ba0-aea5-88c750e8a3cf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e38f1d53-d3e8-41e9-81ea-d360f6661d4f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/625949.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1d4f119c-a22f-4f69-9aab-931e5eb441b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Black Magic Cake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1949 reviews Recipe by: Marsha \"Super spooky dark chocolate cake. Suitable for all your black magic get-togethers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2f9a7b70-d809-4047-a7db-c558f20e2bfc",
+      "type": "h2",
+      "parent_id": "1d4f119c-a22f-4f69-9aab-931e5eb441b4",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 155 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "549dcd51-66cc-457c-b59d-0e3144a63356",
+      "type": "h3",
+      "parent_id": "2f9a7b70-d809-4047-a7db-c558f20e2bfc",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 155 kcal 8% Fat: 5.5 g 9% Carbs: 25.7g 8% Protein: 2.3 g 5% Cholesterol: 16 mg 5% Sodium: 240 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "436e7b46-2105-445f-874f-3b84436867c9",
+      "type": "h3",
+      "parent_id": "2f9a7b70-d809-4047-a7db-c558f20e2bfc",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3291c255-80df-4202-8c4e-20dd99458fb6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 3/4 cups all-purpose flour ADVERTISEMENT 2 cups white sugar ADVERTISEMENT 3/4 cup unsweetened cocoa powder ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 eggs ADVERTISEMENT 1 cup strong brewed coffee ADVERTISEMENT 1 cup buttermilk ADVERTISEMENT 1/2 cup vegetable oil ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a91d5d3a-316d-4d11-b889-dc3efa700aad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 35 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 9 inch round cake pans or one 9x13 inch pan. In large bowl combine flour, sugar, cocoa, baking soda, baking powder and salt. Make a well in the center. Add eggs, coffee, buttermilk, oil and vanilla. Beat for 2 minutes on medium speed. Batter will be thin. Pour into prepared pans. Bake at 350 degrees F (175 degrees C) for 30 to 40 minutes, or until toothpick inserted into center of cake comes out clean. Cool for 10 minutes, then remove from pans and finish cooling on a wire rack. Fill and frost as desired."
+        }
+      ]
+    },
+    {
+      "id": "1598fd69-036f-4a2e-a0e4-5398c3de234a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1ba7c11b-d0e0-4f81-92cf-57177db37341",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1053595.jpg"
+        }
+      ]
+    },
+    {
+      "id": "987b9baa-c4c3-4ead-9af3-a9c7f6ed5b2a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Carrot Cake III",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4758 reviews Recipe by: Tammy Elliott \"I've tried many carrot cakes, and this is my favorite recipe. If you don't like pecans, feel free to leave them out.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "928b4caf-cb8d-4918-bb71-6a4e8857ba37",
+      "type": "h2",
+      "parent_id": "987b9baa-c4c3-4ead-9af3-a9c7f6ed5b2a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h servings 575 cals for serving adjustment Serving size has been adjusted! Original recipe yields 18 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "88b5ffbe-7cb1-4b98-bfe8-7f4f1cee8006",
+      "type": "h3",
+      "parent_id": "928b4caf-cb8d-4918-bb71-6a4e8857ba37",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 575 kcal 29% Fat: 34.8 g 54% Carbs: 63.7g 21% Protein: 5.1 g 10% Cholesterol: 69 mg 23% Sodium: 347 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "18ddfcfd-7a85-42eb-8c4e-436fc1a90060",
+      "type": "h3",
+      "parent_id": "928b4caf-cb8d-4918-bb71-6a4e8857ba37",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d2d73c3d-7247-4ead-beaa-15d7184f7533",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 eggs ADVERTISEMENT 1 1/4 cups vegetable oil ADVERTISEMENT 2 cups white sugar ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 2 teaspoons baking powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 3 cups grated carrots ADVERTISEMENT 1 cup chopped pecans ADVERTISEMENT 1/2 cup butter, softened ADVERTISEMENT 8 ounces cream cheese, softened ADVERTISEMENT 4 cups confectioners' sugar ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 cup chopped pecans ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1e176e61-5bf3-4df1-8ca7-8e86c384b2cf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 2 h Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. In a large bowl, beat together eggs, oil, white sugar and 2 teaspoons vanilla. Mix in flour, baking soda, baking powder, salt and cinnamon. Stir in carrots. Fold in pecans. Pour into prepared pan. Bake in the preheated oven for 40 to 50 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely. To Make Frosting: In a medium bowl, combine butter, cream cheese, confectioners' sugar and 1 teaspoon vanilla. Beat until the mixture is smooth and creamy. Stir in chopped pecans. Frost the cooled cake."
+        }
+      ]
+    },
+    {
+      "id": "e3cee64b-17ca-4225-8b1b-3001f9ab2bf7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6550cab7-ddb3-4628-9a9d-9f85899888d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/271187.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a23ae384-e469-438c-8e06-1546197295d0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Peanut Butter Cup Cookies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2935 reviews Recipe by: BUCHKO \"These cookies have a sweet peanut butter cup center.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "68c65935-9c59-47c6-87eb-5b3b6412dd76",
+      "type": "h2",
+      "parent_id": "a23ae384-e469-438c-8e06-1546197295d0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 35 m servings 122 cals for serving adjustment Serving size has been adjusted! Original recipe yields 40 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "289575a1-2aea-48fd-a90d-f028dd3b115d",
+      "type": "h3",
+      "parent_id": "68c65935-9c59-47c6-87eb-5b3b6412dd76",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 122 kcal 6% Fat: 6.5 g 10% Carbs: 14.4g 5% Protein: 2.4 g 5% Cholesterol: 11 mg 4% Sodium: 119 mg 5% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fa253f9e-ce7f-4dbc-bc04-28094a37fa30",
+      "type": "h3",
+      "parent_id": "68c65935-9c59-47c6-87eb-5b3b6412dd76",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1528936b-75f5-4fa9-9b5e-d2813f97a57f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 3/4 cups all-purpose flour ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1/2 cup butter, softened ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 1/2 cup peanut butter ADVERTISEMENT 1/2 cup packed brown sugar ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 2 tablespoons milk ADVERTISEMENT 40 miniature chocolate covered peanut butter cups, unwrapped ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "22efe6c7-cc7f-40a8-815e-48dd13277800",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 10 m Ready In 1 h 35 m Preheat oven to 375 degrees F (190 degrees C). Sift together the flour, salt and baking soda; set aside. Cream together the butter, sugar, peanut butter and brown sugar until fluffy. Beat in the egg, vanilla and milk. Add the flour mixture; mix well. Shape into 40 balls and place each into an ungreased mini muffin pan. Bake at 375 degrees for about 8 minutes. Remove from oven and immediately press a mini peanut butter cup into each ball. Cool and carefully remove from pan."
+        }
+      ]
+    },
+    {
+      "id": "ec56b4e8-0fc2-4bf4-bd4f-b88080540918",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3eeca73d-e7ba-48a1-ada2-ec7cab8887df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1090243.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4ed395c1-c926-489f-9e5d-1831a0847ff0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Best Brownies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  7359 reviews Recipe by: Angie \"These brownies always turn out!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8b997967-17a0-4558-a8e3-c289ef175efa",
+      "type": "h2",
+      "parent_id": "4ed395c1-c926-489f-9e5d-1831a0847ff0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 183 cals for serving adjustment Serving size has been adjusted! Original recipe yields 16 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "450aa74a-0e9a-4435-96e5-bbc508416622",
+      "type": "h3",
+      "parent_id": "8b997967-17a0-4558-a8e3-c289ef175efa",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 183 kcal 9% Fat: 9 g 14% Carbs: 25.7g 8% Protein: 1.8 g 4% Cholesterol: 44 mg 15% Sodium: 110 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8376d54f-fb1f-4b5d-b676-fa2886f8c9c0",
+      "type": "h3",
+      "parent_id": "8b997967-17a0-4558-a8e3-c289ef175efa",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "eabc1708-71c1-445d-a009-bea9c23f642b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup butter ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1/3 cup unsweetened cocoa powder ADVERTISEMENT 1/2 cup all-purpose flour ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/4 teaspoon baking powder ADVERTISEMENT Frosting: ADVERTISEMENT 3 tablespoons butter, softened ADVERTISEMENT 3 tablespoons unsweetened cocoa powder ADVERTISEMENT 1 tablespoon honey ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 cup confectioners' sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "887f3fc6-dd29-4ecb-bd46-392032b9e96d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 35 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan. In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan. Bake in preheated oven for 25 to 30 minutes. Do not overcook. To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm."
+        }
+      ]
+    },
+    {
+      "id": "498ef2f0-f1eb-4338-9b0a-ed6ea64dd36e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0f54cf3d-cecf-42a7-8ec3-9cb6e86fc605",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/103496.jpg"
+        }
+      ]
+    },
+    {
+      "id": "91c7b563-893f-4482-8bb7-a0138f0c7825",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Zucchini Brownies",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2319 reviews Recipe by: Marian \"Moist chocolate brownies with frosting!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3b8e50a4-7565-4ebd-a605-c31ff699e907",
+      "type": "h2",
+      "parent_id": "91c7b563-893f-4482-8bb7-a0138f0c7825",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 209 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "67240e0b-1473-44a3-8385-48623f14fd39",
+      "type": "h3",
+      "parent_id": "3b8e50a4-7565-4ebd-a605-c31ff699e907",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 209 kcal 10% Fat: 8.6 g 13% Carbs: 32.9g 11% Protein: 2.3 g 5% Cholesterol: < 1 mg < 1% Sodium: 200 mg 8% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d22beeb0-2278-43f1-84e4-dfbc28914caa",
+      "type": "h3",
+      "parent_id": "3b8e50a4-7565-4ebd-a605-c31ff699e907",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "30139f5f-0e15-4ac9-be25-f87890d41204",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup vegetable oil ADVERTISEMENT 1 1/2 cups white sugar ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 1/2 cup unsweetened cocoa powder ADVERTISEMENT 1 1/2 teaspoons baking soda ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 cups shredded zucchini ADVERTISEMENT 1/2 cup chopped walnuts ADVERTISEMENT 6 tablespoons unsweetened cocoa powder ADVERTISEMENT 1/4 cup margarine ADVERTISEMENT 2 cups confectioners' sugar ADVERTISEMENT 1/4 cup milk ADVERTISEMENT 1/2 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9762561a-0376-4b54-a4f1-1c8da394bdee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan. In a large bowl, mix together the oil, sugar and 2 teaspoons vanilla until well blended. Combine the flour, 1/2 cup cocoa, baking soda and salt; stir into the sugar mixture. Fold in the zucchini and walnuts. Spread evenly into the prepared pan. Bake for 25 to 30 minutes in the preheated oven, until brownies spring back when gently touched. To make the frosting, melt together the 6 tablespoons of cocoa and margarine; set aside to cool. In a medium bowl, blend together the confectioners' sugar, milk and 1/2 teaspoon vanilla. Stir in the cocoa mixture. Spread over cooled brownies before cutting into squares."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

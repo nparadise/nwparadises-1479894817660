@@ -1,0 +1,4222 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:29:03.052Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/218/1033249144001_2816960749001_thumbnail-for-video-1675299521001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/1218/1033249144001_2816960750001_video-still-for-video-1675299521001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675299521001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Marsala"
+    },
+    {
+      "name": "description",
+      "content": "This amazing, company-worthy chicken dish is ready in just 30 minutes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "245832"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2013 1:42:20 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3439"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1712837459001_th-1093050014001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/e1/pd/1033249144001/1033249144001_1318726076001_ari-origin05-arc-150-1323461692287.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1093050014001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Coconut Chicken Curry"
+    },
+    {
+      "name": "description",
+      "content": "What's cooking in Pearland, Texas? A sweet-and-savory fusion dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "61880"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2012 11:26:26 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2284"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655092729001_th-1651420297001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655058067001_ari-origin05-arc-163-1337878415681.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1651420297001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Restaurant-Style Buffalo Chicken Wings"
+    },
+    {
+      "name": "description",
+      "content": "Make hot wings that taste like the famous restaurant chain’s."
+    },
+    {
+      "name": "interactionCount",
+      "content": "226921"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/24/2012 5:04:44 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2362"
+    },
+    {
+      "name": "recipeYield",
+      "content": "5"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2219788418001_thumbnail-for-video-2203032955001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2219788419001_video-still-for-video-2203032955001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2203032955001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Braised Balsamic Chicken"
+    },
+    {
+      "name": "description",
+      "content": "This low-fat recipe makes a delicious dinner served over rice."
+    },
+    {
+      "name": "interactionCount",
+      "content": "159588"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/29/2013 2:21:39 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.37"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2743"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2682318561001_th-1904528229001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1913379430001_ari-origin05-arc-161-1350691628563.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1904528229001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Pot Pie IX"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a delicious one-pot meal."
+    },
+    {
+      "name": "interactionCount",
+      "content": "415964"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/19/2013 5:39:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "7474"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1573744855001_th-1561183827001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201608/1870/1033249144001_5075746989001_1561183827001-vs.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561183827001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken Stroganoff"
+    },
+    {
+      "name": "description",
+      "content": "See how to make an incredibly simple chicken stroganoff in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "211512"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/20/2012 2:32:38 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2887"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1730906283001_th-1709931729001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1730825857001_ari-origin05-arc-160-1342039890817.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1709931729001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Baked Teriyaki Chicken"
+    },
+    {
+      "name": "description",
+      "content": "This top-rated recipe for baked chicken thighs boasts a tangy, tasty marinade."
+    },
+    {
+      "name": "interactionCount",
+      "content": "279900"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/26/2015 3:36:20 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.65"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4456"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/2001/1033249144001_2898245934001_th-2890070475001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/87/1033249144001_2898215039001_video-still-for-video-2890070475001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2890070475001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sweet, Sticky and Spicy Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Strips of chicken breast simmer in a sweet, spicy, gingery sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "151117"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/5/2013 4:56:38 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2593"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980307149001_th-1688044293001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1974508519001_ari-origin05-arc-179-1353113699788.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1688044293001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken and Dumplings"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple, satisfying chicken dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "778237"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/20/2012 11:34:36 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.36"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6447"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969620793001_ari-origin05-arc-179-1352942792718.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969620794001_ari-origin05-arc-179-1352942793309.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1728918637001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Garlic Chicken"
+    },
+    {
+      "name": "description",
+      "content": "This easy, tasty dish is perfect for a weeknight dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "174196"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/9/2012 3:40:06 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3774"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1688175307001_th-1688069799001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1688145041001_ari-origin05-arc-178-1339631239453.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1688069799001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Cordon Bleu II"
+    },
+    {
+      "name": "description",
+      "content": "See how to make chicken cordon bleu in a creamy white wine sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "380589"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/14/2012 1:58:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4261"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1978223002001_th-1969496959001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1974111180001_ari-origin05-arc-147-1353088100728.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1969496959001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Angel Chicken Pasta"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a super-simple, creamy baked chicken and pasta dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "88156"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/19/2012 5:00:55 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2757"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "306"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.10"
+    },
+    {
+      "name": "reviewCount",
+      "content": "26"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201605/215/1033249144001_4913539694001_4913510956001-th.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201605/215/1033249144001_4913539696001_4913510956001-vs.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=4913510956001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Enchiladas II"
+    },
+    {
+      "name": "description",
+      "content": "Make these family-pleasing chicken enchiladas."
+    },
+    {
+      "name": "interactionCount",
+      "content": "7747"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/26/2016 3:56:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3035"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/1007/1033249144001_3541520821001_th-3538231713001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/1057/1033249144001_3541480671001_video-still-for-video-3538231713001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3538231713001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chef John's Chicken Marsala"
+    },
+    {
+      "name": "description",
+      "content": "A classic Italian chicken with mushrooms and wine sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "80223"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/2/2014 10:34:01 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "206"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655264757001_ari-origin05-arc-162-1337897588391.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1655264758001_ari-origin05-arc-162-1337897588815.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1653550832001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken Tortilla Soup"
+    },
+    {
+      "name": "description",
+      "content": "Make this tasty chicken tortilla soup in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "180254"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/10/2013 11:45:53 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3596"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.55"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1545"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2707899850001_th-2686293032001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/852/1033249144001_2874257845001_Tender-Italian-Baked-Chicken.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2686293032001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Tender Italian Baked Chicken"
+    },
+    {
+      "name": "description",
+      "content": "This flavorful, moist baked chicken dish is ready in just 30 minutes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "50668"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/27/2013 1:59:30 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "593"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2048318482001_th-1854103513001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2038058887001_900944612-18091-1355608286087.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1854103513001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Rosemary Ranch Chicken Kabobs"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a rosemary and ranch-dressing marinade for chicken kabobs."
+    },
+    {
+      "name": "interactionCount",
+      "content": "92118"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/20/2012 2:03:08 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2735"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/1287/1033249144001_3024623663001_th-2976482739001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201409/1957/1033249144001_3764022458001_Salsa-Chicken.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2976482739001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Salsa Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Simple, savory baked chicken flavored with taco seasoning and salsa."
+    },
+    {
+      "name": "interactionCount",
+      "content": "143297"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/2/2014 3:47:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2939"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680452072001_th-1662271141001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1675051392001_ari-origin05-arc-162-1338926553702.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1662271141001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Chicken Taco Soup"
+    },
+    {
+      "name": "description",
+      "content": "Making this chicken taco soup is a snap in the slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "173742"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/28/2012 10:13:01 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "4640"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/1328/1033249144001_3028441478001_th-3024846641001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/3088/1033249144001_3028062350001_video-still-for-video-3024846641001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3024846641001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Piccata with Artichoke Hearts"
+    },
+    {
+      "name": "description",
+      "content": "Savory chicken piccata with artichokes in a white wine sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "27360"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/8/2014 2:38:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.61"
+    },
+    {
+      "name": "reviewCount",
+      "content": "258"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201412/1131/1033249144001_3934978449001_th-3597552090001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201412/1237/1033249144001_3934817805001_video-still-for-video-3597552090001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3597552090001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Healthy Mexican Chicken Bake"
+    },
+    {
+      "name": "description",
+      "content": "High-protein, low-calorie dish with Mexican-inspired flavors."
+    },
+    {
+      "name": "interactionCount",
+      "content": "16403"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/10/2014 1:04:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "70"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/3358/1033249144001_3569511528001_th-2560058129001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465508001_video-still-for-video-2560058129001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2560058129001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Zesty Slow Cooker Chicken Barbeque"
+    },
+    {
+      "name": "description",
+      "content": "See how to make zesty barbequed chicken in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "211670"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/15/2014 4:51:08 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3829"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "3.84"
+    },
+    {
+      "name": "reviewCount",
+      "content": "33"
+    },
+    {
+      "name": "recipeYield",
+      "content": "20"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2048474548001_th-1920500128001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2038106676001_900944612-133-1355608830768.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1920500128001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken and Bow Tie Pasta"
+    },
+    {
+      "name": "description",
+      "content": "See how to make chicken with vegetables in a creamy cheese sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "60997"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/20/2012 4:52:40 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.31"
+    },
+    {
+      "name": "reviewCount",
+      "content": "303"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565509424001_th-1560957144001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565097058001_ari-origin05-arc-146-1334597828223.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560957144001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Five-Star Buffalo Chicken Dip"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a dip that tastes just like chicken wings only without the mess."
+    },
+    {
+      "name": "interactionCount",
+      "content": "229910"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/20/2012 9:24:26 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3272"
+    },
+    {
+      "name": "recipeYield",
+      "content": "20"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1823043529001_th-1793932396001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1822993886001_ari-origin05-arc-182-1346794731796.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1793932396001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Roast Sticky Chicken Rotisserie Style"
+    },
+    {
+      "name": "description",
+      "content": "This chicken is so easy to prepare, so incredibly delicious to eat."
+    },
+    {
+      "name": "interactionCount",
+      "content": "106138"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/4/2013 4:36:59 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3133"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2280174146001_th-1882582255001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2280023032001_video-still-for-video-1882582255001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1882582255001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Breasts with Balsamic Vinegar"
+    },
+    {
+      "name": "description",
+      "content": "A wonderfully garlicky gourmet dish with chicken, vinegar, and mushrooms."
+    },
+    {
+      "name": "interactionCount",
+      "content": "113156"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/10/2013 1:42:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2066"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "478083fd-8a2b-4bce-b8b6-9cbab1d61f4b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "28873bc4-d588-4d43-bbff-b44663e30978",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1043747.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2c213bbe-02d2-46f5-9423-2f59375d68da",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Marsala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3439 reviews Recipe by: Lisa \"A delicious, classic chicken dish -- lightly coated chicken breasts braised with Marsala wine and mushrooms. Easy and ideal for both a quick weeknight entree AND serving to company.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "10df9878-f402-4367-a2e1-405671c737d4",
+      "type": "h2",
+      "parent_id": "2c213bbe-02d2-46f5-9423-2f59375d68da",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 448 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "78a03d5a-27a0-4039-a457-fe1a9888e2d1",
+      "type": "h3",
+      "parent_id": "10df9878-f402-4367-a2e1-405671c737d4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 448 kcal 22% Fat: 26.6 g 41% Carbs: 13.3g 4% Protein: 28.8 g 58% Cholesterol: 99 mg 33% Sodium: 543 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "71e3487c-fc1f-456c-8b62-ad81c5ee5dbe",
+      "type": "h3",
+      "parent_id": "10df9878-f402-4367-a2e1-405671c737d4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "72a74702-32de-450c-8d52-2eae8d611157",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup all-purpose flour for coating ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 4 skinless, boneless chicken breast halves - pounded 1/4 inch thick ADVERTISEMENT 4 tablespoons butter ADVERTISEMENT 4 tablespoons olive oil ADVERTISEMENT 1 cup sliced mushrooms ADVERTISEMENT 1/2 cup Marsala wine ADVERTISEMENT 1/4 cup cooking sherry ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2c69e61a-a2fe-429b-aa75-c23f29e567d1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m In a shallow dish or bowl, mix together the flour, salt, pepper and oregano. Coat chicken pieces in flour mixture. In a large skillet, melt butter in oil over medium heat. Place chicken in the pan, and lightly brown. Turn over chicken pieces, and add mushrooms. Pour in wine and sherry. Cover skillet; simmer chicken 10 minutes, turning once, until no longer pink and juices run clear."
+        }
+      ]
+    },
+    {
+      "id": "2f263466-bf9e-472a-951b-f5ce2d7d7125",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "af6dd6aa-4dea-4cff-a6ae-b1db289431e9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2627058.jpg"
+        }
+      ]
+    },
+    {
+      "id": "43a82542-f321-4eb6-bf2e-73f685a08a8c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Curried Coconut Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2284 reviews Recipe by: ROMA \"Curried chicken simmered in coconut milk and tomatoes makes for a mouthwatering hint of the tropics! Goes great with rice and vegetables.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6cd66413-67ce-49ad-9543-2f7b40f5065d",
+      "type": "h2",
+      "parent_id": "43a82542-f321-4eb6-bf2e-73f685a08a8c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 375 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b61cdb01-6566-4073-87f4-46d8ddf2ad5a",
+      "type": "h3",
+      "parent_id": "6cd66413-67ce-49ad-9543-2f7b40f5065d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 375 kcal 19% Fat: 20.9 g 32% Carbs: 16.7g 5% Protein: 32.2 g 64% Cholesterol: 78 mg 26% Sodium: 807 mg 32% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "09f4e444-1ded-4eba-bb52-94532d4a2cf1",
+      "type": "h3",
+      "parent_id": "6cd66413-67ce-49ad-9543-2f7b40f5065d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e508253b-0931-4aba-a60d-69877936d8b7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds boneless skinless chicken breasts, cut into 1/2-inch chunks ADVERTISEMENT 1 teaspoon salt and pepper, or to taste ADVERTISEMENT 1 1/2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons curry powder ADVERTISEMENT 1/2 onion, thinly sliced ADVERTISEMENT 2 cloves garlic, crushed ADVERTISEMENT 1 (14 ounce) can coconut milk ADVERTISEMENT 1 (14.5 ounce) can stewed, diced tomatoes ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 3 tablespoons sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fe8980ad-4359-410f-a06e-e8cbe6c783a3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 50 m Ready In 1 h 10 m Season chicken pieces with salt and pepper. Heat oil and curry powder in a large skillet over medium-high heat for two minutes. Stir in onions and garlic, and cook 1 minute more. Add chicken, tossing lightly to coat with curry oil. Reduce heat to medium, and cook for 7 to 10 minutes, or until chicken is no longer pink in center and juices run clear. Pour coconut milk, tomatoes, tomato sauce, and sugar into the pan, and stir to combine. Cover and simmer, stirring occasionally, approximately 30 to 40 minutes."
+        }
+      ]
+    },
+    {
+      "id": "2c99c437-a6d9-403e-baa0-d44293749ac0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4ea47011-2fd5-4f2e-9450-40d7cbd1f76f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/445293.jpg"
+        }
+      ]
+    },
+    {
+      "id": "697f439a-535d-4063-b002-6fe3089df516",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Restaurant-Style Buffalo Chicken Wings",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2362 reviews Recipe by: Kelly \"This is similar to the hot wings recipe served at a popular restaurant chain. If you have ever had them, you have to love them.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5e2c0bf1-8ea9-41b4-8a73-cbefb4c5bfce",
+      "type": "h2",
+      "parent_id": "697f439a-535d-4063-b002-6fe3089df516",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h servings 364 cals for serving adjustment Serving size has been adjusted! Original recipe yields 5 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "1d0ffc12-af44-4a79-bb72-fd017456646b",
+      "type": "h3",
+      "parent_id": "5e2c0bf1-8ea9-41b4-8a73-cbefb4c5bfce",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 364 kcal 18% Fat: 32.4 g 50% Carbs: 10.7g 3% Protein: 7.9 g 16% Cholesterol: 44 mg 15% Sodium: 497 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7469c590-6632-4900-89a4-95b63dd36922",
+      "type": "h3",
+      "parent_id": "5e2c0bf1-8ea9-41b4-8a73-cbefb4c5bfce",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8373b43d-d4be-4af0-9cb1-71dd741258e0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup all-purpose flour ADVERTISEMENT 1/4 teaspoon paprika ADVERTISEMENT 1/4 teaspoon cayenne pepper ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 10 chicken wings ADVERTISEMENT oil for deep frying ADVERTISEMENT 1/4 cup butter ADVERTISEMENT 1/4 cup hot sauce ADVERTISEMENT 1 dash ground black pepper ADVERTISEMENT 1 dash garlic powder ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7404105f-93ea-49c4-80e4-aaab1570417f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 15 m Ready In 2 h In a small bowl mix together the flour, paprika, cayenne pepper and salt. Place chicken wings in a large nonporous glass dish or bowl and sprinkle flour mixture over them until they are evenly coated. Cover dish or bowl and refrigerate for 60 to 90 minutes. Heat oil in a deep fryer to 375 degrees F (190 degrees C). The oil should be just enough to cover wings entirely, an inch or so deep. Combine the butter, hot sauce, pepper and garlic powder in a small saucepan over low heat. Stir together and heat until butter is melted and mixture is well blended. Remove from heat and reserve for serving. Fry coated wings in hot oil for 10 to 15 minutes, or until parts of wings begin to turn brown. Remove from heat, place wings in serving bowl, add hot sauce mixture and stir together. Serve."
+        }
+      ]
+    },
+    {
+      "id": "6a74e350-a46e-43d0-8756-4c48cc5c219d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9b697e89-cf8b-4540-a287-02d55b0d42a9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/532125.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f505a303-a484-4491-908c-93de25122539",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Braised Balsamic Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2743 reviews Recipe by: MOONANDBACK \"This chicken is good with either rice or pasta. Green beans make a nice side dish.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5c28f7c4-b9a8-4988-924c-c41504a39eb0",
+      "type": "h2",
+      "parent_id": "f505a303-a484-4491-908c-93de25122539",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 196 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "487a7b7b-f2c6-4cf3-a85c-3e9c1301e5de",
+      "type": "h3",
+      "parent_id": "5c28f7c4-b9a8-4988-924c-c41504a39eb0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 196 kcal 10% Fat: 7 g 11% Carbs: 7.6g 2% Protein: 23.8 g 48% Cholesterol: 61 mg 20% Sodium: 511 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "427795ac-55bc-499d-8850-92208c49d423",
+      "type": "h3",
+      "parent_id": "5c28f7c4-b9a8-4988-924c-c41504a39eb0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e90b9dc0-5bc5-45b7-832b-76b4da4e189b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 skinless, boneless chicken breast halves ADVERTISEMENT 1 teaspoon garlic salt ADVERTISEMENT ground black pepper to taste ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 onion, thinly sliced ADVERTISEMENT 1 (14.5 ounce) can diced tomatoes ADVERTISEMENT 1/2 cup balsamic vinegar ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1 teaspoon dried rosemary ADVERTISEMENT 1/2 teaspoon dried thyme ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e4e98bf3-accb-4c6a-a168-abbd792ef6d4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Season both sides of chicken breasts with garlic salt and pepper. Heat olive oil in a skillet over medium heat; cook seasoned chicken breasts until chicken is browned, 3 to 4 minutes per side. Add onion; cook and stir until onion is browned, 3 to 4 minutes. Pour diced tomatoes and balsamic vinegar over chicken; season with basil, oregano, rosemary and thyme. Simmer until chicken is no longer pink and the juices run clear, about 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+      ]
+    },
+    {
+      "id": "542edd17-8a44-4a6f-baee-a9fed2e37678",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "92a4c2ac-5b81-4f6b-824f-20425d89dc38",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/142350.jpg"
+        }
+      ]
+    },
+    {
+      "id": "13e72875-b9d4-4ece-8187-a1cfed57636d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Pot Pie IX",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  7474 reviews Recipe by: Robbie Rice \"A delicious chicken pie made from scratch with carrots, peas and celery.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "125224e5-882e-4608-8ff7-8542112dd9d0",
+      "type": "h2",
+      "parent_id": "13e72875-b9d4-4ece-8187-a1cfed57636d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 415 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "83f0b121-505f-455c-83e2-951eac11bb67",
+      "type": "h3",
+      "parent_id": "125224e5-882e-4608-8ff7-8542112dd9d0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 415 kcal 21% Fat: 24 g 37% Carbs: 30.6g 10% Protein: 18.7 g 37% Cholesterol: 56 mg 19% Sodium: 727 mg 29% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cad22915-65f7-44ab-910c-b3965fbb651f",
+      "type": "h3",
+      "parent_id": "125224e5-882e-4608-8ff7-8542112dd9d0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5384c2dd-72cd-483e-a015-4e4321fe7f93",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound skinless, boneless chicken breast halves - cubed ADVERTISEMENT 1 cup sliced carrots ADVERTISEMENT 1 cup frozen green peas ADVERTISEMENT 1/2 cup sliced celery ADVERTISEMENT 1/3 cup butter ADVERTISEMENT 1/3 cup chopped onion ADVERTISEMENT 1/3 cup all-purpose flour ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/4 teaspoon black pepper ADVERTISEMENT 1/4 teaspoon celery seed ADVERTISEMENT 1 3/4 cups chicken broth ADVERTISEMENT 2/3 cup milk ADVERTISEMENT 2 (9 inch) unbaked pie crusts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8083c9b9-920a-4f9d-9e9a-9d04cbd86633",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 50 m Ready In 1 h 10 m Preheat oven to 425 degrees F (220 degrees C.) In a saucepan, combine chicken, carrots, peas, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain and set aside. In the saucepan over medium heat, cook onions in butter until soft and translucent. Stir in flour, salt, pepper, and celery seed. Slowly stir in chicken broth and milk. Simmer over medium-low heat until thick. Remove from heat and set aside. Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over. Cover with top crust, seal edges, and cut away excess dough. Make several small slits in the top to allow steam to escape. Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "2f7e3186-64a8-4289-bc4b-0fe25fac732b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c65e5a00-30a6-4f1b-bf3f-061e07e6ee1f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/508287.jpg"
+        }
+      ]
+    },
+    {
+      "id": "54b02983-e6fb-4215-9892-0279a0966803",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Chicken Stroganoff",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2887 reviews Recipe by: JUDI ANN \"Cubed chicken breast cooked in the slow cooker with a simple, creamy sauce mixture. This is so good, and so easy to make on a busy day. Serve over hot cooked rice, if desired.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bd53c041-1611-4e77-9d5c-6edb872e448f",
+      "type": "h2",
+      "parent_id": "54b02983-e6fb-4215-9892-0279a0966803",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 h 10 m servings 456 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d569f38b-c0d5-437c-9e5a-5df35d87acf2",
+      "type": "h3",
+      "parent_id": "bd53c041-1611-4e77-9d5c-6edb872e448f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 456 kcal 23% Fat: 31 g 48% Carbs: 9.5g 3% Protein: 33.4 g 67% Cholesterol: 136 mg 45% Sodium: 1603 mg 64% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2aafd78a-6504-4097-a9e9-f212ddb8910e",
+      "type": "h3",
+      "parent_id": "bd53c041-1611-4e77-9d5c-6edb872e448f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "80c5265d-bb69-4dea-bb9f-1bb326543d33",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves - cubed ADVERTISEMENT 1/8 cup margarine ADVERTISEMENT 1 (.7 ounce) package dry Italian-style salad dressing mix ADVERTISEMENT 1 (8 ounce) package cream cheese ADVERTISEMENT 1 (10.75 ounce) can condensed cream of chicken soup ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "65be9de8-1c32-4902-9dd4-4d0a3d577ace",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 5 h Ready In 5 h 10 m Put chicken, margarine and dressing mix in slow cooker; mix together and cook on low for 5 to 6 hours. Add cream cheese and soup, mix together and cook on high for another 1/2 hour or until heated through and warm."
+        }
+      ]
+    },
+    {
+      "id": "d1f29e2e-6d3e-404b-a3db-76814b756dd1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5576a0c6-7a94-4713-b5bb-28d78ca3ba5e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/384820.jpg"
+        }
+      ]
+    },
+    {
+      "id": "600aa0ab-1cfb-4668-a74a-11fc9e95c043",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baked Teriyaki Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4456 reviews Recipe by: Marian Collins \"A much requested chicken recipe! Easy to double for a large group. Delicious!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1e469641-d01d-46ea-93b5-9ff44b188e5e",
+      "type": "h2",
+      "parent_id": "600aa0ab-1cfb-4668-a74a-11fc9e95c043",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 272 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "2b549f0e-26af-44bd-9b21-05cf565ef7a6",
+      "type": "h3",
+      "parent_id": "1e469641-d01d-46ea-93b5-9ff44b188e5e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 272 kcal 14% Fat: 9.8 g 15% Carbs: 19.9g 6% Protein: 24.7 g 49% Cholesterol: 85 mg 28% Sodium: 1282 mg 51% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "80481425-86c4-4cd2-a8e3-f9d50f10cc73",
+      "type": "h3",
+      "parent_id": "1e469641-d01d-46ea-93b5-9ff44b188e5e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "455f9c93-b9ae-4274-beb2-e6c070107a08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon cornstarch ADVERTISEMENT 1 tablespoon cold water ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 1/2 cup soy sauce ADVERTISEMENT 1/4 cup cider vinegar ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 12 skinless chicken thighs ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c900a825-bf21-494e-95bc-622a144ef9d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 1 h 30 m In a small saucepan over low heat, combine the cornstarch, cold water, sugar, soy sauce, vinegar, garlic, ginger and ground black pepper. Let simmer, stirring frequently, until sauce thickens and bubbles. Preheat oven to 425 degrees F (220 degrees C). Place chicken pieces in a lightly greased 9x13 inch baking dish. Brush chicken with the sauce. Turn pieces over, and brush again. Bake in the preheated oven for 30 minutes. Turn pieces over, and bake for another 30 minutes, until no longer pink and juices run clear. Brush with sauce every 10 minutes during cooking."
+        }
+      ]
+    },
+    {
+      "id": "ba33885e-5dd9-4615-a54d-546b244f2403",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4b72c205-68af-42f8-9ac1-28486e2cb89d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1655056.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c6e2357b-76b6-43fc-bea1-1ec1ca61a3ee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sweet, Sticky and Spicy Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2593 reviews Recipe by: katemartinoblog.wordpress.com \"This chicken dish uses skinless boneless chicken breasts and tastes delicious. It's great as an appetizer or as a main dish served with rice and a veggie.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a20a9d32-97c7-457a-bef3-03a8cda090b4",
+      "type": "h2",
+      "parent_id": "c6e2357b-76b6-43fc-bea1-1ec1ca61a3ee",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "22 m servings 232 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4b5ae0e5-ad57-45f5-9088-a88a41484154",
+      "type": "h3",
+      "parent_id": "a20a9d32-97c7-457a-bef3-03a8cda090b4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 232 kcal 12% Fat: 9.3 g 14% Carbs: 13.9g 4% Protein: 22.8 g 46% Cholesterol: 59 mg 20% Sodium: 1176 mg 47% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7a2edd29-ac38-482a-af13-a00ab582c9d9",
+      "type": "h3",
+      "parent_id": "a20a9d32-97c7-457a-bef3-03a8cda090b4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "033bcc7a-df11-4a9b-8246-c48b2833853e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon brown sugar ADVERTISEMENT 2 tablespoons honey ADVERTISEMENT 1/4 cup soy sauce ADVERTISEMENT 2 teaspoons chopped fresh ginger root ADVERTISEMENT 2 teaspoons chopped garlic ADVERTISEMENT 2 tablespoons hot sauce ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 4 skinless, boneless chicken breast halves - cut into 1/2 inch strips ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ec812d25-100d-497b-b600-26f75f96b235",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 12 m Ready In 22 m Mix together brown sugar, honey, soy sauce, ginger, garlic and hot sauce in a small bowl. Lightly salt and pepper the chicken strips. Heat oil in a large skillet over medium heat. Add chicken strips and brown on both sides, about 1 minute per side. Pour the sauce over the chicken. Simmer uncovered until the sauce thickens, 8 to 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": "827a53fa-02d5-49f2-85cb-7682415cf0df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4ea15269-35e9-47cc-ac00-739bfd670dfb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/806223.jpg"
+        }
+      ]
+    },
+    {
+      "id": "45f0b5b9-a040-4731-ac78-c28f7911d1ce",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Chicken and Dumplings",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6447 reviews Recipe by: Janiece Mason \"This is an easy slow cooker recipe that cooks while you are at work! It is wonderful on a cold, snowy day. I have four children who are picky eaters, and they LOVE this! Enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "1addffdc-2d58-4011-95d8-397c6348a779",
+      "type": "h2",
+      "parent_id": "45f0b5b9-a040-4731-ac78-c28f7911d1ce",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 h 10 m servings 385 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e3cf28c9-3491-4201-b6a2-0e4d12e1dfcc",
+      "type": "h3",
+      "parent_id": "1addffdc-2d58-4011-95d8-397c6348a779",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 385 kcal 19% Fat: 18 g 28% Carbs: 37g 12% Protein: 18.1 g 36% Cholesterol: 45 mg 15% Sodium: 1245 mg 50% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0b359500-f934-46d5-a387-ed3f35043f59",
+      "type": "h3",
+      "parent_id": "1addffdc-2d58-4011-95d8-397c6348a779",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ec74a7ea-9ef2-4b9c-a724-0c3ecc65a6b1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT 2 (10.75 ounce) cans condensed cream of chicken soup ADVERTISEMENT 1 onion, finely diced ADVERTISEMENT 2 (10 ounce) packages refrigerated biscuit dough, torn into pieces ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "dcb2e62f-faba-47cd-b26e-1d5be707ae22",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 6 h Ready In 6 h 10 m Place the chicken, butter, soup, and onion in a slow cooker, and fill with enough water to cover. Cover, and cook for 5 to 6 hours on High. About 30 minutes before serving, place the torn biscuit dough in the slow cooker. Cook until the dough is no longer raw in the center."
+        }
+      ]
+    },
+    {
+      "id": "342099ba-b075-4471-b588-ce769171c3f3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8e31fdd9-12d1-4f94-ae99-4e0527cde037",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/394412.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e7493f07-e3f3-4093-aa49-266125eef081",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Garlic Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3774 reviews Recipe by: Carol \"Simple to make, just dip and bake! Garlicky goodness in a breaded chicken dish. Yum!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c5323ba6-c4ef-4bf6-b199-f9e7ff0df293",
+      "type": "h2",
+      "parent_id": "e7493f07-e3f3-4093-aa49-266125eef081",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 300 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "824dbdd0-043b-4ecc-a138-3ef91c1757be",
+      "type": "h3",
+      "parent_id": "c5323ba6-c4ef-4bf6-b199-f9e7ff0df293",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 300 kcal 15% Fat: 16.8 g 26% Carbs: 5.7g 2% Protein: 30.3 g 61% Cholesterol: 73 mg 24% Sodium: 261 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5685e327-5ccd-4422-90a2-2822f9ebe2e0",
+      "type": "h3",
+      "parent_id": "c5323ba6-c4ef-4bf6-b199-f9e7ff0df293",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ba4a2027-97a1-4267-b15c-1faff1a0ad78",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup olive oil ADVERTISEMENT 2 cloves garlic, crushed ADVERTISEMENT 1/4 cup Italian-seasoned bread crumbs ADVERTISEMENT 1/4 cup grated Parmesan cheese ADVERTISEMENT 4 skinless, boneless chicken breast halves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "27b1a02c-218b-48d6-9e3c-17dba96c01cb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 35 m Ready In 55 m Preheat oven to 425 degrees F (220 degrees C). Heat olive oil and garlic in a small saucepan over low heat until warmed, 1 to 2 minutes. Transfer garlic and oil to a shallow bowl. Combine bread crumbs and Parmesan cheese in a separate shallow bowl. Dip chicken breasts in the olive oil-garlic mixture using tongs; transfer to bread crumb mixture and turn to evenly coat. Transfer coated chicken to a shallow baking dish. Bake in the preheated oven until no longer pink and juices run clear, 30 to 35 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+      ]
+    },
+    {
+      "id": "76197f30-c4f3-4021-8848-aab9abf3fc60",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "04d6e0d9-46fa-4002-84ab-f9bc6d39d9d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/378540.jpg"
+        }
+      ]
+    },
+    {
+      "id": "99b1b439-067a-44fb-b104-d397f438ae28",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Cordon Bleu II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4261 reviews Recipe by: Behr \"'Cordon Bleu' is a French term, literally translated as 'blue ribbon', that originally referred to an award for culinary excellence given to women cooks! The term can now apply to any superior cook (yes, men too), and also to this dish (chicken, ham and Swiss cheese slices, breaded and sauteed). This yummy version adds paprika and a creamy white wine sauce worthy of its own blue ribbon. Two blue ribbon tastes in wedded bliss -- Chicken Cordon Bleu II!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3c683c99-a8ed-4e90-b0f8-17cb86227ea8",
+      "type": "h2",
+      "parent_id": "99b1b439-067a-44fb-b104-d397f438ae28",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 584 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a70da42c-5b58-416b-917b-30373f2369c6",
+      "type": "h3",
+      "parent_id": "3c683c99-a8ed-4e90-b0f8-17cb86227ea8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 584 kcal 29% Fat: 40.9 g 63% Carbs: 7.7g 2% Protein: 41.6 g 83% Cholesterol: 195 mg 65% Sodium: 655 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ec806ac4-918e-4c80-b948-26261a1622b3",
+      "type": "h3",
+      "parent_id": "3c683c99-a8ed-4e90-b0f8-17cb86227ea8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "71f3a546-a2c5-4bbc-a4ee-899ee755b7ed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 skinless, boneless chicken breast halves ADVERTISEMENT 6 slices Swiss cheese ADVERTISEMENT 6 slices ham ADVERTISEMENT 3 tablespoons all-purpose flour ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 6 tablespoons butter ADVERTISEMENT 1/2 cup dry white wine ADVERTISEMENT 1 teaspoon chicken bouillon granules ADVERTISEMENT 1 tablespoon cornstarch ADVERTISEMENT 1 cup heavy whipping cream ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8781c8f8-3013-4873-a753-425bd71881f3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Pound chicken breasts if they are too thick. Place a cheese and ham slice on each breast within 1/2 inch of the edges. Fold the edges of the chicken over the filling, and secure with toothpicks. Mix the flour and paprika in a small bowl, and coat the chicken pieces. Heat the butter in a large skillet over medium-high heat, and cook the chicken until browned on all sides. Add the wine and bouillon. Reduce heat to low, cover, and simmer for 30 minutes, until chicken is no longer pink and juices run clear. Remove the toothpicks, and transfer the breasts to a warm platter. Blend the cornstarch with the cream in a small bowl, and whisk slowly into the skillet. Cook, stirring until thickened, and pour over the chicken. Serve warm."
+        }
+      ]
+    },
+    {
+      "id": "d340fd3d-41af-4303-9f0c-a53a15cea071",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6ec2d9ee-25d1-4f19-bdaf-894883267745",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/525185.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f325e495-f10c-41af-8fd3-c465820675c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Angel Chicken Pasta",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2757 reviews Recipe by: Marian Collins \"A delicious, easy company dish - the flavors are wonderful. A favorite with my family. I usually double the recipe so we can have leftovers.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3e72ac4c-7ef4-44b0-83b7-2da97cc28b4b",
+      "type": "h2",
+      "parent_id": "f325e495-f10c-41af-8fd3-c465820675c6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 30 m servings 528 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5d3425c3-8bb9-481d-af02-9516d16a7954",
+      "type": "h3",
+      "parent_id": "3e72ac4c-7ef4-44b0-83b7-2da97cc28b4b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 528 kcal 26% Fat: 18.5 g 28% Carbs: 48.3g 16% Protein: 37.5 g 75% Cholesterol: 107 mg 36% Sodium: 1265 mg 51% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "49230b61-f367-48cd-b626-612023801ade",
+      "type": "h3",
+      "parent_id": "3e72ac4c-7ef4-44b0-83b7-2da97cc28b4b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fadf275d-1b6a-45fa-996e-32d1f3ab796c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 skinless, boneless chicken breast halves ADVERTISEMENT 1/4 cup butter ADVERTISEMENT 1 (.7 ounce) package dry Italian-style salad dressing mix ADVERTISEMENT 1/2 cup white wine ADVERTISEMENT 1 (10.75 ounce) can condensed golden mushroom soup ADVERTISEMENT 4 ounces cream cheese with chives ADVERTISEMENT 1 pound angel hair pasta ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fbb9bcc9-de53-4d23-aa18-b885502d536c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h Ready In 1 h 30 m Preheat oven to 325 degrees F (165 degrees C). In a large saucepan, melt butter over low heat. Stir in the package of dressing mix. Blend in wine and golden mushroom soup. Mix in cream cheese, and stir until smooth. Heat through, but do not boil. Arrange chicken breasts in a single layer in a 9x13 inch baking dish. Pour sauce over. Bake for 60 minutes in the preheated oven. Twenty minutes before the chicken is done, bring a large pot of lightly salted water to a rolling boil. Cook pasta until al dente, about 5 minutes. Drain. Serve chicken and sauce over pasta."
+        }
+      ]
+    },
+    {
+      "id": "18d6cab4-aeb6-4b6f-91ac-5d056bf341fd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "48076c58-20f1-483c-9e7c-ed8812d8f3a6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1635603.jpg"
+        }
+      ]
+    },
+    {
+      "id": "792b488e-ec18-4c4e-90f9-98959ec08a1b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mom's Fabulous Chicken Pot Pie with Biscuit Crust",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  306 reviews Recipe by: Pam \"Leftover chicken or rotisserie chicken from the supermarket helps on the ease of preparation of this fabulous comfort style dinner. Fresh vegetables gives this a very special added flavor and is worth the effort. Everyone loves Mom's Chicken Pot Pie! Serve with a green salad.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d73142ef-eaaa-4b33-ba2b-f789457fec59",
+      "type": "h2",
+      "parent_id": "792b488e-ec18-4c4e-90f9-98959ec08a1b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 577 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3b9841ac-a3a4-4e69-b555-fca936c6e082",
+      "type": "h3",
+      "parent_id": "d73142ef-eaaa-4b33-ba2b-f789457fec59",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 577 kcal 29% Fat: 31.2 g 48% Carbs: 44.7g 14% Protein: 27.1 g 54% Cholesterol: 120 mg 40% Sodium: 1000 mg 40% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "920970f5-0d73-4a64-9a1d-b491cec0d8de",
+      "type": "h3",
+      "parent_id": "d73142ef-eaaa-4b33-ba2b-f789457fec59",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f3e66099-7e13-4eba-9a63-ec2589210d36",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup butter ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 3 celery ribs, chopped ADVERTISEMENT 3 carrots, chopped ADVERTISEMENT 2/3 cup frozen peas ADVERTISEMENT 3 tablespoons chopped fresh parsley ADVERTISEMENT 1/4 teaspoon dried thyme ADVERTISEMENT 1/4 cup all-purpose flour ADVERTISEMENT 2 cups lower-sodium chicken broth ADVERTISEMENT 2/3 cup half-and-half cream ADVERTISEMENT salt and ground black pepper to taste ADVERTISEMENT 3 cups cooked chicken, cut into bite-size pieces ADVERTISEMENT 1 (16.3 ounce) can refrigerated flaky-style biscuits (such as Pillsbury Grands®) ADVERTISEMENT 1 egg yolk, beaten ADVERTISEMENT 1 tablespoon water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "dc4872cc-2a5a-4065-8ef0-caf4a7aa30d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Melt butter in a skillet over medium-low heat, and cook the onion, celery, and carrots until the celery and carrots are tender, about 15 minutes, stirring occasionally. Stir in peas, parsley, thyme and flour, and cook, stirring constantly, until the flour coats the vegetables and begins to fry, about 5 minutes. Whisk in chicken broth and half-and-half, and cook until the sauce is thick and bubbling. Season to taste with salt and black pepper, and mix in the chicken meat. Transfer the chicken, vegetables, and sauce into a 2-quart baking dish. Arrange biscuits on top of the filling. In a small bowl, beat egg yolk with water; brush egg yolk on the biscuits. Bake in the preheated oven until the biscuits are golden brown and the pie filling is bubbling, 20 to 25 minutes. Let rest 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "2256b3a0-fa45-43cc-ab6b-837258949aa5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "155dbbc1-d4f7-4080-bbb3-967e275fdd69",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/211414.jpg"
+        }
+      ]
+    },
+    {
+      "id": "531c3323-19d0-478d-a5a2-abc0fe42eba5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Roast Chicken with Thyme and Onions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  26 reviews Recipe by: SABRINATEE \"People are always raving about chicken and rosemary, when I think chicken and fresh thyme is superior. This is so easy it's criminal, and the results are fabulous. I sometimes add four or five bulbs of green garlic if I find it at the farmers' market.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b05a2461-90ad-45c0-a4f9-0cc578d5aa4f",
+      "type": "h2",
+      "parent_id": "531c3323-19d0-478d-a5a2-abc0fe42eba5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 25 m servings 641 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "06e1d46c-f30b-4207-9af7-5ceee3926c29",
+      "type": "h3",
+      "parent_id": "b05a2461-90ad-45c0-a4f9-0cc578d5aa4f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 641 kcal 32% Fat: 47.1 g 73% Carbs: 11g 4% Protein: 43.3 g 87% Cholesterol: 192 mg 64% Sodium: 344 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cc682bda-8e1d-48bd-8e8a-824bfd4fb067",
+      "type": "h3",
+      "parent_id": "b05a2461-90ad-45c0-a4f9-0cc578d5aa4f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9356ccce-6488-4a37-9d30-a7e088563b12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 lemons ADVERTISEMENT 2 (2.5 pound) whole chickens ADVERTISEMENT 2 large onions, peeled and quartered ADVERTISEMENT 6 shallots, coarsely chopped ADVERTISEMENT 8 cloves garlic, unpeeled ADVERTISEMENT 3 tablespoons olive oil ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1/2 cup butter, softened ADVERTISEMENT 8 sprigs fresh thyme ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "aea3375e-7339-4e54-9fd2-01600089add5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 50 m Ready In 1 h 25 m Preheat oven to 375 degrees F (190 degrees C). Lightly grease a medium baking dish. Pierce lemons several times with a fork, and place 1 inside each chicken cavity. Arrange chickens in the center of the prepared baking dish. Place onions, shallots, and garlic around the chickens. Sprinkle vegetables with olive oil, and season with salt and pepper. Spread butter over the chickens, and line each with thyme sprigs. Bake 20 minutes in the preheated oven. Increase temperature to 400 degrees F (200 degrees C), and continue baking 30 minutes, or until exterior of chicken is golden brown, meat is no longer pink, and juices run clear. Allow to cool about 15 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "ceb6dbe3-3a32-4081-a7f1-632d3ae83afd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c1f233aa-0900-4b9d-a677-916878fe79ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/663423.jpg"
+        }
+      ]
+    },
+    {
+      "id": "db00a3bf-5805-455e-bc28-b414aa652bb6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Enchiladas II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3035 reviews Recipe by: teppij \"A great way to use leftover chicken. Even kids love these!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9250b2ef-cb30-49d3-9359-25282da4c11c",
+      "type": "h2",
+      "parent_id": "db00a3bf-5805-455e-bc28-b414aa652bb6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 619 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "018f5cf7-c0f3-42aa-b1cd-4dd261dd1532",
+      "type": "h3",
+      "parent_id": "9250b2ef-cb30-49d3-9359-25282da4c11c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 619 kcal 31% Fat: 27.1 g 42% Carbs: 66.8g 22% Protein: 26.1 g 52% Cholesterol: 60 mg 20% Sodium: 1459 mg 58% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e4c104e3-2f63-4861-ae9e-0477626282dc",
+      "type": "h3",
+      "parent_id": "9250b2ef-cb30-49d3-9359-25282da4c11c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "81f0bbf5-3a6a-477f-b368-d03188581990",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon butter ADVERTISEMENT 1/2 cup chopped green onions ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 1 (4 ounce) can diced green chiles ADVERTISEMENT 1 (10.75 ounce) can condensed cream of mushroom soup ADVERTISEMENT 1/2 cup sour cream ADVERTISEMENT 1 1/2 cups cubed cooked chicken breast meat ADVERTISEMENT 1 cup shredded Cheddar cheese, divided ADVERTISEMENT 6 (12 inch) flour tortillas ADVERTISEMENT 1/4 cup milk ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4b32bf5f-3491-48c4-8cd0-a367c02d6e6b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a large baking dish. In a medium saucepan over medium heat, melt the butter and saute the green onion until tender (about 3 to 4 minutes). Add the garlic powder, then stir in the green chiles, cream of mushroom soup and sour cream. Mix well. Reserve 3/4 of this sauce and set aside. To the remaining 1/4 of the sauce in the saucepan, add the chicken and 1/2 cup of shredded Cheddar cheese. Stir together. Fill each flour tortilla with the chicken mixture and roll up. Place seam side down in the prepared baking dish. In a small bowl combine the reserved 3/4 of the sauce with the milk. Spoon this mixture over the rolled tortillas and top with the remaining 1/2 cup of shredded Cheddar cheese. Bake in the preheated oven for 30 to 35 minutes, or until cheese is bubbly."
+        }
+      ]
+    },
+    {
+      "id": "3b714bd8-5355-4f97-857b-6f5a93ebf18c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e5783087-5068-4205-96dd-12827f22dd69",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1167787.jpg"
+        }
+      ]
+    },
+    {
+      "id": "074c0a46-5a17-4d60-80a6-c63accad0e05",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chef John's Chicken Marsala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  206 reviews Recipe by: Chef John \"Certain dishes have a special place in my heart and this is one of them. The first real restaurant job I had in San Francisco was at a small place called Ryan's Cafe. It was run by a husband and wife team, Michael and Lenore Ryan. They were true 'foodies' before that term had even been coined. This chicken Marsala dish was the most popular dish on the menu and the first one that I was taught.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "127e8a07-48d6-4c8c-a2ae-d19f15ef4116",
+      "type": "h2",
+      "parent_id": "074c0a46-5a17-4d60-80a6-c63accad0e05",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 799 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "24b252fc-fc10-497c-8f83-7979fa0bc7f1",
+      "type": "h3",
+      "parent_id": "127e8a07-48d6-4c8c-a2ae-d19f15ef4116",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 799 kcal 40% Fat: 39 g 60% Carbs: 26.8g 9% Protein: 51.1 g 102% Cholesterol: 185 mg 62% Sodium: 2391 mg 96% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "86869a0f-8867-43b9-b978-1e9648d081e0",
+      "type": "h3",
+      "parent_id": "127e8a07-48d6-4c8c-a2ae-d19f15ef4116",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "85da31b2-e9a9-489e-b1ff-4483f60f19dc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 skin-on, boneless chicken breast halves ADVERTISEMENT 1 teaspoon salt and ground black pepper to taste ADVERTISEMENT 3 tablespoons butter, divided ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 5 white mushrooms, sliced ADVERTISEMENT 1 shallot, minced ADVERTISEMENT 1 tablespoon all-purpose flour ADVERTISEMENT 1 cup Marsala wine ADVERTISEMENT 2 cups chicken stock ADVERTISEMENT 2 tablespoons chopped fresh parsley ADVERTISEMENT 1 teaspoon cold butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c261b8c3-1114-44cc-8995-7deca5626908",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 40 m Ready In 1 h Season chicken breasts all over with salt and pepper. Melt 1 1/2 tablespoons butter and olive oil in a skillet over medium heat. Cook chicken breasts, skin-side down, in hot butter and oil until browned, about 5 minutes. Flip and cook until breasts are almost cooked through, about 5 minutes more. Transfer chicken breasts to a plate. Melt 1 1/2 tablespoons butter in the same skillet over medium-high heat. Saute mushrooms with a pinch of salt and a pinch of pepper in hot butter until mushrooms are golden, 5 to 7 minutes. Add minced shallot; cook and stir until softened, 2 to 3 minutes. Sprinkle flour over the top and cook and stir until the bitterness of the flour cooks off, 3 to 4 minutes. Pour wine into skillet and bring to a boil; cook and stir until wine reduces and sauce thickens, 3 to 4 minutes. Add chicken stock; bring to a simmer and cook until slightly reduced, 3 to 5 minutes more. Return chicken breasts to the skillet, reduce heat to low, and cook chicken, turning once, until no longer pink in the center and the juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove from heat. Move chicken to one side of the skillet and tilt the skillet so that the sauce pools at the bottom. Stir parsley and 1 teaspoon cold butter into the sauce, stirring constantly, until sauce is shiny and butter is completely melted. Transfer chicken breasts to plates and spoon mushrooms and sauce over the top."
+        }
+      ]
+    },
+    {
+      "id": "91934490-00a3-4e06-9a5f-8eb8dd945769",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ed69c3f6-0357-46ab-9bfc-136b283d6773",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/193211.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6a9c202b-f626-402c-b520-fb3b702dad99",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow-Cooker Chicken Tortilla Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3596 reviews Recipe by: Elena \"This tortilla soup tastes better than anything you can get at a restaurant. And it's healthy too! Don't let the long list of ingredients fool you. All you do is dump everything into the slow cooker and walk away. Garnish with grated Cheddar, avocadoes, and a splash of fresh lime juice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "992882c6-6ba6-4dd5-840e-76f15a934e12",
+      "type": "h2",
+      "parent_id": "6a9c202b-f626-402c-b520-fb3b702dad99",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 30 m servings 262 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "cabdeeff-7ea0-4089-9e83-0a663eeaf772",
+      "type": "h3",
+      "parent_id": "992882c6-6ba6-4dd5-840e-76f15a934e12",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 262 kcal 13% Fat: 10.8 g 17% Carbs: 24.7g 8% Protein: 18 g 36% Cholesterol: 45 mg 15% Sodium: 893 mg 36% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3832a3e3-c745-4e2e-a11b-011069b0b7d1",
+      "type": "h3",
+      "parent_id": "992882c6-6ba6-4dd5-840e-76f15a934e12",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f1c2329e-bcad-4046-8607-950ab0b3a090",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound shredded, cooked chicken ADVERTISEMENT 1 (15 ounce) can whole peeled tomatoes, mashed ADVERTISEMENT 1 (10 ounce) can enchilada sauce ADVERTISEMENT 1 medium onion, chopped ADVERTISEMENT 1 (4 ounce) can chopped green chile peppers ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 2 cups water ADVERTISEMENT 1 (14.5 ounce) can chicken broth ADVERTISEMENT 1 teaspoon cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/4 teaspoon black pepper ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (10 ounce) package frozen corn ADVERTISEMENT 1 tablespoon chopped cilantro ADVERTISEMENT 7 corn tortillas ADVERTISEMENT vegetable oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0ecef5c9-5716-4e84-b05a-75bcd999edac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 8 h Ready In 8 h 30 m Place chicken, tomatoes, enchilada sauce, onion, green chiles, and garlic into a slow cooker. Pour in water and chicken broth, and season with cumin, chili powder, salt, pepper, and bay leaf. Stir in corn and cilantro. Cover, and cook on Low setting for 6 to 8 hours or on High setting for 3 to 4 hours. Preheat oven to 400 degrees F (200 degrees C). Lightly brush both sides of tortillas with oil. Cut tortillas into strips, then spread on a baking sheet. Bake in preheated oven until crisp, about 10 to 15 minutes. To serve, sprinkle tortilla strips over soup."
+        }
+      ]
+    },
+    {
+      "id": "dc358d4c-f617-446c-a7c4-7651d9d1091e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1cf50c48-5b53-4677-9f8b-71dbb54522bd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1056183.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4d8d4553-87a0-4fb6-98e6-30211427e71e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Breasts Pierre",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1545 reviews Recipe by: Nancy \"One of my husband's favorites. I've been making this for over fifteen years, and he's not sick of it yet! Serve with pan sauces, crusty French bread and a tossed green salad.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "025a209c-7b0a-4eba-bba3-6175c375f5e5",
+      "type": "h2",
+      "parent_id": "4d8d4553-87a0-4fb6-98e6-30211427e71e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 247 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "cee4fdd1-e089-47dc-b4d2-18e25942c192",
+      "type": "h3",
+      "parent_id": "025a209c-7b0a-4eba-bba3-6175c375f5e5",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 247 kcal 12% Fat: 7.8 g 12% Carbs: 14.8g 5% Protein: 28.8 g 58% Cholesterol: 84 mg 28% Sodium: 915 mg 37% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5c52a989-7fed-415f-bb4c-1c9873fd07eb",
+      "type": "h3",
+      "parent_id": "025a209c-7b0a-4eba-bba3-6175c375f5e5",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9f4f8f4c-7f78-4981-bb2e-f0953ae910c4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 skinless, boneless chicken breast halves ADVERTISEMENT 1/4 cup all-purpose flour ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 pinch ground black pepper ADVERTISEMENT 3 tablespoons butter ADVERTISEMENT 1 (14.5 ounce) can stewed tomatoes, with liquid ADVERTISEMENT 1/2 cup water ADVERTISEMENT 2 tablespoons brown sugar ADVERTISEMENT 2 tablespoons distilled white vinegar ADVERTISEMENT 2 tablespoons Worcestershire sauce ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 teaspoons chili powder ADVERTISEMENT 1 teaspoon mustard powder ADVERTISEMENT 1/2 teaspoon celery seed ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1/8 teaspoon hot pepper sauce ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "5a39dd54-6229-4c2f-91ea-d1ad4a5804e9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 40 m Ready In 1 h 10 m In a shallow dish or bowl, combine flour, 1/2 teaspoon salt and ground black pepper. Coat chicken breasts with flour mixture. Melt butter in a large skillet over medium heat, and brown chicken on all sides. Remove from skillet, and drain on paper towels. In the same skillet, combine the tomatoes, water, brown sugar, vinegar and Worcestershire sauce. Season with salt, chili powder, mustard, celery seed, garlic and hot pepper sauce. Bring to a boil; reduce heat, and return chicken to skillet. Cover, and simmer for 35 to 40 minutes, or until chicken is tender, no longer pink and juices run clear."
+        }
+      ]
+    },
+    {
+      "id": "1412a135-88d4-48bb-93b0-81abc9571785",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ada3e482-afe5-4341-8084-c4724cf31341",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/938675.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f1cdb6f2-6070-4356-991c-875184f8712e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Tender Italian Baked Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  593 reviews Recipe by: Barb Eisel \"Flavorful and moist baked chicken.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ef8003f3-1741-43db-ae81-7d335beae8cf",
+      "type": "h2",
+      "parent_id": "f1cdb6f2-6070-4356-991c-875184f8712e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 554 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "90453649-5160-4e01-b15e-7d00add51457",
+      "type": "h3",
+      "parent_id": "ef8003f3-1741-43db-ae81-7d335beae8cf",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 554 kcal 28% Fat: 39.6 g 61% Carbs: 17.1g 6% Protein: 31.8 g 64% Cholesterol: 92 mg 31% Sodium: 768 mg 31% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "64356ce6-f8c6-49c1-b572-33ebca2d0606",
+      "type": "h3",
+      "parent_id": "ef8003f3-1741-43db-ae81-7d335beae8cf",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b2c0e83d-60e5-4ebd-9922-28a1dcdd02de",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup mayonnaise ADVERTISEMENT 1/2 cup grated Parmesan cheese ADVERTISEMENT 3/4 teaspoon garlic powder ADVERTISEMENT 3/4 cup Italian seasoned bread crumbs ADVERTISEMENT 4 skinless, boneless chicken breast halves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "85a2c399-27a8-43b7-b7a9-cc48479f70f2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Preheat oven to 425 degrees F (220 degrees C). In a bowl, mix the mayonnaise, Parmesan cheese, and garlic powder. Place bread crumbs in a separate bowl. Dip chicken into the mayonnaise mixture, then into the bread crumbs to coat. Arrange coated chicken on a baking sheet. Bake 20 minutes in the preheated oven, or until chicken juices run clear and coating is golden brown."
+        }
+      ]
+    },
+    {
+      "id": "06cde4de-4871-409b-a346-6d6fcfa0a5bf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bed1acff-5381-4ab6-8160-63779d79483a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/642001.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3aab3923-78ec-4572-a3a8-48e844f39a63",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Rosemary Ranch Chicken Kabobs",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2735 reviews Recipe by: Theresa Spencer \"This rosemary ranch chicken recipe is so delicious, tender, and juicy the chicken will melt in your mouth. Even the most picky eater will be begging for the last piece.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ebf69fc8-e986-430d-8890-a1890423c33b",
+      "type": "h2",
+      "parent_id": "3aab3923-78ec-4572-a3a8-48e844f39a63",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 378 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "387a7095-5361-45c9-a62d-9bc81b00bc34",
+      "type": "h3",
+      "parent_id": "ebf69fc8-e986-430d-8890-a1890423c33b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 378 kcal 19% Fat: 30.7 g 47% Carbs: 4.8g 2% Protein: 19.9 g 40% Cholesterol: 59 mg 20% Sodium: 1097 mg 44% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "27e47d1e-ba27-498f-ac89-a7445b89031a",
+      "type": "h3",
+      "parent_id": "ebf69fc8-e986-430d-8890-a1890423c33b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e816ada8-dd4a-40f2-a965-0f033b152f60",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup olive oil ADVERTISEMENT 1/2 cup ranch dressing ADVERTISEMENT 3 tablespoons Worcestershire sauce ADVERTISEMENT 1 tablespoon minced fresh rosemary ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 teaspoon lemon juice ADVERTISEMENT 1 teaspoon white vinegar ADVERTISEMENT 1/4 teaspoon ground black pepper, or to taste ADVERTISEMENT 1 tablespoon white sugar, or to taste (optional) ADVERTISEMENT 5 skinless, boneless chicken breast halves - cut into 1 inch cubes ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d730ce68-5c66-4feb-9950-72f5326f6869",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 50 m Cook 10 m Ready In 1 h In a medium bowl, stir together the olive oil, ranch dressing, Worcestershire sauce, rosemary, salt, lemon juice, white vinegar, pepper, and sugar. Let stand for 5 minutes. Place chicken in the bowl, and stir to coat with the marinade. Cover and refrigerate for 30 minutes. Preheat the grill for medium-high heat. Thread chicken onto skewers and discard marinade. Lightly oil the grill grate. Grill skewers for 8 to 12 minutes, or until the chicken is no longer pink in the center, and the juices run clear."
+        }
+      ]
+    },
+    {
+      "id": "8ec50186-b02a-4e11-b5cb-0e69029e3cab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a212e841-dbe4-47cf-8265-03398fc9351c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/117563.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8caa9350-c389-4ed9-9960-5278e042f417",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Salsa Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2939 reviews Recipe by: Faye \"Someone gave me this recipe a few years back and it's become a household favorite. You can use mild, medium or hot salsa depending on your taste. I usually serve it with Spanish rice and Mexican-style canned corn. Very easy and quick!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "64a87066-3730-441e-820f-6e225a24f0be",
+      "type": "h2",
+      "parent_id": "8caa9350-c389-4ed9-9960-5278e042f417",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 287 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0f2fd451-890d-4d18-af30-6f33919d9897",
+      "type": "h3",
+      "parent_id": "64a87066-3730-441e-820f-6e225a24f0be",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 287 kcal 14% Fat: 12.4 g 19% Carbs: 6.8g 2% Protein: 35.5 g 71% Cholesterol: 101 mg 34% Sodium: 863 mg 35% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "372b43e8-ee41-4eea-906c-9cbfaab43873",
+      "type": "h3",
+      "parent_id": "64a87066-3730-441e-820f-6e225a24f0be",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8517b319-aea6-4e61-a77b-a218bcb9a3f7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves ADVERTISEMENT 4 teaspoons taco seasoning mix ADVERTISEMENT 1 cup salsa ADVERTISEMENT 1 cup shredded Cheddar cheese ADVERTISEMENT 2 tablespoons sour cream (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7f97d1f7-2a39-4c74-943c-e97db31478ff",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 40 m Ready In 45 m Preheat oven to 375 degrees F (190 degrees C) Place chicken breasts in a lightly greased 9x13 inch baking dish. Sprinkle taco seasoning on both sides of chicken breasts, and pour salsa over all. Bake at 375 degrees F (190 degrees C) for 25 to 35 minutes, or until chicken is tender and juicy and its juices run clear. Sprinkle chicken evenly with cheese, and continue baking for an additional 3 to 5 minutes, or until cheese is melted and bubbly. Top with sour cream if desired, and serve."
+        }
+      ]
+    },
+    {
+      "id": "0221950b-1402-4c88-86d8-e841c5afdefc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "70112f61-a8b3-4a3a-9e1f-d02765e4dc99",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/322598.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1fcaa528-9b4e-4a4c-bf04-27c809952985",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Chicken Taco Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  4640 reviews Recipe by: RaisinKane aka Patti \"You can call this soup or chili, but either way it is wonderful! This recipe is also very adaptable to your personal taste. I recommend using Bill Echols' Taco Seasoning from this website. Serve topped with shredded Cheddar cheese, a dollop of sour cream, and crushed tortilla chips, if you like. I hope you enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "0b8ae1ae-8d37-4e3b-bf75-4a23ab22f85d",
+      "type": "h2",
+      "parent_id": "1fcaa528-9b4e-4a4c-bf04-27c809952985",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "7 h 15 m servings 434 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "446965b2-40b7-4ac4-bc45-5c71ab4142ff",
+      "type": "h3",
+      "parent_id": "0b8ae1ae-8d37-4e3b-bf75-4a23ab22f85d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 434 kcal 22% Fat: 17.7 g 27% Carbs: 42.3g 14% Protein: 27.2 g 54% Cholesterol: 68 mg 23% Sodium: 1597 mg 64% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "12c6cc7f-2e49-404f-b59d-c31be62908c4",
+      "type": "h3",
+      "parent_id": "0b8ae1ae-8d37-4e3b-bf75-4a23ab22f85d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8ed96eb9-d09e-46b4-88c1-36138a6d7ebf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 onion, chopped ADVERTISEMENT 1 (16 ounce) can chili beans ADVERTISEMENT 1 (15 ounce) can black beans ADVERTISEMENT 1 (15 ounce) can whole kernel corn, drained ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1 (12 fluid ounce) can or bottle beer ADVERTISEMENT 2 (10 ounce) cans diced tomatoes with green chilies, undrained ADVERTISEMENT 1 (1.25 ounce) package taco seasoning ADVERTISEMENT 3 whole skinless, boneless chicken breasts ADVERTISEMENT 1 (8 ounce) package shredded Cheddar cheese (optional) ADVERTISEMENT sour cream (optional) ADVERTISEMENT crushed tortilla chips (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "66d3e14a-c60a-428e-a24a-04a554de10eb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 7 h Ready In 7 h 15 m Place the onion, chili beans, black beans, corn, tomato sauce, beer, and diced tomatoes in a slow cooker. Add taco seasoning, and stir to blend. Lay chicken breasts on top of the mixture, pressing down slightly until just covered by the other ingredients. Set slow cooker for low heat, cover, and cook for 5 hours. Remove chicken breasts from the soup, and allow to cool long enough to be handled. Stir the shredded chicken back into the soup, and continue cooking for 2 hours. Serve topped with shredded Cheddar cheese, a dollop of sour cream, and crushed tortilla chips, if desired."
+        }
+      ]
+    },
+    {
+      "id": "5e346e7c-5b0c-46f1-9cb7-ea8d887846a6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7f856fcc-717c-4ff5-9b7c-ff9ae84369df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/950457.jpg"
+        }
+      ]
+    },
+    {
+      "id": "68119c95-9190-44b8-b496-1c2c54cd899f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Piccata with Artichoke Hearts",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  258 reviews Recipe by: JAMMINMARTIN \"After eating chicken piccata in many restaurants and finding many that were 'greasy,' I came up with this recipe through much trial and error. It has wonderful flavor and is even better the next day! I like to serve it over angel hair pasta or linguine.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "32d9473b-ac68-4964-98fe-e44a80c7b6ff",
+      "type": "h2",
+      "parent_id": "68119c95-9190-44b8-b496-1c2c54cd899f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 424 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9c2babcc-280f-4ab0-98d0-5dbfcedfc58c",
+      "type": "h3",
+      "parent_id": "32d9473b-ac68-4964-98fe-e44a80c7b6ff",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 424 kcal 21% Fat: 15.8 g 24% Carbs: 34g 11% Protein: 30.7 g 61% Cholesterol: 82 mg 27% Sodium: 1528 mg 61% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "18bb3f3b-3f3b-4802-b2b9-b24b2a0fed95",
+      "type": "h3",
+      "parent_id": "32d9473b-ac68-4964-98fe-e44a80c7b6ff",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "15a121b9-acb3-48f5-b832-65a82c4f06b7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup all-purpose flour ADVERTISEMENT 1/8 teaspoon garlic powder ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/8 teaspoon black pepper ADVERTISEMENT 1/2 teaspoon Italian seasoning ADVERTISEMENT 4 skinless, boneless chicken breast halves, pounded 1/2 inch thick and cut into thirds ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 onion, minced ADVERTISEMENT 1/2 cup white wine ADVERTISEMENT 1 (14.5 ounce) can chicken broth ADVERTISEMENT 2 tablespoons lemon juice ADVERTISEMENT 1 (13.75 ounce) can artichoke hearts, drained and chopped, liquid reserved ADVERTISEMENT 1/4 cup capers, with liquid ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2a9e7f22-f93f-436d-b6ed-a97ca0b19c38",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 35 m Ready In 50 m Mix together the flour, garlic powder, salt, pepper, and Italian seasoning on a plate. One by one, dredge the chicken pieces lightly in the prepared flour mixture. Heat the olive oil in a large skillet over medium-high heat. Cook the chicken pieces for 2 minutes per side, or until nicely browned. Remove from the skillet and set aside. Using the same skillet, cook and stir the garlic and onion until translucent, about 5 minutes. Pour the white wine into the skillet, turn the heat to high, and cook until the wine reduces by half, 4 to 5 minutes. Add the chicken broth, lemon juice, artichoke hearts, reserved artichoke liquid, and browned chicken to the skillet. Reduce the heat to medium and cook until the sauce thickens, about 20 minutes. Stir in the capers and butter."
+        }
+      ]
+    },
+    {
+      "id": "02b78cfe-0eda-44f8-9044-548d2c8c7e7a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f570ec53-714d-486e-87cd-3d4c3e837eed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3134893.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d775905c-1f9b-4c3a-8e4b-f1f0632238f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Healthy Mexican Chicken Bake",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  70 reviews Recipe by: Joy Mason \"A high-protein, low-calorie meal that leaves you FULL. It's so flavorful. Goes great with cornbread and/or a side of refried beans. You can use whatever Mexican spices you want. We love cumin!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "68494988-0720-4870-973f-5cab55c9767f",
+      "type": "h2",
+      "parent_id": "d775905c-1f9b-4c3a-8e4b-f1f0632238f0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 321 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "df7717d7-fa52-4a94-a9d8-9b3e8d5f2e9e",
+      "type": "h3",
+      "parent_id": "68494988-0720-4870-973f-5cab55c9767f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 321 kcal 16% Fat: 18.9 g 29% Carbs: 5.7g 2% Protein: 32 g 64% Cholesterol: 94 mg 31% Sodium: 704 mg 28% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "49ee6301-a8be-4212-9041-ed77185b9e40",
+      "type": "h3",
+      "parent_id": "68494988-0720-4870-973f-5cab55c9767f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dfe3dc6d-f0b1-40b1-916c-f880cc08ed6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons vegetable oil ADVERTISEMENT 4 boneless, skinless chicken breasts ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon garlic powder ADVERTISEMENT salt and ground black pepper to taste ADVERTISEMENT 4 ounces shredded Mexican cheese blend ADVERTISEMENT 1 cup salsa ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b8152c53-4371-40e2-be57-d787b4e37eb4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m Preheat oven to 350 degrees F (175 degrees C). Heat vegetable oil in a large skillet over medium heat. Season one side of chicken breasts with half the cumin, half the garlic powder, salt, and black pepper; arrange chicken breasts with seasoned sides down in the hot oil. Fry until chicken is lightly browned on the bottom, 4 to 5 minutes. Season the top of each chicken breast with the remaining cumin, remaining garlic powder, salt, and black pepper; flip chicken and cook until other side is lightly browned, 4 to 5 minutes. If the skillet gets dry, pour in just enough juice from the salsa to keep it from burning. Transfer chicken breasts to a 9x9-inch baking dish; sprinkle with Mexican cheese blend. Loosen all the drippings from the skillet with a little more juice from the salsa and pour on top of chicken breasts. Spoon salsa over cheese layer. Bake chicken breasts until no longer pink in the center and the juices run clear, 20 to 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+        }
+      ]
+    },
+    {
+      "id": "e6684504-0515-44c2-a7c8-7b8c23ff5846",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ab28fd49-6aa3-443b-a77d-2a8c038331af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/879977.jpg"
+        }
+      ]
+    },
+    {
+      "id": "09c4810f-ad10-4a71-a930-817464023742",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Zesty Slow Cooker Chicken Barbecue",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3829 reviews Recipe by: Suzanne Elizabeth Mastaw \"Use your slow cooker to prepare this great twist on basic barbecue chicken. Throw the chicken breasts in frozen, and serve with baked potatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5395fc78-de83-4f1c-ac87-a461cf64e45b",
+      "type": "h2",
+      "parent_id": "09c4810f-ad10-4a71-a930-817464023742",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 10 m servings 300 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6d16c1be-4e2c-4ae2-b2d6-b58abe656f45",
+      "type": "h3",
+      "parent_id": "5395fc78-de83-4f1c-ac87-a461cf64e45b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 300 kcal 15% Fat: 8.1 g 12% Carbs: 32.4g 10% Protein: 23 g 46% Cholesterol: 61 mg 20% Sodium: 1058 mg 42% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d17846ce-68cf-48f7-b11c-e1152fa8dcae",
+      "type": "h3",
+      "parent_id": "5395fc78-de83-4f1c-ac87-a461cf64e45b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "94ccff0c-6fc3-49ca-bfa5-8098435d05c1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 frozen skinless, boneless chicken breast halves ADVERTISEMENT 1 (12 ounce) bottle barbeque sauce ADVERTISEMENT 1/2 cup Italian salad dressing ADVERTISEMENT 1/4 cup brown sugar ADVERTISEMENT 2 tablespoons Worcestershire sauce ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "cc45c1c9-4a72-404c-9db5-c658a700b07a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 4 h Ready In 4 h 10 m Place chicken in a slow cooker. In a bowl, mix the barbecue sauce, Italian salad dressing, brown sugar, and Worcestershire sauce. Pour over the chicken. Cover, and cook 3 to 4 hours on High or 6 to 8 hours on Low."
+        }
+      ]
+    },
+    {
+      "id": "e271a566-19ac-4b34-851b-8139b9d3a933",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4c5856ba-e4fd-47b4-9d80-0d31f5a27fd4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2186700.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3915ad8a-f4f7-4757-9a15-0adc0db8a074",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Belgian Chicken Booyah",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  33 reviews Recipe by: Bill Bartelme \"This is a booyah recipe that is adapted from originally a 50 gallon recipe cooked in large 55 gallon cast-iron kettles with a wood fire, most often at church picnics in northeastern Wisconsin.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "21d6e5f2-4933-4445-bc6b-699fa44dbb98",
+      "type": "h2",
+      "parent_id": "3915ad8a-f4f7-4757-9a15-0adc0db8a074",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 h 25 m servings 256 cals for serving adjustment Serving size has been adjusted! Original recipe yields 20 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "248b89d8-0aa8-4bec-be41-0753cec6ba57",
+      "type": "h3",
+      "parent_id": "21d6e5f2-4933-4445-bc6b-699fa44dbb98",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 256 kcal 13% Fat: 10.8 g 17% Carbs: 18.6g 6% Protein: 21.3 g 43% Cholesterol: 63 mg 21% Sodium: 2144 mg 86% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4ff46ce9-127d-430a-9410-89098ed795ce",
+      "type": "h3",
+      "parent_id": "21d6e5f2-4933-4445-bc6b-699fa44dbb98",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ebb2d0b9-5a54-4ae6-af6c-5e5ce1796ed3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 pounds skinless, boneless chicken thighs, cut into 1-inch pieces ADVERTISEMENT 2 pounds red potatoes, cut in 1-inch pieces ADVERTISEMENT 1 pound beef stew meat, cut into bite-size pieces (optional) ADVERTISEMENT 1 (16 ounce) package frozen whole kernel corn ADVERTISEMENT 1 (16 ounce) package frozen cut carrots ADVERTISEMENT 1 (15 ounce) can cut green beans, drained ADVERTISEMENT 1 (14.5 ounce) can chicken broth ADVERTISEMENT 1 (14.5 ounce) can beef broth ADVERTISEMENT 1 (14.5 ounce) can petite diced tomatoes ADVERTISEMENT 8 ounces diced onion ADVERTISEMENT 8 ounces diced celery ADVERTISEMENT 8 ounces diced green bell pepper ADVERTISEMENT 8 ounces cabbage, shredded ADVERTISEMENT 1/4 cup salt ADVERTISEMENT 2 tablespoons dried basil ADVERTISEMENT 2 tablespoons dried oregano ADVERTISEMENT 2 tablespoons celery salt ADVERTISEMENT 1 tablespoon ground black pepper ADVERTISEMENT 1 0.42 oz packet concentrated vegetable base (such as Swanson® Vegetable Flavor Boost®) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f9b3c837-33fb-439a-8f0b-a26a935e02df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 6 h Ready In 6 h 25 m Mix chicken, potatoes, beef, corn, carrots, green beans, chicken broth, beef broth, diced tomatoes, onion, celery, bell pepper, cabbage, salt, basil, oregano, celery salt, black pepper, and vegetable base in a slow cooker. Cook on Low for 6 hours."
+        }
+      ]
+    },
+    {
+      "id": "9b8fe951-700b-4a5b-804f-4dce5a999af7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "095a1975-3cd8-46f2-b2a5-b43f7f25a48d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/741573.jpg"
+        }
+      ]
+    },
+    {
+      "id": "93725e70-56cf-4af5-bb74-696e0f49fa44",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken and Bow Tie Pasta",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  303 reviews Recipe by: Cooking Mama \"Easy and delicious chicken and bow-tie pasta with a white cream sauce.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "03432c7c-a312-476c-b460-4be07634dfb1",
+      "type": "h2",
+      "parent_id": "93725e70-56cf-4af5-bb74-696e0f49fa44",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 894 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9741e803-fe1a-4841-9570-757dadfc82e7",
+      "type": "h3",
+      "parent_id": "03432c7c-a312-476c-b460-4be07634dfb1",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 894 kcal 45% Fat: 41.6 g 64% Carbs: 76.3g 25% Protein: 47 g 94% Cholesterol: 184 mg 61% Sodium: 1722 mg 69% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d5281079-59b0-4f59-a634-69bd6c8d3255",
+      "type": "h3",
+      "parent_id": "03432c7c-a312-476c-b460-4be07634dfb1",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d588f8f8-511e-4e8e-abe0-3806bca93642",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 boneless, skinless chicken breast halves ADVERTISEMENT 1 (12 ounce) package farfalle (bow tie) pasta ADVERTISEMENT 1 (14 ounce) can chicken broth ADVERTISEMENT 1 head broccoli, cut into florets ADVERTISEMENT 1 medium red bell pepper, thinly sliced ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 2 (8 ounce) containers chive and onion cream cheese ADVERTISEMENT 1/4 cup freshly grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b714d9b9-54ce-4324-8fd9-f25fcc28d6c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Place chicken in a saucepan, and add water to cover. Boil 20 minutes. Allow to cool, then pull meat into shreds. Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente; drain. In a large skillet over medium-high heat, combine chicken broth, red pepper, garlic, broccoli, salt and pepper. Cover, and simmer for 8 to 10 minutes, until broccoli is crisp-tender. Stir in cream cheese until smooth. Mix in chicken and pasta until evenly coated. Garnish with Parmesan cheese."
+        }
+      ]
+    },
+    {
+      "id": "73b2dd23-2260-4f37-be10-54ec609c498b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5484073c-0dd0-4f09-816d-931cb8c0d9dd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3095600.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f1a7d1dd-eb72-4c46-b582-ed406365405b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Buffalo Chicken Dip",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3272 reviews Recipe by: NUNPUNCH \"This tangy, creamy dip tastes just like Buffalo chicken wings. It's best served hot with crackers and celery sticks. Everyone loves the results!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "061d33a2-c554-412d-882f-0c3b9a1d894a",
+      "type": "h2",
+      "parent_id": "f1a7d1dd-eb72-4c46-b582-ed406365405b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 284 cals for serving adjustment Serving size has been adjusted! Original recipe yields 20 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8792d600-10da-4891-894a-d141199a0b1f",
+      "type": "h3",
+      "parent_id": "061d33a2-c554-412d-882f-0c3b9a1d894a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 284 kcal 14% Fat: 22.6 g 35% Carbs: 8.6g 3% Protein: 11.1 g 22% Cholesterol: 54 mg 18% Sodium: 552 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a2bbabc0-5be7-4cb6-a24a-0e6bc249365f",
+      "type": "h3",
+      "parent_id": "061d33a2-c554-412d-882f-0c3b9a1d894a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "abb3fc7e-5567-4b2e-b608-9f69157a01d4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (10 ounce) cans chunk chicken, drained ADVERTISEMENT 2 (8 ounce) packages cream cheese, softened ADVERTISEMENT 1 cup Ranch dressing ADVERTISEMENT 3/4 cup pepper sauce (such as Frank's Red Hot®) ADVERTISEMENT 1 1/2 cups shredded Cheddar cheese ADVERTISEMENT 1 bunch celery, cleaned and cut into 4 inch pieces ADVERTISEMENT 1 (8 ounce) box chicken-flavored crackers ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ebac2fca-ac01-43ec-9937-921f0f1e738a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 40 m Ready In 45 m Heat chicken and hot sauce in a skillet over medium heat, until heated through. Stir in cream cheese and ranch dressing. Cook, stirring until well blended and warm. Mix in half of the shredded cheese, and transfer the mixture to a slow cooker. Sprinkle the remaining cheese over the top, cover, and cook on Low setting until hot and bubbly. Serve with celery sticks and crackers."
+        }
+      ]
+    },
+    {
+      "id": "cb04a9ee-3e34-4d80-8b97-82a245b0b449",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d1edb49d-edd8-4b0d-ac0f-49f1bd015a9a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/46458.jpg"
+        }
+      ]
+    },
+    {
+      "id": "77f3fe84-d495-4a8c-9bfa-5ad00fa3fe90",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Roast Sticky Chicken-Rotisserie Style",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3133 reviews Recipe by: Sue Rogers \"Ever wish you could get that restaurant-style rotisserie chicken at home? Well, with minimal preparation and about 5 hours' cooking time (great for the weekends!) you can! I don't bother to baste the bird, though some like to for the first hour. The pan juices always caramelize at the bottom, and the chicken will turn golden brown...fall-off-the-bone good!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8a3c25d3-39e2-418f-8c19-a4817355bf4e",
+      "type": "h2",
+      "parent_id": "77f3fe84-d495-4a8c-9bfa-5ad00fa3fe90",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "9 h 10 m servings 586 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "66762c55-819b-474d-9bbe-90405709791c",
+      "type": "h3",
+      "parent_id": "8a3c25d3-39e2-418f-8c19-a4817355bf4e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 586 kcal 29% Fat: 34.3 g 53% Carbs: 3.7g 1% Protein: 61.7 g 123% Cholesterol: 194 mg 65% Sodium: 1351 mg 54% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f6bb07a9-421d-4094-96f1-24d697981f28",
+      "type": "h3",
+      "parent_id": "8a3c25d3-39e2-418f-8c19-a4817355bf4e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1daf59d2-8fb0-4d7a-ab37-8d110776d650",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 teaspoons salt ADVERTISEMENT 2 teaspoons paprika ADVERTISEMENT 1 teaspoon onion powder ADVERTISEMENT 1 teaspoon dried thyme ADVERTISEMENT 1 teaspoon white pepper ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT 1/2 teaspoon black pepper ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 2 onions, quartered ADVERTISEMENT 2 (4 pound) whole chickens ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d76ef7e3-c3a8-4c7d-8691-539e1769eaad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 5 h Ready In 9 h 10 m In a small bowl, mix together salt, paprika, onion powder, thyme, white pepper, black pepper, cayenne pepper, and garlic powder. Remove and discard giblets from chicken. Rinse chicken cavity, and pat dry with paper towel. Rub each chicken inside and out with spice mixture. Place 1 onion into the cavity of each chicken. Place chickens in a resealable bag or double wrap with plastic wrap. Refrigerate overnight, or at least 4 to 6 hours. Preheat oven to 250 degrees F (120 degrees C). Place chickens in a roasting pan. Bake uncovered for 5 hours, to a minimum internal temperature of 180 degrees F (85 degrees C). Let the chickens stand for 10 minutes before carving."
+        }
+      ]
+    },
+    {
+      "id": "b1ca3391-8afc-4387-890a-a93d05294054",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0607ee46-e0fa-4ffd-bfe8-8cccc9efb49d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/335668.jpg"
+        }
+      ]
+    },
+    {
+      "id": "79d96fb9-b2a7-46cd-9587-8469b3dde5da",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Breasts with Balsamic Vinegar and Garlic",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2066 reviews Recipe by: colleenlora \"This is a quick, easy and impressive gourmet dish. Goes great with roasted new potatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4cd49b28-17f3-4db1-bdec-c3151f208dfa",
+      "type": "h2",
+      "parent_id": "79d96fb9-b2a7-46cd-9587-8469b3dde5da",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 268 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b4239e81-2ae8-4b87-a119-0261c7385cc6",
+      "type": "h3",
+      "parent_id": "4cd49b28-17f3-4db1-bdec-c3151f208dfa",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 268 kcal 13% Fat: 11.6 g 18% Carbs: 9.9g 3% Protein: 30.9 g 62% Cholesterol: 77 mg 26% Sodium: 286 mg 11% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "38d5c8cd-3888-4654-bae2-b9385ca66c94",
+      "type": "h3",
+      "parent_id": "4cd49b28-17f3-4db1-bdec-c3151f208dfa",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cf3b947d-9971-445a-913e-21e75f001fb4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breasts ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 3/4 pound fresh mushrooms, sliced ADVERTISEMENT 2 tablespoons all-purpose flour ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 6 cloves garlic ADVERTISEMENT 1/4 cup balsamic vinegar ADVERTISEMENT 3/4 cup chicken broth ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1/4 teaspoon dried thyme ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "271e5a74-aeb9-4ed3-852e-8ab451a3e768",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 25 m Ready In 30 m Season the chicken with salt and pepper. Rinse the mushrooms and pat dry. Season the flour with salt and pepper and dredge the chicken breasts in the flour mixture. Heat oil in a skillet over medium high heat and saute the chicken until it is nicely browned on one side (about 3 minutes). Add the garlic. Turn the chicken breasts and scatter the mushrooms over them. Continue frying, shaking the skillet and stirring the mushrooms. Cook for about 3 minutes, then add the vinegar, broth, bay leaf and thyme. Cover tightly and simmer over medium low heat for 10 minutes, turning occasionally. Transfer the chicken to a warm serving platter and cover with foil. Set aside. Continue simmering the sauce, uncovered, over medium high heat for about 7 minutes. Swirl in the butter or margarine and discard the bay leaf. Pour this mushroom sauce mixture over the chicken and serve."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

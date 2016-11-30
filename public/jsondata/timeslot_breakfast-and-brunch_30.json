@@ -1,0 +1,4250 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:28:15.662Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680524920001_ari-origin05-arc-138-1339185941853.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680524921001_ari-origin05-arc-138-1339185942428.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1667851516001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Fluffy Pancakes"
+    },
+    {
+      "name": "description",
+      "content": "See how to make tall, fluffy pancakes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "506392"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/8/2012 1:22:17 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.82"
+    },
+    {
+      "name": "reviewCount",
+      "content": "8815"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.44"
+    },
+    {
+      "name": "reviewCount",
+      "content": "30"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1638802355001_th-1629004176001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1638810766001_ari-origin05-arc-151-1337030619619.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1629004176001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Banana Sour Cream Bread"
+    },
+    {
+      "name": "description",
+      "content": "Add a little sour cream for a deliciously different banana bread."
+    },
+    {
+      "name": "interactionCount",
+      "content": "137143"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/4/2013 4:27:28 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.77"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3882"
+    },
+    {
+      "name": "recipeYield",
+      "content": "32"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1780359693001_th-1729085921001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1780319638001_ari-origin05-arc-192-1344625349815.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1729085921001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pumpkin Pancakes"
+    },
+    {
+      "name": "description",
+      "content": "See how to make 5-star spiced pumpkin pancakes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "47936"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/10/2012 2:31:02 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2024"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1663934391001_th-1662271207001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1663852155001_ari-origin05-arc-147-1338417782364.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1662271207001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Waffles I"
+    },
+    {
+      "name": "description",
+      "content": "Try these easy homemade waffles for any special breakfast."
+    },
+    {
+      "name": "interactionCount",
+      "content": "248164"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 1:02:43 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2592"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "268"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1678881191001_th-1675299505001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1677046206001_ari-origin05-arc-164-1339007050894.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675299505001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "French Toast Casserole"
+    },
+    {
+      "name": "description",
+      "content": "See how to make this 5-star breakfast casserole."
+    },
+    {
+      "name": "interactionCount",
+      "content": "149746"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/7/2012 1:14:40 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.33"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1099"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/3321/1033249144001_3550829696001_th-1561183862001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1974508523001_ari-origin05-arc-144-1353113869945.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561183862001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Clone of a Cinnabon"
+    },
+    {
+      "name": "description",
+      "content": "See how to make cinnamon rolls just like the famous kind from the mall!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "203976"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/18/2014 10:06:45 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.82"
+    },
+    {
+      "name": "reviewCount",
+      "content": "5512"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201310/3079/1033249144001_2784926916001_th-1546073132001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1969620774001_ari-origin05-arc-138-1352942056846.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546073132001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mom's Zucchini Bread"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a super-moist, five-star quick bread."
+    },
+    {
+      "name": "interactionCount",
+      "content": "429262"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/30/2013 2:04:51 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.76"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6193"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2612517935001_th-1739812017001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2549297543001_video-still-for-video-1739812017001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1739812017001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Banana Pancakes I"
+    },
+    {
+      "name": "description",
+      "content": "Discover the secret to fluffy, flavorful banana pancakes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "100558"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/16/2013 4:58:18 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.46"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1517"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777251806001_th-1777196785001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777192517001_ari-origin05-arc-179-1344462575374.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1777196785001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "French Toast I"
+    },
+    {
+      "name": "description",
+      "content": "You can use virtually any kind of bread to make this easy French toast."
+    },
+    {
+      "name": "interactionCount",
+      "content": "126313"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/8/2012 3:37:07 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "953"
+    },
+    {
+      "name": "recipeYield",
+      "content": "3"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990476974001_th-1964265780001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990421612001_ari-origin05-arc-5095-1353956690967.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1964265780001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Baked French Toast"
+    },
+    {
+      "name": "description",
+      "content": "This baked French toast casserole is so tasty, and easy to assemble."
+    },
+    {
+      "name": "interactionCount",
+      "content": "185972"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/26/2012 11:32:07 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.25"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1194"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1573609463001_th-1560889588001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571373138001_ari-origin05-arc-139-1334854206585.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560889588001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Fluffy French Toast"
+    },
+    {
+      "name": "description",
+      "content": "See how to make wonderfully light and fluffy French toast."
+    },
+    {
+      "name": "interactionCount",
+      "content": "224314"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/20/2012 10:24:56 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2478"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/3424/1033249144001_3098239474001_th-2955908995001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/800/1033249144001_3096885130001_video-still-for-video-2955908995001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2955908995001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Belgian Waffles"
+    },
+    {
+      "name": "description",
+      "content": "Deep, fluffy yeast waffles with crispy edges and soft centers."
+    },
+    {
+      "name": "interactionCount",
+      "content": "40985"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/27/2014 10:58:38 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "372"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1940184022001_th-1934957687001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1940006571001_ari-origin05-arc-166-1351814918132.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1934957687001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Good Old-Fashioned Pancakes"
+    },
+    {
+      "name": "description",
+      "content": "See how to make one of our top 5 most popular recipes!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "716704"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/1/2012 5:13:31 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.61"
+    },
+    {
+      "name": "reviewCount",
+      "content": "8563"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1628403957001_th-1622148375001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1626596368001_ari-origin05-arc-130-1336426483022.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1622148375001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Classic Waffles"
+    },
+    {
+      "name": "description",
+      "content": "Wake up to a classic breakfast treat that's easy to make."
+    },
+    {
+      "name": "interactionCount",
+      "content": "170790"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/8/2012 11:55:45 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1774"
+    },
+    {
+      "name": "recipeYield",
+      "content": "5"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1834686212001_th-1832717584001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1834651076001_ari-origin05-arc-186-1347394621277.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1832717584001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pumpkin Bread IV"
+    },
+    {
+      "name": "description",
+      "content": "This pumpkin bread is dense, moist, and flavorful."
+    },
+    {
+      "name": "interactionCount",
+      "content": "30736"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/30/2012 12:52:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.78"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1521"
+    },
+    {
+      "name": "recipeYield",
+      "content": "36"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2418524576001_thumbnail-for-video-2418448759001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2418524577001_video-still-for-video-2418448759001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2418448759001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Monkey Bread I"
+    },
+    {
+      "name": "description",
+      "content": "It’s so easy to make fun, delicious monkey bread."
+    },
+    {
+      "name": "interactionCount",
+      "content": "77284"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/29/2013 11:18:49 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.73"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1407"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/912/1033249144001_2890825078001_th-2890034050001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/3952/1033249144001_2890806242001_video-still-for-video-2890034050001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2890034050001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sausage Egg Casserole"
+    },
+    {
+      "name": "description",
+      "content": "A great make-ahead casserole with sausage, mushrooms, and cheese."
+    },
+    {
+      "name": "interactionCount",
+      "content": "65321"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/4/2013 12:05:08 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "412"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1644579343001_th-1628728270001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201312/2433/1033249144001_2932939649001_Christmas-Breakfast-Sausage-Casserole.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628728270001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Christmas Breakfast Sausage Casserole"
+    },
+    {
+      "name": "description",
+      "content": "Make this special casserole for a Christmas morning treat."
+    },
+    {
+      "name": "interactionCount",
+      "content": "208010"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/13/2013 4:56:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.55"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1220"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680453414001_th-1662214335001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1675051426001_ari-origin05-arc-155-1338928622555.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1662214335001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Buttermilk Pancakes II"
+    },
+    {
+      "name": "description",
+      "content": "Using buttermilk gives these pancakes a nice tang and makes them fluffy."
+    },
+    {
+      "name": "interactionCount",
+      "content": "143379"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 11:17:41 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2445"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1547479859001_th-1545906487001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1547392486001_ari-origin05-arc-137-1333572163472.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1545906487001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Basic Crepes"
+    },
+    {
+      "name": "description",
+      "content": "Discover how easy it is to make five-star crepes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "539535"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 11:01:37 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.64"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2122"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "33"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/238/1033249144001_3020546138001_th-2998899935001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/3362/1033249144001_3020401068001_video-still-for-video-2998899935001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2998899935001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Baked Brunch Omelet"
+    },
+    {
+      "name": "description",
+      "content": "A simple, savory baked egg casserole with plenty of ham and cheese."
+    },
+    {
+      "name": "interactionCount",
+      "content": "61811"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/7/2014 11:50:10 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "163"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1907326291001_th-1886536485001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1897547820001_ari-origin05-arc-149-1350083086023.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1886536485001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Overnight Blueberry French Toast"
+    },
+    {
+      "name": "description",
+      "content": "Make this delicious brunch dish for a holiday, or any special occasion."
+    },
+    {
+      "name": "interactionCount",
+      "content": "258154"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/17/2012 10:53:11 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1112"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565174439001_th-1560928257001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565097066001_ari-origin05-arc-128-1334598139139.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560928257001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Downeast Maine Pumpkin Bread"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple pumpkin bread that’s always moist and delicious."
+    },
+    {
+      "name": "interactionCount",
+      "content": "165836"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/16/2012 1:51:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "6614"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1642986833001_th-1628855528001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/1908/1033249144001_2842525601001_Cheesy-Ham-and-Hash-Brown-Casserole.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628855528001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Cheesy Ham and Hash Brown Casserole"
+    },
+    {
+      "name": "description",
+      "content": "This casserole is everything you love about breakfast in one dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "237058"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/15/2013 4:43:50 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1704"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/2115/1033249144001_3525347658001_th-3507409158001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/3017/1033249144001_3576366293001_Authentic-Mexican-Breakfast-Tacos.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3507409158001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Authentic Mexican Breakfast Tacos"
+    },
+    {
+      "name": "description",
+      "content": "Spiced chorizo and scrambled eggs make the best breakfast tacos."
+    },
+    {
+      "name": "interactionCount",
+      "content": "76031"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/20/2014 9:39:52 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "153"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680696949001_th-1680628341001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680622087001_ari-origin05-arc-128-1339192648980.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1680628341001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chef John's Baked Eggs"
+    },
+    {
+      "name": "description",
+      "content": "See how to make spicy baked eggs for breakfast, lunch, or dinner!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "260784"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/9/2014 12:52:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "174"
+    },
+    {
+      "name": "recipeYield",
+      "content": "1"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1810933833001_th-1785590341001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1810696988001_ari-origin05-arc-144-1346173615164.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1785590341001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sausage Balls"
+    },
+    {
+      "name": "description",
+      "content": "These juicy sausage balls are great for parties."
+    },
+    {
+      "name": "interactionCount",
+      "content": "68506"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/30/2012 12:58:09 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "728"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "76ce2d57-9e1d-4e5c-92ec-ef735db28c92",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "bcbb331e-0729-4e6a-a00a-53df2aa5bc5a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/842371.jpg"
+        }
+      ]
+    },
+    {
+      "id": "29202978-f284-4415-b65d-1e1def5de605",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fluffy Pancakes",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  8815 reviews Recipe by: kris \"Tall and fluffy. These pancakes are just right. Topped with strawberries and whipped cream, they are impossible to resist.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "84747b2b-872e-4c4c-a86c-58b0cc14e05f",
+      "type": "h2",
+      "parent_id": "29202978-f284-4415-b65d-1e1def5de605",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 230 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "32ddbad9-c918-42ee-8732-9eb7a7d57f49",
+      "type": "h3",
+      "parent_id": "84747b2b-872e-4c4c-a86c-58b0cc14e05f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 230 kcal 12% Fat: 8.2 g 13% Carbs: 32.7g 11% Protein: 6.4 g 13% Cholesterol: 65 mg 22% Sodium: 650 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "80142221-71cc-4b0b-84c4-24f3974ecc09",
+      "type": "h3",
+      "parent_id": "84747b2b-872e-4c4c-a86c-58b0cc14e05f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9bc61e9f-1f40-4a3f-90cc-816a15e3a940",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup milk ADVERTISEMENT 2 tablespoons white vinegar ADVERTISEMENT 1 cup all-purpose flour ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 1/2 teaspoon baking soda ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 egg ADVERTISEMENT 2 tablespoons butter, melted ADVERTISEMENT cooking spray ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7e95017d-2346-476f-838c-b97bc5362de2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 25 m Combine milk with vinegar in a medium bowl and set aside for 5 minutes to \"sour\". Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl. Whisk egg and butter into \"soured\" milk. Pour the flour mixture into the wet ingredients and whisk until lumps are gone. Heat a large skillet over medium heat, and coat with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles appear on the surface. Flip with a spatula, and cook until browned on the other side."
+        }
+      ]
+    },
+    {
+      "id": "34720ba2-3d8d-4d34-82f2-e92bf00584f2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e5adf22a-5429-4467-b6fe-6aab0811d770",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1090163.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5365d723-5dec-4b3a-8fed-5e6526d5acad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Tomatoes and Bacon Egg Muffins",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  30 reviews Recipe by: Maggie \"I love making this for breakfast. Make 6 and bring them to work and my entire week of breakfast is covered! Heat one in the microwave every morning. Easy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9a7a4964-97f5-4f35-a975-ec0a8e9247ad",
+      "type": "h2",
+      "parent_id": "5365d723-5dec-4b3a-8fed-5e6526d5acad",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 152 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "67a753c0-fa68-4cf0-86a4-a16da9807040",
+      "type": "h3",
+      "parent_id": "9a7a4964-97f5-4f35-a975-ec0a8e9247ad",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 152 kcal 8% Fat: 10.6 g 16% Carbs: 2.1g < 1% Protein: 12 g 24% Cholesterol: 258 mg 86% Sodium: 308 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4b8357f5-ac21-40ad-98fc-e63f432f9c20",
+      "type": "h3",
+      "parent_id": "9a7a4964-97f5-4f35-a975-ec0a8e9247ad",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6fcf0580-c53b-409c-9cd0-3d937b3bc121",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "cooking spray ADVERTISEMENT 6 slices bacon ADVERTISEMENT 8 large eggs ADVERTISEMENT 1 cup cherry tomatoes, halved ADVERTISEMENT 2 tablespoons chopped green onion, or more to taste ADVERTISEMENT 1 pinch ground black pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "030316d9-4ff7-487a-b531-7686c3537365",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Preheat oven to 350 degrees F (175 degrees C). Spray 6 muffin cups with cooking spray. Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until halfway cooked, about 5 minutes. Blot bacon slices with paper towels and cut into small pieces. Mix bacon, eggs, tomatoes, green onion, and black pepper together in a bowl. Pour mixture into the prepared muffin cups. Bake in the preheated oven until each muffin is set in the middle, 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "e821a9e9-fff2-4589-a7fb-c805fb2784f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4f6a7730-02a2-4ee6-954e-de21fe8aea1d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/262277.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dab4339c-9c41-44c7-8507-52417b2d65bf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Banana Sour Cream Bread",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3882 reviews Recipe by: Esther Nelson \"I know, you're probably thinking, 'Oh no! Another banana bread recipe!' But this one is a little different: the sour cream makes this one so moist it melts in your mouth. The flavor is just wonderful! This one is great for gift giving and holidays. Loaves freeze well.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5e8fdc63-10c4-402a-bd24-0f8733b5d483",
+      "type": "h2",
+      "parent_id": "dab4339c-9c41-44c7-8507-52417b2d65bf",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 263 cals for serving adjustment Serving size has been adjusted! Original recipe yields 32 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "684dbf71-2b49-441e-b73c-34b8c6e08778",
+      "type": "h3",
+      "parent_id": "5e8fdc63-10c4-402a-bd24-0f8733b5d483",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 263 kcal 13% Fat: 10.4 g 16% Carbs: 40.1g 13% Protein: 3.7 g 7% Cholesterol: 35 mg 12% Sodium: 200 mg 8% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "08528b48-0699-4dac-a8f8-b899a3bb6694",
+      "type": "h3",
+      "parent_id": "5e8fdc63-10c4-402a-bd24-0f8733b5d483",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "eee697ff-7792-4f23-a75b-1daf3ef3c7d7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup white sugar ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 3/4 cup butter ADVERTISEMENT 3 cups white sugar ADVERTISEMENT 3 eggs ADVERTISEMENT 6 very ripe bananas, mashed ADVERTISEMENT 1 (16 ounce) container sour cream ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3 teaspoons baking soda ADVERTISEMENT 4 1/2 cups all-purpose flour ADVERTISEMENT 1 cup chopped walnuts (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7150d914-02a9-40f2-a210-815bf4053450",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 1 h Ready In 1 h 10 m Preheat oven to 300 degrees F (150 degrees C). Grease four 7x3 inch loaf pans. In a small bowl, stir together 1/4 cup white sugar and 1 teaspoon cinnamon. Dust pans lightly with cinnamon and sugar mixture. In a large bowl, cream butter and 3 cups sugar. Mix in eggs, mashed bananas, sour cream, vanilla and cinnamon. Mix in salt, baking soda and flour. Stir in nuts. Divide into prepared pans. Bake for 1 hour, until a toothpick inserted in center comes out clean."
+        }
+      ]
+    },
+    {
+      "id": "4b85bacf-4677-486d-9d2e-dc3936228f76",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2c7bab9c-5d23-4178-a6b8-0a2d8bcbea36",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/705316.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a3d9f925-4787-4be8-aae5-f6839801e486",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pumpkin Pancakes",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2024 reviews Recipe by: Ruth \"These are good any season but taste best on cold winter mornings. You can use canned or cooked fresh pumpkin.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c33fc59d-7cbb-4584-ab0e-d44fa0752ba2",
+      "type": "h2",
+      "parent_id": "a3d9f925-4787-4be8-aae5-f6839801e486",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 278 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "517dd330-f4bd-4bda-afa8-d7a0acecb923",
+      "type": "h3",
+      "parent_id": "c33fc59d-7cbb-4584-ab0e-d44fa0752ba2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 278 kcal 14% Fat: 7.2 g 11% Carbs: 45.8g 15% Protein: 7.9 g 16% Cholesterol: 36 mg 12% Sodium: 608 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2f3bbcff-ab41-40f6-8f8a-f53990ad6a11",
+      "type": "h3",
+      "parent_id": "c33fc59d-7cbb-4584-ab0e-d44fa0752ba2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "46c0c4b0-d733-45b8-a4f3-bdd3173ea235",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups milk ADVERTISEMENT 1 cup pumpkin puree ADVERTISEMENT 1 egg ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons vinegar ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 3 tablespoons brown sugar ADVERTISEMENT 2 teaspoons baking powder ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1 teaspoon ground allspice ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b72521bc-36dc-4451-bbe5-09ef97fa73b3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 20 m Ready In 40 m In a bowl, mix together the milk, pumpkin, egg, oil and vinegar. Combine the flour, brown sugar, baking powder, baking soda, allspice, cinnamon, ginger and salt in a separate bowl. Stir into the pumpkin mixture just enough to combine. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "514a5865-b75c-4123-8260-bc4e83835f97",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "08449a51-26a1-47ad-97df-b04a6adf63fb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/661403.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2a7390e4-2993-475d-b4a3-61533f7e237b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Waffles I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2592 reviews Recipe by: OneShyOfABunch \"You can keep the batter covered in the fridge for up to a week. Just be sure to whisk well before using again. You may also use whole wheat flour for this recipe.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4b08db66-88a2-44a1-a508-0f8167f60f6d",
+      "type": "h2",
+      "parent_id": "2a7390e4-2993-475d-b4a3-61533f7e237b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 382 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3e001162-cf13-4c2e-9c9c-96c1340265eb",
+      "type": "h3",
+      "parent_id": "4b08db66-88a2-44a1-a508-0f8167f60f6d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 382 kcal 19% Fat: 21.6 g 33% Carbs: 38g 12% Protein: 8.7 g 17% Cholesterol: 68 mg 23% Sodium: 390 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "28853826-4287-4275-86e8-4123ceeff9b2",
+      "type": "h3",
+      "parent_id": "4b08db66-88a2-44a1-a508-0f8167f60f6d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b4f710e0-b0bd-4e14-8efd-f6ef2dcb2dee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 eggs ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 1 3/4 cups milk ADVERTISEMENT 1/2 cup vegetable oil ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 4 teaspoons baking powder ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/2 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "16117f1b-b76d-4109-8c6e-263adaaaab7f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 15 m Ready In 20 m Preheat waffle iron. Beat eggs in large bowl with hand beater until fluffy. Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla, just until smooth. Spray preheated waffle iron with non-stick cooking spray. Pour mix onto hot waffle iron. Cook until golden brown. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "9ebf07ac-f2ca-46d7-9a0b-0e88ed52d5dd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3ea9abf1-7c73-4d52-b65a-b43e6ce2e9a1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/19427.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f1b729d9-ba0b-464e-b10c-a8f18ebb5d47",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Orange Pecan French Toast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  268 reviews Recipe by: SR \"My husband and I were vacationing recently and had this lovely French toast at a bed and breakfast. When we came back home, I kept missing it so I called them up and requested it. They actually gave me the recipe over the phone! I generally halve the recipe for my husband and I, and bake it in an 8 inch square pan. Reheats well in the toaster oven. I served it to my in-laws recently and they loved it. Serve with a little sweetened whipped cream and berries!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d0db3095-d28c-43ea-b4ec-cb726ef4faa0",
+      "type": "h2",
+      "parent_id": "f1b729d9-ba0b-464e-b10c-a8f18ebb5d47",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 55 m servings 235 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "14e54415-f89e-4ed4-a918-30d717b73709",
+      "type": "h3",
+      "parent_id": "d0db3095-d28c-43ea-b4ec-cb726ef4faa0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 235 kcal 12% Fat: 8.8 g 14% Carbs: 35.8g 12% Protein: 4.5 g 9% Cholesterol: 45 mg 15% Sodium: 166 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c0baae3c-b005-4d79-bbe0-7419e847c0e2",
+      "type": "h3",
+      "parent_id": "d0db3095-d28c-43ea-b4ec-cb726ef4faa0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b059cacf-4b8c-4b7d-8e3f-8b2f0a46cefd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup packed brown sugar ADVERTISEMENT 1/3 cup butter, melted ADVERTISEMENT 2 tablespoons light corn syrup ADVERTISEMENT 1/3 cup chopped pecans ADVERTISEMENT 12 (3/4 inch thick) slices French bread ADVERTISEMENT 1 teaspoon grated orange zest ADVERTISEMENT 1 cup fresh orange juice ADVERTISEMENT 1/2 cup 2% milk ADVERTISEMENT 3 tablespoons white sugar ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 3 egg whites ADVERTISEMENT 2 eggs ADVERTISEMENT 1 tablespoon confectioners' sugar for dusting ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "996a877b-4ce4-4122-bb45-0f71e43e9604",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 35 m Ready In 1 h 55 m In a small bowl, stir together the brown sugar, melted butter, and corn syrup. Pour into a greased 9x13 inch baking dish, and spread evenly. Sprinkle pecans over the sugar mixture. Arrange the bread slices in the bottom of the dish so they are in a snug single layer. In a medium bowl, whisk together the orange zest, orange juice, milk, sugar, cinnamon, vanilla, egg whites, and eggs. Pour this mixture over the bread, pressing on the bread slices to help absorb the liquid. Cover and refrigerate for at least one hour, or overnight. Preheat the oven to 350 degrees F (175 degrees C ). Remove the cover from the baking dish, and let stand for 20 minutes at room temperature. Bake for 35 minutes in the preheated oven, until golden brown. Dust with confectioners' sugar before serving."
+        }
+      ]
+    },
+    {
+      "id": "f1796ed0-85a9-46b7-b031-a448760eca25",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0a793539-4a8f-4809-85b6-1592b7ba2585",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2138347.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f85f8d2c-9991-4464-9853-3b1a28279ed7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "French Toast Casserole",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1099 reviews Recipe by: STARFLOWER \"Tastes good for breakfast, just like French toast. It's easy to make too! Serve warm with maple syrup on top.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ccd66f10-37c4-4ed8-98e1-fa75c5596dd2",
+      "type": "h2",
+      "parent_id": "f85f8d2c-9991-4464-9853-3b1a28279ed7",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 207 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9e1d4bb5-6c95-4162-95c2-5276da06b735",
+      "type": "h3",
+      "parent_id": "ccd66f10-37c4-4ed8-98e1-fa75c5596dd2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 207 kcal 10% Fat: 7.2 g 11% Carbs: 26.6g 9% Protein: 8.5 g 17% Cholesterol: 129 mg 43% Sodium: 388 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fa52ae3a-ef0c-4ef2-b7de-8055ffcd91fb",
+      "type": "h3",
+      "parent_id": "ccd66f10-37c4-4ed8-98e1-fa75c5596dd2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "01b96e80-8ff1-4849-b035-2210f500622a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 cups bread cubes ADVERTISEMENT 4 eggs ADVERTISEMENT 1 1/2 cups milk ADVERTISEMENT 1/4 cup white sugar, divided ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 tablespoon margarine, softened ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1ea6157a-7172-49db-ad1b-e49c0b4d52a4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 50 m Ready In 1 h 20 m Preheat oven to 350 degrees F (175 degrees C). Lightly butter an 8x8 inch baking pan. Line bottom of pan with bread cubes. In a large bowl, beat together eggs, milk, 2 tablespoons sugar, salt and vanilla. pour egg mixture over bread. Dot with margarine; let stand for 10 minutes. Combine remaining 2 tablespoons sugar with 1 teaspoon cinnamon and sprinkle over the top. Bake in preheated oven about 45 to 50 minutes, until top is golden."
+        }
+      ]
+    },
+    {
+      "id": "ecb9443e-a11f-4d12-b605-e7c57c0e1917",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f0c97aac-ec14-4571-b066-68ff6650d289",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/36449.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d91d6954-026d-4ba0-8676-a8b785dcc7c8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Clone of a Cinnabon",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  5512 reviews Recipe by: Marsha Fernandez \"You have got to try these. The first time I made them, I thought of how much money I could save by making my own!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2810d711-6bfd-4879-a708-7ce2639c8598",
+      "type": "h2",
+      "parent_id": "d91d6954-026d-4ba0-8676-a8b785dcc7c8",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h servings 525 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ea13876e-7c91-40f4-a2e1-51f26705ec46",
+      "type": "h3",
+      "parent_id": "2810d711-6bfd-4879-a708-7ce2639c8598",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 525 kcal 26% Fat: 18.6 g 29% Carbs: 82g 26% Protein: 9 g 18% Cholesterol: 64 mg 21% Sodium: 388 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7983fded-49eb-4f80-bcdb-d8bdfa0188ac",
+      "type": "h3",
+      "parent_id": "2810d711-6bfd-4879-a708-7ce2639c8598",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "997062d2-ca7d-4bca-9aa1-9b39983504d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup warm milk (110 degrees F/45 degrees C) ADVERTISEMENT 2 eggs, room temperature ADVERTISEMENT 1/3 cup margarine, melted ADVERTISEMENT 4 1/2 cups bread flour ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 2 1/2 teaspoons bread machine yeast ADVERTISEMENT 1 cup brown sugar, packed ADVERTISEMENT 2 1/2 tablespoons ground cinnamon ADVERTISEMENT 1/3 cup butter, softened ADVERTISEMENT 1 (3 ounce) package cream cheese, softened ADVERTISEMENT 1/4 cup butter, softened ADVERTISEMENT 1 1/2 cups confectioners' sugar ADVERTISEMENT 1/2 teaspoon vanilla extract ADVERTISEMENT 1/8 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "484e626c-577c-4ddb-8d83-49fc78aeda13",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 15 m Ready In 3 h Place ingredients in the pan of the bread machine in the order recommended by the manufacturer. Select dough cycle; press Start. After the dough has doubled in size turn it out onto a lightly floured surface, cover and let rest for 10 minutes. In a small bowl, combine brown sugar and cinnamon. Roll dough into a 16x21-inch rectangle. Spread dough with 1/3 cup butter and sprinkle evenly with sugar/cinnamon mixture. Roll up dough and cut into 12 rolls. Place rolls in a lightly greased 9x13 inch baking pan. Cover and let rise until nearly doubled, about 30 minutes. Meanwhile, preheat oven to 400 degrees F (200 degrees C). Bake rolls in preheated oven until golden brown, about 15 minutes. While rolls are baking, beat together cream cheese, 1/4 cup butter, confectioners' sugar, vanilla extract and salt. Spread frosting on warm rolls before serving."
+        }
+      ]
+    },
+    {
+      "id": "be3db0ef-a621-407b-8002-170ed37960ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a67faf22-edee-4c3c-852f-5bd47dc1a084",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1037957.jpg"
+        }
+      ]
+    },
+    {
+      "id": "22a7da31-d7b1-47dc-b659-544694aab650",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mom's Zucchini Bread",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6193 reviews Recipe by: v monte \"Really, really good and moist- my kids eat it as quickly as I can make it. Bread will freeze well, and keep in refrigerator for weeks.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f4da9110-425e-49d4-8f1f-c55fc956ce68",
+      "type": "h2",
+      "parent_id": "22a7da31-d7b1-47dc-b659-544694aab650",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 40 m servings 255 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ca17050c-27fd-49d3-8412-7279e0358b73",
+      "type": "h3",
+      "parent_id": "f4da9110-425e-49d4-8f1f-c55fc956ce68",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 255 kcal 13% Fat: 13.1 g 20% Carbs: 32.1g 10% Protein: 3.3 g 7% Cholesterol: 23 mg 8% Sodium: 180 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a1b28920-455a-445f-b824-db5d61a2aa09",
+      "type": "h3",
+      "parent_id": "f4da9110-425e-49d4-8f1f-c55fc956ce68",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c8911ace-e10e-41f0-b543-d2ca2d649df6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups all-purpose flour ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon baking soda ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 3 teaspoons ground cinnamon ADVERTISEMENT 3 eggs ADVERTISEMENT 1 cup vegetable oil ADVERTISEMENT 2 1/4 cups white sugar ADVERTISEMENT 3 teaspoons vanilla extract ADVERTISEMENT 2 cups grated zucchini ADVERTISEMENT 1 cup chopped walnuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7378e54a-5f4f-4c0a-aa1b-95f6eaea6ce9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h Ready In 1 h 40 m Grease and flour two 8 x 4 inch pans. Preheat oven to 325 degrees F (165 degrees C). Sift flour, salt, baking powder, soda, and cinnamon together in a bowl. Beat eggs, oil, vanilla, and sugar together in a large bowl. Add sifted ingredients to the creamed mixture, and beat well. Stir in zucchini and nuts until well combined. Pour batter into prepared pans. Bake for 40 to 60 minutes, or until tester inserted in the center comes out clean. Cool in pan on rack for 20 minutes. Remove bread from pan, and completely cool."
+        }
+      ]
+    },
+    {
+      "id": "0e38577c-298e-4a51-abd5-bdf8082261d7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f9df1bc1-9833-4445-98dd-a4ef72359e08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/708583.jpg"
+        }
+      ]
+    },
+    {
+      "id": "55519802-57c9-425b-8f75-5b87509b2490",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Banana Pancakes I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1517 reviews Recipe by: ADDEAN1 \"Crowd pleasing banana pancakes made from scratch. A fun twist on ordinary pancakes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "55709055-4dc2-4520-afa3-d7fa9fddc4fb",
+      "type": "h2",
+      "parent_id": "55519802-57c9-425b-8f75-5b87509b2490",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 m servings 193 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ff671fde-e7d3-430c-9b2f-7ec182982c8e",
+      "type": "h3",
+      "parent_id": "55709055-4dc2-4520-afa3-d7fa9fddc4fb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 193 kcal 10% Fat: 6.6 g 10% Carbs: 29.2g 9% Protein: 5 g 10% Cholesterol: 34 mg 11% Sodium: 246 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "abef787e-12fb-4296-9192-b1c65cebe005",
+      "type": "h3",
+      "parent_id": "55709055-4dc2-4520-afa3-d7fa9fddc4fb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "98f31121-cd8d-4066-bb66-4e86a54f6d6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup all-purpose flour ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 2 teaspoons baking powder ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 1 cup milk ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 ripe bananas, mashed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c8244708-bd6f-47bd-b78c-371e6b0e7d6f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 10 m Ready In 15 m Combine flour, white sugar, baking powder and salt. In a separate bowl, mix together egg, milk, vegetable oil and bananas. Stir flour mixture into banana mixture; batter will be slightly lumpy. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Cook until pancakes are golden brown on both sides; serve hot."
+        }
+      ]
+    },
+    {
+      "id": "7e79689c-a5b9-48db-bb2b-fe75d154ea0c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "d2188572-26de-4faa-80d8-4bad2cd0b510",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/234562.jpg"
+        }
+      ]
+    },
+    {
+      "id": "21402472-277e-4ce4-927f-9d96abc1aa21",
+      "type": "h1",
+      "parent_id": "",
+      "title": "French Toast I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  953 reviews Recipe by: Jan Bittner \"There are many, fancy variations on this basic recipe. This recipe works with many types of bread - white, whole wheat, cinnamon-raisin, Italian or French. Serve hot with butter or margarine and maple syrup.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "23983e2b-2754-44c4-b290-3ba4bf8d9896",
+      "type": "h2",
+      "parent_id": "21402472-277e-4ce4-927f-9d96abc1aa21",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 240 cals for serving adjustment Serving size has been adjusted! Original recipe yields 3 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8aefad51-dbb9-4188-a7ef-85c46e5edc64",
+      "type": "h3",
+      "parent_id": "23983e2b-2754-44c4-b290-3ba4bf8d9896",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 240 kcal 12% Fat: 6.4 g 10% Carbs: 33.6g 11% Protein: 10.6 g 21% Cholesterol: 128 mg 43% Sodium: 478 mg 19% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "caf7b7e0-a81b-46d4-bf1f-27099c7a5e66",
+      "type": "h3",
+      "parent_id": "23983e2b-2754-44c4-b290-3ba4bf8d9896",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "528a9e2b-9d7e-428f-b16a-fe53d7b8f7a6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 thick slices bread ADVERTISEMENT 2 eggs ADVERTISEMENT 2/3 cup milk ADVERTISEMENT 1/4 teaspoon ground cinnamon (optional) ADVERTISEMENT 1/4 teaspoon ground nutmeg (optional) ADVERTISEMENT 1 teaspoon vanilla extract (optional) ADVERTISEMENT salt to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b6757307-244b-40f4-a7fd-6e6b9e760363",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 15 m Ready In 20 m Beat together egg, milk, salt, desired spices and vanilla. Heat a lightly oiled griddle or skillet over medium-high heat. Dunk each slice of bread in egg mixture, soaking both sides. Place in pan, and cook on both sides until golden. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "7268b380-d7dd-47a8-9edc-900e6bcba81b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8ca30df8-bcf4-424f-b0d4-540973ae07ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1089234.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b3a67d1e-fbb0-4706-a945-4e488f9ae51d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baked French Toast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1194 reviews Recipe by: ANTLALA \"I got this recipe from my sister in law. She and my brother had it at their gift opening after the wedding. I make it any time we have people staying with us, and it is always a hit. You may sprinkle the top with pecans if you wish.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2eb10974-01c7-442b-a96c-6aad5db3733f",
+      "type": "h2",
+      "parent_id": "b3a67d1e-fbb0-4706-a945-4e488f9ae51d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 h servings 395 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e862cfee-94ce-43de-98fe-7a4bf217b9c5",
+      "type": "h3",
+      "parent_id": "2eb10974-01c7-442b-a96c-6aad5db3733f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 395 kcal 20% Fat: 19.8 g 30% Carbs: 44.4g 14% Protein: 11 g 22% Cholesterol: 169 mg 56% Sodium: 408 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6046ad2c-82cd-40a7-9775-a5695d99d2b8",
+      "type": "h3",
+      "parent_id": "2eb10974-01c7-442b-a96c-6aad5db3733f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b8f1123e-07f2-4db2-aacf-bbd49eb2f0b7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (1 pound) loaf French bread, cut diagonally in 1 inch slices ADVERTISEMENT 8 eggs ADVERTISEMENT 2 cups milk ADVERTISEMENT 1 1/2 cups half-and-half cream ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 1/4 teaspoon ground cinnamon ADVERTISEMENT 3/4 cup butter ADVERTISEMENT 1 1/3 cups brown sugar ADVERTISEMENT 3 tablespoons light corn syrup ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e4616c35-b1cf-4bdb-ae90-1551b9577a3b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 40 m Ready In 15 h Butter a 9x13 inch baking dish. Arrange the slices of bread in the bottom. In a large bowl, beat together eggs, milk, cream, vanilla and cinnamon. Pour over bread slices, cover, and refrigerate overnight. The next morning, preheat oven to 350 degrees F (175 degrees C). In a small saucepan, combine butter, brown sugar and corn syrup; heat until bubbling. Pour over bread and egg mixture. Bake in preheated oven, uncovered, for 40 minutes."
+        }
+      ]
+    },
+    {
+      "id": "082bdc73-89bf-4a09-82d5-8e77ba6abb55",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "fb574f77-6d50-4129-b470-bcb5ff8321f2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2049275.jpg"
+        }
+      ]
+    },
+    {
+      "id": "89422ea5-7c6d-471c-9ff8-df871fbfd79e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fluffy French Toast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2478 reviews Recipe by: Bonnie \"This French toast recipe is different because it uses flour. I have given it to some friends and they've all liked it better than the French toast they usually make!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6a16bf8e-faf3-4f6d-bdbe-35d06fe9748e",
+      "type": "h2",
+      "parent_id": "89422ea5-7c6d-471c-9ff8-df871fbfd79e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 123 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b42e5d75-3262-4dda-9e37-64de2352c5ab",
+      "type": "h3",
+      "parent_id": "6a16bf8e-faf3-4f6d-bdbe-35d06fe9748e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 123 kcal 6% Fat: 2.7 g 4% Carbs: 19.4g 6% Protein: 4.8 g 10% Cholesterol: 48 mg 16% Sodium: 230 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "04165051-6faf-41b9-89cd-d45ca50f1ca9",
+      "type": "h3",
+      "parent_id": "6a16bf8e-faf3-4f6d-bdbe-35d06fe9748e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a9f0cc7b-0aab-43d7-b316-ea58dd5359eb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup all-purpose flour ADVERTISEMENT 1 cup milk ADVERTISEMENT 1 pinch salt ADVERTISEMENT 3 eggs ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 12 thick slices bread ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b9b800b7-7bfb-479d-b0a3-996a14768378",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth. Heat a lightly oiled griddle or frying pan over medium heat. Soak bread slices in mixture until saturated. Cook bread on each side until golden brown. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "5c88b1aa-9a7f-4899-b860-7968017d5374",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "46e27c5a-f57a-463c-9c20-21bf971f4087",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2777.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2ad6d72b-1f14-43c6-9f5f-df05b5e1a18d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Belgian Waffles",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  372 reviews Recipe by: Bobbi Jo \"Belgian waffles are tender and flavorful waffles made with yeast. They're great topped with butter, whipped cream and fresh fruit.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "74494b35-0842-46dc-8d77-e7ab20e15d96",
+      "type": "h2",
+      "parent_id": "2ad6d72b-1f14-43c6-9f5f-df05b5e1a18d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 35 m servings 506 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "18665e93-a957-40ac-b95a-9895e9bdb53d",
+      "type": "h3",
+      "parent_id": "74494b35-0842-46dc-8d77-e7ab20e15d96",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 506 kcal 25% Fat: 21.4 g 33% Carbs: 65.3g 21% Protein: 12.3 g 25% Cholesterol: 130 mg 43% Sodium: 622 mg 25% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "daafd912-4a0d-4b75-83a7-4148f1061a79",
+      "type": "h3",
+      "parent_id": "74494b35-0842-46dc-8d77-e7ab20e15d96",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "07796654-1e42-4d88-be32-c979c5987df6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (.25 ounce) package active dry yeast ADVERTISEMENT 1/4 cup warm milk (110 degrees F/45 degrees C) ADVERTISEMENT 3 egg yolks ADVERTISEMENT 2 3/4 cups warm milk (110 degrees F/45 degrees C) ADVERTISEMENT 3/4 cup butter, melted and cooled to lukewarm ADVERTISEMENT 1/2 cup white sugar ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 4 cups all-purpose flour ADVERTISEMENT 3 egg whites ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "34af9be4-8ea0-45de-8705-469af3bcc080",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 20 m Ready In 1 h 35 m In a small bowl, dissolve yeast in 1/4 cup warm milk. Let stand until creamy, about 10 minutes. In a large bowl, whisk together the egg yolks, 1/4 cup of the warm milk and the melted butter. Stir in the yeast mixture, sugar, salt and vanilla. Stir in the remaining 2 1/2 cups milk alternately with the flour, ending with the flour. Beat the egg whites until they form soft peaks; fold into the batter. Cover the bowl tightly with plastic wrap. Let rise in a warm place until doubled in volume, about 1 hour. Preheat the waffle iron. Brush with oil and spoon about 1/2 cup (or as recommended by manufacturer) onto center of iron. Close the lid and bake until it stops steaming and the waffle is golden brown. Serve immediately or keep warm in 200 degree oven."
+        }
+      ]
+    },
+    {
+      "id": "013770e7-3d5d-4bdb-a3d3-7b054ea9ee50",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ba600d7d-1513-4638-a11d-d83b8bf42bcb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2249254.jpg"
+        }
+      ]
+    },
+    {
+      "id": "53ec9a12-634f-4344-8834-2c64277d01ca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Good Old Fashioned Pancakes",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  8563 reviews Recipe by: dakota kelly \"This is a great recipe that I found in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "48033890-de99-43e2-8795-dda8364f7a33",
+      "type": "h2",
+      "parent_id": "53ec9a12-634f-4344-8834-2c64277d01ca",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 158 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c0ef191e-ccdf-4f07-a024-7685e422d71d",
+      "type": "h3",
+      "parent_id": "48033890-de99-43e2-8795-dda8364f7a33",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 158 kcal 8% Fat: 5.9 g 9% Carbs: 21.7g 7% Protein: 4.5 g 9% Cholesterol: 38 mg 13% Sodium: 504 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dda435b8-e5d1-4815-8d78-58fc99e6bcf2",
+      "type": "h3",
+      "parent_id": "48033890-de99-43e2-8795-dda8364f7a33",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d63877b4-4c98-4536-9014-1e60ad5f07c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups all-purpose flour ADVERTISEMENT 3 1/2 teaspoons baking powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 1 1/4 cups milk ADVERTISEMENT 1 egg ADVERTISEMENT 3 tablespoons butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4a7cdf06-7327-4be6-a947-da3d77ec7d3a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 15 m Ready In 20 m In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "3164a9f7-de7c-4c2b-8be1-9a316a31a49c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c4fe7db7-d7e5-4f73-a896-7f84b36abe3e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/34761.jpg"
+        }
+      ]
+    },
+    {
+      "id": "80470e11-59bc-4814-9b2b-7f2d58930b22",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Classic Waffles",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1774 reviews Recipe by: Megan \"A lovely, crispy waffle perfect for the morning.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "59c2620c-ae85-4715-8073-1e6e99b65ff8",
+      "type": "h2",
+      "parent_id": "80470e11-59bc-4814-9b2b-7f2d58930b22",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 379 cals for serving adjustment Serving size has been adjusted! Original recipe yields 5 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "12cfd095-c870-41c9-a379-ec73958e80ce",
+      "type": "h3",
+      "parent_id": "59c2620c-ae85-4715-8073-1e6e99b65ff8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 379 kcal 19% Fat: 16.2 g 25% Carbs: 47.6g 15% Protein: 10.2 g 20% Cholesterol: 113 mg 38% Sodium: 899 mg 36% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ed4b0575-12e0-4151-bbf7-63758980653d",
+      "type": "h3",
+      "parent_id": "59c2620c-ae85-4715-8073-1e6e99b65ff8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "95b76a85-0393-4bdc-9b17-8652f2e17ca4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups all-purpose flour ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 4 teaspoons baking powder ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1 1/2 cups warm milk ADVERTISEMENT 1/3 cup butter, melted ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0286f7a3-3285-496b-87ca-d792358ec1e0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 15 m Ready In 25 m In a large bowl, mix together flour, salt, baking powder and sugar; set aside. Preheat waffle iron to desired temperature. In a separate bowl, beat the eggs. Stir in the milk, butter and vanilla. Pour the milk mixture into the flour mixture; beat until blended. Ladle the batter into a preheated waffle iron. Cook the waffles until golden and crisp. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "5945e5a0-5f28-4f0d-8cf9-8811ce99c1c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "240c023f-677e-40f6-9678-5e685e285015",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3850368.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0577c63d-879f-4607-b83d-753ec281ac97",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pumpkin Bread IV",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1521 reviews Recipe by: Cheryl Riccioli \"This is an all time, excellent, every time recipe. It is very simple, and so well loved by many. I make these for family, friends, school functions, work functions, for gifts etc. It has always been raved about - even by kids! I recommend bringing this to your Thanksgiving function; you will be thanked many times for this delicious taste treat. This is a large quantity, but you will end up making this size batch more than once. You can also make muffins and small loaves using this recipe; bake for 30 to 35 minutes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7ae89d54-c269-495b-90e4-a6e69fd73ef1",
+      "type": "h2",
+      "parent_id": "0577c63d-879f-4607-b83d-753ec281ac97",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 15 m servings 247 cals for serving adjustment Serving size has been adjusted! Original recipe yields 36 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "7f66b6d1-4389-477f-a67a-a9f9ec3d13e2",
+      "type": "h3",
+      "parent_id": "7ae89d54-c269-495b-90e4-a6e69fd73ef1",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 247 kcal 12% Fat: 10.3 g 16% Carbs: 36.8g 12% Protein: 3 g 6% Cholesterol: 31 mg 10% Sodium: 231 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "489b77fa-96fc-4efd-814a-dd9f891ec2bb",
+      "type": "h3",
+      "parent_id": "7ae89d54-c269-495b-90e4-a6e69fd73ef1",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "41f3c46b-ea35-48ab-a2c4-fff6657b7456",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups canned pumpkin puree ADVERTISEMENT 1 1/2 cups vegetable oil ADVERTISEMENT 4 cups white sugar ADVERTISEMENT 6 eggs ADVERTISEMENT 4 3/4 cups all-purpose flour ADVERTISEMENT 1 1/2 teaspoons baking powder ADVERTISEMENT 1 1/2 teaspoons baking soda ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT 1 1/2 teaspoons ground cinnamon ADVERTISEMENT 1 1/2 teaspoons ground nutmeg ADVERTISEMENT 1 1/2 teaspoons ground cloves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "20625491-8738-482f-8ff8-f0f4fd91118f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h Ready In 1 h 15 m Preheat the oven to 350 degrees F (175 degrees C). Grease and flour three 9x5 inch loaf pans. In a large bowl, mix together the pumpkin, oil, sugar, and eggs. Combine the flour, baking powder, baking soda, salt, cinnamon, nutmeg, and cloves; stir into the pumpkin mixture until well blended. Divide the batter evenly between the prepared pans. Bake in preheated oven for 45 minutes to 1 hour. The top of the loaf should spring back when lightly pressed."
+        }
+      ]
+    },
+    {
+      "id": "c261ca76-9a53-470a-a43c-e515e4126afa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c46a0396-d0d6-4707-a150-52f584e0e9a2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/546316.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e6b8109f-ce0e-427b-abfb-0629cb847f37",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Monkey Bread I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1407 reviews Recipe by: LuAnn Connolly \"Refrigerated biscuits with cinnamon bake in a tube pan. My 7 year old daughter, Leah, loves her Monkey Bread. Enjoy!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e77cf2d7-b123-4b18-aaa1-e4579bd6cea1",
+      "type": "h2",
+      "parent_id": "e6b8109f-ce0e-427b-abfb-0629cb847f37",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 418 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "774a279a-00e0-4890-8c6f-a273bd73ea7d",
+      "type": "h3",
+      "parent_id": "e77cf2d7-b123-4b18-aaa1-e4579bd6cea1",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 418 kcal 21% Fat: 17.7 g 27% Carbs: 61.5g 20% Protein: 5.3 g 11% Cholesterol: < 1 mg < 1% Sodium: 746 mg 30% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "44b7e1b8-33f2-4b75-89dc-d437c1ba7814",
+      "type": "h3",
+      "parent_id": "e77cf2d7-b123-4b18-aaa1-e4579bd6cea1",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9d1ac563-9b6c-4d56-9cea-cbdce088de15",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 (12 ounce) packages refrigerated biscuit dough ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 1/2 cup margarine ADVERTISEMENT 1 cup packed brown sugar ADVERTISEMENT 1/2 cup chopped walnuts (optional) ADVERTISEMENT 1/2 cup raisins ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1e46bd86-0b73-4240-a17d-b774bc55d9f5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 35 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Grease one 9 or 10 inch tube/Bundt(R) pan. Mix white sugar and cinnamon in a plastic bag. Cut biscuits into quarters. Shake 6 to 8 biscuit pieces in the sugar cinnamon mix. Arrange pieces in the bottom of the prepared pan. Continue until all biscuits are coated and placed in pan. If using nuts and raisins, arrange them in and among the biscuit pieces as you go along. In a small saucepan, melt the margarine with the brown sugar over medium heat. Boil for 1 minute. Pour over the biscuits. Bake at 350 degrees F (175 degrees C) for 35 minutes. Let bread cool in pan for 10 minutes, then turn out onto a plate. Do not cut! The bread just pulls apart."
+        }
+      ]
+    },
+    {
+      "id": "fc925372-6b45-4b8f-9234-5d4d83d6fda6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c3bd8a63-59be-4779-856a-c0d641a8ba3f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/50498.jpg"
+        }
+      ]
+    },
+    {
+      "id": "454e0d93-c7e1-40cc-8755-29d03be1fd33",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sausage Egg Casserole",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  412 reviews Recipe by: KNITWIT \"Assemble the ingredients the night before, and bake this casserole in the morning. Stand back and wait for the compliments. I've made it with fat free cottage cheese, egg substitute, and reduced fat sausage; the taste is still wonderful!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fe907cea-4513-4ef8-894d-27c45a552fb7",
+      "type": "h2",
+      "parent_id": "454e0d93-c7e1-40cc-8755-29d03be1fd33",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "9 h 40 m servings 408 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9344caa8-509c-4dd8-bd95-6653d81b9eb2",
+      "type": "h3",
+      "parent_id": "fe907cea-4513-4ef8-894d-27c45a552fb7",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 408 kcal 20% Fat: 28.7 g 44% Carbs: 12.4g 4% Protein: 25.2 g 50% Cholesterol: 224 mg 75% Sodium: 1095 mg 44% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "feeb1cd3-a8ba-4779-973a-0b13c2bff0c7",
+      "type": "h3",
+      "parent_id": "fe907cea-4513-4ef8-894d-27c45a552fb7",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "df285079-eeba-4520-bcd7-4522d7162dd9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 pound ground pork sausage ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 4 green onions, chopped ADVERTISEMENT 1/2 pound fresh mushrooms, sliced ADVERTISEMENT 10 eggs, beaten ADVERTISEMENT 1 (16 ounce) container low-fat cottage cheese ADVERTISEMENT 1 pound Monterey Jack cheese, shredded ADVERTISEMENT 2 (4 ounce) cans diced green chile peppers, drained ADVERTISEMENT 1 cup all-purpose flour ADVERTISEMENT 1 teaspoon baking powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/3 cup butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f558eee9-25f0-4c6a-90fb-2853cb79f791",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h 20 m Ready In 9 h 40 m Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and set aside. Melt butter in skillet, and cook and stir the green onions and mushrooms until tender. In a large bowl, mix the eggs, cottage cheese, Monterey Jack cheese, and chiles. Stir in the sausage, green onions, and mushrooms. Cover, and refrigerate overnight. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish. In a bowl, sift together the flour, baking powder, and salt. Blend in the melted butter. Stir the flour mixture into the egg mixture. Pour into the prepared baking dish. Bake 40 to 50 minutes in the preheated oven, or until lightly brown. Let stand 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "37fa4a8a-ecbc-43d9-9cda-14dd9162c9cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "992119c6-559f-4c2a-a78a-0af5d43ecb4d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2955929.jpg"
+        }
+      ]
+    },
+    {
+      "id": "551ab96e-3c97-4be0-8a9a-d8344714544a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Christmas Breakfast Sausage Casserole",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1220 reviews Recipe by: M.K. Meredith \"My mom has always made this for us on Christmas morning, and since we only have it once a year it makes it even more good. It is so delicious, and everyone enjoys it! When I double the recipe I use 1 pound regular sausage and 1 pound sage sausage.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "025f6695-20cb-47ae-8b47-e9394b1c354a",
+      "type": "h2",
+      "parent_id": "551ab96e-3c97-4be0-8a9a-d8344714544a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "9 h 50 m servings 377 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c144aef4-7a39-4a5b-ad43-7f457037b9d2",
+      "type": "h3",
+      "parent_id": "025f6695-20cb-47ae-8b47-e9394b1c354a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 377 kcal 19% Fat: 26 g 40% Carbs: 13.4g 4% Protein: 21.5 g 43% Cholesterol: 160 mg 53% Sodium: 1015 mg 41% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bc38b360-e675-4cbf-a28c-c351308d4cc7",
+      "type": "h3",
+      "parent_id": "025f6695-20cb-47ae-8b47-e9394b1c354a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "018e52a3-a84c-48a7-83d0-4ab8d7a6501a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound ground pork sausage ADVERTISEMENT 1 teaspoon mustard powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 4 eggs, beaten ADVERTISEMENT 2 cups milk ADVERTISEMENT 6 slices white bread, toasted and cut into cubes ADVERTISEMENT 8 ounces mild Cheddar cheese, shredded ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b2d2ed10-b121-44cd-a9eb-36c7f7fcb66f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h 30 m Ready In 9 h 50 m Crumble sausage into a medium skillet. Cook over medium heat until evenly brown; drain. In a medium bowl, mix together mustard powder, salt, eggs and milk. Add the sausage, bread cubes, and cheese, and stir to coat evenly. Pour into a greased 9x13 inch baking dish. Cover, and chill in the refrigerator for 8 hours, or overnight. Preheat oven to 350 degrees F (175 degrees C). Cover, and bake 45 to 60 minutes. Uncover, and reduce temperature to 325 degrees F (165 degrees C). Bake for an additional 30 minutes, or until set."
+        }
+      ]
+    },
+    {
+      "id": "93a8d132-a95e-4070-ab8a-08bac539404f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1f1e135-99f3-40f9-b5c2-8b4c997cda1f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/244997.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7781f547-a6df-4a68-a0cd-2624d8378b4d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Buttermilk Pancakes II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2445 reviews Recipe by: BURYGOLD \"A very light and fluffy pancake that requires fresh buttermilk, but it's the best I've ever made!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e868c201-3f33-4bc2-935d-c3daf3db874f",
+      "type": "h2",
+      "parent_id": "7781f547-a6df-4a68-a0cd-2624d8378b4d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 219 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "bc0822db-cbe6-4599-aa9a-8feb65621009",
+      "type": "h3",
+      "parent_id": "e868c201-3f33-4bc2-935d-c3daf3db874f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 219 kcal 11% Fat: 7.4 g 11% Carbs: 30.7g 10% Protein: 7.2 g 14% Cholesterol: 63 mg 21% Sodium: 515 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d4aab736-3ccf-4611-b8b7-51099bd07c1f",
+      "type": "h3",
+      "parent_id": "e868c201-3f33-4bc2-935d-c3daf3db874f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6510b317-2184-48dc-9e3d-43f47163cd19",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups all-purpose flour ADVERTISEMENT 3 tablespoons white sugar ADVERTISEMENT 3 teaspoons baking powder ADVERTISEMENT 1 1/2 teaspoons baking soda ADVERTISEMENT 3/4 teaspoon salt ADVERTISEMENT 3 cups buttermilk ADVERTISEMENT 1/2 cup milk ADVERTISEMENT 3 eggs ADVERTISEMENT 1/3 cup butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e876a039-c92b-4bd8-b6a6-7d1ae9832afc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 10 m Ready In 25 m In a large bowl, combine flour, sugar, baking powder, baking soda, and salt. In a separate bowl, beat together buttermilk, milk, eggs and melted butter. Keep the two mixtures separate until you are ready to cook. Heat a lightly oiled griddle or frying pan over medium high heat. You can flick water across the surface and if it beads up and sizzles, it's ready! Pour the wet mixture into the dry mixture, using a wooden spoon or fork to blend. Stir until it's just blended together. Do not over stir! Pour or scoop the batter onto the griddle, using approximately 1/2 cup for each pancake. Brown on both sides and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "c5217a08-d719-4a73-9e48-70dadaf3b394",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "367ffdf6-e17d-4f62-9add-1e61dc29749c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/400570.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cf697f18-6e56-4001-ae3c-584049d29fbd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Basic Crepes",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2122 reviews Recipe by: JENNYC819 \"Here is a simple but delicious crepe batter which can be made in minutes. It's made from ingredients that everyone has on hand.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a9a0691a-ae9c-44a4-b52c-b60a31e8f28d",
+      "type": "h2",
+      "parent_id": "cf697f18-6e56-4001-ae3c-584049d29fbd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 216 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "704fc9d2-149a-42aa-82b0-44533731943e",
+      "type": "h3",
+      "parent_id": "a9a0691a-ae9c-44a4-b52c-b60a31e8f28d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 216 kcal 11% Fat: 9.2 g 14% Carbs: 25.5g 8% Protein: 7.4 g 15% Cholesterol: 111 mg 37% Sodium: 235 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8986003a-4501-40d0-ac95-5b480aa68e33",
+      "type": "h3",
+      "parent_id": "a9a0691a-ae9c-44a4-b52c-b60a31e8f28d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c4f06680-a9b4-4de6-9078-8653b3152e04",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup all-purpose flour ADVERTISEMENT 2 eggs ADVERTISEMENT 1/2 cup milk ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 2 tablespoons butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f13e9b13-6fa5-471c-b0f0-befa96c11477",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m In a large mixing bowl, whisk together the flour and the eggs. Gradually add in the milk and water, stirring to combine. Add the salt and butter; beat until smooth. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each crepe. Tilt the pan with a circular motion so that the batter coats the surface evenly. Cook the crepe for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "5b1194c5-7656-4c90-8b1a-dbb4619589fb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2814a43e-32eb-4cda-95dd-823adec22207",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/250347.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a9badf99-46c6-4af6-aca8-53d093abc583",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sweet and Sassy Hash Browns",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  33 reviews Recipe by: CookinNurse \"If you like sweet potatoes, you'll love this twist on the ol' yam that you can eat for breakfast or any other time of day!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ac021b98-9ac4-401b-9c7e-7faa5c236074",
+      "type": "h2",
+      "parent_id": "a9badf99-46c6-4af6-aca8-53d093abc583",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 346 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "69da14ee-6b32-421a-9936-f3edff62f341",
+      "type": "h3",
+      "parent_id": "ac021b98-9ac4-401b-9c7e-7faa5c236074",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 346 kcal 17% Fat: 6 g 9% Carbs: 70.2g 23% Protein: 5 g 10% Cholesterol: 15 mg 5% Sodium: 174 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7a0f1f1a-859e-43a4-b21b-e34bddd1dbeb",
+      "type": "h3",
+      "parent_id": "ac021b98-9ac4-401b-9c7e-7faa5c236074",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5f19b7f4-d383-46f0-b769-9de3eedf7621",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon butter ADVERTISEMENT 1 large sweet potato, scrubbed and shredded ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1/4 teaspoon chipotle chile powder ADVERTISEMENT 1/2 teaspoon garlic powder ADVERTISEMENT 2 tablespoons brown sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d4c088ce-9121-4979-92d7-5abacc04191d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Melt butter in a nonstick skillet over medium-high heat. Place shredded sweet potatoes and onion in the pan; cover and cook, stirring occasionally, until sweet potatoes are tender and onion is translucent, about 10 minutes. Stir in the chipotle chile powder, garlic powder, and brown sugar. Cook, uncovered, until potatoes are golden brown on the bottom, about 5 minutes. Turn and allow the potatoes to brown on the other side."
+        }
+      ]
+    },
+    {
+      "id": "ae6448fb-702d-4dce-ad53-c651bcfe3bfe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "483f7db3-891f-445b-80ad-59077aa56baf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/10079.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f51ce053-631a-4d48-b66b-ecea46768f98",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baked Brunch Omelet",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  163 reviews Recipe by: WALLEN \"This is so easy to prepare and everyone raves about it. The best part is that you can put it together the night before and just pop it in the oven the next morning. Delicious!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cebd4d47-b50f-4ebc-ad94-e0d73791e385",
+      "type": "h2",
+      "parent_id": "f51ce053-631a-4d48-b66b-ecea46768f98",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 15 m servings 375 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "fc74e289-e267-44b6-b298-32c116a3df51",
+      "type": "h3",
+      "parent_id": "cebd4d47-b50f-4ebc-ad94-e0d73791e385",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 375 kcal 19% Fat: 25.6 g 39% Carbs: 12.6g 4% Protein: 23.2 g 46% Cholesterol: 193 mg 64% Sodium: 692 mg 28% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dca6dda9-33d6-47c5-928a-9c9db105b399",
+      "type": "h3",
+      "parent_id": "cebd4d47-b50f-4ebc-ad94-e0d73791e385",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4b9b9bd5-bf29-404f-904f-116f2397a01c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 (1 pound) loaf white bread, cut into cubes ADVERTISEMENT 1 1/2 pounds Cheddar cheese, shredded ADVERTISEMENT 1 cup cubed cooked ham ADVERTISEMENT 8 eggs ADVERTISEMENT 2 cups milk ADVERTISEMENT 1 pinch salt ADVERTISEMENT 1 dash hot pepper sauce, or to taste ADVERTISEMENT 1/4 cup chopped green onion ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a6010eef-c668-4407-9ba0-921a6ea20bdd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h Ready In 1 h 15 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking pan. Place half of the bread cubes on bottom of baking pan. Sprinkle with half of the ham and then half of the cheese; repeat. In a large bowl, beat together eggs, milk, salt, hot sauce and green onions. Pour egg mixture into pan. Place pan on top of a baking sheet with a rim and place in oven. Pour water into baking sheet and bake for 60 minutes, or until eggs have set."
+        }
+      ]
+    },
+    {
+      "id": "801e8ad7-fafe-491b-9bc2-4d8a757b8194",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "10f152c2-ff38-49ed-a60b-895f3e61f940",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/381517.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a3295551-8426-4944-a8ea-6046344abb0c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Overnight Blueberry French Toast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1112 reviews Recipe by: KARAN1946 \"This is a very unique breakfast dish. Good for any holiday breakfast or brunch, it's filled with the fresh taste of blueberries, and covered with a rich blueberry sauce to make it a one of a kind.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c2512037-8029-4691-81cc-d9edc049e040",
+      "type": "h2",
+      "parent_id": "a3295551-8426-4944-a8ea-6046344abb0c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 h servings 485 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "40d4caf7-0885-4e52-9625-67dad51dede8",
+      "type": "h3",
+      "parent_id": "c2512037-8029-4691-81cc-d9edc049e040",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 485 kcal 24% Fat: 24.8 g 38% Carbs: 51.9g 17% Protein: 15.1 g 30% Cholesterol: 279 mg 93% Sodium: 451 mg 18% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "efc6fef0-496c-4f71-a9fc-4cf47847fea3",
+      "type": "h3",
+      "parent_id": "c2512037-8029-4691-81cc-d9edc049e040",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8976b9aa-b38a-4799-900d-148bff01db3f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "12 slices day-old bread, cut into 1-inch cubes ADVERTISEMENT 2 (8 ounce) packages cream cheese, cut into 1 inch cubes ADVERTISEMENT 1 cup fresh blueberries ADVERTISEMENT 12 eggs, beaten ADVERTISEMENT 2 cups milk ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1/3 cup maple syrup ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 2 tablespoons cornstarch ADVERTISEMENT 1 cup water ADVERTISEMENT 1 cup fresh blueberries ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b8a3650b-ad84-4ec5-876f-738da9ebfa40",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h 15 m Ready In 10 h Lightly grease a 9x13 inch baking dish. Arrange half the bread cubes in the dish, and top with cream cheese cubes. Sprinkle 1 cup blueberries over the cream cheese, and top with remaining bread cubes. In a large bowl, mix the eggs, milk, vanilla extract, and syrup. Pour over the bread cubes. Cover, and refrigerate overnight. Remove the bread cube mixture from the refrigerator about 30 minutes before baking. Preheat the oven to 350 degrees F (175 degrees C). Cover, and bake 30 minutes. Uncover, and continue baking 25 to 30 minutes, until center is firm and surface is lightly browned. In a medium saucepan, mix the sugar, cornstarch, and water. Bring to a boil. Stirring constantly, cook 3 to 4 minutes. Mix in the remaining 1 cup blueberries. Reduce heat, and simmer 10 minutes, until the blueberries burst. Stir in the butter, and pour over the baked French toast"
+        }
+      ]
+    },
+    {
+      "id": "42af6dd0-51f6-46d7-934d-7d42977f82b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8afb8a8b-c9b3-49d0-ab0e-5d86e596602e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/492556.jpg"
+        }
+      ]
+    },
+    {
+      "id": "23343740-4793-4904-9563-9ec3f12e76b1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Downeast Maine Pumpkin Bread",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  6614 reviews Recipe by: Laurie Bennett \"This is a great old Maine recipe, moist and spicy. The bread actually tastes even better the day after it is baked. Great for holiday gift giving!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5ca6700a-0ca1-499b-809a-2c34528c9f58",
+      "type": "h2",
+      "parent_id": "23343740-4793-4904-9563-9ec3f12e76b1",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 263 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f67abca9-907c-4d72-8414-b642e7e9b887",
+      "type": "h3",
+      "parent_id": "5ca6700a-0ca1-499b-809a-2c34528c9f58",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 263 kcal 13% Fat: 10.3 g 16% Carbs: 40.6g 13% Protein: 3.1 g 6% Cholesterol: 31 mg 10% Sodium: 305 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "10140c7a-089e-43a0-bfe1-ad99641894b5",
+      "type": "h3",
+      "parent_id": "5ca6700a-0ca1-499b-809a-2c34528c9f58",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f541528e-73b8-493d-aa61-c80024a35e1d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (15 ounce) can pumpkin puree ADVERTISEMENT 4 eggs ADVERTISEMENT 1 cup vegetable oil ADVERTISEMENT 2/3 cup water ADVERTISEMENT 3 cups white sugar ADVERTISEMENT 3 1/2 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking soda ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon ground nutmeg ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 1/4 teaspoon ground ginger ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "24c4f992-4767-44b5-9c2d-972a647fbfe7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 50 m Ready In 1 h 5 m Preheat oven to 350 degrees F (175 degrees C). Grease and flour three 7x3 inch loaf pans. In a large bowl, mix together pumpkin puree, eggs, oil, water and sugar until well blended. In a separate bowl, whisk together the flour, baking soda, salt, cinnamon, nutmeg, cloves and ginger. Stir the dry ingredients into the pumpkin mixture until just blended. Pour into the prepared pans. Bake for about 50 minutes in the preheated oven. Loaves are done when toothpick inserted in center comes out clean."
+        }
+      ]
+    },
+    {
+      "id": "30959472-f030-4790-965c-d47db811b8c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1b2f445f-4621-4314-8f09-23dc4c43e7e7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/566024.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5c6db9cc-3d96-4128-add5-8c947fb89dbe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Cheesy Ham and Hash Brown Casserole",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1704 reviews Recipe by: POOBOO \"I mostly use this as a breakfast casserole, but it's great anytime. May be served with or without diced ham. Quick and easy to make, not to mention delicious!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "267b8d29-66ac-4073-8ac1-fc866cee6d0d",
+      "type": "h2",
+      "parent_id": "5c6db9cc-3d96-4128-add5-8c947fb89dbe",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 15 m servings 415 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e9fca390-8acd-4973-aa5d-d593ca628c73",
+      "type": "h3",
+      "parent_id": "267b8d29-66ac-4073-8ac1-fc866cee6d0d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 415 kcal 21% Fat: 27.2 g 42% Carbs: 29.7g 10% Protein: 14.4 g 29% Cholesterol: 53 mg 18% Sodium: 761 mg 30% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1b308c73-40c6-4610-8d5c-557bfd1611c4",
+      "type": "h3",
+      "parent_id": "267b8d29-66ac-4073-8ac1-fc866cee6d0d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ffb93823-3b2f-4e02-b04f-4348e28bc362",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (32 ounce) package frozen hash brown potatoes ADVERTISEMENT 8 ounces cooked, diced ham ADVERTISEMENT 2 (10.75 ounce) cans condensed cream of potato soup ADVERTISEMENT 1 (16 ounce) container sour cream ADVERTISEMENT 2 cups shredded sharp Cheddar cheese ADVERTISEMENT 1 1/2 cups grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "dae171cb-5d62-4000-9067-6444b7565498",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h Ready In 1 h 15 m Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish. In a large bowl, mix hash browns, ham, cream of potato soup, sour cream, and Cheddar cheese. Spread evenly into prepared dish. Sprinkle with Parmesan cheese. Bake 1 hour in the preheated oven, or until bubbly and lightly brown. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "d3eae84c-a566-4380-a160-bbd8e9dd975e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6f0421fb-2639-4190-a408-e22ff7195da4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/19492.jpg"
+        }
+      ]
+    },
+    {
+      "id": "75b5a55a-d3b6-45b5-8de9-0b95d7d02df1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Authentic Mexican Breakfast Tacos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  153 reviews Recipe by: BEARNESTA \"Quick Easy and Delicious! I learned this recipe from many years of eating with the Mexican cooks at my restaurant. They like to sneak in breakfast before we open. I've grown to LOVE this breakfast. If you like spicy food, you will love this.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8435c375-e9ab-4999-80b5-f63dc7722042",
+      "type": "h2",
+      "parent_id": "75b5a55a-d3b6-45b5-8de9-0b95d7d02df1",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 m servings 537 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "acf9ab01-8e33-4103-ba0f-3673d6cf13d7",
+      "type": "h3",
+      "parent_id": "8435c375-e9ab-4999-80b5-f63dc7722042",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 537 kcal 27% Fat: 34.1 g 53% Carbs: 27.7g 9% Protein: 30.6 g 61% Cholesterol: 343 mg 114% Sodium: 1298 mg 52% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f667ca44-8dcc-44a9-8ab6-da6ae04a382c",
+      "type": "h3",
+      "parent_id": "8435c375-e9ab-4999-80b5-f63dc7722042",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4a925afa-3aed-4f88-9507-d1413b405f10",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 ounces chorizo sausage ADVERTISEMENT 8 (6 inch) corn tortillas ADVERTISEMENT 6 eggs ADVERTISEMENT 1/4 cup milk ADVERTISEMENT 1/2 teaspoon pepper ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 cup shredded Monterey Jack cheese ADVERTISEMENT 1 dash hot pepper sauce (e.g. Tabasco™), or to taste ADVERTISEMENT 1/2 cup salsa ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9ab785ed-da57-4328-b256-3d996f350a0f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 10 m Ready In 15 m Crumble the sausage into a skillet over medium-high heat. Cook and stir until evenly brown. Set aside. Heat one skillet over medium heat, and heat another skillet over high heat. The skillet over high heat is for warming tortillas. In a medium bowl, whisk together the eggs, milk, salt and pepper. Spray the medium heat skillet with some cooking spray, and pour in the eggs. Cook and stir until almost firm. Add the sausage, and continue cooking and stirring until firm. Meanwhile, warm tortillas for about 45 seconds per side in the other skillet, so they are hot and crispy on the edges, but still pliable. Sprinkle a little shredded cheese onto each tortilla while it is still hot. Top with some of the scrambled egg and sausage, then add hot pepper sauce and salsa to your liking."
+        }
+      ]
+    },
+    {
+      "id": "27c70539-d617-4d25-b57f-c75f7937367b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ee378445-508f-4a0f-80e0-de11c59026c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1003203.jpg"
+        }
+      ]
+    },
+    {
+      "id": "06b5d589-6e5e-44d3-8a9c-ec2702c4669f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chef John's Baked Eggs",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  174 reviews Recipe by: Chef John \"If you enjoy huevos rancheros, you will love this. The way the spicy sauce mingles with just barely set eggs is very similar, and when you start scooping this up with toasted chunks of bread, it gets borderline magical.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3b80f7b0-917b-42c9-9d1b-e0a358b6d1b8",
+      "type": "h2",
+      "parent_id": "06b5d589-6e5e-44d3-8a9c-ec2702c4669f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 560 cals for serving adjustment Serving size has been adjusted! Original recipe yields 1 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "1927d534-34bb-407f-80e4-0d8ddbfe9e33",
+      "type": "h3",
+      "parent_id": "3b80f7b0-917b-42c9-9d1b-e0a358b6d1b8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 560 kcal 28% Fat: 35.9 g 55% Carbs: 39.2g 13% Protein: 20.6 g 41% Cholesterol: 418 mg 139% Sodium: 920 mg 37% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9870d823-d267-4c37-9633-e68f2e790ed3",
+      "type": "h3",
+      "parent_id": "3b80f7b0-917b-42c9-9d1b-e0a358b6d1b8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "645066d7-1462-47c7-a26c-c1cca8dea747",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/3 cup marinara sauce ADVERTISEMENT 1/2 teaspoon red pepper flakes ADVERTISEMENT salt and freshly ground black pepper to taste ADVERTISEMENT 1 1/2 teaspoons chopped fresh flat-leaf parsley ADVERTISEMENT 2 eggs ADVERTISEMENT 1 tablespoon finely shredded Parmigiano-Reggiano cheese ADVERTISEMENT 2 teaspoons olive oil ADVERTISEMENT 2 tablespoons heavy whipping cream ADVERTISEMENT 2 slices toast ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "131e8116-fec5-46b8-8210-56fb8212760c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m Preheat oven to 400 degrees F (200 degrees C). Spoon marinara sauce into the bottom of a small baking dish, about 1/4 inch high. Sprinkle with red pepper flakes, salt, black pepper, and parsley. Make a narrow well in the center of the sauce for the eggs. Crack each egg into a ramekin, then pour into the baking dish over the marinara sauce. Sprinkle with Parmigiano-Reggiano cheese, olive oil, and cream. Season with salt and black pepper to taste. Bake in the preheated oven until yolks are just set, 10 to 12 minutes. Serve with toast."
+        }
+      ]
+    },
+    {
+      "id": "3766e18a-56db-4f0e-ade2-3c8f1043ea21",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f456d5e3-14a9-4a7f-830d-d15080a420d1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/466969.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e68ad554-a6ab-4de3-9c5c-3e3064d36dd6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sausage Balls",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  728 reviews Recipe by: Stephanie \"These are so yummy! My family makes every Christmas morning. Enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2722bffe-a1fd-4089-91d1-ff71fe922200",
+      "type": "h2",
+      "parent_id": "e68ad554-a6ab-4de3-9c5c-3e3064d36dd6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 264 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0623bf0c-6db0-46d5-89fe-74df1dead752",
+      "type": "h3",
+      "parent_id": "2722bffe-a1fd-4089-91d1-ff71fe922200",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 264 kcal 13% Fat: 19 g 29% Carbs: 10.5g 3% Protein: 12.8 g 26% Cholesterol: 49 mg 16% Sodium: 660 mg 26% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c4c36759-84bd-4f81-b849-3ea3121d804b",
+      "type": "h3",
+      "parent_id": "2722bffe-a1fd-4089-91d1-ff71fe922200",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "20d04764-3fd0-44cd-9812-1092da5f9c86",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound ground pork sausage ADVERTISEMENT 2 cups biscuit baking mix ADVERTISEMENT 1 pound sharp Cheddar cheese, shredded ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b41c398a-7dfa-4dea-acaa-c1dcacf71618",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 20 m Ready In 35 m Preheat oven to 350 degrees F (175 degrees C). In a large bowl, combine sausage, biscuit baking mix and cheese. Form into walnut size balls and place on baking sheets. Bake in preheated oven for 20 to 25 minutes, until golden brown and sausage is cooked through."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

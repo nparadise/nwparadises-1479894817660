@@ -1,0 +1,3998 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:30:06.289Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2165911087001_th-1904528292001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2165857956001_900944612-184-1360881372073.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1904528292001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian Chicken Curry (Murgh Kari)"
+    },
+    {
+      "name": "description",
+      "content": "Chicken breasts simmer in a spicy tomato and yogurt sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "124137"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/19/2013 3:50:43 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "540"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1680536500001_th-1675264266001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1677046212001_ari-origin05-arc-155-1339007159167.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675264266001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Tikka Masala"
+    },
+    {
+      "name": "description",
+      "content": "See how to make this top-rated recipe for spiced chicken in a tomato cream sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "103031"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/8/2012 12:03:14 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2023"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.29"
+    },
+    {
+      "name": "reviewCount",
+      "content": "214"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2236035704001_th-2203073448001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2235957403001_video-still-for-video-2203073448001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2203073448001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian-Style Basmati Rice"
+    },
+    {
+      "name": "description",
+      "content": "This savory Indian rice is flavored with whole spices and sautéed onions."
+    },
+    {
+      "name": "interactionCount",
+      "content": "41002"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/20/2013 2:58:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "177"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "28"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2084024707001_th-1966946808001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2034127269001_900944612-18089-1355440003719.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1966946808001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Indian-Style Okra"
+    },
+    {
+      "name": "description",
+      "content": "See how to make easy East Indian-style okra in the skillet."
+    },
+    {
+      "name": "interactionCount",
+      "content": "19671"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/9/2013 4:50:28 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.31"
+    },
+    {
+      "name": "reviewCount",
+      "content": "129"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.31"
+    },
+    {
+      "name": "reviewCount",
+      "content": "309"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201508/3003/1033249144001_4417006229001_th-4414915674001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201508/1378/1033249144001_4415034652001_video-still-for-video-4414915674001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=4414915674001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Curry Stand Chicken Tikka Masala Sauce"
+    },
+    {
+      "name": "description",
+      "content": "Learn how to make this fragrant, delicious, Indian-inspired chicken dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "18921"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/12/2015 11:39:51 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.92"
+    },
+    {
+      "name": "reviewCount",
+      "content": "620"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178837046001_th-1867035830001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178800685001_900944612-5388-1361398950657.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1867035830001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Red Lentil Curry"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a quick-and-easy vegetarian curry."
+    },
+    {
+      "name": "interactionCount",
+      "content": "46226"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/28/2013 3:25:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "792"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2011134778001_th-1932374359001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2011098484001_900944612-134-1354647144116.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1932374359001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Mulligatawny Soup I"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a creamy Indian-inspired chicken, rice, and curry soup."
+    },
+    {
+      "name": "interactionCount",
+      "content": "24118"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/5/2012 2:03:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "950"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "469"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2591576596001_th-2579578104001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2591559114001_video-still-for-video-2579578104001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2579578104001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Indian Butter Chicken"
+    },
+    {
+      "name": "description",
+      "content": "This creamy, classic Indian restaurant dish is easy to make at home."
+    },
+    {
+      "name": "interactionCount",
+      "content": "96568"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/15/2014 3:52:57 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "654"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.04"
+    },
+    {
+      "name": "reviewCount",
+      "content": "150"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1813123131001_th-1791478505001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1808812088001_ari-origin05-arc-168-1346102183995.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1791478505001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Makhani (Indian Butter Chicken)"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple, flavorful Indian recipe in just minutes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "113831"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/29/2012 12:19:49 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "841"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.41"
+    },
+    {
+      "name": "reviewCount",
+      "content": "212"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.00"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1667782283001_th-1666325545001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1667659650001_ari-origin05-arc-139-1338568661241.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1666325545001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian Chicken Curry II"
+    },
+    {
+      "name": "description",
+      "content": "This homemade Indian chicken curry dish is so delicious, you won’t miss takeout."
+    },
+    {
+      "name": "interactionCount",
+      "content": "198858"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 12:56:23 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.27"
+    },
+    {
+      "name": "reviewCount",
+      "content": "871"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.07"
+    },
+    {
+      "name": "reviewCount",
+      "content": "39"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2114750423001_th-1886435988001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2114673056001_900944612-147-1358983237929.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1886435988001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian Chickpeas"
+    },
+    {
+      "name": "description",
+      "content": "See how to make garbanzo beans simmered with Indian spices."
+    },
+    {
+      "name": "interactionCount",
+      "content": "22658"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/25/2013 1:10:20 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "41"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571545631001_th-1561183848001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571373144001_ari-origin05-arc-169-1334854594671.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561183848001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Naan"
+    },
+    {
+      "name": "description",
+      "content": "See how to make delicious homemade naan."
+    },
+    {
+      "name": "interactionCount",
+      "content": "131856"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/19/2012 5:12:34 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.71"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1614"
+    },
+    {
+      "name": "recipeYield",
+      "content": "14"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/3097/1033249144001_2854584430001_th-2841901323001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/1185/1033249144001_2854470847001_video-still-for-video-2841901323001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2841901323001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Spicy Vegan Potato Curry"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a spicy vegan curry with chickpeas and potatoes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "38333"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/20/2013 3:12:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "511"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/1499/1033249144001_3497066157001_th-3492903901001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201409/3518/1033249144001_3778429942001_Slow-Cooker-Butter-Chicken.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3492903901001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Butter Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Chicken simmers with Indian spices in a creamy coconut milk and yogurt sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "130789"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/10/2014 3:43:26 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.45"
+    },
+    {
+      "name": "reviewCount",
+      "content": "341"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2119779478001_th-1969082645001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2119767811001_900944612-6531-1359157788214.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1969082645001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Easy Garam Masala"
+    },
+    {
+      "name": "description",
+      "content": "See how to make your own Indian spice blend at home."
+    },
+    {
+      "name": "interactionCount",
+      "content": "39435"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/30/2013 1:37:47 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "100"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2165907423001_th-1904571312001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2165857954001_900944612-184-1360881345726.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1904571312001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Indian Tomato Chicken"
+    },
+    {
+      "name": "description",
+      "content": "See how to make chicken thighs simmered with tomatoes and exotic spices."
+    },
+    {
+      "name": "interactionCount",
+      "content": "39816"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/19/2013 4:44:42 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "185"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178808571001_th-1932475211001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178572437001_900944612-155-1361386649793.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1932475211001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Vegetarian Korma"
+    },
+    {
+      "name": "description",
+      "content": "This easy vegetarian Indian dish is rich, creamy and mildly spicy."
+    },
+    {
+      "name": "interactionCount",
+      "content": "85324"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/20/2013 5:02:58 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "886"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.40"
+    },
+    {
+      "name": "reviewCount",
+      "content": "290"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.22"
+    },
+    {
+      "name": "reviewCount",
+      "content": "439"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.44"
+    },
+    {
+      "name": "reviewCount",
+      "content": "132"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1939515621001_ari-origin05-arc-160-1351797657754.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1939515622001_ari-origin05-arc-160-1351797658364.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1924748998001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Spicy Indian Chicken and Mango Curry"
+    },
+    {
+      "name": "description",
+      "content": "Make a sensational Indian curry that’s both creamy and spicy."
+    },
+    {
+      "name": "interactionCount",
+      "content": "32857"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/1/2012 12:26:39 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.26"
+    },
+    {
+      "name": "reviewCount",
+      "content": "143"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.30"
+    },
+    {
+      "name": "reviewCount",
+      "content": "145"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "83dd1dc9-0fd4-4ca4-9d09-1958388d861e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "799220c1-4cde-40be-8520-a967ae982b9e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3325822.jpg"
+        }
+      ]
+    },
+    {
+      "id": "efc12c27-e43a-4aab-bae8-85e46be528fa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Chicken Curry (Murgh Kari)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  540 reviews Recipe by: Ayshren \"This is a really good recipe for spicy Indian chicken curry. It's pretty easy to make and tastes really good!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d2e66437-b25e-4595-afd4-6e12b4618dfd",
+      "type": "h2",
+      "parent_id": "efc12c27-e43a-4aab-bae8-85e46be528fa",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 427 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b7248da3-0867-47b2-ab28-ef9344f978c2",
+      "type": "h3",
+      "parent_id": "d2e66437-b25e-4595-afd4-6e12b4618dfd",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 427 kcal 21% Fat: 24.3 g 37% Carbs: 14.7g 5% Protein: 38.1 g 76% Cholesterol: 95 mg 32% Sodium: 1370 mg 55% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3965032b-4cd8-4592-99eb-8dcb4c2964fa",
+      "type": "h3",
+      "parent_id": "d2e66437-b25e-4595-afd4-6e12b4618dfd",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "258bdf9f-89df-4f26-9914-058b2eb45a32",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds skinless, boneless chicken breast halves ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1/2 cup cooking oil ADVERTISEMENT 1 1/2 cups chopped onion ADVERTISEMENT 1 tablespoon minced garlic ADVERTISEMENT 1 1/2 teaspoons minced fresh ginger root ADVERTISEMENT 1 tablespoon curry powder ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon ground coriander ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1 tablespoon water ADVERTISEMENT 1 (15 ounce) can crushed tomatoes ADVERTISEMENT 1 cup plain yogurt ADVERTISEMENT 1 tablespoon chopped fresh cilantro ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 tablespoon chopped fresh cilantro ADVERTISEMENT 1 tablespoon fresh lemon juice ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8f6baea8-892f-4d4e-9f57-e75af7bbbdd4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 40 m Ready In 1 h Sprinkle the chicken breasts with 2 teaspoons salt. Heat the oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned. Transfer the browned chicken breasts to a plate and set aside. Reduce the heat under the skillet to medium-high; add the onion, garlic, and ginger to the oil remaining in the skillet and cook and stir until the onion turns translucent, about 8 minutes. Stir the curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Mix the tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt into the mixture. Return the chicken breast to the skillet along with any juices on the plate. Pour 1/2 cup water into the mixture; bring to a boil, turning the chicken to coat with the sauce. Sprinkle the garam masala and 1 tablespoon cilantro over the chicken. Cover the skillet and simmer until the chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with lemon juice to serve."
+        }
+      ]
+    },
+    {
+      "id": "664d5119-78da-4e6d-b42e-a3996a4f1b66",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4aae1b32-6307-4393-a197-ad5ebe544ed2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/39905.jpg"
+        }
+      ]
+    },
+    {
+      "id": "19cfd602-334f-477d-b340-732cac55a9b6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Tikka Masala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2023 reviews Recipe by: Yakuta \"This is an easy recipe for Chicken Tikka Masala - Chicken marinated in yogurt and spices and then served in a tomato cream sauce. Serve with rice or warm pita bread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9a2d3fb5-15a8-4b37-8a96-a418d8938de1",
+      "type": "h2",
+      "parent_id": "19cfd602-334f-477d-b340-732cac55a9b6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 20 m servings 404 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5eb84cff-0b48-4d9b-9802-a2288e544814",
+      "type": "h3",
+      "parent_id": "9a2d3fb5-15a8-4b37-8a96-a418d8938de1",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 404 kcal 20% Fat: 28.9 g 44% Carbs: 13.3g 4% Protein: 24.6 g 49% Cholesterol: 143 mg 48% Sodium: 4499 mg 180% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "78566e0b-2f53-480b-944d-eeb9abce5a31",
+      "type": "h3",
+      "parent_id": "9a2d3fb5-15a8-4b37-8a96-a418d8938de1",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "833f49e0-a5b6-459d-8498-805a03bf52ec",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup yogurt ADVERTISEMENT 1 tablespoon lemon juice ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 2 teaspoons cayenne pepper ADVERTISEMENT 2 teaspoons freshly ground black pepper ADVERTISEMENT 1 tablespoon minced fresh ginger ADVERTISEMENT 4 teaspoons salt, or to taste ADVERTISEMENT 3 boneless skinless chicken breasts, cut into bite-size pieces ADVERTISEMENT 4 long skewers ADVERTISEMENT 1 tablespoon butter ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 jalapeno pepper, finely chopped ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 2 teaspoons paprika ADVERTISEMENT 1 tablespoon salt, or to taste ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1/4 cup chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ede7dab6-ead0-4af2-9952-f3e512912588",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 50 m Ready In 2 h 20 m In a large bowl, combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and 4 teaspoons salt. Stir in chicken, cover, and refrigerate for 1 hour. Preheat a grill for high heat. Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill until juices run clear, about 5 minutes on each side. Melt butter in a large heavy skillet over medium heat. Saute garlic and jalapeno for 1 minute. Season with 2 teaspoons cumin, paprika, and 3 teaspoons salt. Stir in tomato sauce and cream. Simmer on low heat until sauce thickens, about 20 minutes. Add grilled chicken, and simmer for 10 minutes. Transfer to a serving platter, and garnish with fresh cilantro."
+        }
+      ]
+    },
+    {
+      "id": "62d517a7-0bd3-446c-8805-4a44caaf68cb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "400a1cf6-0e6b-4d9f-bffe-3b61beafc1cc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/419396.jpg"
+        }
+      ]
+    },
+    {
+      "id": "46dea8f5-2655-4c3c-b5e4-cbc3e596d39b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Tandoori Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  214 reviews Recipe by: Simmi Gupta \"This is an authentic recipe for Tandoori chicken. Serve with long grain Basmati rice, cucumber salad, grilled veggies, roasted corn on the cob and finish off the meal with Kulfi (Indian ice cream).\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "305b1eda-32dd-40d6-a6d5-4bb0d8382cf0",
+      "type": "h2",
+      "parent_id": "46dea8f5-2655-4c3c-b5e4-cbc3e596d39b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 d 45 m servings 356 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "7cd81429-7dda-4aa1-b77a-133e3ae7cd2d",
+      "type": "h3",
+      "parent_id": "305b1eda-32dd-40d6-a6d5-4bb0d8382cf0",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 356 kcal 18% Fat: 18.8 g 29% Carbs: 13.7g 4% Protein: 35.6 g 71% Cholesterol: 102 mg 34% Sodium: 734 mg 29% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7391b0f1-62c3-4a37-9df5-013bffab8e28",
+      "type": "h3",
+      "parent_id": "305b1eda-32dd-40d6-a6d5-4bb0d8382cf0",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "690228f5-5a15-429c-9c9f-c88d8230ab3d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 pounds chicken, cut into pieces ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 lemon, juiced ADVERTISEMENT 1 1/4 cups plain yogurt ADVERTISEMENT 1/2 onion, finely chopped ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 teaspoon grated fresh ginger root ADVERTISEMENT 2 teaspoons garam masala ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1 teaspoon yellow food coloring ADVERTISEMENT 1 teaspoon red food coloring ADVERTISEMENT 2 teaspoons finely chopped cilantro ADVERTISEMENT 1 lemon, cut into wedges ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0a98011a-0488-40fe-8f1c-5292b854156b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 20 m Ready In 1 d 45 m Remove skin from chicken pieces, and cut slits into them lengthwise. Place in a shallow dish. Sprinkle both sides of chicken with salt and lemon juice. Set aside 20 minutes. In a medium bowl, combine yogurt, onion, garlic, ginger, garam masala, and cayenne pepper. Mix until smooth. Stir in yellow and red food coloring. Spread yogurt mixture over chicken. Cover, and refrigerate for 6 to 24 hours (the longer the better). Preheat an outdoor grill for medium high heat, and lightly oil grate. Cook chicken on grill until no longer pink and juices run clear. Garnish with cilantro and lemon wedges."
+        }
+      ]
+    },
+    {
+      "id": "0b2fc003-9aae-46c9-9eb7-efdda9b58643",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "77eb0dfe-383d-4c97-8ad0-e422185a3b68",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/244848.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3ca664fa-9eb5-4637-9bfb-927cd1c6fe23",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Style Basmati Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  177 reviews Recipe by: DHANO923 \"This is a savory Indian style rice dish flavored with whole spices and fried onions. Soaking the basmati rice before cooking makes all the difference. Serve with your favorite Indian curry or dal (lentils). Make sure you warn people not to bite into the whole spices!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b60400da-35d8-4f3e-ac7a-8def6bfc9336",
+      "type": "h2",
+      "parent_id": "3ca664fa-9eb5-4637-9bfb-927cd1c6fe23",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 216 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "25878764-8571-4b7c-a769-a585a4d752f5",
+      "type": "h3",
+      "parent_id": "b60400da-35d8-4f3e-ac7a-8def6bfc9336",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 216 kcal 11% Fat: 5.4 g 8% Carbs: 38.9g 13% Protein: 3.9 g 8% Cholesterol: 0 mg 0% Sodium: 394 mg 16% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2cd66d5e-adca-432d-91c1-60fd9244be62",
+      "type": "h3",
+      "parent_id": "b60400da-35d8-4f3e-ac7a-8def6bfc9336",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "95284bc4-9c27-4281-8f02-1a81476da5bc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups basmati rice ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 1 (2 inch) piece cinnamon stick ADVERTISEMENT 2 pods green cardamom ADVERTISEMENT 2 whole cloves ADVERTISEMENT 1 tablespoon cumin seed ADVERTISEMENT 1 teaspoon salt, or to taste ADVERTISEMENT 2 1/2 cups water ADVERTISEMENT 1 small onion, thinly sliced ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9a26a38f-5742-448b-b71b-e51e10933c75",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 45 m Place rice into a bowl with enough water to cover. Set aside to soak for 20 minutes. Heat the oil in a large pot or saucepan over medium heat. Add the cinnamon stick, cardamom pods, cloves, and cumin seed. Cook and stir for about a minute, then add the onion to the pot. Saute the onion until a rich golden brown, about 10 minutes. Drain the water from the rice, and stir into the pot. Cook and stir the rice for a few minutes, until lightly toasted. Add salt and water to the pot, and bring to a boil. Cover, and reduce heat to low. Simmer for about 15 minutes, or until all of the water has been absorbed. Let stand for 5 minutes, then fluff with a fork before serving."
+        }
+      ]
+    },
+    {
+      "id": "afdcf7a9-dffe-4617-aec1-83fa85c2448f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f7fc0513-fbee-49cb-8e2e-712d93efda51",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/252909.jpg"
+        }
+      ]
+    },
+    {
+      "id": "874d12ae-5033-4012-9674-2295bb3b0db9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sweet Tamarind Chutney",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  28 reviews Recipe by: STEELTOWN \"This is an East Indian sweet tamarind chutney.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "96b1e211-ccd2-4185-b2ca-5a9afd340714",
+      "type": "h2",
+      "parent_id": "874d12ae-5033-4012-9674-2295bb3b0db9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 113 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3731585f-c5f4-4be1-a8e6-12f23d2f5646",
+      "type": "h3",
+      "parent_id": "96b1e211-ccd2-4185-b2ca-5a9afd340714",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 113 kcal 6% Fat: 1.5 g 2% Carbs: 25.7g 8% Protein: 0.2 g < 1% Cholesterol: 0 mg 0% Sodium: 3 mg < 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6a2d7782-d08a-4aed-9c30-98e9be2d4cde",
+      "type": "h3",
+      "parent_id": "96b1e211-ccd2-4185-b2ca-5a9afd340714",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5bfb8b8a-6f6a-4d7a-b38d-60d693860186",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon canola oil ADVERTISEMENT 1 teaspoon cumin seeds ADVERTISEMENT 1 teaspoon ground ginger ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT 1/2 teaspoon fennel seeds ADVERTISEMENT 1/2 teaspoon asafoetida powder ADVERTISEMENT 1/2 teaspoon garam masala ADVERTISEMENT 2 cups water ADVERTISEMENT 1 1/8 cups white sugar ADVERTISEMENT 3 tablespoons tamarind paste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ef66f587-2049-4559-aeaf-32923356c727",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Heat the oil in a saucepan over medium heat. Add the cumin seeds, ginger, cayenne pepper, fennel seeds, asafoetida powder, and garam masala; cook and stir for about 2 minutes to release the flavors. Stir the water into the pan with the spices along with the sugar and tamarind paste. Bring to a boil, then simmer over low heat until the mixture turns a deep chocolaty brown and is thick enough to coat the back of a metal spoon. This should take 20 to 30 minutes. The sauce will be thin, but it will thicken upon cooling."
+        }
+      ]
+    },
+    {
+      "id": "26636585-38dc-46b7-9376-b6d16a90efcb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e1501e70-de32-42b4-be51-c834d81a7d40",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/371190.jpg"
+        }
+      ]
+    },
+    {
+      "id": "628cbd28-3a58-4df2-b935-77e0e59249d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Indian Style Okra",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  129 reviews Recipe by: CALIGAL76 \"My Indian friend taught me how to make this easy traditional Indian okra recipe using fresh okra and spices in a skillet.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9ec749a7-e749-45a4-81f4-2910dafd4a1b",
+      "type": "h2",
+      "parent_id": "628cbd28-3a58-4df2-b935-77e0e59249d9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 126 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "14298ead-df01-4493-9f81-36f1a82a03ae",
+      "type": "h3",
+      "parent_id": "9ec749a7-e749-45a4-81f4-2910dafd4a1b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 126 kcal 6% Fat: 8.9 g 14% Carbs: 11.1g 4% Protein: 2.8 g 6% Cholesterol: 23 mg 8% Sodium: 169 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d2107cba-a5a7-4bd4-9290-93fce67a119f",
+      "type": "h3",
+      "parent_id": "9ec749a7-e749-45a4-81f4-2910dafd4a1b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6ed10527-a1b9-41f9-baa0-4ffc84f2fdc5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons butter ADVERTISEMENT 1 medium onion, chopped ADVERTISEMENT 1 pound sliced fresh okra ADVERTISEMENT 1/2 teaspoon ground cumin ADVERTISEMENT 1/2 teaspoon ground ginger ADVERTISEMENT 1/2 teaspoon ground coriander ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT salt to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "69a4dd11-a129-4577-af24-82b6c6d495cc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Melt butter in a large skillet over medium heat. Add the onion, and cook until tender. Stir in the okra, and season with cumin, ginger, coriander, pepper and salt. Cook and stir for a few minutes, then reduce the heat to medium-low, and cover the pan. Cook for 20 minutes, stirring occasionally until okra is tender."
+        }
+      ]
+    },
+    {
+      "id": "3429b6db-3367-4fcc-9267-c53836abcdcf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6afce9e9-66fb-4a6c-a286-d56bc433089a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/14597.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9d9cb9d7-79e9-461f-aa8f-564917f78c79",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baingan Bharta (Eggplant Curry)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  309 reviews Recipe by: Yakuta \"This is a really easy and tasty Indian dish that is sure to stir up your taste buds. Delicious baingan bharta is ready to eat with pita bread, Indian naan, or rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "215a5de9-c0d7-4f34-aa91-8b1de78e88cd",
+      "type": "h2",
+      "parent_id": "9d9cb9d7-79e9-461f-aa8f-564917f78c79",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 146 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6eea716d-b3d8-4449-aeb6-0b75778947da",
+      "type": "h3",
+      "parent_id": "215a5de9-c0d7-4f34-aa91-8b1de78e88cd",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 146 kcal 7% Fat: 8 g 12% Carbs: 15.2g 5% Protein: 4 g 8% Cholesterol: 2 mg < 1% Sodium: 739 mg 30% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4b78133a-7a48-4fcc-b4ba-63623211dddf",
+      "type": "h3",
+      "parent_id": "215a5de9-c0d7-4f34-aa91-8b1de78e88cd",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3c9c29cf-6aa3-448f-8204-d0d81af434ee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 large eggplant ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 1 teaspoon cumin seeds ADVERTISEMENT 1 medium onion, thinly sliced ADVERTISEMENT 1 tablespoon ginger garlic paste ADVERTISEMENT 1 tablespoon curry powder ADVERTISEMENT 1 tomato, diced ADVERTISEMENT 1/2 cup plain yogurt ADVERTISEMENT 1 fresh jalapeno chile pepper, finely chopped ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/4 bunch cilantro, finely chopped ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d5150e3e-5055-4f1d-87e6-518f72d7399c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Preheat oven to 450 degrees F (230 degrees C). Place eggplant on a medium baking sheet. Bake 20 to 30 minutes in the preheated oven, until tender. Remove from heat, cool, peel, and chop. Heat oil in a medium saucepan over medium heat. Mix in cumin seeds and onion. Cook and stir until onion is tender. Mix ginger garlic paste, curry powder, and tomato into the saucepan, and cook about 1 minute. Stir in yogurt. Mix in eggplant and jalapeno pepper, and season with salt. Cover, and cook 10 minutes over high heat. Remove cover, reduce heat to low, and continue cooking about 5 minutes. Garnish with cilantro to serve."
+        }
+      ]
+    },
+    {
+      "id": "1db1b88b-958d-46fd-827c-5ad6665c9fa4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "963be46e-705c-46de-9745-b6c1073cff08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3496286.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bda0a25f-443f-4b7a-b686-8bb6e77a2941",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Curry Stand Chicken Tikka Masala Sauce",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  620 reviews Recipe by: Chris \"A classic curry-stand recipe. This is not haute cuisine; this is the kind of nuclear-orange tikka masala that you crave when you stumble out of a pub at 2 a.m. I make vast quantities of the sauce at one time, and it freezes very well. I also added much more cayenne pepper than 1 teaspoon, but I give out the recipe like this for people who don't like heat.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f8057bcd-1081-48a1-9040-d57ede1b86d6",
+      "type": "h2",
+      "parent_id": "bda0a25f-443f-4b7a-b686-8bb6e77a2941",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 328 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0f28c455-da6d-4b80-8911-56b2b67244df",
+      "type": "h3",
+      "parent_id": "f8057bcd-1081-48a1-9040-d57ede1b86d6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 328 kcal 16% Fat: 23.4 g 36% Carbs: 13.2g 4% Protein: 17.9 g 36% Cholesterol: 106 mg 35% Sodium: 980 mg 39% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dfe505b7-7b66-49a3-b4fd-4ca58c048dac",
+      "type": "h3",
+      "parent_id": "f8057bcd-1081-48a1-9040-d57ede1b86d6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f2d64d4b-f369-4574-9f5f-9942bf441bf6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons ghee (clarified butter) ADVERTISEMENT 1 onion, finely chopped ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1 tablespoon ground cumin ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon ground ginger ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1/4 teaspoon ground turmeric ADVERTISEMENT 1 (14 ounce) can tomato sauce ADVERTISEMENT 1 cup heavy whipping cream ADVERTISEMENT 2 teaspoons paprika ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 4 skinless, boneless chicken breast halves, cut into bite-size pieces ADVERTISEMENT 1/2 teaspoon curry powder ADVERTISEMENT 1/2 teaspoon salt, or to taste (optional) ADVERTISEMENT 1 teaspoon white sugar, or to taste (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c279f3c3-5919-4cd0-aefb-0fefda10b722",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 1 h 5 m Ready In 1 h 20 m Heat ghee in a large skillet over medium heat and cook and stir onion until translucent, about 5 minutes. Stir in garlic; cook and stir just until fragrant, about 1 minute. Stir cumin, 1 teaspoon salt, ginger, cayenne pepper, cinnamon, and turmeric into the onion mixture; fry until fragrant, about 2 minutes. Stir tomato sauce into the onion and spice mixture, bring to a boil, and reduce heat to low. Simmer sauce for 10 minutes, then mix in cream, paprika, and 1 tablespoon sugar. Bring sauce back to a simmer and cook, stirring often, until sauce is thickened, 10 to 15 minutes. Heat vegetable oil in a separate skillet over medium heat. Stir chicken into the hot oil, sprinkle with curry powder, and sear chicken until lightly browned but still pink inside, about 3 minutes; stir often. Transfer chicken and any pan juices into the sauce. Simmer chicken in sauce until no longer pink, about 30 minutes; adjust salt and sugar to taste."
+        }
+      ]
+    },
+    {
+      "id": "b74112c7-c2a6-4707-b188-4997427235a6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9db8985a-82b4-4be7-b760-ad51de458e04",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d3154f56-c6fe-44fa-b435-bd55b14db8df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Red Lentil Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  792 reviews Recipe by: Emma Maher \"This is a rich and hearty lentil curry, great as a main meal rather than as a side dish like the more traditional Indian dhal. Don't let the ingredient list faze you, this really is an easy dish to make. This dish is great served with basmati rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ca240893-a89b-4826-9600-0cb26e9ba6c9",
+      "type": "h2",
+      "parent_id": "d3154f56-c6fe-44fa-b435-bd55b14db8df",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 192 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4a0512cf-6f9a-44d2-9804-c14c2a77c122",
+      "type": "h3",
+      "parent_id": "ca240893-a89b-4826-9600-0cb26e9ba6c9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 192 kcal 10% Fat: 2.6 g 4% Carbs: 32.5g 10% Protein: 12.1 g 24% Cholesterol: 0 mg 0% Sodium: 572 mg 23% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2a3ded84-2290-4ea5-958b-21dacddc3be4",
+      "type": "h3",
+      "parent_id": "ca240893-a89b-4826-9600-0cb26e9ba6c9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b21df52b-a796-4aae-ab7c-7cde07c7c7e4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups red lentils ADVERTISEMENT 1 large onion, diced ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 2 tablespoons curry paste ADVERTISEMENT 1 tablespoon curry powder ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 teaspoon minced fresh ginger ADVERTISEMENT 1 (14.25 ounce) can tomato puree ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3d4ddeed-641a-4e55-97ee-95574c8008a3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils."
+        }
+      ]
+    },
+    {
+      "id": "6a684ac1-9563-447c-97b2-99e18f42db08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b5c5c1f3-2fb0-4189-aa7d-9789a55e3c9f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1096121.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e418fc65-6f6f-49bb-8e4e-b7798a39317a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mulligatawny Soup I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  950 reviews Recipe by: Lise P. \"The name Mulligatawny means 'pepper water', and curry is the particular ingredient that gives this incredible soup such a delicious flavor...so I'm told. This old recipe was given to me long ago.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cf646c72-e24a-4645-ada4-ecfd75d0c28f",
+      "type": "h2",
+      "parent_id": "e418fc65-6f6f-49bb-8e4e-b7798a39317a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 20 m servings 223 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "998dae66-941b-4a17-bf0a-ea74b33b1bd0",
+      "type": "h3",
+      "parent_id": "cf646c72-e24a-4645-ada4-ecfd75d0c28f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 223 kcal 11% Fat: 15.8 g 24% Carbs: 13.5g 4% Protein: 6.9 g 14% Cholesterol: 62 mg 21% Sodium: 734 mg 29% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "724c92cb-5610-4d45-adee-18398ae9ffea",
+      "type": "h3",
+      "parent_id": "cf646c72-e24a-4645-ada4-ecfd75d0c28f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7d111939-5430-4e77-a0fb-2f690a8f8771",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup chopped onion ADVERTISEMENT 2 stalks celery, chopped ADVERTISEMENT 1 carrot, diced ADVERTISEMENT 1/4 cup butter ADVERTISEMENT 1 1/2 tablespoons all-purpose flour ADVERTISEMENT 1 1/2 teaspoons curry powder ADVERTISEMENT 4 cups chicken broth ADVERTISEMENT 1/2 apple, cored and chopped ADVERTISEMENT 1/4 cup white rice ADVERTISEMENT 1 skinless, boneless chicken breast half - cut into cubes ADVERTISEMENT salt to taste ADVERTISEMENT ground black pepper to taste ADVERTISEMENT 1 pinch dried thyme ADVERTISEMENT 1/2 cup heavy cream, heated ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c211ff73-3309-4f44-ab8c-e22bede27969",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h Ready In 1 h 20 m Saute onions, celery, carrot, and butter in a large soup pot. Add flour and curry, and cook 5 more minutes. Add chicken stock, mix well, and bring to a boil. Simmer about 1/2 hour. Add apple, rice, chicken, salt, pepper, and thyme. Simmer 15-20 minutes, or until rice is done. When serving, add hot cream."
+        }
+      ]
+    },
+    {
+      "id": "6e033aaf-00f3-4bb0-9f16-ab27e0b56b45",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1821f5de-c640-4157-ad08-8b0a436277fc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1013061.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8126dddc-3139-471e-b766-703e0ae86746",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Carrot Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  469 reviews Recipe by: Sowmya \"Fragrant basmati rice sauteed with carrots, onions, fresh ginger, peanuts, and cilantro. You will be surprised to taste this delicious rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6ec3abdb-0cce-46df-bd1a-57c3b9afeb39",
+      "type": "h2",
+      "parent_id": "8126dddc-3139-471e-b766-703e0ae86746",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 179 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "daae3084-ba74-4912-9658-8825da9c27ca",
+      "type": "h3",
+      "parent_id": "6ec3abdb-0cce-46df-bd1a-57c3b9afeb39",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 179 kcal 9% Fat: 4.8 g 7% Carbs: 30.1g 10% Protein: 4 g 8% Cholesterol: 0 mg 0% Sodium: 34 mg 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0bd4688b-f341-435b-ae57-32ef1d93a0bb",
+      "type": "h3",
+      "parent_id": "6ec3abdb-0cce-46df-bd1a-57c3b9afeb39",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "128f8b17-7710-47de-90e1-4fd36010734c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup basmati rice ADVERTISEMENT 2 cups water ADVERTISEMENT 1/4 cup roasted peanuts ADVERTISEMENT 1 tablespoon margarine ADVERTISEMENT 1 onion, sliced ADVERTISEMENT 1 teaspoon minced fresh ginger root ADVERTISEMENT 3/4 cup grated carrots ADVERTISEMENT salt to taste ADVERTISEMENT cayenne pepper to taste ADVERTISEMENT chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "e401281e-0b31-4c93-a094-7c9bd09a8f72",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 20 m Ready In 35 m Combine rice and water in a medium saucepan. Bring to a boil over high heat. Reduce heat to low, cover with lid, and allow to steam until tender, about 20 minutes. While rice is cooking, grind peanuts in a blender and set aside. Heat the margarine in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned golden brown about 10 minutes. Stir in ginger, carrots, and salt to taste. Reduce heat to low and cover to steam 5 minutes. Stir in cayenne pepper and peanuts. When rice is done, add it to skillet and stir gently to combine with other ingredients. Garnish with chopped cilantro."
+        }
+      ]
+    },
+    {
+      "id": "d5bc8d85-be0f-4aa7-a090-4b70484dde99",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3174d638-9029-462a-8fb4-6779a1132fd3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2180712.jpg"
+        }
+      ]
+    },
+    {
+      "id": "42d59351-aedb-4f65-8ff1-df5d29237408",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Indian Butter Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  654 reviews Recipe by: mn \"This is a recipe I have perfected over the years and passed onto many others. The sauce is perfect when creamy and not too thick or too thin. The level of salt and spices can be suited to your taste. Garam and tandoori masala can be found in the ethnic aisle of your grocery store.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bea94d51-dc8a-4936-b65d-23742e4a24e9",
+      "type": "h2",
+      "parent_id": "42d59351-aedb-4f65-8ff1-df5d29237408",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 880 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "136ad12d-9858-4033-b2df-5afe80fe5c53",
+      "type": "h3",
+      "parent_id": "bea94d51-dc8a-4936-b65d-23742e4a24e9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 880 kcal 44% Fat: 82.3 g 127% Carbs: 12.8g 4% Protein: 26.4 g 53% Cholesterol: 303 mg 101% Sodium: 1461 mg 58% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a595c364-6bbe-47e7-9dfb-10df7e158310",
+      "type": "h3",
+      "parent_id": "bea94d51-dc8a-4936-b65d-23742e4a24e9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3bd0ed82-a621-446f-8d75-0fff50f63783",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup butter, divided ADVERTISEMENT 1 onion, minced ADVERTISEMENT 1 tablespoon minced garlic ADVERTISEMENT 1 (15 ounce) can tomato sauce ADVERTISEMENT 3 cups heavy cream ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 1/2 pounds skinless, boneless chicken breast, cut into bite-sized chunks ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons tandoori masala ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "bf731bc1-dee9-4506-8b10-eed7efdb66d8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Preheat oven to 375 degrees F (190 degrees C). Melt a few tablespoons of butter in a skillet over medium heat. Stir in onion and garlic, and cook slowly until the onion caramelizes to a dark brown, about 15 minutes. Meanwhile melt the remaining butter in a saucepan over medium-high heat along with the tomato sauce, heavy cream, salt, cayenne pepper, and garam masala. Bring to a simmer, then reduce heat to medium-low; cover, and simmer for 30 minutes, stirring occasionally. Then stir in caramelized onions. While the sauce is simmering, toss cubed chicken breast with vegetable oil until coated, then season with tandoori masala and spread out onto a baking sheet. Bake chicken in preheated oven until no longer pink in the center, about 12 minutes. Once done, add the chicken to the sauce and simmer for 5 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "7f8eecd0-4371-4f11-bf42-de10fa5c9227",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "33bcebef-e412-425a-b052-d07414db3b24",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/125180.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6d1f5f02-901b-424a-90a5-18e557f82801",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Gobi Aloo (Indian Style Cauliflower with Potatoes)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  150 reviews Recipe by: SHAHZADI \"This is a basic Indian dish that is very tasty! Adjust the spices to your preferences! To make it even better, you could add a bit of stewed tomatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d91013cc-b911-411a-a1da-a8c2102a9850",
+      "type": "h2",
+      "parent_id": "6d1f5f02-901b-424a-90a5-18e557f82801",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 135 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3cdd94d0-bb04-4c27-973b-5bc7693076c8",
+      "type": "h3",
+      "parent_id": "d91013cc-b911-411a-a1da-a8c2102a9850",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 135 kcal 7% Fat: 4 g 6% Carbs: 23.1g 7% Protein: 4 g 8% Cholesterol: 0 mg 0% Sodium: 331 mg 13% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "841d03fe-60ba-40b8-ae1c-5800c1679781",
+      "type": "h3",
+      "parent_id": "d91013cc-b911-411a-a1da-a8c2102a9850",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b78f46f9-5987-489e-be5d-f8d10d59d897",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon vegetable oil ADVERTISEMENT 1 teaspoon cumin seeds ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 teaspoon ginger paste ADVERTISEMENT 2 medium potatoes, peeled and cubed ADVERTISEMENT 1/2 teaspoon ground turmeric ADVERTISEMENT 1/2 teaspoon paprika ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1/2 teaspoon garam masala ADVERTISEMENT salt to taste ADVERTISEMENT 1 pound cauliflower ADVERTISEMENT 1 teaspoon chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "4eace589-fee5-46e4-88df-04226db4ca17",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 20 m Ready In 35 m Heat the oil in a medium skillet over medium heat. Stir in the cumin seeds, garlic, and ginger paste. Cook about 1 minute until garlic is lightly browned. Add the potatoes. Season with turmeric, paprika, cumin, garam masala, and salt. Cover and continue cooking 5 to 7 minutes stirring occasionally. Mix the cauliflower and cilantro into the saucepan. Reduce heat to low and cover. Stirring occasionally, continue cooking 10 minutes, or until potatoes and cauliflower are tender."
+        }
+      ]
+    },
+    {
+      "id": "9028751d-6812-45f3-8bcc-94bb36c81979",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "59802f06-2a59-41b7-8c2c-35ecd796084e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/63121.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d874f758-87f6-4e90-9eb7-70ae90d68b95",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Makhani (Indian Butter Chicken)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  841 reviews Recipe by: MITCHMAN21 \"Chicken Makhani is one of my favorite Indian dishes. It is a full flavored dish that complements the chicken well. It can be made as mild or spicy as you wish by adjusting the cayenne. Serve with basmati rice and naan bread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "b37c4e56-b034-41ac-aa2d-275ede49b21d",
+      "type": "h2",
+      "parent_id": "d874f758-87f6-4e90-9eb7-70ae90d68b95",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 408 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8f13e8ba-bf0c-40e1-9dcb-afae0337b39b",
+      "type": "h3",
+      "parent_id": "b37c4e56-b034-41ac-aa2d-275ede49b21d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 408 kcal 20% Fat: 27.8 g 43% Carbs: 15.6g 5% Protein: 23.4 g 47% Cholesterol: 107 mg 36% Sodium: 523 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0ee34fb7-749b-4493-967b-e836fac72525",
+      "type": "h3",
+      "parent_id": "b37c4e56-b034-41ac-aa2d-275ede49b21d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d347c0b3-41cf-4b34-a526-36cd883edd3f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon peanut oil ADVERTISEMENT 1 shallot, finely chopped ADVERTISEMENT 1/4 white onion, chopped ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT 2 teaspoons lemon juice ADVERTISEMENT 1 tablespoon ginger garlic paste ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1/4 cup plain yogurt ADVERTISEMENT 1 cup half-and-half ADVERTISEMENT 1 cup tomato puree ADVERTISEMENT 1/4 teaspoon cayenne pepper, or to taste ADVERTISEMENT 1 pinch salt ADVERTISEMENT 1 pinch black pepper ADVERTISEMENT 1 tablespoon peanut oil ADVERTISEMENT 1 pound boneless, skinless chicken thighs, cut into bite-size pieces ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 pinch cayenne pepper ADVERTISEMENT 1 tablespoon cornstarch ADVERTISEMENT 1/4 cup water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "18e53fb1-c3f2-4d12-952c-7480e8dbcb82",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce. Mix together cornstarch and water, then stir into the sauce. Cook for 5 to 10 minutes, or until thickened."
+        }
+      ]
+    },
+    {
+      "id": "4a3d283c-6852-49ec-89a5-c3332c465f95",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b13016c4-343f-49c3-adf9-131f14252dc2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/122209.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c963c529-e7d9-4d35-88f8-d8ddcb8ddb46",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Grilled Chicken Thighs Tandoori",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  212 reviews Recipe by: DIANA F \"Moist, luscious, and delicious. Just the right blend of spices make this chicken dish one of my most-requested. Great hot or cold. If using thighs with skin, you can put over direct medium heat for the last few minutes to crisp skin.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5ad0be30-3ec1-4024-8abf-ed3a1991a90a",
+      "type": "h2",
+      "parent_id": "c963c529-e7d9-4d35-88f8-d8ddcb8ddb46",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 55 m servings 349 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8654100f-29a5-484a-b068-4bc5807e602e",
+      "type": "h3",
+      "parent_id": "5ad0be30-3ec1-4024-8abf-ed3a1991a90a",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 349 kcal 17% Fat: 20.5 g 32% Carbs: 5.4g 2% Protein: 34.2 g 68% Cholesterol: 120 mg 40% Sodium: 618 mg 25% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cd0f299f-d8ab-47d2-94bb-91b670b6f4b7",
+      "type": "h3",
+      "parent_id": "5ad0be30-3ec1-4024-8abf-ed3a1991a90a",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8211fa64-fdf4-4e21-89ae-f473d6b767db",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (6 ounce) containers plain yogurt ADVERTISEMENT 2 teaspoons kosher salt ADVERTISEMENT 1 teaspoon black pepper ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 2 tablespoons freshly grated ginger ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 4 teaspoons paprika ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 2 teaspoons ground cinnamon ADVERTISEMENT 2 teaspoons ground coriander ADVERTISEMENT 16 chicken thighs ADVERTISEMENT olive oil spray ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "70915715-6d5b-4c44-a93b-c90de431d077",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 45 m Ready In 8 h 55 m In a medium bowl, stir together yogurt, salt, pepper, cloves, and ginger. Mix in garlic, paprika, cumin, cinnamon, and coriander. Set aside. Rinse chicken under cold water, and pat dry with paper towels. Place chicken in a large resealable plastic bag. Pour yogurt mixture over chicken, press air out of bag, and seal. Turn the bag over several times to distribute marinade. Place bag in a bowl, and refrigerate 8 hours, or overnight, turning bag occasionally. Preheat an outdoor grill for direct medium heat. Remove chicken from bag, and discard marinade. With paper towels, wipe off excess marinade. Spray chicken pieces with olive oil spray. Place chicken on the grill, and cook about 2 minutes. Turn, and cook 2 minutes more. Then arrange the chicken to receive indirect heat, and cook approximately 35 to 40 minutes, to an internal temperature of 180 degrees F."
+        }
+      ]
+    },
+    {
+      "id": "db03b5d2-6315-4755-bf83-46f839c04dc1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c2922db0-6de5-41ad-9e29-a21d5b2bf9b9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/813987.jpg"
+        }
+      ]
+    },
+    {
+      "id": "633eba40-e581-4ea7-b67c-4ed532b4c63d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Potato Chapati Bread",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3 reviews Recipe by: RADHIKA GHATAGE \"An Indian bread which is eaten for breakfast with curds and pickle or served for a special dinner with any curry.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e6bff135-dd70-481c-a2f4-198ec2e8956c",
+      "type": "h2",
+      "parent_id": "633eba40-e581-4ea7-b67c-4ed532b4c63d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 400 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "5d41d715-d0a3-4a05-b099-2d4aa6ef0368",
+      "type": "h3",
+      "parent_id": "e6bff135-dd70-481c-a2f4-198ec2e8956c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 400 kcal 20% Fat: 18.6 g 29% Carbs: 53.1g 17% Protein: 9.3 g 19% Cholesterol: 9 mg 3% Sodium: 183 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "79ea5c6c-501f-428e-8aac-37500985f3a9",
+      "type": "h3",
+      "parent_id": "e6bff135-dd70-481c-a2f4-198ec2e8956c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ac95c91b-fa59-4a2d-8bbf-9106060eeaeb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup mashed potatoes ADVERTISEMENT salt to taste ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT 1/2 teaspoon ground turmeric ADVERTISEMENT 1 tablespoon fresh cilantro, finely chopped ADVERTISEMENT 3 tablespoons vegetable oil ADVERTISEMENT 2 cups whole wheat flour ADVERTISEMENT 3/4 cup vegetable oil for frying ADVERTISEMENT 1 tablespoon butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "078ee9dd-53be-4134-a47f-f493bbee00d8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 15 m Ready In 45 m Combine the mashed potatoes, salt, cayenne, turmeric, cilantro, and 3 tablespoons vegetable oil in a bowl and mix well. Add the whole wheat flour a little at a time, kneading the mixture until it forms a stiff but pliable dough. (If the dough becomes too stiff, add a few drops of water.) Transfer the dough to an oiled bowl, turning to coat; cover with plastic and set aside for 10 minutes. Preheat a nonstick griddle to medium heat. Divide the dough into lemon-sized portions and roll them out on a lightly floured surface to 1/4-inch thickness. Fry the chapatis using up to 1 teaspoon of oil for each side. Cook until brown spots have started to form on the bread and the dough is cooked through. Brush with melted butter and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "cc654486-6cf4-4d46-8136-54e144dd8b81",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "361a9743-7973-4613-beb8-072424889124",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/111308.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9d79f27a-295f-4cdc-8092-2d8d2a0239a9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Chicken Curry II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  871 reviews Recipe by: Amanda Fetters \"This is an adaptation of yellow chicken curry from India. The aromas and flavors are a delight to the senses! It is best served with fresh Naan bread and Jasmine or Basmati rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "52146640-c9fa-489e-9b64-a6f4f5fad4a5",
+      "type": "h2",
+      "parent_id": "9d79f27a-295f-4cdc-8092-2d8d2a0239a9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 313 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ffaa6dc0-4c3a-42e8-b474-be815ede4ff0",
+      "type": "h3",
+      "parent_id": "52146640-c9fa-489e-9b64-a6f4f5fad4a5",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 313 kcal 16% Fat: 21.7 g 33% Carbs: 14g 5% Protein: 19.1 g 38% Cholesterol: 38 mg 13% Sodium: 268 mg 11% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b3bcc228-3dae-48d4-ba44-db7d9c3c73a6",
+      "type": "h3",
+      "parent_id": "52146640-c9fa-489e-9b64-a6f4f5fad4a5",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d7ea019a-2958-4456-bdff-547a4e5d2fe0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons olive oil ADVERTISEMENT 1 small onion, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 3 tablespoons curry powder ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1/2 teaspoon grated fresh ginger root ADVERTISEMENT 1/2 teaspoon white sugar ADVERTISEMENT salt to taste ADVERTISEMENT 2 skinless, boneless chicken breast halves - cut into bite-size pieces ADVERTISEMENT 1 tablespoon tomato paste ADVERTISEMENT 1 cup plain yogurt ADVERTISEMENT 3/4 cup coconut milk ADVERTISEMENT 1/2 lemon, juiced ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8b4500ed-e2b2-4e83-a1c1-4ddafb744457",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 25 m Ready In 45 m Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes. Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes."
+        }
+      ]
+    },
+    {
+      "id": "d82ebdaf-c80f-4e15-a755-13c056fe77eb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "34143633-9204-49e5-81af-6218a179d4f8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3779279.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3cc2b034-c3e0-4aea-b524-fc04d1c1d446",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Maharaja Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  39 reviews Recipe by: jane Gibraltar \"This is a really nice Indian recipe, taught to me by an elderly Indian lady, who used to cook for all her family. It is a simple recipe and tastes lovely served with rice. You can also use mutton instead of chicken.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "949f3827-35a6-465b-bccf-3eb370b68712",
+      "type": "h2",
+      "parent_id": "3cc2b034-c3e0-4aea-b524-fc04d1c1d446",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 240 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "bccf426b-3d71-455e-9761-c28332cf7ea9",
+      "type": "h3",
+      "parent_id": "949f3827-35a6-465b-bccf-3eb370b68712",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 240 kcal 12% Fat: 9.9 g 15% Carbs: 14.1g 5% Protein: 24.6 g 49% Cholesterol: 59 mg 20% Sodium: 62 mg 2% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7bf3c4fc-5124-4ce9-9017-72ad58aab439",
+      "type": "h3",
+      "parent_id": "949f3827-35a6-465b-bccf-3eb370b68712",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "afc87ec5-05a7-4863-a42f-891db3f52a1f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons vegetable oil ADVERTISEMENT 1 teaspoon cumin seed ADVERTISEMENT 2 medium onions, finely chopped ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon cayenne pepper to taste ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1 tablespoon minced ginger ADVERTISEMENT 5 peeled, seeded, and chopped tomatoes ADVERTISEMENT 1 pound skinless, boneless chicken breast meat - cubed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9004c87f-7e5a-4947-bc21-a57c0f5f4c2c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Heat oil in a large saucepan over medium heat. Stir in cumin seed and cook until they start to pop, 20 to 45 seconds. Stir in onion, and cook until golden brown, about 5 minutes. Season with turmeric, cayenne, garam masala, garlic, and ginger. Cook for 1 to 2 minutes until fragrant. Puree the mixture with the tomatoes in a blender until smooth. Return the puree to the saucepan, and add the chicken. Simmer gently until the chicken has cooked, about 20 minutes; add water as needed while cooking to maintain desired consistency."
+        }
+      ]
+    },
+    {
+      "id": "b97ca7dc-27d8-4950-b057-88e189602128",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "93ce2011-02f5-4bb3-a453-6a1c10e30f6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/944234.jpg"
+        }
+      ]
+    },
+    {
+      "id": "77a4ca9a-c404-4698-ae0c-303fd9792610",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Chickpeas",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  41 reviews Recipe by: Mondeep \"This is a typical Northern Indian recipe that is easy to make, and delicious. You will need to go to an Indian grocery to buy the masalas.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a4f91f58-1ddb-4ff8-b59e-8f4de7f30a80",
+      "type": "h2",
+      "parent_id": "77a4ca9a-c404-4698-ae0c-303fd9792610",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 232 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "487b9510-6f35-4e1a-80ef-8d00a4b6931f",
+      "type": "h3",
+      "parent_id": "a4f91f58-1ddb-4ff8-b59e-8f4de7f30a80",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 232 kcal 12% Fat: 6.5 g 10% Carbs: 36.9g 12% Protein: 7.9 g 16% Cholesterol: 0 mg 0% Sodium: 542 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fa8dc40d-f844-4d0d-9ade-33f4eb370b18",
+      "type": "h3",
+      "parent_id": "a4f91f58-1ddb-4ff8-b59e-8f4de7f30a80",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "659c417b-4b15-456a-8f15-4023c1c9ea7f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons vegetable oil ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1/2 cup onion, chopped ADVERTISEMENT 1 tablespoon minced fresh ginger root ADVERTISEMENT 1/8 teaspoon garam masala ADVERTISEMENT 2 teaspoons channa masala spice mix ADVERTISEMENT 1 large tomato, chopped ADVERTISEMENT 1 1/2 cups water ADVERTISEMENT 2 (15.5 ounce) cans garbanzo beans, drained and rinsed ADVERTISEMENT salt to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "32ceee4b-473a-4899-80a9-8efce15f858c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 20 m Ready In 45 m Heat oil in a saucepan over medium-high heat. Stir in the garlic, onion, and ginger, and cook until browned. Stir in the garam masala, channa masala spice, tomato, water, and garbanzos; season to taste with salt. Bring to a simmer, the reduce heat to low, cover and simmer until garbanzos are very soft, about 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "b331f9bd-c2bb-4ad4-b9f3-bbccc48bb4a2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "72b5b64f-5127-4935-912e-f1cf10a83767",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/115386.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a9582e2e-944e-419c-ba31-94df08db4c83",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Naan",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1614 reviews Recipe by: Mic \"This recipe makes the best naan I have tasted outside of an Indian restaurant. I can't make enough of it for my family. I serve it with shish kabobs, but I think they would eat it plain.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d8d1283a-5789-46d2-a976-36763b5e7aca",
+      "type": "h2",
+      "parent_id": "a9582e2e-944e-419c-ba31-94df08db4c83",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h servings 211 cals for serving adjustment Serving size has been adjusted! Original recipe yields 14 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "8c989edb-a5ed-44db-80d7-d31743d375a1",
+      "type": "h3",
+      "parent_id": "d8d1283a-5789-46d2-a976-36763b5e7aca",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 211 kcal 11% Fat: 4.5 g 7% Carbs: 36g 12% Protein: 6.1 g 12% Cholesterol: 22 mg 7% Sodium: 364 mg 15% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2a4eff75-1482-4038-8e7d-0a4632096c6f",
+      "type": "h3",
+      "parent_id": "d8d1283a-5789-46d2-a976-36763b5e7aca",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "300a828f-20fc-451b-b862-687dd503a99c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (.25 ounce) package active dry yeast ADVERTISEMENT 1 cup warm water ADVERTISEMENT 1/4 cup white sugar ADVERTISEMENT 3 tablespoons milk ADVERTISEMENT 1 egg, beaten ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 4 1/2 cups bread flour ADVERTISEMENT 2 teaspoons minced garlic (optional) ADVERTISEMENT 1/4 cup butter, melted ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "bf4fc78c-355f-4944-adae-bfb459339846",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 7 m Ready In 3 h In a large bowl, dissolve yeast in warm water. Let stand about 10 minutes, until frothy. Stir in sugar, milk, egg, salt, and enough flour to make a soft dough. Knead for 6 to 8 minutes on a lightly floured surface, or until smooth. Place dough in a well oiled bowl, cover with a damp cloth, and set aside to rise. Let it rise 1 hour, until the dough has doubled in volume. Punch down dough, and knead in garlic. Pinch off small handfuls of dough about the size of a golf ball. Roll into balls, and place on a tray. Cover with a towel, and allow to rise until doubled in size, about 30 minutes. During the second rising, preheat grill to high heat. At grill side, roll one ball of dough out into a thin circle. Lightly oil grill. Place dough on grill, and cook for 2 to 3 minutes, or until puffy and lightly browned. Brush uncooked side with butter, and turn over. Brush cooked side with butter, and cook until browned, another 2 to 4 minutes. Remove from grill, and continue the process until all the naan has been prepared."
+        }
+      ]
+    },
+    {
+      "id": "35bb0b72-74c7-49dc-a9de-8d7f357a62d5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "52427afb-edb6-4a51-b49e-204d471b5d81",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/285434.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5898a834-b695-4293-80fb-44036c596d8d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Spicy Vegan Potato Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  511 reviews Recipe by: MeganLee \"Abundant spices make this better than any restaurant curry I've tasted. :)\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "67c90037-2402-4176-93bf-df43dbe0dcd9",
+      "type": "h2",
+      "parent_id": "5898a834-b695-4293-80fb-44036c596d8d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 407 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "489412a1-9aa4-471d-906b-5f1caa0577bb",
+      "type": "h3",
+      "parent_id": "67c90037-2402-4176-93bf-df43dbe0dcd9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 407 kcal 20% Fat: 20.1 g 31% Carbs: 50.6g 16% Protein: 10.1 g 20% Cholesterol: 0 mg 0% Sodium: 1176 mg 47% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "210bd472-e582-4042-a6d4-240f1fbb376d",
+      "type": "h3",
+      "parent_id": "67c90037-2402-4176-93bf-df43dbe0dcd9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "05aa7207-3719-462b-b046-6dd1c1d63539",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 potatoes, peeled and cubed ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 1 yellow onion, diced ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 1 1/2 teaspoons cayenne pepper ADVERTISEMENT 4 teaspoons curry powder ADVERTISEMENT 4 teaspoons garam masala ADVERTISEMENT 1 (1 inch) piece fresh ginger root, peeled and minced ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 (14.5 ounce) can diced tomatoes ADVERTISEMENT 1 (15 ounce) can garbanzo beans (chickpeas), rinsed and drained ADVERTISEMENT 1 (15 ounce) can peas, drained ADVERTISEMENT 1 (14 ounce) can coconut milk ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fa63a17a-7da1-4790-8c32-1b6572cf5211",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 30 m Ready In 1 h Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until just tender, about 15 minutes. Drain and allow to steam dry for a minute or two. Meanwhile, heat the vegetable oil in a large skillet over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Season with cumin, cayenne pepper, curry powder, garam masala, ginger, and salt; cook for 2 minutes more. Add the tomatoes, garbanzo beans, peas, and potatoes. Pour in the coconut milk, and bring to a simmer. Simmer 5 to 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "2d27e6f7-abf0-4a00-8a4a-bd8bbc803025",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4e87259e-6467-4f55-90d3-556f69d76669",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1119998.jpg"
+        }
+      ]
+    },
+    {
+      "id": "185f2dfd-0ec3-4eb6-b8bf-af41b01a61f2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Butter Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  341 reviews Recipe by: The Meal Planner \"Indian food is one of my favorites, so when my friend made this slow cooker version for my family we were head over heels! I don't think I've had a Butter Chicken that I've liked more. It's wonderful to put into the slow cooker in the morning and come home to the warm Indian spice smell....LOVE IT! Serve with basmati rice and warm naan bread.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "63779c66-bad7-4724-a262-a27c92bec3b2",
+      "type": "h2",
+      "parent_id": "185f2dfd-0ec3-4eb6-b8bf-af41b01a61f2",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 30 m servings 480 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "be42f466-a9ba-4408-8d04-14601e1914d0",
+      "type": "h3",
+      "parent_id": "63779c66-bad7-4724-a262-a27c92bec3b2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 480 kcal 24% Fat: 33.3 g 51% Carbs: 17.2g 6% Protein: 30.6 g 61% Cholesterol: 103 mg 34% Sodium: 442 mg 18% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1245dc6b-702d-436f-b7ff-6ac3f6fe2861",
+      "type": "h3",
+      "parent_id": "63779c66-bad7-4724-a262-a27c92bec3b2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "06a2cf73-3693-4673-81c6-d4eb3c296c79",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons butter ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 4 large skinless, boneless chicken thighs, cut into bite-sized pieces ADVERTISEMENT 1 onion, diced ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 2 teaspoons curry powder ADVERTISEMENT 1 tablespoon curry paste ADVERTISEMENT 2 teaspoons tandoori masala ADVERTISEMENT 1 teaspoon garam masala ADVERTISEMENT 1 (6 ounce) can tomato paste ADVERTISEMENT 15 green cardamom pods ADVERTISEMENT 1 cup low-fat plain yogurt ADVERTISEMENT 1 (14 ounce) can coconut milk ADVERTISEMENT salt to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2c3f826a-128e-40a2-ad23-e1933f5acee4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 4 h 15 m Ready In 4 h 30 m Melt the butter and vegetable oil in a large skillet over medium heat. Stir in the chicken, onion, and garlic. Cook and stir until the onion has softened and turned translucent, about 10 minutes. Stir in the curry powder, curry paste, tandoori masala, garam masala, and tomato paste until no lumps of tomato paste remain. Pour into a slow cooker, and stir in the cardamom pods, coconut milk, and yogurt. Season to taste with salt. Cook on High 4 to 6 hours, or on Low 6 to 8 hours until the chicken is tender and the sauce has reduced to your desired consistency. Remove and discard the cardamom pods before serving."
+        }
+      ]
+    },
+    {
+      "id": "927d36c6-dbc3-4c93-9540-96d883744fa0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "cfddfea4-bc80-436a-a87f-2927c05a5d27",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/399841.jpg"
+        }
+      ]
+    },
+    {
+      "id": "06b70244-0701-4afc-9ef5-4c5e3bcbde58",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Garam Masala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  100 reviews Recipe by: KitchenBarbarian \"This is a quick Garam Masala (Indian spice) mix. Garam Masala is better when made with whole spices that have been roasted and ground, but this is a quick and easy substitute that's pretty good.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e0ef05a0-5144-44e1-b5ae-1e43d59e1ec4",
+      "type": "h2",
+      "parent_id": "06b70244-0701-4afc-9ef5-4c5e3bcbde58",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 m servings 6 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "eb33e462-d991-4f47-bf32-a731deb78b76",
+      "type": "h3",
+      "parent_id": "e0ef05a0-5144-44e1-b5ae-1e43d59e1ec4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 6 kcal < 1% Fat: 0.2 g < 1% Carbs: 1g < 1% Protein: 0.2 g < 1% Cholesterol: 0 mg 0% Sodium: 1 mg < 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9b2bea81-e239-4e84-8da4-fc6e4da7fd2d",
+      "type": "h3",
+      "parent_id": "e0ef05a0-5144-44e1-b5ae-1e43d59e1ec4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3f2b4ce0-17e1-448c-bf01-cbd1fd1a4f74",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon ground cumin ADVERTISEMENT 1 1/2 teaspoons ground coriander ADVERTISEMENT 1 1/2 teaspoons ground cardamom ADVERTISEMENT 1 1/2 teaspoons ground black pepper ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 1/2 teaspoon ground cloves ADVERTISEMENT 1/2 teaspoon ground nutmeg ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8f9b62c1-7a2f-453c-b77f-00e66083f3c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Ready In 5 m Mix cumin, coriander, cardamom, pepper, cinnamon, cloves, and nutmeg in a bowl. Place mix in an airtight container, and store in a cool, dry place."
+        }
+      ]
+    },
+    {
+      "id": "bde510d4-45d3-4777-b5ba-5d2250f31225",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "587dbf88-cb4e-4ca3-9e01-081725a4f149",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/971717.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6a5ed11a-8ed7-4b02-84f3-eb21747f6a90",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Indian Tomato Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  185 reviews Recipe by: SHECOOKS2 \"Chicken pieces coated with many fragrant spices like turmeric, cardamom and cloves, then simmered in a tomato sauce. This dish is a family favorite. I have also taken it to potlucks and served it to guests in my home. Everyone asks for the recipe. It is a great slow cooker meal, too.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fbd03b7c-2a7f-429b-915c-cc5d879ed2ad",
+      "type": "h2",
+      "parent_id": "6a5ed11a-8ed7-4b02-84f3-eb21747f6a90",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 15 m servings 134 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "cbbd6a86-dbaa-4423-a3aa-b0557ea03dc4",
+      "type": "h3",
+      "parent_id": "fbd03b7c-2a7f-429b-915c-cc5d879ed2ad",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 134 kcal 7% Fat: 5.4 g 8% Carbs: 6.9g 2% Protein: 14.7 g 29% Cholesterol: 57 mg 19% Sodium: 547 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4cdad9f8-53b1-4a25-97fc-efa878f751e6",
+      "type": "h3",
+      "parent_id": "fbd03b7c-2a7f-429b-915c-cc5d879ed2ad",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "68aa5f1d-a098-48f2-a79d-83988622a3ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 large onion, chopped ADVERTISEMENT 4 cloves garlic, chopped ADVERTISEMENT 1 slice fresh ginger root ADVERTISEMENT 1 tablespoon olive oil ADVERTISEMENT 2 teaspoons ground cumin ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon ground cardamom ADVERTISEMENT 1 (1 inch) piece cinnamon stick ADVERTISEMENT 1/4 teaspoon ground cloves ADVERTISEMENT 2 bay leaves ADVERTISEMENT 1/4 teaspoon ground nutmeg ADVERTISEMENT 6 skinless chicken thighs ADVERTISEMENT 1 (14.5 ounce) can whole peeled tomatoes, crushed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9e84437b-1c4c-40cd-b60e-978930ab8b9e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 2 h Ready In 2 h 15 m Place onion, garlic and ginger in a food processor and process into a paste. Heat oil in a large skillet over medium heat, add onion paste and saute, stirring continuously, for about 10 minutes. Stir in the cumin, turmeric, salt, pepper, cardamom, cinnamon, cloves, bay leaves and nutmeg. Saute, stirring, for 1 to 2 minutes. Place chicken pieces in skillet and stir them around with the spice mixture until they are well coated. Saute for another 4 minutes, then pour in the tomatoes with liquid and stir. Reduce heat to low and simmer for 1 to 2 hours, or until the oil has separated from the liquid. Stir occasionally. (Note: If you simmer uncovered, the sauce will thicken; add water, or keep covered while simmering.)"
+        }
+      ]
+    },
+    {
+      "id": "c2f84680-353c-4c6e-bf71-c52fce3e8445",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f3e08d69-bc3d-4c44-92ea-b554c4e16cff",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3787267.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b64998ee-dcfe-4e43-b966-04fb386e43cd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Vegetarian Korma",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  886 reviews Recipe by: YAKUTA \"This is an easy and exotic Indian dish. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bdc04562-441b-4a16-bd9a-0175a73c269d",
+      "type": "h2",
+      "parent_id": "b64998ee-dcfe-4e43-b966-04fb386e43cd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 462 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "07c711ed-e355-4a0e-9f7a-eca642dcc090",
+      "type": "h3",
+      "parent_id": "bdc04562-441b-4a16-bd9a-0175a73c269d",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 462 kcal 23% Fat: 31.1 g 48% Carbs: 41.3g 13% Protein: 8.6 g 17% Cholesterol: 82 mg 27% Sodium: 1434 mg 57% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "38fe06b7-1efb-4193-91e7-03c95df949bd",
+      "type": "h3",
+      "parent_id": "bdc04562-441b-4a16-bd9a-0175a73c269d",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "673f3db6-9cc2-4700-b2c6-67e095234d0c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 tablespoons vegetable oil ADVERTISEMENT 1 small onion, diced ADVERTISEMENT 1 teaspoon minced fresh ginger root ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 2 potatoes, cubed ADVERTISEMENT 4 carrots, cubed ADVERTISEMENT 1 fresh jalapeno pepper, seeded and sliced ADVERTISEMENT 3 tablespoons ground unsalted cashews ADVERTISEMENT 1 (4 ounce) can tomato sauce ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 1/2 tablespoons curry powder ADVERTISEMENT 1 cup frozen green peas ADVERTISEMENT 1/2 green bell pepper, chopped ADVERTISEMENT 1/2 red bell pepper, chopped ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1 bunch fresh cilantro for garnish ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2bff1178-0371-4f60-aa47-1bfaaa44e061",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 30 m Ready In 55 m Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender. Mix in ginger and garlic, and continue cooking 1 minute. Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender. Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes. Garnish with cilantro to serve."
+        }
+      ]
+    },
+    {
+      "id": "3e320b0f-1548-4f54-8b90-ddeab3393036",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "112ed80f-4a14-4a38-901d-8d22b9b52e16",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/695663.jpg"
+        }
+      ]
+    },
+    {
+      "id": "41fc2c63-7458-4f08-8984-4fe9e77b369a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Aloo Phujia",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  290 reviews Recipe by: CHRISTYJ \"Spicy potatoes, tomatoes and onions with an Indian kick! This is super spicy so be aware!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fdd9693c-b183-4a95-9cde-b4a335dc939b",
+      "type": "h2",
+      "parent_id": "41fc2c63-7458-4f08-8984-4fe9e77b369a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 235 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0c6ee0ed-3639-431b-b77c-ca43dad8f617",
+      "type": "h3",
+      "parent_id": "fdd9693c-b183-4a95-9cde-b4a335dc939b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 235 kcal 12% Fat: 14.1 g 22% Carbs: 25.7g 8% Protein: 3.3 g 7% Cholesterol: 0 mg 0% Sodium: 593 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b8018093-4881-4197-9ed1-100ad23bdb68",
+      "type": "h3",
+      "parent_id": "fdd9693c-b183-4a95-9cde-b4a335dc939b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "72c4076e-5dc0-452e-aac3-de28daa26532",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 onion, chopped ADVERTISEMENT 1/4 cup vegetable oil ADVERTISEMENT 1 pound potatoes, peeled and cubed ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/2 teaspoon cayenne pepper ADVERTISEMENT 1/2 teaspoon ground turmeric ADVERTISEMENT 1/4 teaspoon ground cumin ADVERTISEMENT 2 tomatoes, chopped ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "004c4624-7830-47e4-a2da-3e94be9f83fa",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Lightly brown onion in oil in a medium size skillet. Stir in salt, cayenne, turmeric and cumin. Add potatoes and cook 10 minutes stirring occasionally. Add tomatoes, cover pan and cook until potatoes are soft, about 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": "3706ffbb-3d10-44e9-ad53-97b9cae9ec77",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7605eb62-64d3-4589-8c79-cfa7d0e40b12",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/163375.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3c845e92-7943-4c2a-9eb5-e4c8e4492a4a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chickpea Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  439 reviews Recipe by: AMINAH A. RAHMAN \"We usually recommend preparing the beans at home, but using canned chickpeas allows for a fast, convenient dish.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "8db1f690-cd31-4277-8815-b9c78762fe41",
+      "type": "h2",
+      "parent_id": "3c845e92-7943-4c2a-9eb5-e4c8e4492a4a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 135 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "02a578b4-9d8d-418a-94bd-877a98dae7d9",
+      "type": "h3",
+      "parent_id": "8db1f690-cd31-4277-8815-b9c78762fe41",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 135 kcal 7% Fat: 4.5 g 7% Carbs: 20.5g 7% Protein: 4.1 g 8% Cholesterol: 0 mg 0% Sodium: 289 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e9d3d205-912c-4e83-8d72-09531e2a4eed",
+      "type": "h3",
+      "parent_id": "8db1f690-cd31-4277-8815-b9c78762fe41",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "98e48ca3-61e8-44a3-82cb-256ddf9be0b1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons vegetable oil ADVERTISEMENT 2 onions, minced ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 2 teaspoons fresh ginger root, finely chopped ADVERTISEMENT 6 whole cloves ADVERTISEMENT 2 (2 inch) sticks cinnamon, crushed ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon ground coriander ADVERTISEMENT salt ADVERTISEMENT 1 teaspoon cayenne pepper ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 2 (15 ounce) cans garbanzo beans ADVERTISEMENT 1 cup chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3d47efa9-566d-4691-8c61-3b706f3e87c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Heat oil in a large frying pan over medium heat, and fry onions until tender. Stir in garlic, ginger, cloves, cinnamon, cumin, coriander, salt, cayenne, and turmeric. Cook for 1 minute over medium heat, stirring constantly. Mix in garbanzo beans and their liquid. Continue to cook and stir until all ingredients are well blended and heated through. Remove from heat. Stir in cilantro just before serving, reserving 1 tablespoon for garnish."
+        }
+      ]
+    },
+    {
+      "id": "7c77a01f-8acb-4578-87d2-f7bda93862db",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7772e24d-cf44-4d00-ad36-97234dcfdd1a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2237989.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c20ad33e-7684-4e91-a741-9c89da875ca3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Kheer (Rice Pudding)",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  132 reviews Recipe by: PATRICK7 \"This is a very flavorful Indian rice pudding. It's the best rice pudding I've ever had, and very easy to make!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "ff5c78bd-b149-4b40-90c8-402677dfe17c",
+      "type": "h2",
+      "parent_id": "c20ad33e-7684-4e91-a741-9c89da875ca3",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 513 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a82c9f99-e182-4065-bdf8-5206db51333d",
+      "type": "h3",
+      "parent_id": "ff5c78bd-b149-4b40-90c8-402677dfe17c",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 513 kcal 26% Fat: 33.4 g 51% Carbs: 48.2g 16% Protein: 11.3 g 23% Cholesterol: 10 mg 3% Sodium: 99 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e6fc41be-1cb9-4087-95e0-dc18eec70689",
+      "type": "h3",
+      "parent_id": "ff5c78bd-b149-4b40-90c8-402677dfe17c",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "214540b3-5335-4a45-a452-474ecc95d8e8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups coconut milk ADVERTISEMENT 2 cups milk ADVERTISEMENT 3 tablespoons white sugar ADVERTISEMENT 1/2 cup Basmati rice ADVERTISEMENT 1/4 cup raisins ADVERTISEMENT 1/2 teaspoon ground cardamom ADVERTISEMENT 1/2 teaspoon rose water (optional) ADVERTISEMENT 1/4 cup sliced almonds, toasted ADVERTISEMENT 1/4 cup chopped pistachio nuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fcc0ef5c-5d66-4749-9e2c-d589c0492f34",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Bring the coconut milk, milk and sugar to a boil in a large saucepan. Add Basmati rice, and simmer over low heat until the mixture thickens and the rice is tender, about 20 minutes. Stir in the raisins, cardamom and rose water, and cook for a few more minutes. Ladle into serving bowls, and garnish with almonds and pistachios."
+        }
+      ]
+    },
+    {
+      "id": "abb5b95d-6c52-49e1-be46-39bbccfa12a5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "88abb7ff-f667-49e4-9d2d-cdce9fc7e63f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/15532.jpg"
+        }
+      ]
+    },
+    {
+      "id": "482825ec-c76f-4d98-bbf8-cb66210e3723",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Spicy Indian Chicken and Mango Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  143 reviews Recipe by: KIKI810 \"I love Indian food, this recipe developed after falling in love with the dish at a small family owned Indian restaurant near my home. After tweaking a few things, I think I have come up with a great copy-cat version. The curry paste can easily be substituted with the mild version for those with more sensitive palates. Serve over Basmati rice. I hope it meets your liking. Enjoy!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "23e450d6-4483-47d4-8241-871889e7c9cd",
+      "type": "h2",
+      "parent_id": "482825ec-c76f-4d98-bbf8-cb66210e3723",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 398 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "10f7a2ec-99c9-4594-b5c8-142696c0d7e5",
+      "type": "h3",
+      "parent_id": "23e450d6-4483-47d4-8241-871889e7c9cd",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 398 kcal 20% Fat: 20.4 g 31% Carbs: 31.1g 10% Protein: 26.5 g 53% Cholesterol: 58 mg 19% Sodium: 179 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f607f963-504b-43d1-954c-907a3f9ad0b1",
+      "type": "h3",
+      "parent_id": "23e450d6-4483-47d4-8241-871889e7c9cd",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d8f80bdf-eae2-4206-8c09-0ebae9431603",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 medium mangoes, peeled and sliced, divided ADVERTISEMENT 1 (10 ounce) can coconut milk ADVERTISEMENT 4 teaspoons vegetable oil ADVERTISEMENT 4 teaspoons spicy curry paste ADVERTISEMENT 14 ounces skinless, boneless chicken breast halves - cut into cubes ADVERTISEMENT 4 medium shallots, sliced ADVERTISEMENT 1 large English cucumber, seeded and sliced ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8f3774b3-616b-44ca-9201-9504f9542367",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 10 m Ready In 35 m Place half of the mango slices into the bowl of a blender with the coconut milk. Blend until smooth and reserve for later. Heat the oil in a large pot over medium-high heat. Stir in the curry paste, and cook until fragrant, about 1 minute. Add the chicken and shallot; cook until the chicken is done and the shallots have softened, about 5 minutes. Pour in the mango puree, and cook until heated through. To serve, stir in the remaining mango slices and cucumber."
+        }
+      ]
+    },
+    {
+      "id": "c431d91d-b0b7-4be0-bcdb-a15b4547b7f3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "33da246c-0be3-40e6-8664-0d91a0fd08e8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/45671.jpg"
+        }
+      ]
+    },
+    {
+      "id": "251b307c-5d6d-4c4f-8814-6c4e24b180ad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Coconut Tofu Keema",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  145 reviews Recipe by: she_cooks \"A warm, savory Indian favorite, easy to make and exciting to eat. Serve over hot rice, with yogurt on the side, which may be added to taste to cut the heat and add sweetness.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e6aad12a-4ba9-4bfd-8c12-befa4297e472",
+      "type": "h2",
+      "parent_id": "251b307c-5d6d-4c4f-8814-6c4e24b180ad",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 235 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "032a4aa6-c9b4-4796-bb33-91ae4e9c7949",
+      "type": "h3",
+      "parent_id": "e6aad12a-4ba9-4bfd-8c12-befa4297e472",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 235 kcal 12% Fat: 17.1 g 26% Carbs: 17.4g 6% Protein: 7.8 g 16% Cholesterol: 0 mg 0% Sodium: 1053 mg 42% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "18ff9910-5937-4752-87fe-29b9b3e18638",
+      "type": "h3",
+      "parent_id": "e6aad12a-4ba9-4bfd-8c12-befa4297e472",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2176d572-9711-4400-a8dd-2f381f4a1179",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup olive oil ADVERTISEMENT 4 cloves garlic, pressed ADVERTISEMENT 1 medium onions, minced ADVERTISEMENT 1 (14 ounce) package extra firm tofu, diced ADVERTISEMENT 1 (16 ounce) can coconut milk ADVERTISEMENT 1 tablespoon ground cumin ADVERTISEMENT 1 teaspoon curry powder ADVERTISEMENT 1 1/2 teaspoons ground ginger ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 tablespoon red pepper paste ADVERTISEMENT 6 cups tomato sauce ADVERTISEMENT 1 1/2 cups frozen peas, thawed ADVERTISEMENT 1 1/2 cups chopped carrot ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "49833dc5-ee2a-4784-96aa-8c8f7ac8a1b5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 45 m Ready In 1 h 5 m Heat olive oil in a large saucepan over medium heat. Stir in garlic, onion, and tofu; cover, and cook, stirring occasionally for 5 to 10 minutes. Stir in coconut milk, cumin, curry powder, ginger, salt, and red pepper paste; bring to a simmer. Stir in tomato sauce, peas, and carrots; simmer, covered, about 30 minutes."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,4082 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:30:06.763Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.56"
+    },
+    {
+      "name": "reviewCount",
+      "content": "8"
+    },
+    {
+      "name": "recipeYield",
+      "content": "24"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/218/1033249144001_2816960749001_thumbnail-for-video-1675299521001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201311/1218/1033249144001_2816960750001_video-still-for-video-1675299521001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1675299521001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Marsala"
+    },
+    {
+      "name": "description",
+      "content": "This amazing, company-worthy chicken dish is ready in just 30 minutes."
+    },
+    {
+      "name": "interactionCount",
+      "content": "245832"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2013 1:42:20 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3439"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "44"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1558896261001_th-1546199510001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1558880172001_ari-origin05-arc-173-1334248455719.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546199510001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pizza Dough I"
+    },
+    {
+      "name": "description",
+      "content": "Make quick, no-rise pizza dough from scratch."
+    },
+    {
+      "name": "interactionCount",
+      "content": "104057"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/12/2012 11:57:26 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.44"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2127"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1791225340001_th-1785590362001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1791155652001_ari-origin05-arc-172-1345222930978.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1785590362001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Jay’s Signature Pizza Crust"
+    },
+    {
+      "name": "description",
+      "content": "You’re going to love this 5-star recipe for homemade pizza crust."
+    },
+    {
+      "name": "interactionCount",
+      "content": "99194"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/17/2012 1:02:17 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3083"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "341"
+    },
+    {
+      "name": "recipeYield",
+      "content": "30"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1783764834001_th-1780426225001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1780408450001_ari-origin05-arc-164-1344643359149.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1780426225001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "White Cheese Chicken Lasagna"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a top-rated 3-cheese white lasagna."
+    },
+    {
+      "name": "interactionCount",
+      "content": "94300"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/1/2012 11:24:07 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.38"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1540"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/774/1033249144001_3038722897001_th-2998899922001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201401/1382/1033249144001_3038662077001_video-still-for-video-2998899922001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2998899922001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Super Delicious Zuppa Toscana"
+    },
+    {
+      "name": "description",
+      "content": "A rich soup made with sausage, potatoes, fresh spinach, and cream."
+    },
+    {
+      "name": "interactionCount",
+      "content": "45298"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/18/2014 10:08:35 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.80"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1605"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2029034096001_th-2028936224001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2028929591001_900944612-18084-1355270445968.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2028936224001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Breaded Pork Chops"
+    },
+    {
+      "name": "description",
+      "content": "See how to make Italian-style baked pork chops."
+    },
+    {
+      "name": "interactionCount",
+      "content": "133518"
+    },
+    {
+      "name": "uploadDate",
+      "content": "12/12/2012 10:55:17 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.48"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1384"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/v1/unsecured/media/1033249144001/201610/543/1033249144001_5154603290001_th-1560991360001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565097038001_ari-origin05-arc-163-1334597546662.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560991360001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "World’s Best Lasagna"
+    },
+    {
+      "name": "description",
+      "content": "See how to make the best homemade lasagna!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "1379412"
+    },
+    {
+      "name": "uploadDate",
+      "content": "9/29/2016 1:54:19 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "10206"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "16"
+    },
+    {
+      "name": "recipeYield",
+      "content": "56"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990448059001_th-1959446526001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1990421582001_ari-origin05-arc-153-1353954210718.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1959446526001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Spaghetti Sauce with Meatballs"
+    },
+    {
+      "name": "description",
+      "content": "This classic tomato pasta sauce with meatballs is easy and delicious."
+    },
+    {
+      "name": "interactionCount",
+      "content": "137280"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/26/2012 10:49:06 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.51"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2323"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "261"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2226545529001_th-2203324858001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2226521501001_video-still-for-video-2203324858001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2203324858001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Sausage Soup"
+    },
+    {
+      "name": "description",
+      "content": "A hearty winter soup with sausage, white beans, zucchini, and spinach."
+    },
+    {
+      "name": "interactionCount",
+      "content": "85033"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/15/2013 2:59:09 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2027"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "28"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1641028296001_th-1628883002001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1640954995001_ari-origin05-arc-162-1337115093038.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628883002001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Gourmet Mushroom Risotto"
+    },
+    {
+      "name": "description",
+      "content": "Watch how to make this delicious mushroom risotto."
+    },
+    {
+      "name": "interactionCount",
+      "content": "153805"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/8/2012 3:34:33 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1725"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1642885030001_th-1628833600001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1642832026001_ari-origin05-arc-163-1337201331766.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1628833600001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Italian Beef for Sandwiches"
+    },
+    {
+      "name": "description",
+      "content": "Make this great Italian beef for sandwiches in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "100463"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 11:18:18 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.63"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1650"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777260238001_th-1777098852001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777143066001_ari-origin05-arc-153-1344457426551.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1777098852001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Exquisite Pizza Sauce"
+    },
+    {
+      "name": "description",
+      "content": "Discover the secret to sensational pizza sauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "60461"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/8/2012 3:44:03 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.53"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1839"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1786967908001_th-1780260128001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1780408480001_ari-origin05-arc-162-1344643898269.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1780260128001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chicken Milano"
+    },
+    {
+      "name": "description",
+      "content": "A tasty Italian-influenced chicken dish with sun-dried tomatoes and cream."
+    },
+    {
+      "name": "interactionCount",
+      "content": "106123"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/15/2012 11:03:25 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1570"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1957326030001_th-1954487116001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1956147507001_ari-origin05-arc-145-1352395756848.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954487116001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Eggplant Parmesan II"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a delicious no-fry version of eggplant Parmesan."
+    },
+    {
+      "name": "interactionCount",
+      "content": "289041"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/1/2014 1:34:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.45"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2245"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1663864771001_th-1662289811001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1663852097001_ari-origin05-arc-180-1338413089446.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1662289811001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Double Tomato Bruschetta"
+    },
+    {
+      "name": "description",
+      "content": "Make this easy, flavorful bruschetta appetizer."
+    },
+    {
+      "name": "interactionCount",
+      "content": "73544"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 1:16:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.82"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1965"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "ratingValue",
+      "content": "3.60"
+    },
+    {
+      "name": "reviewCount",
+      "content": "98"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1803174243001_th-1801376367001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1802588105001_ari-origin05-arc-136-1345826165934.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1801376367001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "American Lasagna"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a top-rated beefy lasagna."
+    },
+    {
+      "name": "interactionCount",
+      "content": "109408"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/1/2012 11:32:29 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.68"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1761"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/2451/1033249144001_3188697655001_th-2976322718001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/1627/1033249144001_3188380400001_video-still-for-video-2976322718001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2976322718001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Jamie's Minestrone"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple minestrone soup overflowing with fresh veggies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "20545"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/11/2014 4:59:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.72"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1588"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1845803354001_th-1794027469001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1845696589001_ari-origin05-arc-160-1347905546847.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1794027469001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Sausage, Peppers, and Onions"
+    },
+    {
+      "name": "description",
+      "content": "This classic Italian dish makes delicious sandwiches."
+    },
+    {
+      "name": "interactionCount",
+      "content": "154479"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/10/2012 9:41:03 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.70"
+    },
+    {
+      "name": "reviewCount",
+      "content": "943"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2079797943001_th-2073091001001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2073371104001_900944612-177-1357340664149.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2073091001001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Italian Sausage Soup with Tortellini"
+    },
+    {
+      "name": "description",
+      "content": "This traditional, hearty soup is a meal all by itself."
+    },
+    {
+      "name": "interactionCount",
+      "content": "114596"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/7/2013 9:38:58 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1516"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1873453878001_th-1871323134001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1871670426001_ari-origin05-arc-147-1349136122779.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1871323134001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Bow Ties with Sausage, Tomatoes and Cream"
+    },
+    {
+      "name": "description",
+      "content": "The perfect, satisfying pasta dish for busy weeknights."
+    },
+    {
+      "name": "interactionCount",
+      "content": "46527"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/2/2012 12:02:08 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.68"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2255"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2600689589001_thumbnail-for-video-1777098887001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2600689590001_video-still-for-video-1777098887001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1777098887001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Garlic Cheddar Chicken"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a simple, top-rated baked chicken recipe."
+    },
+    {
+      "name": "interactionCount",
+      "content": "138152"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/8/2012 3:39:40 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.60"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1932"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.49"
+    },
+    {
+      "name": "reviewCount",
+      "content": "809"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "cd80a85c-f09d-4191-b964-7059d8e92230",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "95bef738-79e4-4216-be8d-9aec6f623e1d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/651538.jpg"
+        }
+      ]
+    },
+    {
+      "id": "feb5c2ec-3980-4f18-afca-86c11e5e6dd5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Grandma's Focaccia: Baraise Style",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  8 reviews Recipe by: DJK1125 \"No one else in my family could make focaccia like Grandma did, and when she passed away we thought she took the recipe with her. Then one day I found it in an old recipe box and gave it a try. If Grandpa says it's just like Grandma's, then it must be.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "38701aff-88a2-4476-aa0d-1e1bf22cf82b",
+      "type": "h2",
+      "parent_id": "feb5c2ec-3980-4f18-afca-86c11e5e6dd5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 55 m servings 188 cals for serving adjustment Serving size has been adjusted! Original recipe yields 24 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "9f1de42e-ba06-45e6-99f3-38a4b7c16df0",
+      "type": "h3",
+      "parent_id": "38701aff-88a2-4476-aa0d-1e1bf22cf82b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 188 kcal 9% Fat: 1.3 g 2% Carbs: 38.2g 12% Protein: 5.8 g 12% Cholesterol: 2 mg < 1% Sodium: 419 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1aa54532-2478-46d5-ac41-71612818f9ec",
+      "type": "h3",
+      "parent_id": "38701aff-88a2-4476-aa0d-1e1bf22cf82b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f0b87438-7815-4ec1-83e7-018d44482e8c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 medium potatoes, peeled and cubed ADVERTISEMENT 1 cup reserved potato water ADVERTISEMENT 2 pounds all-purpose flour ADVERTISEMENT 1 tablespoon salt ADVERTISEMENT 1/2 (0.6 ounce) cake compressed fresh yeast ADVERTISEMENT 1 (29 ounce) can crushed tomatoes ADVERTISEMENT 1 large onion, thinly sliced ADVERTISEMENT salt to taste ADVERTISEMENT 1 tablespoon olive oil ADVERTISEMENT 1 (2 ounce) can anchovy fillets, chopped ADVERTISEMENT dried oregano to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a3ad1085-a4e4-437b-8b51-6b63cfd30536",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 3 h Cook 45 m Ready In 3 h 55 m Place potatoes in a medium saucepan with enough water to cover. Bring to a boil, and cook until tender but firm, about 15 minutes. When the potatoes are done, remove from heat, and drain, reserving one cup of potato water. Pour the flour and 1 tablespoon of salt out onto a clean dry surface. Make a well in the center, and use a ricer to rice the potatoes into the center. Knead the flour and potatoes together as best you can, and then make another well in the center. Dissolve the yeast in the potato water, then pour the mixture into the well. Knead the dough for about 10 minutes, or until dough is smooth, and no longer sticky. Divide the dough into halves, and form into balls. Flour heavily, and cover with a few towels to prevent drafts. Let the dough rise until doubled in size, about 2 hours. Preheat the oven to 350 degrees F (175 degrees C). Coat two large cookie sheets with olive oil. Press the dough out evenly onto the pan. Press indentations into the sheets with your fingers every couple of inches. Divide the can of tomatoes in half, and spread onto each sheet evenly. Place the onion and anchovies onto the sheets, and press in lightly. Sprinkle with salt and oregano to taste. Drizzle lightly with olive oil. Bake for 35 to 40 minutes in the preheated oven, or until bottom is browned. Let cool to room temperature, then cut into squares using a pizza wheel."
+        }
+      ]
+    },
+    {
+      "id": "a9b2bb14-7194-4283-a29c-9a74d16b6156",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "36920f82-e1f4-4f8b-a46e-9a2fb7857c80",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1043747.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dffe241f-787b-47de-8984-3f76f1e728d9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Marsala",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3439 reviews Recipe by: Lisa \"A delicious, classic chicken dish -- lightly coated chicken breasts braised with Marsala wine and mushrooms. Easy and ideal for both a quick weeknight entree AND serving to company.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2d295f18-352a-43d7-820d-7d8291d42435",
+      "type": "h2",
+      "parent_id": "dffe241f-787b-47de-8984-3f76f1e728d9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 448 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "3786c0df-6238-4a6e-9281-ba3b2fb732da",
+      "type": "h3",
+      "parent_id": "2d295f18-352a-43d7-820d-7d8291d42435",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 448 kcal 22% Fat: 26.6 g 41% Carbs: 13.3g 4% Protein: 28.8 g 58% Cholesterol: 99 mg 33% Sodium: 543 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d3dc67d2-fab8-466e-9452-092b1a8d0a9e",
+      "type": "h3",
+      "parent_id": "2d295f18-352a-43d7-820d-7d8291d42435",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "114c0703-bcb2-4f06-8aa4-e2943f1316c5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup all-purpose flour for coating ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 4 skinless, boneless chicken breast halves - pounded 1/4 inch thick ADVERTISEMENT 4 tablespoons butter ADVERTISEMENT 4 tablespoons olive oil ADVERTISEMENT 1 cup sliced mushrooms ADVERTISEMENT 1/2 cup Marsala wine ADVERTISEMENT 1/4 cup cooking sherry ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "083b56d7-8ac3-456a-abd1-cfb66d7c0d9d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m In a shallow dish or bowl, mix together the flour, salt, pepper and oregano. Coat chicken pieces in flour mixture. In a large skillet, melt butter in oil over medium heat. Place chicken in the pan, and lightly brown. Turn over chicken pieces, and add mushrooms. Pour in wine and sherry. Cover skillet; simmer chicken 10 minutes, turning once, until no longer pink and juices run clear."
+        }
+      ]
+    },
+    {
+      "id": "94f8ecca-d839-4aaa-999d-526565c309e2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8cccad4b-0792-48a4-91a9-244c4c809a96",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/626474.jpg"
+        }
+      ]
+    },
+    {
+      "id": "89511c0b-502d-4f16-ba4b-8c78f03124f7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Torta Rustica",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  44 reviews Recipe by: Christine L. \"This savory pie is served at room temperature. Two teaspoons dried basil may be substituted for fresh basil. Use ham or prosciutto ham.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "74994349-251e-45c8-9ff4-4a5c8e8215e9",
+      "type": "h2",
+      "parent_id": "89511c0b-502d-4f16-ba4b-8c78f03124f7",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 653 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "90c75bf6-2e7c-4920-84d6-23fc93dca22c",
+      "type": "h3",
+      "parent_id": "74994349-251e-45c8-9ff4-4a5c8e8215e9",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 653 kcal 33% Fat: 39.1 g 60% Carbs: 44g 14% Protein: 31.7 g 63% Cholesterol: 213 mg 71% Sodium: 1351 mg 54% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "417ad98c-04c3-43bf-9691-f78e064fcae5",
+      "type": "h3",
+      "parent_id": "74994349-251e-45c8-9ff4-4a5c8e8215e9",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "69c9a765-a3a4-4fc1-ba27-af06e79395c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/4 cups all-purpose flour ADVERTISEMENT 3/4 cup cornmeal ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3/4 cup butter, diced ADVERTISEMENT 2 eggs ADVERTISEMENT 4 tablespoons cold water ADVERTISEMENT 1 1/2 cups ricotta cheese ADVERTISEMENT 4 ounces feta cheese ADVERTISEMENT 1 cup grated Parmesan cheese ADVERTISEMENT 1 egg ADVERTISEMENT 1/4 cup chopped parsley ADVERTISEMENT 2 tablespoons chopped fresh basil ADVERTISEMENT 2 teaspoons chopped fresh oregano ADVERTISEMENT 2 cups shredded mozzarella cheese ADVERTISEMENT 1/2 pound ham slices ADVERTISEMENT 1 (10 ounce) package frozen chopped spinach, thawed and drained ADVERTISEMENT 1/2 (16 ounce) jar roasted red peppers, drained and patted dry ADVERTISEMENT 1 egg ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "6030552c-3f85-4232-9004-e6cd0a5d0ce7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Mix flour, cornmeal, and salt in a bowl. Cut in butter with pastry blender until mixture resembles coarse crumbs. Beat 2 eggs with 3 tablespoons cold water; stir into flour mixture until dough holds together. Add another tablespoon water if needed. Shape 2/3 of the dough into flattened round; repeat with remaining 1/3. Wrap. Refrigerate at least 30 minutes, or until firm enough to roll. In another bowl, combine ricotta cheese, crumbled feta, Parmesan cheese, 1 egg, parsley, basil, and oregano until well blended. Have an 8 or 9 inch springform pan ready. On a lightly floured surface, roll out the larger portion of dough into a 15 inch diameter circle. Carefully place in ungreased pan; press lightly against bottom and sides. Trim overhanging dough to 1 inch from pan rim. Scatter half of the mozzarella over the bottom of the crust. Next arrange half the ham slices in an even layer. Spread with ricotta cheese mixture, then sprinkle with spinach. Cover with the remaining ham slices. Press down gently to pack layers. Add red peppers in a single layer, and top with the remaining mozzarella. Press down again. Roll out remaining dough to 8 or 9 inch circle. Place over filling to cover. Moisten edges, and seal crusts together. Crimp or flute edges. Crust should not extend above pan rim. Beat remaining egg, and brush over the crust. Cut several small vents in top crust for steam to escape. Bake at 375 degrees F (190 degrees C) for 1 hour, or until crust is deep golden brown and pulls away from sides. Cool in pan on wire rack 45 minutes. Remove pan sides; cool completely. Cut into 12 wedges. Serve at room temperature."
+        }
+      ]
+    },
+    {
+      "id": "69eb205b-f565-48f6-854e-1bb04d7832df",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3efc8c81-dfee-43b9-839d-0b8614d8dc5b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/126145.jpg"
+        }
+      ]
+    },
+    {
+      "id": "15cb1f9c-a778-4595-89c8-7cb5c22cc2af",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pizza Dough I",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2127 reviews Recipe by: Gudny Bjorg Kjaerbo \"This one is a quick recipe that merely involves mixing a few basic ingredients and patting the dough into the pan. No need to wait for the dough to rise with this approach.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c4e0e408-e7ca-466d-91d9-5cb7388bc053",
+      "type": "h2",
+      "parent_id": "15cb1f9c-a778-4595-89c8-7cb5c22cc2af",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 112 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "063b8206-e379-410a-83e2-8b83324986f0",
+      "type": "h3",
+      "parent_id": "c4e0e408-e7ca-466d-91d9-5cb7388bc053",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 112 kcal 6% Fat: 2.1 g 3% Carbs: 20.1g 6% Protein: 2.8 g 6% Cholesterol: 0 mg 0% Sodium: 156 mg 6% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1f362011-61ef-4b2e-b5d6-2111a4172ab6",
+      "type": "h3",
+      "parent_id": "c4e0e408-e7ca-466d-91d9-5cb7388bc053",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f29295a9-8dfa-41aa-8f75-bfa6c5c79c13",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups all-purpose flour ADVERTISEMENT 1 (.25 ounce) package active dry yeast ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 1 cup warm water (110 degrees F/45 degrees C) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a4910c1f-8b95-432d-b44b-47c9a895b952",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 25 m Ready In 35 m Combine flour, salt, sugar, and yeast in a large bowl. Mix in oil and warm water. Spread out on a large pizza pan. Top as desired. Bake at 375 degrees C (190 degrees C) for 20 to 25 minutes."
+        }
+      ]
+    },
+    {
+      "id": "4a9d61c8-9b61-45aa-82b9-df1bf262fcf3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b615938b-cca1-4389-b76e-45b320ed6ab9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/576102.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bc782c14-11c8-46ce-a38e-bcf561067e09",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Jay's Signature Pizza Crust",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3083 reviews Recipe by: JASON SHARP \"This recipe yields a crust that is soft and doughy on the inside and slightly crusty on the outside. Cover it with your favorite sauce and topping to make a delicious pizza.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a1973cf2-4152-43f7-af11-5e510b1a1465",
+      "type": "h2",
+      "parent_id": "bc782c14-11c8-46ce-a38e-bcf561067e09",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 50 m servings 119 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0a36dd64-b4bb-4593-a14d-4e13a240d521",
+      "type": "h3",
+      "parent_id": "a1973cf2-4152-43f7-af11-5e510b1a1465",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 119 kcal 6% Fat: 2.1 g 3% Carbs: 21.6g 7% Protein: 3.1 g 6% Cholesterol: 0 mg 0% Sodium: 157 mg 6% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "05bd7d42-87ab-4f3d-a89a-cf02eca0d7af",
+      "type": "h3",
+      "parent_id": "a1973cf2-4152-43f7-af11-5e510b1a1465",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1e9cf84b-2797-41a5-a519-84073e74e2a8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/4 teaspoons active dry yeast ADVERTISEMENT 1/2 teaspoon brown sugar ADVERTISEMENT 1 1/2 cups warm water (110 degrees F/45 degrees C) ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 3 1/3 cups all-purpose flour ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d2135cc8-a708-4dc7-bcce-413aefe5c2b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 1 h 50 m In a large bowl, dissolve the yeast and brown sugar in the water, and let sit for 10 minutes. Stir the salt and oil into the yeast solution. Mix in 2 1/2 cups of the flour. Turn dough out onto a clean, well floured surface, and knead in more flour until the dough is no longer sticky. Place the dough into a well oiled bowl, and cover with a cloth. Let the dough rise until double; this should take about 1 hour. Punch down the dough, and form a tight ball. Allow the dough to relax for a minute before rolling out. Use for your favorite pizza recipe. Preheat oven to 425 degrees F (220 degrees C). If you are baking the dough on a pizza stone, you may place your toppings on the dough, and bake immediately. If you are baking your pizza in a pan, lightly oil the pan, and let the dough rise for 15 or 20 minutes before topping and baking it. Bake pizza in preheated oven, until the cheese and crust are golden brown, about 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "3e4bf710-d844-4490-9ba3-517cfb154075",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "196729c3-4a51-45b7-8983-0086cb1a4d7c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/114892.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2b957aca-b562-47b0-91ed-9b6d66fef52d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Cinnamon Hazelnut Biscotti",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  341 reviews Recipe by: Kris \"These are delicious with coffee and they smell wonderful!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bc0775e9-c266-4a73-bd93-224c9ddd1877",
+      "type": "h2",
+      "parent_id": "2b957aca-b562-47b0-91ed-9b6d66fef52d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 35 m servings 138 cals for serving adjustment Serving size has been adjusted! Original recipe yields 30 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "152bfb88-3832-4a47-add4-856150709ad4",
+      "type": "h3",
+      "parent_id": "bc0775e9-c266-4a73-bd93-224c9ddd1877",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 138 kcal 7% Fat: 7.8 g 12% Carbs: 15.5g 5% Protein: 2.2 g 4% Cholesterol: 25 mg 8% Sodium: 89 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1c9a30c6-bc48-4d6f-a272-75f81cc48346",
+      "type": "h3",
+      "parent_id": "bc0775e9-c266-4a73-bd93-224c9ddd1877",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c5520b10-8847-4ec1-9f9f-6eaea9875f24",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3/4 cup butter ADVERTISEMENT 1 cup white sugar ADVERTISEMENT 2 eggs ADVERTISEMENT 1 1/2 teaspoons vanilla extract ADVERTISEMENT 2 1/2 cups all-purpose flour ADVERTISEMENT 1 teaspoon ground cinnamon ADVERTISEMENT 3/4 teaspoon baking powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1 cup hazelnuts ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "14605879-19de-4820-8964-92aac46fda39",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 40 m Ready In 1 h 35 m Preheat oven to 350 degrees F(175 degrees C). Grease a cookie sheet or line with parchment paper. In a medium bowl, cream together butter and sugar until light and fluffy. Beat in eggs and vanilla. Sift together the flour, cinnamon, baking powder, and salt; mix into the egg mixture. Stir in the hazelnuts. Shape dough into two equal logs approximately 12 inches long. Place logs on baking sheet, and flatten out to about 1/2 inch thickness. Bake for about 30 minutes in preheated oven, or until edges are golden and the center is firm. Remove from oven to cool on the pans. When loaves are cool enough to handle, use a serrated knife to slice the loaves diagonally into 1/2 inch thick slices. Return the slices to the baking sheet. Bake for an additional 10 minutes, turning over once. Cool completely, and store in an airtight container at room temperature."
+        }
+      ]
+    },
+    {
+      "id": "fb198f6f-b6e0-47ec-859a-4dfafbe9748e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "45f4fd8f-c6cb-4731-8f67-735243a6aed7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/735349.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7966addd-04a9-4c9a-b36c-6ca12ce42c0d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "White Cheese Chicken Lasagna",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1540 reviews Recipe by: Lisa Humpf \"A chicken and spinach lasagna with a creamy white cheese sauce. Great for any kind of pot luck. My kids love it.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "daae86bd-4992-47ca-9e34-6d4a4f230fe3",
+      "type": "h2",
+      "parent_id": "7966addd-04a9-4c9a-b36c-6ca12ce42c0d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 15 m servings 428 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b8b6598a-f54e-48a5-9722-d1311b1f219b",
+      "type": "h3",
+      "parent_id": "daae86bd-4992-47ca-9e34-6d4a4f230fe3",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 428 kcal 21% Fat: 24 g 37% Carbs: 25.1g 8% Protein: 28.6 g 57% Cholesterol: 91 mg 30% Sodium: 882 mg 35% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "98234e69-f7a2-48ce-b95d-7f12e3cc388d",
+      "type": "h3",
+      "parent_id": "daae86bd-4992-47ca-9e34-6d4a4f230fe3",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "109919ff-e4f5-4f72-ad73-a765039e2834",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "9 lasagna noodles ADVERTISEMENT 1/2 cup butter ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 1/2 cup all-purpose flour ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 cups chicken broth ADVERTISEMENT 1 1/2 cups milk ADVERTISEMENT 4 cups shredded mozzarella cheese, divided ADVERTISEMENT 1 cup grated Parmesan cheese, divided ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT 2 cups ricotta cheese ADVERTISEMENT 2 cups cubed, cooked chicken meat ADVERTISEMENT 2 (10 ounce) packages frozen chopped spinach, thawed and drained ADVERTISEMENT 1 tablespoon chopped fresh parsley ADVERTISEMENT 1/4 cup grated Parmesan cheese for topping ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "fe1bf7a2-b8de-463f-b067-3b23a170604e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 50 m Ready In 1 h 15 m Preheat oven to 350 degrees F (175 degrees C). Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain, and rinse with cold water. Melt the butter in a large saucepan over medium heat. Cook the onion and garlic in the butter until tender, stirring frequently. Stir in the flour and salt, and simmer until bubbly. Mix in the broth and milk, and boil, stirring constantly, for 1 minute. Stir in 2 cups mozzarella cheese and 1/4 cup Parmesan cheese. Season with the basil, oregano, and ground black pepper. Remove from heat, and set aside. Spread 1/3 of the sauce mixture in the bottom of a 9x13 inch baking dish. Layer with 1/3 of the noodles, the ricotta, and the chicken. Arrange 1/3 of the noodles over the chicken, and layer with 1/3 of the sauce mixture, spinach, and the remaining 2 cups mozzarella cheese and 1/2 cup Parmesan cheese. Arrange remaining noodles over cheese, and spread remaining sauce evenly over noodles. Sprinkle with parsley and 1/4 cup Parmesan cheese. Bake 35 to 40 minutes in the preheated oven."
+        }
+      ]
+    },
+    {
+      "id": "335e655c-dcde-4a7d-bc89-2be83c42e8a1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1b6f61d1-0854-4932-a7ad-275ebff47f83",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1115547.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5b383052-6ccf-46d6-9670-c224a000e0e3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Super-Delicious Zuppa Toscana",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1605 reviews Recipe by: souporsweets \"This is an oh-so-good recipe. Just the right amount of spice to make you take a cold drink but definitely keep coming back for more! This soup is irresistible!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c2271d24-c1fc-48c1-b87d-f7abac3089e6",
+      "type": "h2",
+      "parent_id": "5b383052-6ccf-46d6-9670-c224a000e0e3",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 25 m servings 554 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "460c2734-a8fb-4f56-afb5-0ab963024e36",
+      "type": "h3",
+      "parent_id": "c2271d24-c1fc-48c1-b87d-f7abac3089e6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 554 kcal 28% Fat: 32.6 g 50% Carbs: 45.8g 15% Protein: 19.8 g 40% Cholesterol: 99 mg 33% Sodium: 2386 mg 95% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7ed9aead-d975-480a-9ee7-877af582e832",
+      "type": "h3",
+      "parent_id": "c2271d24-c1fc-48c1-b87d-f7abac3089e6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dd5c48f5-816c-443e-9339-2459da2472c2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound bulk mild Italian sausage ADVERTISEMENT 1 1/4 teaspoons crushed red pepper flakes ADVERTISEMENT 4 slices bacon, cut into 1/2 inch pieces ADVERTISEMENT 1 large onion, diced ADVERTISEMENT 1 tablespoon minced garlic ADVERTISEMENT 5 (13.75 ounce) cans chicken broth ADVERTISEMENT 6 potatoes, thinly sliced ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1/4 bunch fresh spinach, tough stems removed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "f9955257-4b59-48f4-a2e8-97a4c6ec56bd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 1 h Ready In 1 h 25 m Cook the Italian sausage and red pepper flakes in a Dutch oven over medium-high heat until crumbly, browned, and no longer pink, 10 to 15 minutes. Drain and set aside. Cook the bacon in the same Dutch oven over medium heat until crisp, about 10 minutes. Drain, leaving a few tablespoons of drippings with the bacon in the bottom of the Dutch oven. Stir in the onions and garlic; cook until onions are soft and translucent, about 5 minutes. Pour the chicken broth into the Dutch oven with the bacon and onion mixture; bring to a boil over high heat. Add the potatoes, and boil until fork tender, about 20 minutes. Reduce the heat to medium and stir in the heavy cream and the cooked sausage; heat through. Mix the spinach into the soup just before serving."
+        }
+      ]
+    },
+    {
+      "id": "15277e11-fddc-4bac-9130-8ad25e03e90c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "24199f6d-3eb7-4aef-b7db-fbce3a346260",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/257811.jpg"
+        }
+      ]
+    },
+    {
+      "id": "812bb97f-8455-4a3b-b5bf-9959c87eca86",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Breaded Pork Chops",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1384 reviews Recipe by: ELISAW \"My father's side of the family is Sicilian, and has been making these pork chops for at least 3 generations. My husband frequently requests these over my marinated and grilled pork chops when I give him a choice. If you do not have an oven-proof skillet, you may cook the chops on the stove at medium-low.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "40288a80-7895-4dfa-9fea-fae3dcbbe10e",
+      "type": "h2",
+      "parent_id": "812bb97f-8455-4a3b-b5bf-9959c87eca86",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 440 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "95390d25-7931-4912-a898-f83eb125db48",
+      "type": "h3",
+      "parent_id": "40288a80-7895-4dfa-9fea-fae3dcbbe10e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 440 kcal 22% Fat: 20.3 g 31% Carbs: 33.4g 11% Protein: 30 g 60% Cholesterol: 186 mg 62% Sodium: 1026 mg 41% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "41e4d843-d365-4b77-ab0f-bd36071d0420",
+      "type": "h3",
+      "parent_id": "40288a80-7895-4dfa-9fea-fae3dcbbe10e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bf773759-6bbc-4b4d-9db8-93eac42a0789",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 eggs, lightly beaten ADVERTISEMENT 3 tablespoons milk ADVERTISEMENT 1 1/2 cups Italian seasoned bread crumbs ADVERTISEMENT 1/2 cup grated Parmesan cheese ADVERTISEMENT 2 tablespoons dried parsley ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 4 cloves garlic, peeled and chopped ADVERTISEMENT 4 pork chops ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "1251029c-698a-49fd-812d-af80505ebbe2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 35 m Ready In 1 h Preheat oven to 325 degrees F (160 degrees C). In a small bowl, beat together the eggs and milk. In a separate small bowl, mix the bread crumbs, Parmesan cheese, and parsley. Heat the olive oil in a large, oven-proof skillet over medium heat. Stir in the garlic, and cook until lightly browned. Remove garlic, reserving for other uses. Dip each pork chop into the egg mixture, then into the bread crumb mixture, coating evenly. Place coated pork chops in the skillet, and brown abut 5 minutes on each side. Place the skillet and pork chops in the preheated oven, and cook 25 minutes, or to an internal temperature of 145 degrees F (63 degrees C)."
+        }
+      ]
+    },
+    {
+      "id": "7937f8d4-938c-4825-85e2-7f717d08461e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "7a8b37ca-d1a5-4148-82ad-90cf85badf5d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3359675.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e67476ff-d88b-47d5-8da4-61da6d52059d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "World's Best Lasagna",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  10206 reviews Recipe by: John Chandler \"It takes a little work, but it is worth it.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d76a4da4-652d-4b6a-86d2-2672188d6ed6",
+      "type": "h2",
+      "parent_id": "e67476ff-d88b-47d5-8da4-61da6d52059d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 h 15 m servings 448 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b786a48b-2275-4c17-8f41-49834b64663b",
+      "type": "h3",
+      "parent_id": "d76a4da4-652d-4b6a-86d2-2672188d6ed6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 448 kcal 22% Fat: 21.3 g 33% Carbs: 36.5g 12% Protein: 29.7 g 59% Cholesterol: 82 mg 27% Sodium: 1788 mg 72% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "27b0b88d-3fd4-40f3-813d-66eee025d87d",
+      "type": "h3",
+      "parent_id": "d76a4da4-652d-4b6a-86d2-2672188d6ed6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8b3dfdfb-3c26-47b0-8104-99a2d4b00465",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound sweet Italian sausage ADVERTISEMENT 3/4 pound lean ground beef ADVERTISEMENT 1/2 cup minced onion ADVERTISEMENT 2 cloves garlic, crushed ADVERTISEMENT 1 (28 ounce) can crushed tomatoes ADVERTISEMENT 2 (6 ounce) cans tomato paste ADVERTISEMENT 2 (6.5 ounce) cans canned tomato sauce ADVERTISEMENT 1/2 cup water ADVERTISEMENT 2 tablespoons white sugar ADVERTISEMENT 1 1/2 teaspoons dried basil leaves ADVERTISEMENT 1/2 teaspoon fennel seeds ADVERTISEMENT 1 teaspoon Italian seasoning ADVERTISEMENT 1 tablespoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 4 tablespoons chopped fresh parsley ADVERTISEMENT 12 lasagna noodles ADVERTISEMENT 16 ounces ricotta cheese ADVERTISEMENT 1 egg ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3/4 pound mozzarella cheese, sliced ADVERTISEMENT 3/4 cup grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a9b9fb74-92b4-4df1-8aaf-c8d43a0388ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 2 h 30 m Ready In 3 h 15 m In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally. Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt. Preheat oven to 375 degrees F (190 degrees C). To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese. Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "fb11bd78-4a1a-4a2c-92ce-547169b23bed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "07688925-dd85-496f-99c1-d2615dcbe774",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/865800.jpg"
+        }
+      ]
+    },
+    {
+      "id": "8cc1ac74-70a9-4037-8558-2424556caa2c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Antipasto",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  16 reviews Recipe by: Karen \"This recipe makes a huge amount. I can it and give it away as Christmas gifts. We usually make this as a group project to cut down on prep time and cost. The ingredient amounts may be altered proportionally as needed.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e1b2d9cf-c260-4df2-84d6-fc030d9a69c4",
+      "type": "h2",
+      "parent_id": "8cc1ac74-70a9-4037-8558-2424556caa2c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "9 h 30 m servings 102 cals for serving adjustment Serving size has been adjusted! Original recipe yields 56 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "31f15b30-7aa8-4c2d-9283-a637e94324d2",
+      "type": "h3",
+      "parent_id": "e1b2d9cf-c260-4df2-84d6-fc030d9a69c4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 102 kcal 5% Fat: 8.5 g 13% Carbs: 5.1g 2% Protein: 2.1 g 4% Cholesterol: 1 mg < 1% Sodium: 168 mg 7% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f116b4cc-e654-4490-91e6-cf518b66fd35",
+      "type": "h3",
+      "parent_id": "e1b2d9cf-c260-4df2-84d6-fc030d9a69c4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8bae7fae-3bf7-403d-b491-21f49e807a9a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 cups chopped cauliflower ADVERTISEMENT 4 cups pearl onions ADVERTISEMENT 2 cups chopped red bell peppers ADVERTISEMENT 2 cups chopped green bell peppers ADVERTISEMENT 2 cups chopped celery ADVERTISEMENT 2 cucumbers - peeled, seeded and chopped ADVERTISEMENT 2 cups carrots, chopped ADVERTISEMENT 2 cups vegetable oil ADVERTISEMENT 2 cups distilled white vinegar ADVERTISEMENT 1 (6 ounce) can tomato paste ADVERTISEMENT 1 tablespoon pickling spice, wrapped in cheesecloth ADVERTISEMENT 1 cup black olives ADVERTISEMENT 1 cup pitted green olives ADVERTISEMENT 4 cups canned mushrooms ADVERTISEMENT 1 1/2 (6 ounce) cans tuna, drained and flaked ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d0b75ded-7b5c-4b7f-b2bd-a3739d798645",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 1 h Cook 30 m Ready In 9 h 30 m In a large bowl with enough lightly salted water to cover, place the cauliflower, pearl onions, red bell peppers, green bell peppers, celery and cucumbers. Soak 8 to 12 hours, or overnight. In a small bowl with enough lightly salted water to cover, place the carrots. Soak 8 to 12 hours, or overnight. In a large saucepan, place the vegetable oil, vinegar, tomato paste and pickling spice. Bring the mixture to a boil. Drain and rinse the carrots, and place them in the mixture. Boil 10 minutes. Drain and rinse the vegetables in the cauliflower mixture. Place them into the saucepan. Cook 10 minutes, or until the cauliflower is tender but crisp. Stir black olives, green olives, mushrooms and tuna into the mixture. Remove the mixture from heat. Discard the wrapped pickling spice. While still hot, transfer to sterile containers and refrigerate."
+        }
+      ]
+    },
+    {
+      "id": "f20e578b-fdcc-409b-9ec2-84e2746d3f18",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a742d022-8e20-4451-8dec-3cc565658973",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/38075.jpg"
+        }
+      ]
+    },
+    {
+      "id": "83423827-3427-4aae-8482-9ca8c4c6f0a3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Spaghetti Sauce with Meatballs",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2323 reviews Recipe by: Jeremy \"This is a recipe I got from my mother years ago -- it's great.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4264e6af-9da9-42c3-a42d-78faaf904618",
+      "type": "h2",
+      "parent_id": "83423827-3427-4aae-8482-9ca8c4c6f0a3",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h 20 m servings 349 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b1b1850e-5a42-45d1-a287-81a40a11796c",
+      "type": "h3",
+      "parent_id": "4264e6af-9da9-42c3-a42d-78faaf904618",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 349 kcal 17% Fat: 21.2 g 33% Carbs: 23.7g 8% Protein: 18.9 g 38% Cholesterol: 77 mg 26% Sodium: 1492 mg 60% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0d7a5572-0695-450c-9190-f18690c1e201",
+      "type": "h3",
+      "parent_id": "4264e6af-9da9-42c3-a42d-78faaf904618",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6fd416ee-09d5-4f90-ab96-5634f3f77399",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "MEATBALLS ADVERTISEMENT 1 pound lean ground beef ADVERTISEMENT 1 cup fresh bread crumbs ADVERTISEMENT 1 tablespoon dried parsley ADVERTISEMENT 1 tablespoon grated Parmesan cheese ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/8 teaspoon garlic powder ADVERTISEMENT 1 egg, beaten ADVERTISEMENT SAUCE ADVERTISEMENT 3/4 cup chopped onion ADVERTISEMENT 5 cloves garlic, minced ADVERTISEMENT 1/4 cup olive oil ADVERTISEMENT 2 (28 ounce) cans whole peeled tomatoes ADVERTISEMENT 2 teaspoons salt ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (6 ounce) can tomato paste ADVERTISEMENT 3/4 teaspoon dried basil ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b0ce9e2b-78a5-4e36-9848-542726939424",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 2 h Ready In 2 h 20 m In a large bowl, combine ground beef, bread crumbs, parsley, Parmesan, 1/4 teaspoon black pepper, garlic powder and beaten egg. Mix well and form into 12 balls. Store, covered, in refrigerator until needed. In a large saucepan over medium heat, saute onion and garlic in olive oil until onion is translucent. Stir in tomatoes, salt, sugar and bay leaf. Cover, reduce heat to low, and simmer 90 minutes. Stir in tomato paste, basil, 1/2 teaspoon pepper and meatballs and simmer 30 minutes more. Serve."
+        }
+      ]
+    },
+    {
+      "id": "260b78d8-c211-40dc-881d-60657f6f54dd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3005a3a0-ee37-4d8a-adaf-741b8f7ecc6b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/920534.jpg"
+        }
+      ]
+    },
+    {
+      "id": "049a3069-b203-4b0a-b0ae-374457cc1283",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Zuppa Toscana",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  261 reviews Recipe by: MARBALET \"Italian Tuscan sausage soup.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c9fd84bb-fa83-4c38-a724-948b6b370774",
+      "type": "h2",
+      "parent_id": "049a3069-b203-4b0a-b0ae-374457cc1283",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 459 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "fa44f274-213e-471d-8439-1dedcfd9f4ef",
+      "type": "h3",
+      "parent_id": "c9fd84bb-fa83-4c38-a724-948b6b370774",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 459 kcal 23% Fat: 34.1 g 53% Carbs: 21.1g 7% Protein: 17.2 g 34% Cholesterol: 87 mg 29% Sodium: 1925 mg 77% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a886da85-c0bc-4219-a8a7-bffbb6553156",
+      "type": "h3",
+      "parent_id": "c9fd84bb-fa83-4c38-a724-948b6b370774",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8762823a-82ee-4401-8482-8cd445c48478",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (16 ounce) package smoked sausage ADVERTISEMENT 2 potatoes, cut into 1/4-inch slices ADVERTISEMENT 3/4 cup chopped onion ADVERTISEMENT 6 slices bacon ADVERTISEMENT 1 1/2 teaspoons minced garlic ADVERTISEMENT 2 cups kale - washed, dried, and shredded ADVERTISEMENT 2 tablespoons chicken bouillon powder ADVERTISEMENT 1 quart water ADVERTISEMENT 1/3 cup heavy whipping cream ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a1ea3246-79e4-400a-90d0-288de09d5bc3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 55 m Ready In 1 h 10 m Preheat oven to 300 degrees F (150 degrees C). Layer the sausage links onto a baking sheet and bake for 25 minutes, or until done. Cut in half length-wise, then cut at an angle into 1/2 inch slices. Place onions and bacon in a large saucepan and cook over medium heat until onions are almost clear. Remove bacon and crumble. Set aside. Add garlic to the onions and cook an additional 1 minute. Add chicken base or bouillon, water, and potatoes, simmer 15 minutes. Add crumbled bacon, sausage, kale, and cream. Simmer 4 minutes and serve."
+        }
+      ]
+    },
+    {
+      "id": "3be2f544-d191-4232-8123-4ae3329518be",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "c646b95a-4ea0-405a-a11e-8972ecb5956c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/521051.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ba5c4a30-0b01-4461-b735-3d411c614122",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Sausage Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2027 reviews Recipe by: SALLYJUN \"A hearty winter favorite.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9cab8241-33d6-4e25-91b1-857fa25f8a06",
+      "type": "h2",
+      "parent_id": "ba5c4a30-0b01-4461-b735-3d411c614122",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 385 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "542d16ce-05f1-4002-ae4c-043ac3b76bd1",
+      "type": "h3",
+      "parent_id": "9cab8241-33d6-4e25-91b1-857fa25f8a06",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 385 kcal 19% Fat: 24.4 g 38% Carbs: 22.5g 7% Protein: 18.8 g 38% Cholesterol: 58 mg 19% Sodium: 1259 mg 50% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "65fe4943-7afd-45ee-bab3-2e069584a151",
+      "type": "h3",
+      "parent_id": "9cab8241-33d6-4e25-91b1-857fa25f8a06",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9f231226-706e-43e2-a5ad-bb6460bf7fd3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound Italian sausage ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 2 (14 ounce) cans beef broth ADVERTISEMENT 1 (14.5 ounce) can Italian-style stewed tomatoes ADVERTISEMENT 1 cup sliced carrots ADVERTISEMENT 1 (14.5 ounce) can great Northern beans, undrained ADVERTISEMENT 2 small zucchini, cubed ADVERTISEMENT 2 cups spinach - packed, rinsed and torn ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "60bf53ef-1f46-4589-936e-18de8f5aba10",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 40 m Ready In 50 m In a stockpot or Dutch oven, brown sausage with garlic. Stir in broth, tomatoes and carrots, and season with salt and pepper. Reduce heat, cover, and simmer 15 minutes. Stir in beans with liquid and zucchini. Cover, and simmer another 15 minutes, or until zucchini is tender. Remove from heat, and add spinach. Replace lid allowing the heat from the soup to cook the spinach leaves. Soup is ready to serve after 5 minutes."
+        }
+      ]
+    },
+    {
+      "id": "a84de7f1-b8f5-4bc0-b414-0c597ec06a9a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6d629fcf-346f-49f7-b4fe-6dc70e4bcb67",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/210926.jpg"
+        }
+      ]
+    },
+    {
+      "id": "40192724-1eb7-4934-a925-ebae3b91737f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Bruschetta with Roasted Sweet Red Peppers",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  28 reviews Recipe by: NDATZ \"This is a fast and easy appetizer or side dish which is colorful and delicious. You'll get compliments. My sons devour this in minutes!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3044bfd0-279c-41b2-b256-c209d9981221",
+      "type": "h2",
+      "parent_id": "40192724-1eb7-4934-a925-ebae3b91737f",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "15 m servings 143 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f42eb3cb-1e43-46f3-9499-f36841ee9faa",
+      "type": "h3",
+      "parent_id": "3044bfd0-279c-41b2-b256-c209d9981221",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 143 kcal 7% Fat: 3.8 g 6% Carbs: 22.7g 7% Protein: 4.2 g 8% Cholesterol: 0 mg 0% Sodium: 358 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "815eb8aa-635b-49aa-a81c-c034c2eb202d",
+      "type": "h3",
+      "parent_id": "3044bfd0-279c-41b2-b256-c209d9981221",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "196d6eab-9f17-4e25-a8fe-6db8443090c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "16 ounces Italian bread ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 (16 ounce) jar marinated roasted sweet red peppers ADVERTISEMENT 3 cloves garlic, chopped ADVERTISEMENT 1 tomato, seeded and chopped ADVERTISEMENT 1 cup chopped fresh basil ADVERTISEMENT 1 onion, chopped (optional) ADVERTISEMENT 3 teaspoons balsamic vinegar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b2b09a5e-76a0-44a8-9251-4d0ba71ff57e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 5 m Ready In 15 m Preheat your oven's broiler. Slice bread loaf into 1-inch thick portions. Brush each slice on one side with olive oil. Broil, oil-side up, until barely golden. Remove from broiler pan and cool. In a medium bowl, mix together roasted pepper, garlic, tomato, basil, and onion. Sprinkle mixture evenly on each toast portion. Drizzle with balsamic vinegar. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "5b8d26ef-02fd-48c7-a24d-a45f264b4193",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "146a34c8-33a6-4179-8326-4d1afc1eadbd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/246711.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bad8f56a-0a81-4db5-98da-3d6459c0f33c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Gourmet Mushroom Risotto",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1725 reviews Recipe by: MYLEEN \"Authentic Italian-style risotto cooked the slow and painful way, but oh so worth it. Complements grilled meats and chicken dishes very well. Check the rice by biting into it. It should be slightly al dente (or resist slightly to the tooth but not be hard in the center).\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7b43ce85-f196-4c01-8f44-0b522e8e13fc",
+      "type": "h2",
+      "parent_id": "bad8f56a-0a81-4db5-98da-3d6459c0f33c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 431 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6dbd2f6d-4afb-4d0f-b86c-ca5bfb85c0d5",
+      "type": "h3",
+      "parent_id": "7b43ce85-f196-4c01-8f44-0b522e8e13fc",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 431 kcal 22% Fat: 16.6 g 26% Carbs: 56.6g 18% Protein: 11.3 g 23% Cholesterol: 29 mg 10% Sodium: 1131 mg 45% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7735e78e-d026-493b-aa84-31cfb96274af",
+      "type": "h3",
+      "parent_id": "7b43ce85-f196-4c01-8f44-0b522e8e13fc",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1328167a-e82a-4300-abd2-5d7a029dc6ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 cups chicken broth, divided ADVERTISEMENT 3 tablespoons olive oil, divided ADVERTISEMENT 1 pound portobello mushrooms, thinly sliced ADVERTISEMENT 1 pound white mushrooms, thinly sliced ADVERTISEMENT 2 shallots, diced ADVERTISEMENT 1 1/2 cups Arborio rice ADVERTISEMENT 1/2 cup dry white wine ADVERTISEMENT sea salt to taste ADVERTISEMENT freshly ground black pepper to taste ADVERTISEMENT 3 tablespoons finely chopped chives ADVERTISEMENT 4 tablespoons butter ADVERTISEMENT 1/3 cup freshly grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "068be640-01c2-493a-b8fc-63afa6307029",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 30 m Ready In 50 m In a saucepan, warm the broth over low heat. Warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Stir in the mushrooms, and cook until soft, about 3 minutes. Remove mushrooms and their liquid, and set aside. Add 1 tablespoon olive oil to skillet, and stir in the shallots. Cook 1 minute. Add rice, stirring to coat with oil, about 2 minutes. When the rice has taken on a pale, golden color, pour in wine, stirring constantly until the wine is fully absorbed. Add 1/2 cup broth to the rice, and stir until the broth is absorbed. Continue adding broth 1/2 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15 to 20 minutes. Remove from heat, and stir in mushrooms with their liquid, butter, chives, and parmesan. Season with salt and pepper to taste."
+        }
+      ]
+    },
+    {
+      "id": "6036823a-efd4-4858-86f2-9b58a77beb61",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "31ff6364-1ac8-46f9-a2bc-982b99875617",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/178087.jpg"
+        }
+      ]
+    },
+    {
+      "id": "9df197df-6135-4ee3-b701-bffe22e5c94b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Italian Beef for Sandwiches",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1650 reviews Recipe by: MAUREENBURR \"This makes a sandwich similar to one I used to get at a local restaurant when I lived in a suburb of Chicago. My all time favorite! Serve on crusty rolls with roasted sweet or hot peppers, if desired.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "d55c032b-ea46-4b84-86e5-524ae21e82be",
+      "type": "h2",
+      "parent_id": "9df197df-6135-4ee3-b701-bffe22e5c94b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "12 h 15 m servings 318 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a20fc6f2-1a49-42ba-b73b-c2ed0c748e13",
+      "type": "h3",
+      "parent_id": "d55c032b-ea46-4b84-86e5-524ae21e82be",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 318 kcal 16% Fat: 15.8 g 24% Carbs: 1.6g < 1% Protein: 39.4 g 79% Cholesterol: 100 mg 33% Sodium: 819 mg 33% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2d2d1a68-8ba1-4ad8-8b61-4ac8ce547f46",
+      "type": "h3",
+      "parent_id": "d55c032b-ea46-4b84-86e5-524ae21e82be",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b15da8fe-fec4-4751-875d-1dc5de1f89ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 cups water ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon ground black pepper ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon onion salt ADVERTISEMENT 1 teaspoon dried parsley ADVERTISEMENT 1 teaspoon garlic powder ADVERTISEMENT 1 bay leaf ADVERTISEMENT 1 (.7 ounce) package dry Italian-style salad dressing mix ADVERTISEMENT 1 (5 pound) rump roast ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0e3f83cb-491f-4733-ac44-b84a57e03f73",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 12 h Ready In 12 h 15 m Combine water with salt, ground black pepper, oregano, basil, onion salt, parsley, garlic powder, bay leaf, and salad dressing mix in a saucepan. Stir well, and bring to a boil. Place roast in slow cooker, and pour salad dressing mixture over the meat. Cover, and cook on Low for 10 to 12 hours, or on High for 4 to 5 hours. When done, remove bay leaf, and shred meat with a fork."
+        }
+      ]
+    },
+    {
+      "id": "380a8be0-a6dd-42d0-bcc0-b3592841dda1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "795dae58-bd96-4884-81d9-7dd51d7a48cb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/744818.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5b2b87cd-2888-437a-93a5-1169911bf773",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Exquisite Pizza Sauce",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1839 reviews Recipe by: Angie Gorkoff \"This sauce is wonderfully flavorful and is worth adding in the numerous ingredients.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9947c587-6c72-45bf-a460-8773d2c00eae",
+      "type": "h2",
+      "parent_id": "5b2b87cd-2888-437a-93a5-1169911bf773",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 89 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c8a13630-4758-44da-a8de-afb7a675a830",
+      "type": "h3",
+      "parent_id": "9947c587-6c72-45bf-a460-8773d2c00eae",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 89 kcal 4% Fat: 1.3 g 2% Carbs: 18g 6% Protein: 3.7 g 7% Cholesterol: 4 mg 1% Sodium: 551 mg 22% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8692f10d-9235-4f0c-b2c8-de4793982f0e",
+      "type": "h3",
+      "parent_id": "9947c587-6c72-45bf-a460-8773d2c00eae",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "8638edcf-1bf1-4f2a-93b5-5e2aba81d18c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (6 ounce) can tomato paste ADVERTISEMENT 6 fluid ounces warm water (110 degrees F/45 degrees C) ADVERTISEMENT 3 tablespoons grated Parmesan cheese ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 2 tablespoons honey ADVERTISEMENT 1 teaspoon anchovy paste (optional) ADVERTISEMENT 3/4 teaspoon onion powder ADVERTISEMENT 1/4 teaspoon dried oregano ADVERTISEMENT 1/4 teaspoon dried marjoram ADVERTISEMENT 1/4 teaspoon dried basil ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/8 teaspoon cayenne pepper ADVERTISEMENT 1/8 teaspoon dried red pepper flakes ADVERTISEMENT salt to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "919b4434-f35e-48e7-b6a4-116d73336bb8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Ready In 40 m In a small bowl, combine tomato paste, water, Parmesan cheese, garlic, honey, anchovy paste, onion powder, oregano, marjoram, basil, ground black pepper, cayenne pepper, red pepper flakes and salt; mix together, breaking up any clumps of cheese. Sauce should sit for 30 minutes to blend flavors; spread over pizza dough and prepare pizza as desired."
+        }
+      ]
+    },
+    {
+      "id": "4caab46e-796a-414d-9680-1ed44ee79f30",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a9670836-236c-490b-bc8e-068c5d3e27db",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3741.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a220124e-18ea-4cd5-b53e-cc45d35eb56e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chicken Milano",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1570 reviews Recipe by: MARBALET \"A delicious pasta and chicken dish with garlic, sun-dried tomatoes and fresh basil. Use the dry packaged sun-dried tomatoes instead of the tomatoes packed in olive oil. The sauce can be kept, covered, for one day in the refrigerator; heat again over low heat. Try it with some crusty bread if desired.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "5a73a7b4-10c4-4b46-a757-46dc7004d7f8",
+      "type": "h2",
+      "parent_id": "a220124e-18ea-4cd5-b53e-cc45d35eb56e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 641 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4618fae5-434c-4157-a632-c07d9e8e7f77",
+      "type": "h3",
+      "parent_id": "5a73a7b4-10c4-4b46-a757-46dc7004d7f8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 641 kcal 32% Fat: 34.8 g 54% Carbs: 47g 15% Protein: 36.3 g 73% Cholesterol: 156 mg 52% Sodium: 501 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "18e4657b-fda4-4906-802e-eccb6f1f9f12",
+      "type": "h3",
+      "parent_id": "5a73a7b4-10c4-4b46-a757-46dc7004d7f8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "99200c42-07c2-48c8-a571-361b6fa9e232",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 tablespoon butter ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1/2 cup sun-dried tomatoes, chopped ADVERTISEMENT 1 cup chicken broth, divided ADVERTISEMENT 1 cup heavy cream ADVERTISEMENT 1 pound skinless, boneless chicken breast halves ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 2 tablespoons vegetable oil ADVERTISEMENT 2 tablespoons chopped fresh basil ADVERTISEMENT 8 ounces dry fettuccini pasta ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "2d260026-5b1e-4046-a1e8-04d88be570dc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m In a large saucepan over low heat, melt butter; add garlic and cook for 30 seconds. Add the tomatoes and 3/4 cup of the chicken broth; increase to medium heat and bring to a boil. Reduce heat and simmer, uncovered, for about 10 minutes or until the tomatoes are tender. Add the cream and bring to a boil; stirring. Simmer over medium heat until the sauce is thick enough to coat the back of a spoon. Sprinkle the chicken with salt and pepper on both sides. In a large skillet over medium heat, warm oil and saute chicken. Press on chicken occasionally with a slotted spatula. Cook for about 4 minutes per side or until the meat feels springy and is no longer pink inside. Transfer to a board; cover and keep warm. Discard the fat from the skillet. In the same skillet, over medium heat, bring 1/4 cup chicken broth to a boil; stirring the pan juices. Reduce slightly and add to the cream sauce; stir in basil and adjust seasonings to taste. Meanwhile, bring a large pot of lightly salted water to a boil. Add fettuccine and cook for 8 to 10 minutes or until al dente; drain, transfer to a bowl and toss with 3 to 4 tablespoons of the sauce. Cut each chicken breast into 2 to 3 diagonal slices. Reheat the sauce gently if needed. Transfer the pasta to serving plates; top with chicken and coat with the cream sauce; serve."
+        }
+      ]
+    },
+    {
+      "id": "09219d74-c832-4f40-8966-3cb8a1954b9c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3402b8ac-fc6f-4014-b715-08b40f7c1598",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/689088.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cb4c8fb2-79bb-49a3-9719-6c75db8cb874",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Eggplant Parmesan II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2245 reviews Recipe by: Dolores Gentner-Ryan \"This is a no fry variation of this popular dish, and is just as delicious!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "af919636-8b36-45c2-9840-609e1c01c394",
+      "type": "h2",
+      "parent_id": "cb4c8fb2-79bb-49a3-9719-6c75db8cb874",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 487 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ad0c0384-6ba9-4a77-bd1a-ddee3580ed3b",
+      "type": "h3",
+      "parent_id": "af919636-8b36-45c2-9840-609e1c01c394",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 487 kcal 24% Fat: 16 g 25% Carbs: 62.1g 20% Protein: 24.2 g 48% Cholesterol: 73 mg 24% Sodium: 1663 mg 67% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "2ba27014-8bb9-4e2f-9d1d-92c6ac42d00a",
+      "type": "h3",
+      "parent_id": "af919636-8b36-45c2-9840-609e1c01c394",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7dc7db8a-b43c-4982-ab0e-90fa8cc1ec6a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 eggplant, peeled and thinly sliced ADVERTISEMENT 2 eggs, beaten ADVERTISEMENT 4 cups Italian seasoned bread crumbs ADVERTISEMENT 6 cups spaghetti sauce, divided ADVERTISEMENT 1 (16 ounce) package mozzarella cheese, shredded and divided ADVERTISEMENT 1/2 cup grated Parmesan cheese, divided ADVERTISEMENT 1/2 teaspoon dried basil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "af6a8549-1c93-4248-8aff-8651d1cf287f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 35 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Dip eggplant slices in egg, then in bread crumbs. Place in a single layer on a baking sheet. Bake in preheated oven for 5 minutes on each side. In a 9x13 inch baking dish spread spaghetti sauce to cover the bottom. Place a layer of eggplant slices in the sauce. Sprinkle with mozzarella and Parmesan cheeses. Repeat with remaining ingredients, ending with the cheeses. Sprinkle basil on top. Bake in preheated oven for 35 minutes, or until golden brown."
+        }
+      ]
+    },
+    {
+      "id": "6e1e72c1-faf7-4668-810d-400c5faf8085",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f8b2b5a6-0845-4536-8783-6fc5a5aea5eb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/112925.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e3bd670b-58d2-4b79-aaba-afb852baafd6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Double Tomato Bruschetta",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1965 reviews Recipe by: Laurie Thompson \"A delicious and easy appetizer. The balsamic vinegar gives it a little bite. Dried basil can be substituted but it is best with fresh.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3e00e474-ac83-4b26-abb6-9b6713625225",
+      "type": "h2",
+      "parent_id": "e3bd670b-58d2-4b79-aaba-afb852baafd6",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 215 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "93614b0e-5357-43c2-a4be-b24bdde3d782",
+      "type": "h3",
+      "parent_id": "3e00e474-ac83-4b26-abb6-9b6713625225",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 215 kcal 11% Fat: 8.9 g 14% Carbs: 24.8g 8% Protein: 9.6 g 19% Cholesterol: 12 mg 4% Sodium: 426 mg 17% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "23b1c23b-a523-4ffe-8789-7eb51939eccb",
+      "type": "h3",
+      "parent_id": "3e00e474-ac83-4b26-abb6-9b6713625225",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "75c5255a-afbd-4545-a0e6-5ca78d0956f8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 roma (plum) tomatoes, chopped ADVERTISEMENT 1/2 cup sun-dried tomatoes, packed in oil ADVERTISEMENT 3 cloves minced garlic ADVERTISEMENT 1/4 cup olive oil ADVERTISEMENT 2 tablespoons balsamic vinegar ADVERTISEMENT 1/4 cup fresh basil, stems removed ADVERTISEMENT 1/4 teaspoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1 French baguette ADVERTISEMENT 2 cups shredded mozzarella cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9376032e-2ce9-4145-829e-124ffa3bca6b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 7 m Ready In 35 m Preheat the oven on broiler setting. In a large bowl, combine the roma tomatoes, sun-dried tomatoes, garlic, olive oil, vinegar, basil, salt, and pepper. Allow the mixture to sit for 10 minutes. Cut the baguette into 3/4-inch slices. On a baking sheet, arrange the baguette slices in a single layer. Broil for 1 to 2 minutes, until slightly brown. Divide the tomato mixture evenly over the baguette slices. Top the slices with mozzarella cheese. Broil for 5 minutes, or until the cheese is melted."
+        }
+      ]
+    },
+    {
+      "id": "9b2c2e65-f0b4-43d2-836f-0aafc549d1ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "027c2111-6fc9-400b-9bfe-83565c808369",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/993555.jpg"
+        }
+      ]
+    },
+    {
+      "id": "16f9d4fc-c465-4335-8551-fed503b3d56e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Meatballs",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  98 reviews Recipe by: Jo Ann \"Baked meatballs seasoned with oregano and garlic, simmered in spaghetti sauce.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fd1bca34-05e0-408e-9f02-7d52de737eea",
+      "type": "h2",
+      "parent_id": "16f9d4fc-c465-4335-8551-fed503b3d56e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 h 15 m servings 841 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4678def1-9093-4567-94cc-c36b4659cf69",
+      "type": "h3",
+      "parent_id": "fd1bca34-05e0-408e-9f02-7d52de737eea",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 841 kcal 42% Fat: 45.1 g 69% Carbs: 65.6g 21% Protein: 40.3 g 81% Cholesterol: 134 mg 45% Sodium: 2164 mg 87% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "20001645-63e1-4a95-9f38-1a94199cffcb",
+      "type": "h3",
+      "parent_id": "fd1bca34-05e0-408e-9f02-7d52de737eea",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9f7ab1c8-41ae-4002-88ac-e39c00d2320d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 pounds lean ground beef ADVERTISEMENT 5 tablespoons ground oregano ADVERTISEMENT 5 tablespoons dried parsley, crushed ADVERTISEMENT 1 clove garlic, chopped ADVERTISEMENT 1 (1 ounce) package dry onion soup mix ADVERTISEMENT 2 cups Italian-style dry bread crumbs ADVERTISEMENT 3 (28 ounce) jars spaghetti sauce ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "17ee8e12-e100-42d7-b070-0de7c631dceb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 1 h 15 m Cook 4 h Ready In 5 h 15 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 10x15 inch jelly-roll pan. In a large mixing bowl, combine ground beef, oregano, parsley and garlic. Mix in onion soup mix and seasoned bread crumbs. Mix thoroughly. Using a 1 ounce scoop, scoop and shape the meat mixture into balls. Place in the prepared pan and bake in a preheated oven for 1 hour or until meatballs are browned and cooked through. In a large pot over high heat, bring the spaghetti sauce to a boil and add cooked meatballs. Reduce heat and simmer for 4 hours."
+        }
+      ]
+    },
+    {
+      "id": "d022cfe6-c819-4760-bcee-db53ea70651b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3ba76379-70bf-4a65-9a05-12b4237fa136",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/566639.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f04b3c76-4f05-492c-a7bb-c4980c926bd0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "American Lasagna",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1761 reviews Recipe by: ETHELMERTZ \"Making this lasagna a day ahead and refrigerating overnight allows the spices to meld, and gives it exceptional flavor.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7dc14e78-51a0-4a48-9f86-8e760fb5bfbe",
+      "type": "h2",
+      "parent_id": "f04b3c76-4f05-492c-a7bb-c4980c926bd0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 h servings 664 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "146f3813-c5c8-4848-bf4b-c3a113ddf62e",
+      "type": "h3",
+      "parent_id": "7dc14e78-51a0-4a48-9f86-8e760fb5bfbe",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 664 kcal 33% Fat: 29.5 g 45% Carbs: 48.3g 16% Protein: 50.9 g 102% Cholesterol: 168 mg 56% Sodium: 1900 mg 76% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "386d8276-20d9-489e-9c43-c7281e81a3ee",
+      "type": "h3",
+      "parent_id": "7dc14e78-51a0-4a48-9f86-8e760fb5bfbe",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f7933814-99a4-47f4-b7fb-5cb4477f65ec",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 pounds lean ground beef ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1 tablespoon chopped fresh basil ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 2 tablespoons brown sugar ADVERTISEMENT 1 1/2 teaspoons salt ADVERTISEMENT 1 (29 ounce) can diced tomatoes ADVERTISEMENT 2 (6 ounce) cans tomato paste ADVERTISEMENT 12 dry lasagna noodles ADVERTISEMENT 2 eggs, beaten ADVERTISEMENT 1 pint part-skim ricotta cheese ADVERTISEMENT 1/2 cup grated Parmesan cheese ADVERTISEMENT 2 tablespoons dried parsley ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 pound mozzarella cheese, shredded ADVERTISEMENT 2 tablespoons grated Parmesan cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "83c2d06e-b4dd-4b5b-9016-b30958912f61",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 1 h 30 m Ready In 2 h In a skillet over medium heat, brown ground beef, onion and garlic; drain fat. Mix in basil, oregano, brown sugar, 1 1/2 teaspoons salt, diced tomatoes and tomato paste. Simmer for 30 to 45 minutes, stirring occasionally. Preheat oven to 375 degrees F (190 degrees C). Bring a large pot of lightly salted water to a boil. Add lasagna noodles, and cook for 5 to 8 minutes, or until al dente; drain. Lay noodles flat on towels, and blot dry. In a medium bowl, mix together eggs, ricotta, Parmesan cheese, parsley and 1 teaspoon salt. Layer 1/3 of the lasagna noodles in the bottom of a 9x13 inch baking dish. Cover noodles with 1/2 ricotta mixture, 1/2 of the mozzarella cheese and 1/3 of the sauce. Repeat. Top with remaining noodles and sauce. Sprinkle additional Parmesan cheese over the top. Bake in the preheated oven 30 minutes. Let stand 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "d67061b8-3aed-4089-a97b-e2395c0e66f0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "057001a6-aedf-46d0-9d48-f1bf879e4269",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/691795.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a947e7f6-6301-41e7-928e-3aa6e92d1c89",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Jamie's Minestrone",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1588 reviews Recipe by: Jamie \"I created this soup after becoming tired of the excess salt and lack of veggies in canned minestrone. I recalled a great bowl of minestrone that was overflowing with rich vegetables at the 'Sheepherder's Inn' in Sacramento, California. Great with a hearty bread, romaine salad and a nice Merlot!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9e1d66d5-0a75-4f05-ae2d-2b32616dfab4",
+      "type": "h2",
+      "parent_id": "a947e7f6-6301-41e7-928e-3aa6e92d1c89",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 25 m servings 227 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f197ebac-2cd0-4bd6-9b0a-5b98dc8dd27e",
+      "type": "h3",
+      "parent_id": "9e1d66d5-0a75-4f05-ae2d-2b32616dfab4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 227 kcal 11% Fat: 8.3 g 13% Carbs: 30g 10% Protein: 8.6 g 17% Cholesterol: 1 mg < 1% Sodium: 1142 mg 46% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "81bf4abd-8c76-4b26-8eb4-968ed0e8a7bc",
+      "type": "h3",
+      "parent_id": "9e1d66d5-0a75-4f05-ae2d-2b32616dfab4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4f8eb389-2f9a-4c2f-86e0-0132f7b18ab5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "3 tablespoons olive oil ADVERTISEMENT 3 cloves garlic, chopped ADVERTISEMENT 2 onions, chopped ADVERTISEMENT 2 cups chopped celery ADVERTISEMENT 5 carrots, sliced ADVERTISEMENT 2 cups chicken broth ADVERTISEMENT 2 cups water ADVERTISEMENT 4 cups tomato sauce ADVERTISEMENT 1/2 cup red wine (optional) ADVERTISEMENT 1 cup canned kidney beans, drained ADVERTISEMENT 1 (15 ounce) can green beans ADVERTISEMENT 2 cups baby spinach, rinsed ADVERTISEMENT 3 zucchinis, quartered and sliced ADVERTISEMENT 1 tablespoon chopped fresh oregano ADVERTISEMENT 2 tablespoons chopped fresh basil ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1/2 cup seashell pasta ADVERTISEMENT 2 tablespoons grated Parmesan cheese for topping ADVERTISEMENT 1 tablespoon olive oil ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "47dcf955-443d-44c1-9104-e355abd2f825",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 35 m Cook 50 m Ready In 1 h 25 m In a large stock pot, over medium-low heat, heat olive oil and saute garlic for 2 to 3 minutes. Add onion and saute for 4 to 5 minutes. Add celery and carrots, saute for 1 to 2 minutes. Add chicken broth, water and tomato sauce, bring to boil, stirring frequently. If desired add red wine at this point. Reduce heat to low and add kidney beans, green beans, spinach leaves, zucchini, oregano, basil, salt and pepper. Simmer for 30 to 40 minutes, the longer the better. Fill a medium saucepan with water and bring to a boil. Add macaroni and cook until tender. Drain water and set aside. Once pasta is cooked and soup is heated through place 2 tablespoons cooked pasta into individual serving bowls. Ladle soup on top of pasta and sprinkle Parmesan cheese on top. Spray with olive oil and serve."
+        }
+      ]
+    },
+    {
+      "id": "e8666b94-7e9f-4843-8eb6-76ec4e74e2ca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "a16b13e2-37c8-421d-946a-6079e96cf328",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/623500.jpg"
+        }
+      ]
+    },
+    {
+      "id": "684a8c33-d1cd-45b9-9b03-33ba442da3c5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Sausage, Peppers, and Onions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  943 reviews Recipe by: GIGI9801 \"My family has been using this very simple and delicious recipe for sausage, peppers, and onions for years and years now. For an extra kick, try using half sweet sausage and half hot sausage!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "06cb7d62-5016-4ebe-853e-52474cdec7e6",
+      "type": "h2",
+      "parent_id": "684a8c33-d1cd-45b9-9b03-33ba442da3c5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 461 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "f960fce0-5012-4648-969c-85d37b3ddeef",
+      "type": "h3",
+      "parent_id": "06cb7d62-5016-4ebe-853e-52474cdec7e6",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 461 kcal 23% Fat: 39.4 g 61% Carbs: 7g 2% Protein: 17.1 g 34% Cholesterol: 96 mg 32% Sodium: 857 mg 34% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f41c17b1-38eb-420b-b324-08500ec2d0ed",
+      "type": "h3",
+      "parent_id": "06cb7d62-5016-4ebe-853e-52474cdec7e6",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1310f44d-671b-4229-9e0e-ba1bbc38c8c9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 (4 ounce) links sweet Italian sausage ADVERTISEMENT 2 tablespoons butter ADVERTISEMENT 1 yellow onion, sliced ADVERTISEMENT 1/2 red onion, sliced ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 1 large red bell pepper, sliced ADVERTISEMENT 1 green bell pepper, sliced ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon dried oregano ADVERTISEMENT 1/4 cup white wine ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d6e17f5f-1701-4ad1-a31d-0ceb7499920d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 25 m Ready In 40 m Place the sausage in a large skillet over medium heat, and brown on all sides. Remove from skillet, and slice. Melt butter in the skillet. Stir in the yellow onion, red onion, and garlic, and cook 2 to 3 minutes. Mix in red bell pepper and green bell pepper. Season with basil, and oregano. Stir in white wine. Continue to cook and stir until peppers and onions are tender. Return sausage slices to skillet with the vegetables. Reduce heat to low, cover, and simmer 15 minutes, or until sausage is heated through."
+        }
+      ]
+    },
+    {
+      "id": "38793fac-5783-45bf-8581-75e44266fbb1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "401b5ccc-87df-4310-a094-d12304f00bb8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/998789.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0d0132ab-87d1-452f-b894-f15577728a70",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Rocket and Parma Ham Salad",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1 reviews Recipe by: Vikil \"This is a very simple and tasty recipe for a beautiful-looking salad which can be an elegant dinner party starter or a mid-day snack.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "767fd812-72ab-4167-bc48-37c0b8cf1c19",
+      "type": "h2",
+      "parent_id": "0d0132ab-87d1-452f-b894-f15577728a70",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 m servings 495 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "442018da-a9b7-4b21-9fb5-b725372d8c27",
+      "type": "h3",
+      "parent_id": "767fd812-72ab-4167-bc48-37c0b8cf1c19",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 495 kcal 25% Fat: 40.1 g 62% Carbs: 8.3g 3% Protein: 29.2 g 58% Cholesterol: 88 mg 29% Sodium: 1944 mg 78% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5f2bd513-8c79-49dc-a02e-ec7b103b3cc8",
+      "type": "h3",
+      "parent_id": "767fd812-72ab-4167-bc48-37c0b8cf1c19",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1348da37-a7ef-4dfb-b8a5-db843a01aaf5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (7 ounce) bag arugula ADVERTISEMENT 7 ounces Parma ham, torn into thin strips ADVERTISEMENT 1/4 cup olive oil ADVERTISEMENT 1/4 cup balsamic vinegar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "c85bd9e1-af60-4b68-a544-29753492d527",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Ready In 5 m Arrange arugula on a large, flat platter. Top arugula with Parma ham. Drizzle olive oil and balsamic vinegar over the salad."
+        }
+      ]
+    },
+    {
+      "id": "d1b1d403-6f9a-461a-895e-a6b0beb691a1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0d5fd800-0292-425b-aba6-3f0e71358356",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1557216.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d25ee2fd-6e07-420e-85e9-df600f90cf16",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Italian Sausage Soup with Tortellini",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1516 reviews Recipe by: Mary P \"This soup embodies all the wonders of Italian cooking: Italian sausage, garlic, tomatoes and red wines. Serve with hot bread and salad for a delicious meal. Garnish with Parmesan cheese.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "0000a542-01c1-423b-bcf9-6a73ff2c90bb",
+      "type": "h2",
+      "parent_id": "d25ee2fd-6e07-420e-85e9-df600f90cf16",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 35 m servings 324 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "84b851e0-305b-4337-af3b-090073f9326d",
+      "type": "h3",
+      "parent_id": "0000a542-01c1-423b-bcf9-6a73ff2c90bb",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 324 kcal 16% Fat: 20.2 g 31% Carbs: 19.1g 6% Protein: 14.6 g 29% Cholesterol: 50 mg 17% Sodium: 1145 mg 46% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9112a0ad-7901-4935-ac72-9936e5c4cc3d",
+      "type": "h3",
+      "parent_id": "0000a542-01c1-423b-bcf9-6a73ff2c90bb",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "35ed4333-d646-45c5-be1e-8d02088c7643",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound sweet Italian sausage, casings removed ADVERTISEMENT 1 cup chopped onion ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 5 cups beef broth ADVERTISEMENT 1/2 cup water ADVERTISEMENT 1/2 cup red wine ADVERTISEMENT 4 large tomatoes - peeled, seeded and chopped ADVERTISEMENT 1 cup thinly sliced carrots ADVERTISEMENT 1/2 tablespoon packed fresh basil leaves ADVERTISEMENT 1/2 teaspoon dried oregano ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1 1/2 cups sliced zucchini ADVERTISEMENT 8 ounces fresh tortellini pasta ADVERTISEMENT 3 tablespoons chopped fresh parsley ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "550d2077-b60d-4d64-8ded-75e275f996ac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 1 h 15 m Ready In 1 h 35 m In a 5 quart Dutch oven, brown sausage. Remove sausage and drain, reserving 1 tablespoon of the drippings. Saute onions and garlic in drippings. Stir in beef broth, water, wine, tomatoes, carrots, basil, oregano, tomato sauce, and sausage. Bring to a boil. Reduce heat; simmer uncovered for 30 minutes. Skim fat from the soup. Stir in zucchini and parsley. Simmer covered for 30 minutes. Add tortellini during the last 10 minutes. Sprinkle with Parmesan cheese on top of each serving."
+        }
+      ]
+    },
+    {
+      "id": "b0b51706-340c-4d90-a122-5ea5c7729487",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "91899d5b-49cf-4108-9848-0eff17d2ce26",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/122627.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69202ff7-7680-4d45-be72-ca1a8624f76a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Bow Ties with Sausage, Tomatoes and Cream",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2255 reviews Recipe by: Linda Caroline \"A friend gave this recipe to me a few years back, and my family can't seem to get enough of it. It sounds strange with cream in it, but that just enhances the flavor and texture. This is a very easy recipe.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "4502b34a-ca91-4d76-8bbe-f2d47916560e",
+      "type": "h2",
+      "parent_id": "69202ff7-7680-4d45-be72-ca1a8624f76a",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 656 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "a33fd50b-7a67-4da1-9376-a0512dc76295",
+      "type": "h3",
+      "parent_id": "4502b34a-ca91-4d76-8bbe-f2d47916560e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 656 kcal 33% Fat: 42.1 g 65% Carbs: 50.9g 16% Protein: 20.1 g 40% Cholesterol: 111 mg 37% Sodium: 1088 mg 44% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b5fa02b2-36a1-49bf-8a75-e36063994389",
+      "type": "h3",
+      "parent_id": "4502b34a-ca91-4d76-8bbe-f2d47916560e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e7c959b1-01c0-4f06-9b4c-8a965a85ae73",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (12 ounce) package bow tie pasta ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 pound sweet Italian sausage, casings removed and crumbled ADVERTISEMENT 1/2 teaspoon red pepper flakes ADVERTISEMENT 1/2 cup diced onion ADVERTISEMENT 3 cloves garlic, minced ADVERTISEMENT 1 (28 ounce) can Italian-style plum tomatoes, drained and coarsely chopped ADVERTISEMENT 1 1/2 cups heavy cream ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 3 tablespoons minced fresh parsley ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7f3aefbc-5973-40b5-9572-dfd9229eddca",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 30 m Ready In 45 m Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente; drain. Heat oil in a large, deep skillet over medium heat. Cook sausage and pepper flakes until sausage is evenly brown. Stir in onion and garlic, and cook until onion is tender. Stir in tomatoes, cream, and salt. Simmer until mixture thickens, 8 to 10 minutes. Stir cooked pasta into sauce, and heat through. Sprinkle with parsley."
+        }
+      ]
+    },
+    {
+      "id": "bc599bd8-b92b-4b99-99a4-b9a06e4d2592",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "66d6a3d6-034a-4107-b5f2-5c86affeff80",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/26754.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fa735eb5-204b-4313-a244-d19f50286fcd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Garlic Cheddar Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1932 reviews Recipe by: BAYLOR66 \"Chicken breasts dipped in garlic butter and Cheddar bread crumbs. NEVER have any leftovers!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bb3077e8-f5f1-49da-a7db-c092d414a6a2",
+      "type": "h2",
+      "parent_id": "fa735eb5-204b-4313-a244-d19f50286fcd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "55 m servings 400 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ba71c9bd-b877-4bed-a613-9ba754a3b7df",
+      "type": "h3",
+      "parent_id": "bb3077e8-f5f1-49da-a7db-c092d414a6a2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 400 kcal 20% Fat: 24.9 g 38% Carbs: 8.4g 3% Protein: 34.5 g 69% Cholesterol: 129 mg 43% Sodium: 488 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "42f3cca3-e768-4d23-9985-13ac386ae645",
+      "type": "h3",
+      "parent_id": "bb3077e8-f5f1-49da-a7db-c092d414a6a2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e3aecf18-7ea4-42ee-b818-79f9cbd0e3e1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup butter ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 3/4 cup dry bread crumbs ADVERTISEMENT 1/2 cup freshly grated Parmesan cheese ADVERTISEMENT 1 1/2 cups shredded Cheddar cheese ADVERTISEMENT 1/4 teaspoon dried parsley ADVERTISEMENT 1/4 teaspoon dried oregano ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1/8 teaspoon salt ADVERTISEMENT 8 skinless, boneless chicken breast halves - pounded thin ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b7746f19-c9f4-4f4f-98cc-f008bbf6dd84",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 40 m Ready In 55 m Preheat oven to 350 degrees F (175 degrees C). Melt the butter in a saucepan over low heat, and cook the garlic until tender, about 5 minutes. In a shallow bowl, mix the bread crumbs, Parmesan cheese, Cheddar cheese, parsley, oregano, pepper, and salt. Dip each chicken breast in the garlic butter to coat, then press into the bread crumb mixture. Arrange the coated chicken breasts in a 9x13 inch baking dish. Drizzle with any remaining butter and top with any remaining bread crumb mixture. Bake 30 minutes in the preheated oven, or until chicken is no longer pink and juices run clear."
+        }
+      ]
+    },
+    {
+      "id": "8b1c8c21-1566-4b4f-9c26-449c4aeee09f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e4d25f5c-8321-48ce-bd27-6f55a939e537",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2627052.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0f92fe0a-d87c-4c6d-a6c4-32fd1dd9af63",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Tofu Parmigiana",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  809 reviews Recipe by: Jill B. Mittelstadt \"Breaded tofu a la parmigiana. You'll just about swear this is eggplant or veal! One of my husband's favorites, and he doesn't even suspect! Serve with a simple crisp green salad, angel hair pasta and garlic bread.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "2763bf73-331f-40d6-a74c-29a8c61bc6ac",
+      "type": "h2",
+      "parent_id": "0f92fe0a-d87c-4c6d-a6c4-32fd1dd9af63",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 357 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "ba8a9471-a957-4fe1-86c8-dfc13bcde011",
+      "type": "h3",
+      "parent_id": "2763bf73-331f-40d6-a74c-29a8c61bc6ac",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 357 kcal 18% Fat: 21.5 g 33% Carbs: 18.8g 6% Protein: 25.7 g 51% Cholesterol: 24 mg 8% Sodium: 841 mg 34% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3e8ca29e-9354-4df5-b3e0-707c37a58661",
+      "type": "h3",
+      "parent_id": "2763bf73-331f-40d6-a74c-29a8c61bc6ac",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b5380d68-1aa4-470d-90c1-784fdb0cf96d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup seasoned bread crumbs ADVERTISEMENT 5 tablespoons grated Parmesan cheese ADVERTISEMENT 2 teaspoons dried oregano, divided ADVERTISEMENT salt to taste ADVERTISEMENT ground black pepper to taste ADVERTISEMENT 1 (12 ounce) package firm tofu ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 1 (8 ounce) can tomato sauce ADVERTISEMENT 1/2 teaspoon dried basil ADVERTISEMENT 1 clove garlic, minced ADVERTISEMENT 4 ounces shredded mozzarella cheese ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3d8f1b27-d97a-48c7-8711-a847a5fa065b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 20 m Ready In 45 m In a small bowl, combine bread crumbs, 2 tablespoons Parmesan cheese, 1 teaspoon oregano, salt, and black pepper. Slice tofu into 1/4 inch thick slices, and place in bowl of cold water. One at a time, press tofu slices into crumb mixture, turning to coat all sides. Heat oil in a medium skillet over medium heat. Cook tofu slices until crisp on one side. Drizzle with a bit more olive oil, turn, and brown on the other side. Combine tomato sauce, basil, garlic, and remaining oregano. Place a thin layer of sauce in an 8 inch square baking pan. Arrange tofu slices in the pan. Spoon remaining sauce over tofu. Top with shredded mozzarella and remaining 3 tablespoons Parmesan. Bake at 400 degrees F (205 degrees C) for 20 minutes."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}

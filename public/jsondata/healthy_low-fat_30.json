@@ -1,0 +1,4194 @@
+{
+  "source_document_id": "",
+  "timestamp": "2016-11-30T00:29:03.667Z",
+  "media_type_detected": "text/html; charset=utf-8",
+  "metadata": [
+    {
+      "name": "Content-Type",
+      "content": "text/html; charset=UTF-8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980305481001_th-1954442337001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1980188379001_ari-origin05-arc-7136-1353438385591.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954442337001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "D's Famous Salsa"
+    },
+    {
+      "name": "description",
+      "content": "This salsa is easy and so zesty, it's like a fiesta in your mouth."
+    },
+    {
+      "name": "interactionCount",
+      "content": "37449"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/20/2012 11:20:51 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "802"
+    },
+    {
+      "name": "recipeYield",
+      "content": "16"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "17"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "49"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1557460268001_th-1546090034001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1557423178001_ari-origin05-arc-166-1334186198117.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1546090034001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Best Spanish Rice"
+    },
+    {
+      "name": "description",
+      "content": "See a quick-and-easy recipe for the yummiest Spanish rice."
+    },
+    {
+      "name": "interactionCount",
+      "content": "252081"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/11/2012 4:55:09 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1739"
+    },
+    {
+      "name": "recipeYield",
+      "content": "5"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178837046001_th-1867035830001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2178800685001_900944612-5388-1361398950657.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1867035830001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Red Lentil Curry"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a quick-and-easy vegetarian curry."
+    },
+    {
+      "name": "interactionCount",
+      "content": "46226"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/28/2013 3:25:00 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.50"
+    },
+    {
+      "name": "reviewCount",
+      "content": "792"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777170294001_RM-honeybaekdchciken2.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1777167790001_RM-honeybaekdchciken2.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1739858682001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Baked Honey Mustard Chicken"
+    },
+    {
+      "name": "description",
+      "content": "See how to make the perfect weeknight chicken recipe."
+    },
+    {
+      "name": "interactionCount",
+      "content": "240455"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/26/2012 3:08:20 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.21"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1758"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1954542165001_th-1954432754001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1954506908001_ari-origin05-arc-140-1352333849571.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1954432754001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Szechwan Shrimp"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a quick, healthy, spicy shrimp dinner."
+    },
+    {
+      "name": "interactionCount",
+      "content": "93540"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/7/2012 5:17:01 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.42"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1949"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.41"
+    },
+    {
+      "name": "reviewCount",
+      "content": "680"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.39"
+    },
+    {
+      "name": "reviewCount",
+      "content": "47"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/276/1033249144001_3252115833001_thumbnail-for-video-3251313316001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201402/1276/1033249144001_3252115834001_video-still-for-video-3251313316001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3251313316001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "The Ultimate Chili"
+    },
+    {
+      "name": "description",
+      "content": "A tangy, spicy ground beef and kidney bean chili you make in the slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "22764"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/24/2014 4:30:47 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.47"
+    },
+    {
+      "name": "reviewCount",
+      "content": "315"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "142"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2577466314001_th-2575604268001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2577344260001_video-still-for-video-2575604268001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2575604268001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Split Pea Soup"
+    },
+    {
+      "name": "description",
+      "content": "See how to make hearty split pea soup from scratch."
+    },
+    {
+      "name": "interactionCount",
+      "content": "55246"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/31/2013 1:19:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "725"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1791225340001_th-1785590362001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1791155652001_ari-origin05-arc-172-1345222930978.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1785590362001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Jay’s Signature Pizza Crust"
+    },
+    {
+      "name": "description",
+      "content": "You’re going to love this 5-star recipe for homemade pizza crust."
+    },
+    {
+      "name": "interactionCount",
+      "content": "99194"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/17/2012 1:02:17 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.69"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3083"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1569524191001_th-1561091212001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1567140327001_ari-origin05-arc-136-1334682274347.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1561091212001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "How to Make Sweet and Sour Pork"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a lighter, easier version of sweet and sour pork."
+    },
+    {
+      "name": "interactionCount",
+      "content": "88066"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/15/2013 11:46:09 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.61"
+    },
+    {
+      "name": "reviewCount",
+      "content": "743"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2101198769001_th-2070992941001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2099084695001_900944612-185-1358385794406.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2070992941001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Black Beans and Rice"
+    },
+    {
+      "name": "description",
+      "content": "Easy seasoned black beans and white rice, it’s the perfect meal."
+    },
+    {
+      "name": "interactionCount",
+      "content": "65503"
+    },
+    {
+      "name": "uploadDate",
+      "content": "11/21/2013 3:53:10 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.31"
+    },
+    {
+      "name": "reviewCount",
+      "content": "760"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2226581134001_th-2203303276001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2226521471001_video-still-for-video-2203303276001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2203303276001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Blackened Chicken"
+    },
+    {
+      "name": "description",
+      "content": "See how to make a spicy, Cajun-style blackened chicken."
+    },
+    {
+      "name": "interactionCount",
+      "content": "63684"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/14/2013 5:00:24 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.37"
+    },
+    {
+      "name": "reviewCount",
+      "content": "679"
+    },
+    {
+      "name": "recipeYield",
+      "content": "2"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1573609463001_th-1560889588001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1571373138001_ari-origin05-arc-139-1334854206585.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560889588001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Fluffy French Toast"
+    },
+    {
+      "name": "description",
+      "content": "See how to make wonderfully light and fluffy French toast."
+    },
+    {
+      "name": "interactionCount",
+      "content": "224314"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/20/2012 10:24:56 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.62"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2478"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/2581/1033249144001_3593149203001_th-3591388483001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/2899/1033249144001_3591464506001_video-still-for-video-3591388483001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3591388483001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Cabbage Fat-Burning Soup"
+    },
+    {
+      "name": "description",
+      "content": "This healthy soup has a tomato broth and seven kinds of fresh, healthy veggies."
+    },
+    {
+      "name": "interactionCount",
+      "content": "215293"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/2/2014 9:41:56 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.41"
+    },
+    {
+      "name": "reviewCount",
+      "content": "925"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1729268091001_th-1719800960001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1729176309001_ari-origin05-arc-155-1341952475621.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1719800960001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Adrienne's Cucumber Salad"
+    },
+    {
+      "name": "description",
+      "content": "This refreshing salad sets off crisp vegetables with a tangy marinade."
+    },
+    {
+      "name": "interactionCount",
+      "content": "89354"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/10/2012 2:45:52 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.52"
+    },
+    {
+      "name": "reviewCount",
+      "content": "816"
+    },
+    {
+      "name": "recipeYield",
+      "content": "8"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201403/1563/1033249144001_3395934930001_th-3391642653001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201405/3981/1033249144001_3566371286001_Slow-Cooker-Cilantro-Lime-Chicken.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3391642653001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Cilantro Lime Chicken"
+    },
+    {
+      "name": "description",
+      "content": "Tender shredded chicken makes a 5-star filling for tacos and enchiladas."
+    },
+    {
+      "name": "interactionCount",
+      "content": "103508"
+    },
+    {
+      "name": "uploadDate",
+      "content": "5/14/2014 3:31:30 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.57"
+    },
+    {
+      "name": "reviewCount",
+      "content": "880"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1567447472001_th-1560922946001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d22/unsecured/media/1033249144001/1033249144001_1565097064001_ari-origin05-arc-128-1334598047175.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1560922946001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Amazing Pork Tenderloin in the Slow Cooker"
+    },
+    {
+      "name": "description",
+      "content": "See how to make quick-and-easy pork tenderloin in your slow cooker."
+    },
+    {
+      "name": "interactionCount",
+      "content": "483961"
+    },
+    {
+      "name": "uploadDate",
+      "content": "2/15/2013 11:25:30 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.14"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2311"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465493001_thumbnail-for-video-2560105183001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465494001_video-still-for-video-2560105183001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2560105183001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Homemade Black Bean Veggie Burgers"
+    },
+    {
+      "name": "description",
+      "content": "These 5-star veggie burgers have it all over frozen burgers."
+    },
+    {
+      "name": "interactionCount",
+      "content": "114053"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/23/2013 4:30:22 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.36"
+    },
+    {
+      "name": "reviewCount",
+      "content": "2264"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465500001_thumbnail-for-video-2560125040001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465501001_video-still-for-video-2560125040001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2560125040001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Sarah's Applesauce"
+    },
+    {
+      "name": "description",
+      "content": "Try this crowd-pleasing recipe for homemade applesauce."
+    },
+    {
+      "name": "interactionCount",
+      "content": "118513"
+    },
+    {
+      "name": "uploadDate",
+      "content": "7/24/2013 9:34:09 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.79"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1896"
+    },
+    {
+      "name": "recipeYield",
+      "content": "4"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1732457101001_th-1728902710001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1732437052001_ari-origin05-arc-170-1342132392040.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1728902710001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pretzel Turtles ®"
+    },
+    {
+      "name": "description",
+      "content": "These addictive candies use just three ingredients. Bake and gobble."
+    },
+    {
+      "name": "interactionCount",
+      "content": "52346"
+    },
+    {
+      "name": "uploadDate",
+      "content": "6/12/2015 9:23:36 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.81"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1114"
+    },
+    {
+      "name": "recipeYield",
+      "content": "20"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1809112358001_th-1793932385001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1808812080001_ari-origin05-arc-141-1346101933761.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1793932385001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Refried Beans without the Refry"
+    },
+    {
+      "name": "description",
+      "content": "See how easy (and delicious) it is to make refried beans in your slow cooker!"
+    },
+    {
+      "name": "interactionCount",
+      "content": "48318"
+    },
+    {
+      "name": "uploadDate",
+      "content": "8/27/2012 5:34:56 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.67"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1715"
+    },
+    {
+      "name": "recipeYield",
+      "content": "15"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2280180116001_th-1949052767001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2280023013001_video-still-for-video-1949052767001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1949052767001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Gary’s Turkey Burritos and Homemade Salsa"
+    },
+    {
+      "name": "description",
+      "content": "Dinner’s ready in a hurry with healthy, homemade burritos."
+    },
+    {
+      "name": "interactionCount",
+      "content": "3971"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/12/2013 3:18:41 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.40"
+    },
+    {
+      "name": "reviewCount",
+      "content": "153"
+    },
+    {
+      "name": "recipeYield",
+      "content": "6"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1756328337001_th-1729205248001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_1756200589001_ari-origin05-arc-168-1343335673302.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=1729205248001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Slow Cooker Turkey Breast"
+    },
+    {
+      "name": "description",
+      "content": "This moist, meaty turkey breast has just two ingredients—it couldn't be easier."
+    },
+    {
+      "name": "interactionCount",
+      "content": "157197"
+    },
+    {
+      "name": "uploadDate",
+      "content": "10/26/2012 9:44:52 AM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.54"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1129"
+    },
+    {
+      "name": "recipeYield",
+      "content": "12"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201403/89/1033249144001_3336641772001_th-2560125001001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2562465499001_video-still-for-video-2560125001001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2560125001001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Quinoa and Black Beans"
+    },
+    {
+      "name": "description",
+      "content": "Try this protein-packed, delicious vegan quinoa and bean dish."
+    },
+    {
+      "name": "interactionCount",
+      "content": "172930"
+    },
+    {
+      "name": "uploadDate",
+      "content": "3/13/2014 4:31:27 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.65"
+    },
+    {
+      "name": "reviewCount",
+      "content": "3627"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/608/1033249144001_3476314897001_th-3476161644001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/201404/320/1033249144001_3476318709001_video-still-for-video-3476161644001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=3476161644001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Chocolate Crinkles II"
+    },
+    {
+      "name": "description",
+      "content": "See how to make chocolate cookies coated in confectioners' sugar."
+    },
+    {
+      "name": "interactionCount",
+      "content": "62458"
+    },
+    {
+      "name": "uploadDate",
+      "content": "4/16/2014 4:19:30 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.66"
+    },
+    {
+      "name": "reviewCount",
+      "content": "1249"
+    },
+    {
+      "name": "recipeYield",
+      "content": "72"
+    },
+    {
+      "name": "thumbnailUrl",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2080002958001_th-2073150651001.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "image",
+      "content": "http://brightcove.vo.llnwd.net/d21/unsecured/media/1033249144001/1033249144001_2079915600001_900944612-163-1357588825570.jpg?pubId=1033249144001"
+    },
+    {
+      "name": "embedUrl",
+      "content": "http://c.brightcove.com/services/viewer/federated_f9?&width=640&height=360&flashID=myExperience1086638575001&bgcolor=%23FFFFFF&playerID=1094141761001&playerKey=AQ~~%2CAAAA8JJyvME~%2CK4ozHF41iv1geq61oV_5IVDU4aWxAYLa&wmode=transparent&isVid=true&isUI=true&dynamicStreaming=true&%40videoPlayer=2073150651001&autoStart=true&debuggerID="
+    },
+    {
+      "name": "name",
+      "content": "Pineapple Chicken Tenders"
+    },
+    {
+      "name": "description",
+      "content": "See how to make juicy, tender grilled chicken skewers."
+    },
+    {
+      "name": "interactionCount",
+      "content": "61106"
+    },
+    {
+      "name": "uploadDate",
+      "content": "1/8/2013 1:59:03 PM"
+    },
+    {
+      "name": "ratingValue",
+      "content": "4.43"
+    },
+    {
+      "name": "reviewCount",
+      "content": "518"
+    },
+    {
+      "name": "recipeYield",
+      "content": "10"
+    }
+  ],
+  "answer_units": [
+    {
+      "id": "da0eb327-f62b-4e7d-8fec-116409bfce8d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "8741274b-69ae-4bc7-bc14-7c46ef39e5c4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/866636.jpg"
+        }
+      ]
+    },
+    {
+      "id": "62b0feff-30fa-47f4-98e3-b556b48ef3ba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "D's Famous Salsa",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  802 reviews Recipe by: Denise Smith \"This is a Texas recipe I've developed and refined over many years. It's very fast, easy, and I usually have everything on hand. I often give it as gifts to my family back East.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a6d2b7b6-aa56-45d2-9950-02ee03f13cc8",
+      "type": "h2",
+      "parent_id": "62b0feff-30fa-47f4-98e3-b556b48ef3ba",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 m servings 16 cals for serving adjustment Serving size has been adjusted! Original recipe yields 16 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4b2927e0-806e-4407-9a05-aa367c579db7",
+      "type": "h3",
+      "parent_id": "a6d2b7b6-aa56-45d2-9950-02ee03f13cc8",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 16 kcal < 1% Fat: 0.1 g < 1% Carbs: 3.9g 1% Protein: 0.6 g 1% Cholesterol: 0 mg 0% Sodium: 283 mg 11% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "37d88ec9-4d48-4394-85e2-85c433a1e35a",
+      "type": "h3",
+      "parent_id": "a6d2b7b6-aa56-45d2-9950-02ee03f13cc8",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ff807808-9e5f-4653-9ff5-5b5945235a82",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 (14.5 ounce) cans stewed tomatoes ADVERTISEMENT 1/2 onion, finely diced ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1/2 lime, juiced ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1/4 cup canned sliced green chiles, or to taste ADVERTISEMENT 3 tablespoons chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8cc83d86-87e3-4af8-ab9d-72abcd56424b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Ready In 10 m Place the tomatoes, onion, garlic, lime juice, salt, green chiles, and cilantro in a blender or food processor. Blend on low to desired consistency."
+        }
+      ]
+    },
+    {
+      "id": "3eee4b34-32e6-4048-a826-a49b3df1c2bf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dcefad62-6496-4fcc-8562-74e3b61f8db9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/828107.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6cd1aef3-12bc-4d1a-95ee-a6acf665d840",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Roasted Spicy Salsa Verde",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  17 reviews Recipe by: SpeedySanchez \"Roasted-pepper green salsa just like grandma makes it, well, minus the molcajete. It's just easier to make in a food processor. The heat of your salsa can be controlled by the amount of seeds and membrane you leave in the pepper pods. \" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c1dda842-689b-4465-add6-05b13a9f48b3",
+      "type": "h2",
+      "parent_id": "6cd1aef3-12bc-4d1a-95ee-a6acf665d840",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 11 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "557441d5-bc3c-42d2-90c2-6475b8cbf980",
+      "type": "h3",
+      "parent_id": "c1dda842-689b-4465-add6-05b13a9f48b3",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 11 kcal < 1% Fat: 0.2 g < 1% Carbs: 2.2g < 1% Protein: 0.4 g < 1% Cholesterol: 0 mg 0% Sodium: 2 mg < 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a172c5ad-cd6d-44c2-a620-a986de76cd2e",
+      "type": "h3",
+      "parent_id": "c1dda842-689b-4465-add6-05b13a9f48b3",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "466a38c9-9a43-4ad7-9428-ffa08c9aedcc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 fresh poblano chile peppers ADVERTISEMENT 2 serrano chile peppers ADVERTISEMENT 6 fresh tomatillos, husks removed ADVERTISEMENT 1 1/2-inch slice of white onion ADVERTISEMENT 2 cloves garlic ADVERTISEMENT salt to taste ADVERTISEMENT 1 tablespoon chopped fresh cilantro (optional) ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7a765e33-9db3-49e9-b7e0-3a71102bcad5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 10 m Ready In 30 m Preheat an outdoor grill for high heat, and lightly oil the grate. Lay the poblano peppers, serrano peppers, and tomatillos on the hot grill, and cook, turning every 2 minutes, until the pepper skins are evenly charred and blackened, and the tomatillos have turned pale yellow and started to ooze juice, about 10 minutes. Remove the vegetables from the grill. Scrape off most of the burned pepper skin, cut the stems off, cut the peppers in half the long way, and remove the seeds. Place the onion and garlic in the work bowl of a food processor, and pulse about 4 times to chop. Drop in the peppers, pulse 4 times to roughly chop, and add the tomatillos and salt. Pulse 4 or more times to the desired smoothness, and stir in the cilantro."
+        }
+      ]
+    },
+    {
+      "id": "13b425ad-d52b-4ff6-8455-f7b19d8b35b8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "dd1c2b3d-2eb0-4c29-9035-1b388f73a5c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3888455.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f2b07163-90ff-4591-9b5f-81c17086e151",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Seared Scallops with Tropical Salsa",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  49 reviews Recipe by: RNCOGGINS \"The delicious taste of scallops is perfectly complemented by a wonderful fresh fruit salsa in this quick but elegant dish. Be sure to use large, plump sea scallops rather than smaller bay scallops and take care not to overcook the scallops; they should remain tender and moist. Feel free to substitute any of your favorite exotic fruits for the pineapple and mango in the salsa.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "055c7570-9565-4395-8bfa-422a89829b64",
+      "type": "h2",
+      "parent_id": "f2b07163-90ff-4591-9b5f-81c17086e151",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 153 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4a845808-5815-4603-8530-26689ac07a37",
+      "type": "h3",
+      "parent_id": "055c7570-9565-4395-8bfa-422a89829b64",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 153 kcal 8% Fat: 3.7 g 6% Carbs: 11g 4% Protein: 18.6 g 37% Cholesterol: 35 mg 12% Sodium: 207 mg 8% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "b2625575-4588-4006-9c94-5dadcc4b4b47",
+      "type": "h3",
+      "parent_id": "055c7570-9565-4395-8bfa-422a89829b64",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f334452e-a62b-4eb3-9bcd-4d618b802050",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 cup diced fresh pineapple ADVERTISEMENT 1/2 cup diced fresh mango ADVERTISEMENT 1/2 cup peeled and diced cucumber ADVERTISEMENT 1/2 cup diced red bell pepper ADVERTISEMENT 3 tablespoons chopped fresh cilantro ADVERTISEMENT 4 teaspoons fresh lime juice ADVERTISEMENT 1 jalapeno pepper, seeded and minced ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1 pound sea scallops, rinsed and drained ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "d84902f4-7fbb-44bc-982a-a684b9e19881",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 5 m Ready In 20 m Combine the pineapple, mango, cucumber, bell pepper, bell pepper, cilantro, lime juice and jalapeno. Season to taste with salt and pepper, and set aside. Heat a large, nonstick fry pan over medium-high heat. Coat the pan with cooking spray. Season the scallops with salt and pepper. Add half of the scallops to the pan; sear until golden brown on both sides, about 2 minutes per side. Transfer the scallops to a warmed plate; set aside. Repeat with the remaining scallops. Divide the scallops among four warmed plates. Spoon the salsa over the scallops, and serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "31544a4b-bb39-46a9-a322-fbb08b82c88a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "297c7815-999e-49bc-b607-ac7368124130",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/66199.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3989ce4b-855b-4ea7-8e77-0f8c690393dd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Best Spanish Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1739 reviews Recipe by: ilovetocook \"The combination of picante sauce and chicken broth makes this easy recipe very tasty!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "84af53a7-b395-453b-ae9d-00c7efdd2149",
+      "type": "h2",
+      "parent_id": "3989ce4b-855b-4ea7-8e77-0f8c690393dd",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 286 cals for serving adjustment Serving size has been adjusted! Original recipe yields 5 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6a8dd14a-c510-4cd7-83a9-0a84d0bf8e01",
+      "type": "h3",
+      "parent_id": "84af53a7-b395-453b-ae9d-00c7efdd2149",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 286 kcal 14% Fat: 6.2 g 10% Carbs: 50.9g 16% Protein: 5.7 g 11% Cholesterol: 2 mg < 1% Sodium: 697 mg 28% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6636a51f-5e1a-4a89-a8cb-0da086c86325",
+      "type": "h3",
+      "parent_id": "84af53a7-b395-453b-ae9d-00c7efdd2149",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "fc996b34-f101-4bb5-a3c4-724bc4308544",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons oil ADVERTISEMENT 2 tablespoons chopped onion ADVERTISEMENT 1 1/2 cups uncooked white rice ADVERTISEMENT 2 cups chicken broth ADVERTISEMENT 1 cup chunky salsa ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "91e631c7-cac3-46f9-ae27-ccad7e0a60c6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Heat oil in a large, heavy skillet over medium heat. Stir in onion, and cook until tender, about 5 minutes. Mix rice into skillet, stirring often. When rice begins to brown, stir in chicken broth and salsa. Reduce heat, cover and simmer 20 minutes, until liquid has been absorbed."
+        }
+      ]
+    },
+    {
+      "id": "b6a23257-7520-4523-b471-cbc5c73aaea5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "409b0dbb-b26f-4489-9dcd-c48e3acd76b2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg"
+        }
+      ]
+    },
+    {
+      "id": "5fc1d0bb-8197-45be-99e1-5dc647aa7213",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Red Lentil Curry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  792 reviews Recipe by: Emma Maher \"This is a rich and hearty lentil curry, great as a main meal rather than as a side dish like the more traditional Indian dhal. Don't let the ingredient list faze you, this really is an easy dish to make. This dish is great served with basmati rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bd89d8f1-fc12-41b2-80a4-a9bc968eb617",
+      "type": "h2",
+      "parent_id": "5fc1d0bb-8197-45be-99e1-5dc647aa7213",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "40 m servings 192 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "320a6ceb-0ae3-4daf-a29c-896840df0eee",
+      "type": "h3",
+      "parent_id": "bd89d8f1-fc12-41b2-80a4-a9bc968eb617",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 192 kcal 10% Fat: 2.6 g 4% Carbs: 32.5g 10% Protein: 12.1 g 24% Cholesterol: 0 mg 0% Sodium: 572 mg 23% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c27f238f-408b-4155-a2c2-cc7c2b6b09d7",
+      "type": "h3",
+      "parent_id": "bd89d8f1-fc12-41b2-80a4-a9bc968eb617",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3570c77c-c365-4afb-9df3-423b14f386a8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 cups red lentils ADVERTISEMENT 1 large onion, diced ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 2 tablespoons curry paste ADVERTISEMENT 1 tablespoon curry powder ADVERTISEMENT 1 teaspoon ground turmeric ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon chili powder ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 1 teaspoon white sugar ADVERTISEMENT 1 teaspoon minced garlic ADVERTISEMENT 1 teaspoon minced fresh ginger ADVERTISEMENT 1 (14.25 ounce) can tomato puree ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "7cc04b52-99b0-4521-9528-933c36e0b4b0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 30 m Ready In 40 m Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils."
+        }
+      ]
+    },
+    {
+      "id": "06232956-271b-49cc-a307-5ca5967485d4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6081fe76-9241-4eab-9fef-62e86e07ca8e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3264007.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6db65835-74f4-4673-9444-7b2ebacd0eac",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Baked Honey Mustard Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1758 reviews Recipe by: Mary Bane \"Quick and easy to prepare, and the kids love it too!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c0e13c49-b5f4-4266-a05b-f60604b4cbef",
+      "type": "h2",
+      "parent_id": "6db65835-74f4-4673-9444-7b2ebacd0eac",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h servings 232 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "d36380a6-69da-49e5-8d3e-0bb93fb4ee68",
+      "type": "h3",
+      "parent_id": "c0e13c49-b5f4-4266-a05b-f60604b4cbef",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 232 kcal 12% Fat: 3.7 g 6% Carbs: 24.8g 8% Protein: 25.6 g 51% Cholesterol: 67 mg 22% Sodium: 296 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "344668e4-4bad-4ac9-8a6a-181406199d98",
+      "type": "h3",
+      "parent_id": "c0e13c49-b5f4-4266-a05b-f60604b4cbef",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e36f6ac4-ad06-4bb4-af4d-2e30cc3b778e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 skinless, boneless chicken breast halves ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1/2 cup honey ADVERTISEMENT 1/2 cup prepared mustard ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 teaspoon paprika ADVERTISEMENT 1/2 teaspoon dried parsley ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "bffbccb2-15b6-49cf-b17b-ad0c5c350ef2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 45 m Ready In 1 h Preheat oven to 350 degrees F (175 degrees C). Sprinkle chicken breasts with salt and pepper to taste, and place in a lightly greased 9x13 inch baking dish. In a small bowl, combine the honey, mustard, basil, paprika, and parsley. Mix well. Pour 1/2 of this mixture over the chicken, and brush to cover. Bake in the preheated oven for 30 minutes. Turn chicken pieces over and brush with the remaining 1/2 of the honey mustard mixture. Bake for an additional 10 to 15 minutes, or until chicken is no longer pink and juices run clear. Let cool 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "0e6ae331-4f9b-4ef0-95c9-7b5a58eb7878",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "056e4c59-3657-4ac9-88aa-c49e9564165b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1052895.jpg"
+        }
+      ]
+    },
+    {
+      "id": "69e0d3dd-80b7-4734-b5cd-643bb63e6fe2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Szechwan Shrimp",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1949 reviews Recipe by: FOODGU1 \"Don't let some of the ingredients fool you--this spicy shrimp makes a simple, impressive dish, which I usually make for company. For more or less heat, adjust amount of red pepper. Serve over hot steamed rice.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f495f22a-d537-4af4-8cce-f21e97acb409",
+      "type": "h2",
+      "parent_id": "69e0d3dd-80b7-4734-b5cd-643bb63e6fe2",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 142 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "715e142d-6f40-48f4-bb24-fb1c24eb8309",
+      "type": "h3",
+      "parent_id": "f495f22a-d537-4af4-8cce-f21e97acb409",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 142 kcal 7% Fat: 4.4 g 7% Carbs: 6.7g 2% Protein: 18.3 g 37% Cholesterol: 164 mg 55% Sodium: 500 mg 20% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a1918dc7-0403-4ffd-8e4f-fe4835c66273",
+      "type": "h3",
+      "parent_id": "f495f22a-d537-4af4-8cce-f21e97acb409",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dc2c3840-63ab-4040-8432-5b0ddfff526c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 tablespoons water ADVERTISEMENT 2 tablespoons ketchup ADVERTISEMENT 1 tablespoon soy sauce ADVERTISEMENT 2 teaspoons cornstarch ADVERTISEMENT 1 teaspoon honey ADVERTISEMENT 1/2 teaspoon crushed red pepper ADVERTISEMENT 1/4 teaspoon ground ginger ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1/4 cup sliced green onions ADVERTISEMENT 4 cloves garlic, minced ADVERTISEMENT 12 ounces cooked shrimp, tails removed ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "bc312e3d-3827-4b69-9926-21a71e0e4423",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m In a bowl, stir together water, ketchup, soy sauce, cornstarch, honey, crushed red pepper, and ground ginger. Set aside. Heat oil in a large skillet over medium-high heat. Stir in green onions and garlic; cook 30 seconds. Stir in shrimp, and toss to coat with oil. Stir in sauce. Cook and stir until sauce is bubbly and thickened."
+        }
+      ]
+    },
+    {
+      "id": "72efef6d-b066-449c-9fee-f8162a561a17",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0ceaf4af-7400-4c8a-8546-3ff405878224",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1107296.jpg"
+        }
+      ]
+    },
+    {
+      "id": "095555b8-2421-4149-9a44-2eae5c99d183",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Almost No Fat Banana Bread",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  680 reviews Recipe by: Allison \"This bread is surprising moist and has a wonderful flavor. For a little variation, you can add nuts or raisins.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "01263880-a7a4-46b0-9ce7-ce47fcfba98e",
+      "type": "h2",
+      "parent_id": "095555b8-2421-4149-9a44-2eae5c99d183",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 5 m servings 127 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "bc8dbf4b-50c5-4340-befb-7a640718c4f4",
+      "type": "h3",
+      "parent_id": "01263880-a7a4-46b0-9ce7-ce47fcfba98e",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 127 kcal 6% Fat: 0.2 g < 1% Carbs: 29.5g 10% Protein: 2.4 g 5% Cholesterol: 0 mg 0% Sodium: 100 mg 4% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d3c0649e-13ba-4380-a19f-d46e2a381c82",
+      "type": "h3",
+      "parent_id": "01263880-a7a4-46b0-9ce7-ce47fcfba98e",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "5527b7c4-d0a6-4917-8ee2-94818d5c8cb3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 1/2 cups all-purpose flour ADVERTISEMENT 3/4 cup white sugar ADVERTISEMENT 1 1/4 teaspoons baking powder ADVERTISEMENT 1/2 teaspoon baking soda ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 2 egg whites ADVERTISEMENT 1 cup banana, mashed ADVERTISEMENT 1/4 cup applesauce ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "695368d0-9604-4eef-bfb4-978a64fc4d21",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 55 m Ready In 1 h 5 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x4 inch loaf pan. In a large bowl, stir together flour, sugar, baking powder, baking soda and cinnamon. Add egg whites, bananas and applesauce; stir just until combined. Pour batter into prepared pan. Bake in preheated oven for 50 to 55 minutes, until a toothpick inserted into center of loaf comes out clean. Turn out onto wire rack and allow to cool before slicing."
+        }
+      ]
+    },
+    {
+      "id": "d6547984-ed27-4954-bfcd-df87a1ce4903",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "06ec2786-e584-41e2-a2a1-f200d23ca1e7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/99974.jpg"
+        }
+      ]
+    },
+    {
+      "id": "b4d76ed3-f896-41a0-aae2-46e11ff78c32",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Easy Grilled Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  47 reviews Recipe by: Rachel \"Don't have a lot of time to prepare dinner? Try this recipe for a time saver.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "975d38ff-0f74-4148-b397-91cec2541f07",
+      "type": "h2",
+      "parent_id": "b4d76ed3-f896-41a0-aae2-46e11ff78c32",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 247 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "18a66e6b-0f59-42b6-b757-2ec7f32a6e79",
+      "type": "h3",
+      "parent_id": "975d38ff-0f74-4148-b397-91cec2541f07",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 247 kcal 12% Fat: 3 g 5% Carbs: 27.4g 9% Protein: 25.6 g 51% Cholesterol: 67 mg 22% Sodium: 687 mg 27% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3efb3c96-c0d2-4acd-a4cb-b2dc6984f421",
+      "type": "h3",
+      "parent_id": "975d38ff-0f74-4148-b397-91cec2541f07",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a8cc46e5-9900-424a-be6b-616bba48aadc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 skinless, boneless chicken breast halves ADVERTISEMENT 1 cup fat free Italian-style dressing ADVERTISEMENT 1 green bell pepper ADVERTISEMENT 1 red bell pepper ADVERTISEMENT 1 zucchini ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "ab78189e-cd3b-4f5b-a7fc-e69fe56f67ef",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m Place washed chicken breasts in large sealable bag. Add 1 cup fat-free Italian dressing and close. Let marinate for 5 to 10 minutes. Cut up peppers into big chunks, and zucchini into big slices. Put into another sealable bag. Coat with leftover dressing. Grill chicken and veggies over medium heat."
+        }
+      ]
+    },
+    {
+      "id": "449e2d44-b593-4de2-881f-e9c318f492ed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b971b983-e0d1-4f08-9b64-c54b42604efe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/1003997.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3bc7e510-58fd-4e0d-89c8-79ece9266f2b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "The Ultimate Chili",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  315 reviews Recipe by: Wendy \"Easy recipe with little preparation time. This can also be made with ground turkey, and it tastes even better the next day!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "32aad7a0-b003-4cb2-9a75-987d124222d4",
+      "type": "h2",
+      "parent_id": "3bc7e510-58fd-4e0d-89c8-79ece9266f2b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "6 h 20 m servings 414 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e95a29f7-4a2d-4f85-a80e-3d344d580d31",
+      "type": "h3",
+      "parent_id": "32aad7a0-b003-4cb2-9a75-987d124222d4",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 414 kcal 21% Fat: 11 g 17% Carbs: 49.5g 16% Protein: 28.4 g 57% Cholesterol: 50 mg 17% Sodium: 1015 mg 41% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "89d53d00-badf-4173-96b1-3f794b8e460d",
+      "type": "h3",
+      "parent_id": "32aad7a0-b003-4cb2-9a75-987d124222d4",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "da5dbd84-c54a-4f20-8006-dd61a3d86487",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound lean ground beef ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 3 (15 ounce) cans dark red kidney beans ADVERTISEMENT 3 (14.5 ounce) cans Mexican-style stewed tomatoes ADVERTISEMENT 2 stalks celery, chopped ADVERTISEMENT 1 red bell pepper, chopped ADVERTISEMENT 1/4 cup red wine vinegar ADVERTISEMENT 2 tablespoons chili powder ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1 teaspoon dried parsley ADVERTISEMENT 1 teaspoon dried basil ADVERTISEMENT 1 dash Worcestershire sauce ADVERTISEMENT 1/2 cup red wine ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9c5e4113-ee8a-4c00-aba0-e46723f7f7ad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 6 h 10 m Ready In 6 h 20 m In a large skillet over medium-high heat, cook ground beef until evenly browned. Drain off grease, and season to taste with salt and pepper. In a slow cooker, combine the cooked beef, kidney beans, tomatoes, celery, red bell pepper, and red wine vinegar. Season with chili powder, cumin, parsley, basil and Worcestershire sauce. Stir to distribute ingredients evenly. Cook on High for 6 hours, or on Low for 8 hours. Pour in the wine during the last 2 hours."
+        }
+      ]
+    },
+    {
+      "id": "6bfdc189-3332-476f-b108-b357c10cc0d7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b7963648-7567-4322-bf4e-0f4511904525",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/249686.jpg"
+        }
+      ]
+    },
+    {
+      "id": "e739764a-140d-41a3-a9ce-5ac5dda219c0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Roasted Vegetable Medley",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  142 reviews Recipe by: Lorelei \"This colorful dish has the perfect blend of sweet and savory. It is simple to prepare and can be served as a side dish, salad, or light meal. Feel free to substitute whatever veggies and herbs you have on hand.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "98597f44-9927-4182-a535-388e67165702",
+      "type": "h2",
+      "parent_id": "e739764a-140d-41a3-a9ce-5ac5dda219c0",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 55 m servings 191 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e98c6839-b20e-4e4a-a32a-d10c5dff6a42",
+      "type": "h3",
+      "parent_id": "98597f44-9927-4182-a535-388e67165702",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 191 kcal 10% Fat: 5 g 8% Carbs: 34.6g 11% Protein: 4 g 8% Cholesterol: 0 mg 0% Sodium: 257 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "dae87e24-e63d-41c2-9db2-6bbe9e5cbe2b",
+      "type": "h3",
+      "parent_id": "98597f44-9927-4182-a535-388e67165702",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "82ccbe0c-7c1c-407c-9654-f512699a38f3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 tablespoons olive oil, divided ADVERTISEMENT 1 large yam, peeled and cut into 1 inch pieces ADVERTISEMENT 1 large parsnip, peeled and cut into 1 inch pieces ADVERTISEMENT 1 cup baby carrots ADVERTISEMENT 1 zucchini, cut into 1 inch slices ADVERTISEMENT 1 bunch fresh asparagus, trimmed and cut into 1 inch pieces ADVERTISEMENT 1/2 cup roasted red peppers, cut into 1-inch pieces ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 1/4 cup chopped fresh basil ADVERTISEMENT 1/2 teaspoon kosher salt ADVERTISEMENT 1/2 teaspoon ground black pepper ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "02a1ad7d-1f74-4841-8ef5-ea73d026fe51",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 25 m Cook 1 h Ready In 1 h 55 m Preheat oven to 425 degrees F (220 degrees C). Grease 2 baking sheets with 1 tablespoon olive oil. Place the yams, parsnips, and carrots onto the baking sheets. Bake in the preheated oven for 30 minutes, then add the zucchini and asparagus, and drizzle with the remaining 1 tablespoon of olive oil. Continue baking until all of the vegetables are tender, about 30 minutes more. Once tender, remove from the oven, and allow to cool for 30 minutes on the baking sheet. Toss the roasted peppers together with the garlic, basil, salt, and pepper in a large bowl until combined. Add the roasted vegetables, and toss to mix. Serve at room temperature or cold."
+        }
+      ]
+    },
+    {
+      "id": "19ed58bd-1afa-4e59-bcaf-00c751ac217a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "0b24387e-5403-4fc3-b7a0-2400d0ea8adb",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/46633.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1676374d-a145-4443-8878-049bcb8c589d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Split Pea Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  725 reviews Recipe by: bluebayou \"This is a wonderful, hearty split pea soup. Great for a fall or blustery winter day.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "fd6a6c90-81f8-4438-9362-1994cd2ea069",
+      "type": "h2",
+      "parent_id": "1676374d-a145-4443-8878-049bcb8c589d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "10 h 30 m servings 310 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "02172dfa-8410-46dc-96c3-7b33c324eb55",
+      "type": "h3",
+      "parent_id": "fd6a6c90-81f8-4438-9362-1994cd2ea069",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 310 kcal 16% Fat: 1 g 2% Carbs: 57.9g 19% Protein: 19.7 g 39% Cholesterol: 0 mg 0% Sodium: 255 mg 10% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f3a7b824-0445-433c-beec-8b3c3c559742",
+      "type": "h3",
+      "parent_id": "fd6a6c90-81f8-4438-9362-1994cd2ea069",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0e28cb0f-95e4-47c1-86da-33cf151d3df4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/4 cups dried split peas ADVERTISEMENT 2 quarts cold water ADVERTISEMENT 1 1/2 pounds ham bone ADVERTISEMENT 2 onions, thinly sliced ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/4 teaspoon ground black pepper ADVERTISEMENT 1 pinch dried marjoram ADVERTISEMENT 3 stalks celery, chopped ADVERTISEMENT 3 carrots, chopped ADVERTISEMENT 1 potato, diced ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "85f93ebb-6715-4253-8525-94b80dccd092",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 2 h Ready In 10 h 30 m In a large stock pot, cover peas with 2 quarts cold water and soak overnight. If you need a faster method, simmer the peas gently for 2 minutes, and then soak for l hour. Once peas are soaked, add ham bone, onion, salt, pepper and marjoram. Cover, bring to boil and then simmer for 1 1/2 hours, stirring occasionally. Remove bone; cut off meat, dice and return meat to soup. Add celery, carrots and potatoes. Cook slowly, uncovered for 30 to 40 minutes, or until vegetables are tender."
+        }
+      ]
+    },
+    {
+      "id": "2461fbf7-be7f-4758-ab0f-fa373ef82263",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "2521cb94-c8c7-4a39-98ef-dd4cc0a8707f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/576102.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c4426894-d05a-4b00-9fd4-09ec1ef74b1b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Jay's Signature Pizza Crust",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3083 reviews Recipe by: JASON SHARP \"This recipe yields a crust that is soft and doughy on the inside and slightly crusty on the outside. Cover it with your favorite sauce and topping to make a delicious pizza.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "f2b5812c-d91e-4c3f-b076-9feb095aa0d2",
+      "type": "h2",
+      "parent_id": "c4426894-d05a-4b00-9fd4-09ec1ef74b1b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 50 m servings 119 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "b0ed38c5-841f-48c0-a8ba-7654bccd66b4",
+      "type": "h3",
+      "parent_id": "f2b5812c-d91e-4c3f-b076-9feb095aa0d2",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 119 kcal 6% Fat: 2.1 g 3% Carbs: 21.6g 7% Protein: 3.1 g 6% Cholesterol: 0 mg 0% Sodium: 157 mg 6% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7aa6d3da-f1ab-4cb3-b942-c31b427b76c3",
+      "type": "h3",
+      "parent_id": "f2b5812c-d91e-4c3f-b076-9feb095aa0d2",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0ca02ecd-b91f-43db-a7d4-cf063e601dbf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "2 1/4 teaspoons active dry yeast ADVERTISEMENT 1/2 teaspoon brown sugar ADVERTISEMENT 1 1/2 cups warm water (110 degrees F/45 degrees C) ADVERTISEMENT 1 teaspoon salt ADVERTISEMENT 2 tablespoons olive oil ADVERTISEMENT 3 1/3 cups all-purpose flour ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "5e181679-9f5a-4da8-a235-2b81210a85dd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 20 m Ready In 1 h 50 m In a large bowl, dissolve the yeast and brown sugar in the water, and let sit for 10 minutes. Stir the salt and oil into the yeast solution. Mix in 2 1/2 cups of the flour. Turn dough out onto a clean, well floured surface, and knead in more flour until the dough is no longer sticky. Place the dough into a well oiled bowl, and cover with a cloth. Let the dough rise until double; this should take about 1 hour. Punch down the dough, and form a tight ball. Allow the dough to relax for a minute before rolling out. Use for your favorite pizza recipe. Preheat oven to 425 degrees F (220 degrees C). If you are baking the dough on a pizza stone, you may place your toppings on the dough, and bake immediately. If you are baking your pizza in a pan, lightly oil the pan, and let the dough rise for 15 or 20 minutes before topping and baking it. Bake pizza in preheated oven, until the cheese and crust are golden brown, about 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "04debd5e-d386-4844-8fb5-3931d7718194",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "3b2b88c4-5948-423f-bcf8-8d50256076ab",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/690435.jpg"
+        }
+      ]
+    },
+    {
+      "id": "a36e5d08-bbef-46a9-b581-dc160e7ba89b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Mexican Rice III",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  743 reviews Recipe by: ALANASMOM \"This is an excellent authentic Mexican rice recipe (not to be confused with Spanish rice) that I make as a side dish with all of my Mexican dishes. The key is cooking the rice properly and using good quality chicken broth or stock.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "c515d855-f11f-4b44-bcdf-4c2e4b80f0bf",
+      "type": "h2",
+      "parent_id": "a36e5d08-bbef-46a9-b581-dc160e7ba89b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 158 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "047966d3-15eb-4574-998c-cc70c49a5b05",
+      "type": "h3",
+      "parent_id": "c515d855-f11f-4b44-bcdf-4c2e4b80f0bf",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 158 kcal 8% Fat: 2.8 g 4% Carbs: 29.1g 9% Protein: 3.4 g 7% Cholesterol: 1 mg < 1% Sodium: 631 mg 25% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d1dea79a-55ce-4c69-a893-74776b04f257",
+      "type": "h3",
+      "parent_id": "c515d855-f11f-4b44-bcdf-4c2e4b80f0bf",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "9748f5b5-28f1-4260-ad39-b7f9dd620e65",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup long grain white rice ADVERTISEMENT 1 tablespoon vegetable oil ADVERTISEMENT 1 1/2 cups chicken broth ADVERTISEMENT 1/2 onion, finely chopped ADVERTISEMENT 1/2 green bell pepper, finely chopped ADVERTISEMENT 1 fresh jalapeno pepper, chopped ADVERTISEMENT 1 tomato, seeded and chopped ADVERTISEMENT 1 cube chicken bouillon ADVERTISEMENT salt and pepper to taste ADVERTISEMENT 1/2 teaspoon ground cumin ADVERTISEMENT 1/2 cup chopped fresh cilantro ADVERTISEMENT 1 clove garlic, halved ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "94c1a540-ab3c-4024-b4cc-5c223839ce25",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 25 m Ready In 30 m In a medium sauce pan, cook rice in oil over medium heat for about 3 minutes. Pour in chicken broth, and bring to a boil. Stir in onion, green pepper, jalapeno, and diced tomato. Season with bouillon cube, salt and pepper, cumin, cilantro, and garlic. Bring to a boil, cover, and reduce heat to low. Cook for 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "72883e95-4355-43b3-b1f1-af84f0bd1d98",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "332620c1-d9a2-4e85-8ea6-769c4816f97f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2119665.jpg"
+        }
+      ]
+    },
+    {
+      "id": "93dd1df3-85f5-4c73-a86a-01f08629ceba",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Black Beans and Rice",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  760 reviews Recipe by: Robyn Webb \"The perfect meal! Preparation Time: 20 minutes. This recipe is from The WEBB Cooks, articles and recipes by Robyn Webb, courtesy of the American Diabetes Association.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "e5c46bc5-c875-4f34-8329-049513c06940",
+      "type": "h2",
+      "parent_id": "93dd1df3-85f5-4c73-a86a-01f08629ceba",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 140 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "c0f0db55-a282-494e-8851-ef82af1f13a1",
+      "type": "h3",
+      "parent_id": "e5c46bc5-c875-4f34-8329-049513c06940",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 140 kcal 7% Fat: 0.9 g 1% Carbs: 27.1g 9% Protein: 6.3 g 13% Cholesterol: 0 mg 0% Sodium: 354 mg 14% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "02007b0d-d4b5-42a5-bc63-d1ca3e705e41",
+      "type": "h3",
+      "parent_id": "e5c46bc5-c875-4f34-8329-049513c06940",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "77b12c11-82a3-4231-872a-ab782d795ee8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 teaspoon olive oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 2 cloves garlic, minced ADVERTISEMENT 3/4 cup uncooked white rice ADVERTISEMENT 1 1/2 cups low sodium, low fat vegetable broth ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1/4 teaspoon cayenne pepper ADVERTISEMENT 3 1/2 cups canned black beans, drained ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "622fe83d-f0e4-4fd7-8837-3d3f470d1486",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 25 m Ready In 30 m In a stockpot over medium-high heat, heat the oil. Add the onion and garlic and saute for 4 minutes. Add the rice and saute for 2 minutes. Add the vegetable broth, bring to a boil, cover and lower the heat and cook for 20 minutes. Add the spices and black beans."
+        }
+      ]
+    },
+    {
+      "id": "3bd9423a-08a4-4318-bd9f-a3fc8f1a282b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "4717d35b-c1dd-4ec7-9fbc-e33d866a0959",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/364458.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d0a4d85b-0b72-4f8b-a4b4-0ac7ea0d3e4c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Blackened Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  679 reviews Recipe by: Karena \"Great on a summer's day with fresh corn and mashed potatoes.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "637f9caa-b7e9-4882-a3c0-8c46f54990e3",
+      "type": "h2",
+      "parent_id": "d0a4d85b-0b72-4f8b-a4b4-0ac7ea0d3e4c",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 m servings 135 cals for serving adjustment Serving size has been adjusted! Original recipe yields 2 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "85089bc5-7d51-4a2f-85af-de77b76c925a",
+      "type": "h3",
+      "parent_id": "637f9caa-b7e9-4882-a3c0-8c46f54990e3",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 135 kcal 7% Fat: 3 g 5% Carbs: 0.9g < 1% Protein: 24.7 g 49% Cholesterol: 67 mg 22% Sodium: 205 mg 8% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "357e1afc-33e0-4017-80ef-d67a14461a64",
+      "type": "h3",
+      "parent_id": "637f9caa-b7e9-4882-a3c0-8c46f54990e3",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "a07a2002-6c30-4a33-a53f-a2eff6ddc2b9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/2 teaspoon paprika ADVERTISEMENT 1/8 teaspoon salt ADVERTISEMENT 1/4 teaspoon cayenne pepper ADVERTISEMENT 1/4 teaspoon ground cumin ADVERTISEMENT 1/4 teaspoon dried thyme ADVERTISEMENT 1/8 teaspoon ground white pepper ADVERTISEMENT 1/8 teaspoon onion powder ADVERTISEMENT 2 skinless, boneless chicken breast halves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "89862b25-2c0d-4211-a579-551a040cde62",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 10 m Ready In 20 m Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet. Heat a cast iron skillet over high heat for 5 minutes until it is smoking hot. Mix together the paprika, salt, cayenne, cumin, thyme, white pepper, and onion powder. Oil the chicken breasts with cooking spray on both sides, then coat the chicken breasts evenly with the spice mixture. Place the chicken in the hot pan, and cook for 1 minute. Turn, and cook 1 minute on other side. Place the breasts on the prepared baking sheet. Bake in the preheated oven until no longer pink in the center and the juices run clear, about 5 minutes."
+        }
+      ]
+    },
+    {
+      "id": "62ef5621-f396-4823-ae79-86b879805494",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "f5d30cf8-499d-4307-9ede-cf371946ebbc",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2049275.jpg"
+        }
+      ]
+    },
+    {
+      "id": "43694316-d163-4298-8be6-f3f0986d4254",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Fluffy French Toast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2478 reviews Recipe by: Bonnie \"This French toast recipe is different because it uses flour. I have given it to some friends and they've all liked it better than the French toast they usually make!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "6b7c76ad-e851-4775-892e-dbcad1c447fe",
+      "type": "h2",
+      "parent_id": "43694316-d163-4298-8be6-f3f0986d4254",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 123 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "1e94c9d6-0403-4e44-a450-5a09e88a75af",
+      "type": "h3",
+      "parent_id": "6b7c76ad-e851-4775-892e-dbcad1c447fe",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 123 kcal 6% Fat: 2.7 g 4% Carbs: 19.4g 6% Protein: 4.8 g 10% Cholesterol: 48 mg 16% Sodium: 230 mg 9% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c051735a-2dbb-4596-bcee-3626cbd1cfee",
+      "type": "h3",
+      "parent_id": "6b7c76ad-e851-4775-892e-dbcad1c447fe",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "64246a8b-56e9-4f32-b328-579bfe9987d8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1/4 cup all-purpose flour ADVERTISEMENT 1 cup milk ADVERTISEMENT 1 pinch salt ADVERTISEMENT 3 eggs ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT 1 teaspoon vanilla extract ADVERTISEMENT 1 tablespoon white sugar ADVERTISEMENT 12 thick slices bread ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "3164a306-c339-4c20-83ab-44d6a47f3e23",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth. Heat a lightly oiled griddle or frying pan over medium heat. Soak bread slices in mixture until saturated. Cook bread on each side until golden brown. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "187068e4-45b4-4a5a-9806-3bf800474a20",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "af53f577-8f01-4b95-b3e3-3d1c7c1a19ed",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3086983.jpg"
+        }
+      ]
+    },
+    {
+      "id": "c8a7fd15-25c9-47fc-9a1b-0133bfe06428",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Cabbage Fat-Burning Soup",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  925 reviews Recipe by: Nell Marsh \"This tomato and cabbage soup was rumored, in days of old, to melt away those thighs.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "90f63d1e-f621-4979-9449-1de3f37cd15f",
+      "type": "h2",
+      "parent_id": "c8a7fd15-25c9-47fc-9a1b-0133bfe06428",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "45 m servings 90 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "77961656-45b6-4612-9556-d96952264055",
+      "type": "h3",
+      "parent_id": "90f63d1e-f621-4979-9449-1de3f37cd15f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 90 kcal 5% Fat: 0.5 g < 1% Carbs: 20.7g 7% Protein: 4 g 8% Cholesterol: 0 mg 0% Sodium: 483 mg 19% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c8ee1bac-475a-4e9a-be31-bb2706379c1f",
+      "type": "h3",
+      "parent_id": "90f63d1e-f621-4979-9449-1de3f37cd15f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "0bcc2077-4354-4318-8092-4c6aea4b6633",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 carrots, chopped ADVERTISEMENT 3 onions, chopped ADVERTISEMENT 2 (16 ounce) cans whole peeled tomatoes, with liquid ADVERTISEMENT 1 large head cabbage, chopped ADVERTISEMENT 1 (1 ounce) envelope dry onion soup mix ADVERTISEMENT 1 (15 ounce) can cut green beans, drained ADVERTISEMENT 2 quarts tomato juice ADVERTISEMENT 2 green bell peppers, diced ADVERTISEMENT 10 stalks celery, chopped ADVERTISEMENT 1 (14 ounce) can beef broth ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b2e45dfc-e6b5-412c-83c2-2a00cd77b615",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 25 m Ready In 45 m Place carrots, onions, tomatoes, cabbage, green beans, peppers, and celery in a large pot. Add onion soup mix, tomato juice, beef broth, and enough water to cover vegetables. Simmer until vegetables are tender. May be stored in the refrigerator for several days."
+        }
+      ]
+    },
+    {
+      "id": "6e0e0dec-f8c9-433d-83d8-2bcfccc4c930",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "821e5017-d4af-401c-80bb-9fbe531e965a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/216368.jpg"
+        }
+      ]
+    },
+    {
+      "id": "1d800ae8-f11c-4ee3-b637-db7352b500e9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Adrienne's Cucumber Salad",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  816 reviews Recipe by: JSCHMAND \"Cool, delicious cucumber salad. For a pretty salad, peel only half of each cucumber, leaving strips of skin on each. Don't make the vinegar solution first and then chop the cucumber because it's important that the vinegar solution be hot to ensure proper flavoring.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3fe135a1-8925-470a-89cc-feac13db28be",
+      "type": "h2",
+      "parent_id": "1d800ae8-f11c-4ee3-b637-db7352b500e9",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "servings 99 cals for serving adjustment Serving size has been adjusted! Original recipe yields 8 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0f7dd6bc-a0d1-44f1-81d0-db52461bcd2d",
+      "type": "h3",
+      "parent_id": "3fe135a1-8925-470a-89cc-feac13db28be",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 99 kcal 5% Fat: 0.2 g < 1% Carbs: 24.9g 8% Protein: 1.1 g 2% Cholesterol: 0 mg 0% Sodium: 4 mg < 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "539c89bf-e98b-4d97-afcd-7c04f4e684ef",
+      "type": "h3",
+      "parent_id": "3fe135a1-8925-470a-89cc-feac13db28be",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e3da24d6-0f7f-45ab-8dd2-a4b6a7108e6c",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 cucumbers, thinly sliced ADVERTISEMENT 1 small white onion, thinly sliced ADVERTISEMENT 1 cup white vinegar ADVERTISEMENT 1/2 cup water ADVERTISEMENT 3/4 cup white sugar ADVERTISEMENT 1 tablespoon dried dill, or to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "90669765-aeda-4bcf-897b-ab5d9985de54",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Toss together the cucumbers and onion in a large bowl. Combine the vinegar, water and sugar in a saucepan over medium-high heat. Bring to a boil, and pour over the cucumber and onions. Stir in dill, cover, and refrigerate until cold. This can also be eaten at room temperature, but be sure to allow the cucumbers to marinate for at least 1 hour."
+        }
+      ]
+    },
+    {
+      "id": "7ef570dc-2a39-4d2f-aacf-e0810885a6bd",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "6ebce12b-58e9-4f95-aa68-0142632622c3",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/701274.jpg"
+        }
+      ]
+    },
+    {
+      "id": "0456bc7d-edca-443d-a132-3f2d608e5dd5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Cilantro Lime Chicken",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  880 reviews Recipe by: ltlmsmfft \"This is a nice change from plain chicken tacos. The cilantro really adds a burst of flavor to this recipe.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "469c9081-a6a7-4cc8-aa06-62a85ed3f225",
+      "type": "h2",
+      "parent_id": "0456bc7d-edca-443d-a132-3f2d608e5dd5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 10 m servings 272 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "1325e8e2-ddd2-4cb6-a6bf-382a18661359",
+      "type": "h3",
+      "parent_id": "469c9081-a6a7-4cc8-aa06-62a85ed3f225",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 272 kcal 14% Fat: 4.7 g 7% Carbs: 9.3g 3% Protein: 45.3 g 91% Cholesterol: 117 mg 39% Sodium: 976 mg 39% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c7887b59-c5e2-4a77-a8cb-ff5dd2cd7748",
+      "type": "h3",
+      "parent_id": "469c9081-a6a7-4cc8-aa06-62a85ed3f225",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "bd28bb99-28db-4786-a80c-3952365452b4",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (16 ounce) jar salsa ADVERTISEMENT 1 (1.25 ounce) package dry taco seasoning mix ADVERTISEMENT 1 lime, juiced ADVERTISEMENT 3 tablespoons chopped fresh cilantro ADVERTISEMENT 3 pounds skinless, boneless chicken breast halves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "589c06e2-a99f-4168-a651-e6934d56aad5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 4 h Ready In 4 h 10 m Place the salsa, taco seasoning, lime juice, and cilantro into a slow cooker, and stir to combine. Add the chicken breasts, and stir to coat with the salsa mixture. Cover the cooker, set to High, and cook until the chicken is very tender, about 4 hours. If desired, set cooker to Low and cook 6 to 8 hours. Shred chicken with 2 forks to serve."
+        }
+      ]
+    },
+    {
+      "id": "e97a16b1-3437-4633-9c23-7a3155d1c8f8",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "ebeb5ca5-794b-427b-a199-8cd1db169bb6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2209649.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f2221405-6ec6-426b-93c3-ad0c43ea6406",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Amazing Pork Tenderloin in the Slow Cooker",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2311 reviews Recipe by: chowsito \"This will melt in your mouth! This pork tenderloin soaks up the yummy juices as it cooks. Make sure to serve up the au jus on the side - its amazing! This recipe is so simple, you will love it!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "a19f0241-c29a-4a57-ba44-bc2994926c77",
+      "type": "h2",
+      "parent_id": "f2221405-6ec6-426b-93c3-ad0c43ea6406",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 h 15 m servings 180 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4ccf29ae-4459-4f75-b000-b2af380e5ede",
+      "type": "h3",
+      "parent_id": "a19f0241-c29a-4a57-ba44-bc2994926c77",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 180 kcal 9% Fat: 3.7 g 6% Carbs: 5.8g 2% Protein: 24.5 g 49% Cholesterol: 65 mg 22% Sodium: 918 mg 37% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "f07b1f37-93ec-43da-a9ed-410ee89c218d",
+      "type": "h3",
+      "parent_id": "a19f0241-c29a-4a57-ba44-bc2994926c77",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "ecf10632-22de-4f6f-8a62-fb8d81cf5216",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (2 pound) pork tenderloin ADVERTISEMENT 1 (1 ounce) envelope dry onion soup mix ADVERTISEMENT 1 cup water ADVERTISEMENT 3/4 cup red wine ADVERTISEMENT 3 tablespoons minced garlic ADVERTISEMENT 3 tablespoons soy sauce ADVERTISEMENT freshly ground black pepper to taste ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "9d5c6ecc-2d1b-4c75-98fd-df1866434157",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 4 h Ready In 4 h 15 m Place pork tenderloin in a slow cooker with the contents of the soup packet. Pour water, wine, and soy sauce over the top, turning the pork to coat. Carefully spread garlic over the pork, leaving as much on top of the roast during cooking as possible. Sprinkle with pepper, cover, and cook on low setting for 4 hours. Serve with cooking liquid on the side as au jus."
+        }
+      ]
+    },
+    {
+      "id": "a6b56ce3-ad32-4c14-b5c8-f1e8d79cbdf7",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "46b74330-0167-4d2f-bf7b-99f048375b08",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/820428.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4c3b01d7-8eae-4230-bedc-706a254c2d0b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Homemade Black Bean Veggie Burgers",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  2264 reviews Recipe by: LAURENMU \"You will never want to eat frozen veggie burgers again. These are so easy, and you'll be proud to have created such a vegetarian delight.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "9700f605-94cc-4ffc-ba75-40e68349d948",
+      "type": "h2",
+      "parent_id": "4c3b01d7-8eae-4230-bedc-706a254c2d0b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "35 m servings 198 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "4fb8f35a-2541-45eb-a0f0-005035f4a823",
+      "type": "h3",
+      "parent_id": "9700f605-94cc-4ffc-ba75-40e68349d948",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 198 kcal 10% Fat: 3 g 5% Carbs: 33.1g 11% Protein: 11.2 g 22% Cholesterol: 46 mg 16% Sodium: 607 mg 24% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4b05c986-8a1f-4151-bb44-9da98ad111a2",
+      "type": "h3",
+      "parent_id": "9700f605-94cc-4ffc-ba75-40e68349d948",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "6a2d0d6b-d4d0-45ad-a44d-c92156a07d61",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (16 ounce) can black beans, drained and rinsed ADVERTISEMENT 1/2 green bell pepper, cut into 2 inch pieces ADVERTISEMENT 1/2 onion, cut into wedges ADVERTISEMENT 3 cloves garlic, peeled ADVERTISEMENT 1 egg ADVERTISEMENT 1 tablespoon chili powder ADVERTISEMENT 1 tablespoon cumin ADVERTISEMENT 1 teaspoon Thai chili sauce or hot sauce ADVERTISEMENT 1/2 cup bread crumbs ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "b66174c1-240e-4aa0-b6cd-15ab6003abf6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 20 m Ready In 35 m If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet. In a medium bowl, mash black beans with a fork until thick and pasty. In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans. In a small bowl, stir together egg, chili powder, cumin, and chili sauce. Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties. If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side."
+        }
+      ]
+    },
+    {
+      "id": "d5d82e46-03a8-49ec-84cb-78e0b10f9d8e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "61510393-4813-4bd1-a04b-e1673e059a1a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/25840.jpg"
+        }
+      ]
+    },
+    {
+      "id": "7398d69e-dfc2-49b9-8655-b4a01ec3071e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Sarah's Applesauce",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1896 reviews Recipe by: PHATCAT \"This applesauce is delicious! I make it for my younger brother all the time and he loves it - and he hates canned applesauce!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "882b697a-e826-4f7b-bca6-11b58d6b668b",
+      "type": "h2",
+      "parent_id": "7398d69e-dfc2-49b9-8655-b4a01ec3071e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "30 m servings 121 cals for serving adjustment Serving size has been adjusted! Original recipe yields 4 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0047fd21-33ae-4f7a-83bc-d9871e65ead1",
+      "type": "h3",
+      "parent_id": "882b697a-e826-4f7b-bca6-11b58d6b668b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 121 kcal 6% Fat: 0.2 g < 1% Carbs: 31.8g 10% Protein: 0.4 g < 1% Cholesterol: 0 mg 0% Sodium: 3 mg < 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "35155ba0-8a35-48a8-8804-f8814a4b6c8d",
+      "type": "h3",
+      "parent_id": "882b697a-e826-4f7b-bca6-11b58d6b668b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3b34b76d-74ab-4d94-921f-62403c49dfc6",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "4 apples - peeled, cored and chopped ADVERTISEMENT 3/4 cup water ADVERTISEMENT 1/4 cup white sugar ADVERTISEMENT 1/2 teaspoon ground cinnamon ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "0ea6407c-922e-4df1-9754-b8c2ebede402",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 20 m Ready In 30 m In a saucepan, combine apples, water, sugar, and cinnamon. Cover, and cook over medium heat for 15 to 20 minutes, or until apples are soft. Allow to cool, then mash with a fork or potato masher."
+        }
+      ]
+    },
+    {
+      "id": "3812fdc0-683f-4508-a20d-aa91189808ad",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "9445328b-ee18-456c-82f2-5a4418cf5ea0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/314943.jpg"
+        }
+      ]
+    },
+    {
+      "id": "6100c92f-6f04-406c-8508-3bbc665f293e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pretzel Turtles®",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1114 reviews Recipe by: Cacki \"Quick and easy Turtles® candies! Mini pretzels, caramel covered chocolate candies, and pecans make up this delicious treat.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "3a4017e1-3ad1-41d2-a565-35aed1a8bd7f",
+      "type": "h2",
+      "parent_id": "6100c92f-6f04-406c-8508-3bbc665f293e",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "14 m servings 82 cals for serving adjustment Serving size has been adjusted! Original recipe yields 20 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "cc8a9e15-bd1d-4333-bcc5-68c718a91a40",
+      "type": "h3",
+      "parent_id": "3a4017e1-3ad1-41d2-a565-35aed1a8bd7f",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 82 kcal 4% Fat: 2.2 g 3% Carbs: 14.1g 5% Protein: 1.7 g 3% Cholesterol: < 1 mg < 1% Sodium: 263 mg 11% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "adcc1eff-e25c-48e1-ac5e-3b687249a792",
+      "type": "h3",
+      "parent_id": "3a4017e1-3ad1-41d2-a565-35aed1a8bd7f",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "586e468d-cfbe-4477-b468-c0a73a3e86ea",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "20 small mini pretzels ADVERTISEMENT 20 chocolate covered caramel candies ADVERTISEMENT 20 pecan halves ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a8cde5b2-a67b-4294-8a1e-3644b56d1fae",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 4 m Ready In 14 m Preheat oven to 300 degrees F (150 degrees C). Arrange the pretzels in a single layer on a parchment lined cookie sheet. Place one chocolate covered caramel candy on each pretzel. Bake for 4 minutes. While the candy is warm, press a pecan half onto each candy covered pretzel. Cool completely before storing in an airtight container."
+        }
+      ]
+    },
+    {
+      "id": "dd015720-4706-43c3-9e4a-34efe537112e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "1c3a45cd-31de-448d-a5e5-33288a488d7f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/373926.jpg"
+        }
+      ]
+    },
+    {
+      "id": "d4a2077e-59d3-4ca8-aa0e-793996bddc57",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Refried Beans Without the Refry",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1715 reviews Recipe by: CHEFCLAUDE \"Refried beans are simple to make when cooked in a slow cooker. This recipe will yield flavorful, fat-free refried beans seasoned with garlic, jalapeno, and cumin.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "603227f5-4948-4763-8129-584a4d639037",
+      "type": "h2",
+      "parent_id": "d4a2077e-59d3-4ca8-aa0e-793996bddc57",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 15 m servings 139 cals for serving adjustment Serving size has been adjusted! Original recipe yields 15 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "0a787454-2524-4618-82e9-31b5b924ce21",
+      "type": "h3",
+      "parent_id": "603227f5-4948-4763-8129-584a4d639037",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 139 kcal 7% Fat: 0.5 g < 1% Carbs: 25.4g 8% Protein: 8.5 g 17% Cholesterol: 0 mg 0% Sodium: 785 mg 31% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d16961f6-b5fd-474d-be27-685c82dede5f",
+      "type": "h3",
+      "parent_id": "603227f5-4948-4763-8129-584a4d639037",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "3620f449-977d-4343-acf9-c9ac43bc94b2",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 onion, peeled and halved ADVERTISEMENT 3 cups dry pinto beans, rinsed ADVERTISEMENT 1/2 fresh jalapeno pepper, seeded and chopped ADVERTISEMENT 2 tablespoons minced garlic ADVERTISEMENT 5 teaspoons salt ADVERTISEMENT 1 3/4 teaspoons fresh ground black pepper ADVERTISEMENT 1/8 teaspoon ground cumin, optional ADVERTISEMENT 9 cups water ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "a61efcc8-3277-4000-af0c-1afcf7f40e95",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 8 h Ready In 8 h 15 m Place the onion, rinsed beans, jalapeno, garlic, salt, pepper, and cumin into a slow cooker. Pour in the water and stir to combine. Cook on High for 8 hours, adding more water as needed. Note: if more than 1 cup of water has evaporated during cooking, then the temperature is too high. Once the beans have cooked, strain them, and reserve the liquid. Mash the beans with a potato masher, adding the reserved water as needed to attain desired consistency."
+        }
+      ]
+    },
+    {
+      "id": "35abb5ec-363c-4f4e-906a-2d353388ee6a",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "5f73a269-2436-4f77-860a-44220ee20585",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/250x250/710781.jpg"
+        }
+      ]
+    },
+    {
+      "id": "099221f9-4194-43fe-b935-e2128830ac70",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Gary's Turkey Burritos",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  153 reviews Recipe by: Gary \"Easy to make, these special low-fat burritos taste awesome! You don't eat red meat, but love burritos? Well, you can't taste the difference here. These are medium spicy, not fire hot!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "cf3990c8-40af-40f0-b583-2a212e0ab556",
+      "type": "h2",
+      "parent_id": "099221f9-4194-43fe-b935-e2128830ac70",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "25 m servings 588 cals for serving adjustment Serving size has been adjusted! Original recipe yields 6 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "1aad40cf-17eb-4e82-baef-3fee05b8ccbf",
+      "type": "h3",
+      "parent_id": "cf3990c8-40af-40f0-b583-2a212e0ab556",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 588 kcal 29% Fat: 8.4 g 13% Carbs: 82.1g 26% Protein: 34.5 g 69% Cholesterol: 76 mg 25% Sodium: 1595 mg 64% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "01b24278-4936-4c10-9e5f-6f25b5679f9c",
+      "type": "h3",
+      "parent_id": "cf3990c8-40af-40f0-b583-2a212e0ab556",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "e9c88cba-6a38-413c-aeaa-061ff801d702",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 pound ground turkey ADVERTISEMENT 2 (7 ounce) cans hot tomato sauce ADVERTISEMENT 1 (15.25 ounce) can whole kernel corn, drained ADVERTISEMENT 1/2 small onion, diced ADVERTISEMENT 1 (16 ounce) can fat-free refried beans ADVERTISEMENT 1 (16 ounce) container fat free sour cream ADVERTISEMENT 3/4 cup shredded reduced-fat Cheddar cheese ADVERTISEMENT 6 (10 inch) flour tortillas ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "6cd797a4-4812-4879-ab15-e2c0eb7b52ee",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 5 m Cook 20 m Ready In 25 m In a large skillet over medium high heat, brown ground turkey. Stir in tomato sauce, corn and onion. Reduce heat to medium and let simmer, stirring occasionally, until liquids reduce (about 20 minutes). In a separate medium skillet, heat beans over medium-low heat. Prepare sour cream and cheese for sprinkling into burritos. One by one, heat tortillas over stove burner for 1 to 2 minutes, flipping a few times. Top with beans, then meat mixture, then sour cream and cheese. Fold over and serve while still warm."
+        }
+      ]
+    },
+    {
+      "id": "189ffcff-c47e-49ee-90f4-d83552dc6793",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "283e266d-60e8-4a2a-b179-06f547cff201",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/2074494.jpg"
+        }
+      ]
+    },
+    {
+      "id": "097da342-2fc2-4f91-a579-609fa53fdbcf",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Slow Cooker Turkey Breast",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1129 reviews Recipe by: ms_sally \"Quick and easy way to cook turkey in the slow cooker. With only two ingredients, the only hard part is waiting.\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "bc552ddd-b54f-486f-bd10-9c6a2d0fa38b",
+      "type": "h2",
+      "parent_id": "097da342-2fc2-4f91-a579-609fa53fdbcf",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "8 h 10 m servings 273 cals for serving adjustment Serving size has been adjusted! Original recipe yields 12 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "be3d6fad-b222-4ba2-a39d-76b014d9f783",
+      "type": "h3",
+      "parent_id": "bc552ddd-b54f-486f-bd10-9c6a2d0fa38b",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 273 kcal 14% Fat: 1.5 g 2% Carbs: 1.5g < 1% Protein: 59.5 g 119% Cholesterol: 164 mg 55% Sodium: 309 mg 12% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "96177d4b-963e-4c79-b4f2-dac364ed2cec",
+      "type": "h3",
+      "parent_id": "bc552ddd-b54f-486f-bd10-9c6a2d0fa38b",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "4a640090-56bd-4329-9cf0-1b997f9371d1",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 (6 pound) bone-in turkey breast ADVERTISEMENT 1 (1 ounce) envelope dry onion soup mix ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "46eee604-e7dc-44f0-8692-2400afd87f3f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 10 m Cook 8 h Ready In 8 h 10 m Rinse the turkey breast and pat dry. Cut off any excess skin, but leave the skin covering the breast. Rub onion soup mix all over outside of the turkey and under the skin. Place in a slow cooker. Cover, and cook on High for 1 hour, then set to Low, and cook for 7 hours."
+        }
+      ]
+    },
+    {
+      "id": "800d87f1-58ac-4a9a-a9c3-a64b9a45ff7e",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "b47b27de-afd3-4578-b964-99077f669b3f",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/357989.jpg"
+        }
+      ]
+    },
+    {
+      "id": "05a22c18-ec8a-434b-9f1e-f2cc951da2c5",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Quinoa and Black Beans",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  3627 reviews Recipe by: 3LIONCUBS \"Very flavorful alternative to black beans and rice. Quinoa is a nutty grain from South America.\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "94c9430b-9e9a-4759-9b00-bbfcade43378",
+      "type": "h2",
+      "parent_id": "05a22c18-ec8a-434b-9f1e-f2cc951da2c5",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "50 m servings 153 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "221850c9-07b9-4b76-8b07-b01e40964bd0",
+      "type": "h3",
+      "parent_id": "94c9430b-9e9a-4759-9b00-bbfcade43378",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 153 kcal 8% Fat: 1.7 g 3% Carbs: 27.8g 9% Protein: 7.7 g 15% Cholesterol: 0 mg 0% Sodium: 517 mg 21% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "cb4766ba-1d73-44c4-8fa4-6fe35c367f35",
+      "type": "h3",
+      "parent_id": "94c9430b-9e9a-4759-9b00-bbfcade43378",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "1d4dbaad-c292-455a-9a3e-ac5931d9c625",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 teaspoon vegetable oil ADVERTISEMENT 1 onion, chopped ADVERTISEMENT 3 cloves garlic, chopped ADVERTISEMENT 3/4 cup quinoa ADVERTISEMENT 1 1/2 cups vegetable broth ADVERTISEMENT 1 teaspoon ground cumin ADVERTISEMENT 1/4 teaspoon cayenne pepper ADVERTISEMENT salt and ground black pepper to taste ADVERTISEMENT 1 cup frozen corn kernels ADVERTISEMENT 2 (15 ounce) cans black beans, rinsed and drained ADVERTISEMENT 1/2 cup chopped fresh cilantro ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "af137de7-1bd9-421f-9b22-a539fc236f69",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 15 m Cook 35 m Ready In 50 m Heat oil in a saucepan over medium heat; cook and stir onion and garlic until lightly browned, about 10 minutes. Mix quinoa into onion mixture and cover with vegetable broth; season with cumin, cayenne pepper, salt, and pepper. Bring the mixture to a boil. Cover, reduce heat, and simmer until quinoa is tender and broth is absorbed, about 20 minutes. Stir frozen corn into the saucepan, and continue to simmer until heated through, about 5 minutes; mix in the black beans and cilantro."
+        }
+      ]
+    },
+    {
+      "id": "e3bbeb06-348e-440e-b910-f79daf089538",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "e9fdd8ff-f2c6-426f-a173-5a9af33a8bbe",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/3993107.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ab2abc34-a970-40bf-8d61-1a6188a6377d",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Chocolate Crinkles II",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  1249 reviews Recipe by: Ingrid \"Chocolate cookies coated in confectioners' sugar...very good!\" Featured in Allrecipes Magazine — Subscribe! Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "7e5eeb8a-a3ff-4b97-a77c-ef6d3b56f7ec",
+      "type": "h2",
+      "parent_id": "ab2abc34-a970-40bf-8d61-1a6188a6377d",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "5 h servings 58 cals for serving adjustment Serving size has been adjusted! Original recipe yields 72 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "6a52a3ca-5d60-46d0-9dd9-c15c28699d32",
+      "type": "h3",
+      "parent_id": "7e5eeb8a-a3ff-4b97-a77c-ef6d3b56f7ec",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 58 kcal 3% Fat: 2 g 3% Carbs: 9.8g 3% Protein: 0.9 g 2% Cholesterol: 10 mg 3% Sodium: 34 mg 1% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "198d45f1-21f8-4b66-880d-344ea5d48fc7",
+      "type": "h3",
+      "parent_id": "7e5eeb8a-a3ff-4b97-a77c-ef6d3b56f7ec",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "d0d3d0cd-37e0-4f93-a080-541e9a843705",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup unsweetened cocoa powder ADVERTISEMENT 2 cups white sugar ADVERTISEMENT 1/2 cup vegetable oil ADVERTISEMENT 4 eggs ADVERTISEMENT 2 teaspoons vanilla extract ADVERTISEMENT 2 cups all-purpose flour ADVERTISEMENT 2 teaspoons baking powder ADVERTISEMENT 1/2 teaspoon salt ADVERTISEMENT 1/2 cup confectioners' sugar ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8a314170-cb12-46e3-8ef6-9145920acdc9",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 20 m Cook 12 m Ready In 5 h In a medium bowl, mix together cocoa, white sugar, and vegetable oil. Beat in eggs one at a time, then stir in the vanilla. Combine the flour, baking powder, and salt; stir into the cocoa mixture. Cover dough, and chill for at least 4 hours. Preheat oven to 350 degrees F (175 degrees C). Line cookie sheets with parchment paper. Roll dough into one inch balls. I like to use a number 50 size scoop. Coat each ball in confectioners' sugar before placing onto prepared cookie sheets. Bake in preheated oven for 10 to 12 minutes. Let stand on the cookie sheet for a minute before transferring to wire racks to cool."
+        }
+      ]
+    },
+    {
+      "id": "ed0c1c9f-c228-434a-bf95-2613ff8a0cf0",
+      "type": "h1",
+      "parent_id": "",
+      "title": "recipe",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "68d00e6a-22f6-4158-a686-460fe360ec17",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Image",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "http://images.media-allrecipes.com/userphotos/560x315/227447.jpg"
+        }
+      ]
+    },
+    {
+      "id": "f6b3a009-5c4f-4368-b6d3-827c9d79034b",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Pineapple Chicken Tenders",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": " made it  |  518 reviews Recipe by: HJR \"Delicious little bites for an appetizer or a light meal with a salad!\" Added to shopping list. Go to shopping list."
+        }
+      ]
+    },
+    {
+      "id": "969d708e-20bb-414a-a330-c3041ec19747",
+      "type": "h2",
+      "parent_id": "f6b3a009-5c4f-4368-b6d3-827c9d79034b",
+      "title": "Ingredients",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 h 10 m servings 160 cals for serving adjustment Serving size has been adjusted! Original recipe yields 10 servings Adjust US Metric Note: Recipe directions are for original size."
+        }
+      ]
+    },
+    {
+      "id": "e96a34c8-c60c-487a-827c-bb12b4e1aa62",
+      "type": "h3",
+      "parent_id": "969d708e-20bb-414a-a330-c3041ec19747",
+      "title": "Nutrition",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Calories: 160 kcal 8% Fat: 2.2 g 3% Carbs: 14.7g 5% Protein: 19.4 g 39% Cholesterol: 52 mg 17% Sodium: 332 mg 13% Based on a 2,000 calorie diet See full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "c04fe2d3-d847-48a9-9feb-99255c8236bc",
+      "type": "h3",
+      "parent_id": "969d708e-20bb-414a-a330-c3041ec19747",
+      "title": "Nutritional Information",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 Serving Servings Per Recipe: Amount Per Serving % Daily Value * * Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs. ** Nutrient information is not available for all ingredients. Amount is based on available nutrient data. (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption. Hide full nutrition"
+        }
+      ]
+    },
+    {
+      "id": "7469e0be-8753-4778-b740-5d224d93d782",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Ingredients List",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "1 cup pineapple juice ADVERTISEMENT 1/2 cup packed brown sugar ADVERTISEMENT 1/3 cup light soy sauce ADVERTISEMENT 2 pounds chicken breast tenderloins or strips ADVERTISEMENT skewers ADVERTISEMENT Add all ingredients to list ADVERTISEMENT Add all ingredients to list May we suggest ADVERTISEMENT"
+        }
+      ]
+    },
+    {
+      "id": "8be2c442-ee00-465f-ae23-14ad3c4e1b32",
+      "type": "h1",
+      "parent_id": "",
+      "title": "Directions",
+      "direction": "ltr",
+      "content": [
+        {
+          "media_type": "text/plain",
+          "text": "Prep 30 m Cook 10 m Ready In 1 h 10 m In a small saucepan over medium heat, mix pineapple juice, brown sugar, and soy sauce. Remove from heat just before the mixture comes to a boil. Place chicken tenders in a medium bowl. Cover with the pineapple marinade, and refrigerate for at least 30 minutes. Preheat grill for medium heat. Thread chicken lengthwise onto wooden skewers. Lightly oil the grill grate. Grill chicken tenders 5 minutes per side, or until juices run clear. They cook quickly, so watch them closely."
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
