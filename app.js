@@ -43,6 +43,7 @@ var conversation = watson.conversation({
 });
 
 // replace with the context obtained from the initial request
+var totalFoodList = [];
 
 app.post("/test", function(req, res){
 	console.log(req.body);
@@ -50,7 +51,7 @@ app.post("/test", function(req, res){
 	var context = JSON.parse(req.body.cur_context);
 	console.log(input_sentence);
 	console.log(context);
-	
+
 	conversation.message({ 
 		workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
 		input: {'text': input_sentence},
@@ -60,6 +61,78 @@ app.post("/test", function(req, res){
 			console.log('error:', err);
 		else
 		{
+			if (!context.hasOwnProperty('allFoods'))
+			{
+				// read json files containing foods
+				var fs = require('fs');
+				var path = require('path');
+				var dirPath = '/jsondata';
+				var fileType = '.json';
+				var files = [];
+				fs.readdir(dirPath, function(err, list)
+				{
+					if (err)
+						console.log('error:', err);
+					else
+					{
+						for (var i = 0; i < list; i++)
+						{
+							if (path.extname(list[i]) === fileType)
+							{
+								console.log(list[i]);
+								files.push(list[i]);
+							}
+						}
+					}
+					console.log(files);
+				});
+
+				var i = -1;
+				for (var i in files)
+				{
+					var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).answer_units;
+					for (var j in target)
+					{
+						if (target[j].title === 'recipe') continue;
+						if (target[j].parent_id === "")
+						{
+							var insertingObj = {
+								'name': target[j].title
+							};
+							totalFoodList.push(insertingObj);
+							i++;
+						} 
+						else if (target[j].title === 'Nutrition')
+						{
+							var nutritionText = target[j]['content'][0]['text'].split(" ");
+							var nutritionObj = {
+								calories: nutritionText[1],
+								fat: nutritionText[5],
+								carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
+								protein: nutritionText[12],
+								cholesterol: nutritionText[16],
+								sodium: nutritionText[20]
+							};
+							totalFoodList[i].nutrition = nutritionObj;
+						}
+						else if (target[j].title === 'Ingredients List')
+						{
+							var ingrText = target[j]['content'][0]['text'].split(" ");
+							var getRidOfAd = [];
+							for (var idx in ingrText)
+							{
+								if (ingrText[idx] === 'ADVERTISEMENT') continue;
+								getRidOfAd.push(ingrText[idx]);
+							}
+							totalFoodList[i].ingredients = getRidOfAd.join(" ");
+						}
+						else if (target[j].title === 'Directions')
+							totalFoodList[i].directions = target[j]['content'][0]['text'];
+					}
+				}
+				response.context.allFoods = totalFoodList;
+			}
+
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
 		}
