@@ -85,10 +85,11 @@ app.post("/test", function(req, res){
 								}
 							}
 						}
+						console.log(files);
 					});
 
 					var i = -1;
-					for (var i = 0; i < files.length; i++)
+					for (var i in files)
 					{
 						var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).answer_units;
 						for (var j in target)
@@ -97,7 +98,7 @@ app.post("/test", function(req, res){
 							if (target[j].parent_id === "")
 							{
 								var insertingObj = {
-									'name': target[j].title;
+									'name': target[j].title
 								};
 								totalFoodList.push(insertingObj);
 								i++;
