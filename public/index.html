@@ -50,7 +50,7 @@
 
 			// get data based on entities and category
 			var getData = function(entity) {
-				var ob,			// iterator for array of objects about recipe
+				var j,			// iterator for array of objects about recipe
 					i = -1;		// iterator for food array
 				// get json file
 				$.ajax({
@@ -61,31 +61,31 @@
 						target = data.answer_units;
 					}
 				});
-				for (ob in target) {
+				for (j in target) {
 					// if title is recipe, bypass
-					if (target[ob].title === 'recipe') continue;
+					if (target[j].title === 'recipe') continue;
 
 					// if object has no parent_id, it is food, so get food name
-					if (target[ob].parent_id === "") {
+					if (target[j].parent_id === "") {
 						var insertingObj = {
-							'name': target[ob]['title'],
+							'name': target[j]['title']
 						};
 						foods.push(insertingObj);
 						i++;
 					}
 					else {
 						// if title is nutrition, it is nutrition data of latest scanned food so put datas into formal food object
-						if (target[ob].title === 'Nutrition') {
-							var nutritionText = target[ob]['content'][0]['text'].split(" ");
-							var insObj = {
-								calories: nutritionText[1],
-								fat: nutritionText[5],
-								carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
-								protein: nutritionText[12],
-								cholesterol: nutritionText[16],
-								sodium: nutritionText[20]
+						if (target[j].title === 'Nutrition') {
+							var nutrText = target[j]['content'][0]['text'].split(" ");
+							var nutritionObj = {
+								calories: nutrText[1],
+								fat: nutrText[5],
+								carbohydrate: nutrText[9].substring(0, nutrText[9].length - 1),
+								protein: nutrText[12],
+								cholesterol: nutrText[16],
+								sodium: nutrText[20]
 							};
-							foods[i].nutrition = insObj;
+							foods[i].nutrition = nutritionObj;
 						}
 					}
 				}
@@ -128,6 +128,7 @@
 					success: function (data) {
 						var parsedData = JSON.parse(data);
 						context = parsedData.context;		// context passed by watson
+						console.log(context.allFoods);
 						output = parsedData.output.text[0];	// watson answer
 						$("#answer").val(output);
 						if (context.hasOwnProperty('next') && context.next === true) {
