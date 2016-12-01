@@ -95,26 +95,3 @@ app.post("/test", function(req, res){
 		}
 	});
 });
-
-var tts_credentials = extend({
-  url: 'https://stream.watsonplatform.net/text-to-speech/api',
-  version: 'v1',
-  username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
-  password: 'ztMYjoTIJkgO',
-}, bluemix.getServiceCreds('text_to_speech'));
-
-// Create the service wrappers
-var textToSpeech = watson.text_to_speech(tts_credentials);
-
-app.get('/synthesize', function(req, res) {
-  var transcript = textToSpeech.synthesize(req.query);
-  transcript.on('response', function(response) {
-    if (req.query.download) {
-      response.headers['content-disposition'] = 'attachment; filename=transcript.ogg';
-    }
-  });
-  transcript.on('error', function(error) {
-    console.log('Synthesize error: ', error)
-  });
-  transcript.pipe(res);
-});
