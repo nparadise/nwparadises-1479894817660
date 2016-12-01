@@ -66,7 +66,7 @@ app.post("/test", function(req, res){
 			{
 				// read json files containing foods
 				var fs = require('fs');
-				var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).foods;
+				var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata", 'utf8')).foods;
 				for (var j in target)
 				{
 					var initialNut = target[j].nutrition;
