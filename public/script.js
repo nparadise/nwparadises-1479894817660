@@ -73,7 +73,7 @@ $(document).ready(function(){
 	// function prints 4 examples of foods
 	var printExamples = function() {
 		var j, singleFood;
-		if (foods.length === 0) break;
+		if (foods.length === 0) return;
 		for (j = 0; j < 4; iterator++, j++) {
 			if (iterator === 30) {
 				alert('no more foods');
