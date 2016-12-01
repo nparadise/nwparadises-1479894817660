@@ -44,7 +44,7 @@ var conversation = watson.conversation({
 });
 
 // replace with the context obtained from the initial request
-var totalFoodList = [];
+var allFoodList = [];
 
 app.post("/test", function(req, res){
 	console.log(req.body);
@@ -66,72 +66,21 @@ app.post("/test", function(req, res){
 			{
 				// read json files containing foods
 				var fs = require('fs');
-				var path = require('path');
-				var dirPath = directory + '/public/jsondata';
-				var fileType = '.json';
-				var files = [];
-				fs.readdir(dirPath, function(err, list)
+				var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).foods;
+				for (var j in target)
 				{
-					if (err)
-						console.log('error:', err);
-					else
-					{
-						for (var i = 0; i < list; i++)
-						{
-							if (path.extname(list[i]) === fileType)
-							{
-								console.log(list[i]);
-								files.push(list[i]);
-							}
-						}
-					}
-					console.log(files);
-				});
-
-				var i = -1;
-				for (var i in files)
-				{
-					var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).answer_units;
-					for (var j in target)
-					{
-						if (target[j].title === 'recipe') continue;
-						if (target[j].parent_id === "")
-						{
-							var insertingObj = {
-								'name': target[j].title
-							};
-							totalFoodList.push(insertingObj);
-							i++;
-						} 
-						else if (target[j].title === 'Nutrition')
-						{
-							var nutritionText = target[j]['content'][0]['text'].split(" ");
-							var nutritionObj = {
-								calories: nutritionText[1],
-								fat: nutritionText[5],
-								carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
-								protein: nutritionText[12],
-								cholesterol: nutritionText[16],
-								sodium: nutritionText[20]
-							};
-							totalFoodList[i].nutrition = nutritionObj;
-						}
-						else if (target[j].title === 'Ingredients List')
-						{
-							var ingrText = target[j]['content'][0]['text'].split(" ");
-							var getRidOfAd = [];
-							for (var idx in ingrText)
-							{
-								if (ingrText[idx] === 'ADVERTISEMENT') continue;
-								getRidOfAd.push(ingrText[idx]);
-							}
-							totalFoodList[i].ingredients = getRidOfAd.join(" ");
-						}
-						else if (target[j].title === 'Directions')
-							totalFoodList[i].directions = target[j]['content'][0]['text'];
-					}
+					var initialNut = target[j].nutrition;
+					var nutritionObj = {
+						'calories': (initialNut[0].split(" "))[1],
+						'fat': (initialNut[1].split(" "))[1],
+						'carbohydrate': (initialNut[2].split(" "))[1].substring(0, (initialNut[2].split(" "))[1].length - 1),
+						'protein': (initialNut[3].split(" "))[1],
+						'cholesterol': (initialNut[4].split(" "))[1],
+						'sodium': (initialNut[5].split(" "))[1]
+					};
+					target[j].nutrition = nutritionObj;
 				}
-				response.context.allFoods = totalFoodList;
+				response.context.allFoods = target;
 			}
 
 			res.json(response);
