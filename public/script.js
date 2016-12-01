@@ -146,7 +146,7 @@ $(document).ready(function(){
     	}
     	printExamples();
     }
-
+    /*
     function TTS(textToSynthesize) {
         console.log('text to synthesize: ---> ' + textToSynthesize);
         var voice = 'en-US_AllisonVoice';
@@ -183,5 +183,6 @@ $(document).ready(function(){
         ttsChunks.push(downloadURL);
         playTTSChunk();
     }
+    */
 });
 
