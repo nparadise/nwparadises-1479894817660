@@ -7,7 +7,8 @@ $(document).ready(function(){
 		foods = [],			// where a list of foods will be saved
 		iterator = 0,		// iterator for print examples
 		allFoods = [],		// where all foods will be stored
-		exception = [];		// where ingredients to except will be stored
+		exception = [],		// where ingredients to except will be stored
+		nowShowing = [];	// foods now showing
 
 	$('.chat_head').click(function(){
 		$('.chat_body').slideToggle('slow');
@@ -64,6 +65,27 @@ $(document).ready(function(){
 						printExamples();
 						delete context.next;
 						console.log(context);
+					} else if (context.hasOwnProperty('foodnames')) {
+						var lookingfor = context.foodnames;
+						var checkAppear = false;
+						for (var it in nowShowing) {
+							for (var j = 1; j < 5; j++) {
+								$("#food_" + j).html("");
+							}
+							if (nowShowing[it].name == lookingfor) {
+								checkAppear = true;
+								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');
+								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="250" height="200"/>' + 
+												 "<div id='name_" + j + "' class=\"menu_name\"><b>" + nowShowing[it].name + "</div>";
+								if (nowShowing[it].hasOwnProperty('nutrition')) {
+									htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + nowShowing[it].nutrition.calories + " kcal</div>";
+								}
+								$('#food_detail').html(htmlString);
+							}
+						}
+						if (!checkAppear) {
+							$('<div class="msg_a"><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
+						}
 					} else {
 						afterGetContext();
 					}
@@ -75,6 +97,7 @@ $(document).ready(function(){
 	// function prints 4 examples of foods
 	var printExamples = function() {
 		var j, singleFood;
+		nowShowing = [];
 		if (foods.length === 0) return;
 		for (j = 0; j < 4; iterator++, j++) {
 			if (iterator === 30) {
@@ -101,6 +124,7 @@ $(document).ready(function(){
 				continue;
 			}
 
+			nowShowing.push(singleFood);
 			var htmlString = "<div class=\"menu_pic\"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/>" + 
 							 "<div id='name_" + j + "' class=\"menu_name\"><b>" + singleFood.name + "</div>";
 			if (singleFood.hasOwnProperty('nutrition')) {
