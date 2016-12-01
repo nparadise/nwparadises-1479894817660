@@ -49,6 +49,31 @@ var text_to_speech = watson.text_to_speech({
 	version: 'v1'
 });
 
+var tone_analyzer = new ToneAnalyzerV3({
+  username: 'f5013813-b539-4ebc-956e-a7e30a6a8ab8',
+  password: 'QWKZ8IKtbA3U',
+  version_date: '2016-05-19'
+});
+
+tone_analyzer.tone({text: input_sentence}, //ajax에서 request
+  function(err, tone) {
+    if (err)
+      console.log(err);
+    else
+    {
+      var emotion_obj1 = JSON.stringify(tone, null, 2);
+      var emotion_obj2 = JSON.parse(emotion_obj1);
+      console.log(emotion_obj2.document_tone.tone_categories[0].tones[0].tone_id);
+      var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
+      var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
+      if(anger >=0.5 || disgust >=0.5)
+      {
+        console.log("I think you are very disappointed with my suggestions.");  
+      }
+
+    }
+});
+
 // replace with the context obtained from the initial request
 var allFoodList = [];
 
@@ -96,6 +121,27 @@ app.post("/test", function(req, res){
 				response.context.allFoods = target;
 				console.log(target.length);
 			}
+
+			tone_analyzer.tone({ text: input_sentence }, //ajax에서 request
+			  function(err, tone) {
+			    if (err)
+			      console.log(err);
+			    else
+			    {
+			      var emotion_obj1 = JSON.stringify(tone, null, 2);
+			      var emotion_obj2 = JSON.parse(emotion_obj1);
+			      var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
+			      var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
+			      if(anger >=0.5 || disgust >=0.5)
+			      {
+			        console.log("I think you are very disappointed with my suggestions."); 
+			        response.context.angry = true;
+			      } else {
+			      	response.context.angry = false;
+			      }
+			    }
+			});
+
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
 		}
