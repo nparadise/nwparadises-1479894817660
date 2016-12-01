@@ -50,6 +50,7 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;
 					output = parsedData.output.text[0];	// watson answer
+                    $('<audio src="watsonspeak.wav" autoplay></audio>').insertBefore('.msg_push');
                     //TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
