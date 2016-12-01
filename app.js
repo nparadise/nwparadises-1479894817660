@@ -62,8 +62,6 @@ app.post("/test", function(req, res){
 			console.log('error:', err);
 		else
 		{
-			console.log('dir: ' + directory);
-			console.log('dirname: ' + __dirname);
 			if (!context.hasOwnProperty('allFoods'))
 			{
 				// read json files containing foods
@@ -79,7 +77,6 @@ app.post("/test", function(req, res){
 						protein = initialNut[3].split(" "),
 						cholesterol = initialNut[4].split(" "),
 						sodium = initialNut[5].split(" ");
-					console.log('initial Nutrition: ' + initialNut);
 					var nutritionObj = {
 						'calories': calories[1],
 						'fat': fat[1],
@@ -91,8 +88,8 @@ app.post("/test", function(req, res){
 					target[j].nutrition = nutritionObj;
 				}
 				response.context.allFoods = target;
+				console.log(target.length);
 			}
-
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
 		}

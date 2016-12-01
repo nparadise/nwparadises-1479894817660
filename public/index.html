@@ -33,18 +33,21 @@
 
 			// function prints 4 examples of foods
 			var printExamples = function() {
-				var j, obje;
+				var j, singleFood;
 				for (j = 0; j < 4; iterator++, j++) {
 					if (iterator === 30) {
 						alert('no more foods');
 						break;
 					} // when reach last food, stop iterating and printing
-					obje = foods[iterator];
+					singleFood = foods[iterator];
+
+					var htmlString = "<div id='name_" + j + "'><b>" + singleFood.name + "</div>";
+					if (singleFood.hasOwnProperty('nutrition')) {
+						htmlString += "<div id='calories_" + j + "'>" + singleFood.nutrition.calories + " kcal</div>";
+					}
+
 					// print food list
-					$("#food_" + j).html(
-						"<div id='name_" + j + "'><b>" + obje.name + "</div>" +
-						"<div id='calories_" + j + "'>" + obje.nutrition.calories + " kcal</div>"
-					);
+					$("#food_" + j).html(htmlString);
 				}
 			}
 
@@ -56,39 +59,31 @@
 				$.ajax({
 					dataType: "json",
 					async: false,
-					url: "/jsondata/" + entity + "_" + category + "_30.json",
+					url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
 					success: function(data) {
 						target = data.answer_units;
 					}
 				});
 				for (j in target) {
-					// if title is recipe, bypass
-					if (target[j].title === 'recipe') continue;
-
-					// if object has no parent_id, it is food, so get food name
-					if (target[j].parent_id === "") {
-						var insertingObj = {
-							'name': target[j]['title']
-						};
-						foods.push(insertingObj);
-						i++;
-					}
-					else {
-						// if title is nutrition, it is nutrition data of latest scanned food so put datas into formal food object
-						if (target[j].title === 'Nutrition') {
-							var nutrText = target[j]['content'][0]['text'].split(" ");
-							var nutritionObj = {
-								calories: nutrText[1],
-								fat: nutrText[5],
-								carbohydrate: nutrText[9].substring(0, nutrText[9].length - 1),
-								protein: nutrText[12],
-								cholesterol: nutrText[16],
-								sodium: nutrText[20]
-							};
-							foods[i].nutrition = nutritionObj;
-						}
-					}
+					if (!target[j].hasOwnProperty('nutrition')) continue;
+					var initialNut = target[j].nutrition,
+						calories = initialNut[0].split(" "),
+						fat = initialNut[1].split(" "),
+						carbohydrate = initialNut[2].split(" "),
+						protein = initialNut[3].split(" "),
+						cholesterol = initialNut[4].split(" "),
+						sodium = initialNut[5].split(" ");
+					var nutritionObj = {
+						'calories': calories[1],
+						'fat': fat[1],
+						'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
+						'protein': protein[1],
+						'cholesterol': cholesterol[1],
+						'sodium': sodium[1]
+					};
+					target[j].nutrition = nutritionObj;
 				}
+				foods = target;
 			}
 
 			// based on context, detemine data to get
