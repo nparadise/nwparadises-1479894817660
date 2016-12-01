@@ -146,79 +146,41 @@ $(document).ready(function(){
     	}
     	printExamples();
     }
-});
 
-function TTS(textToSynthesize) {
-    var voice = 'en_US_AllisonVoice';
-    synthesizeRequest(textToSynthesize, voice);
-}
-
-var ttsAudio = $('.audio-tts').get(0);
-
-/* $('#playTTS').click(function() {
-  var textContent = $('#resultsText').val();
-  $('#translation textarea').val('');
-  TTS(textContent);
-  
-  //
-  var downloadURL = '/synthesize' + '?voice=' + getVoice() +
-    '&text=' + encodeURIComponent($('#translation textarea').val()) +
-    '&X-WDC-PL-OPT-OUT=0';
-  
-  ttsAudio.currentTime = 0;
-  ttsAudio.pause();
-  ttsAudio.src = downloadURL;
-  ttsAudio.load();
-  ttsAudio.play();
-  //
-});
-*/
-window.ttsChunks = new Array();
-window.ttsChunksIndex = 0;
-window.inputSpeechOn = false;
-
-var timerStarted = false;
-var timerID;
-
-var playTTSChunk = function() {
-    if(ttsChunksIndex >= ttsChunks.length)
-        return;
-        
-    var downloadURL = ttsChunks[ttsChunksIndex];
-    ttsChunksIndex = ttsChunksIndex + 1;
-    
-    ttsAudio.src = downloadURL;
-    ttsAudio.load();
-    ttsAudio.play();
-}
-
-ttsAudio.addEventListener('ended', playTTSChunk);
-
-function playTTSifInputSpeechIsOff() {
-    clearTimeout(timerID);
-    var streaming = $('#microphone_streaming').prop('checked');
-    
-    if(streaming== false && inputSpeechOn == true || ttsAudio.paused == false) {
-        timerID = setTimeout(playTTSifInputSpeechIsOff, 100);
-        timerStarted = true;
+    function TTS(textToSynthesize) {
+        var voice = 'en_US_AllisonVoice';
+        synthesizeRequest(textToSynthesize, voice);
     }
-    else {
-        timerStarted = false;
+
+    var ttsAudio = $('.audio-tts').get(0);
+    
+    window.ttsChunks = new Array();
+    window.ttsChunksIndex = 0;
+    window.inputSpeechOn = false;
+
+    var timerStarted = false;
+    var timerID;
+
+    var playTTSChunk = function() {
+        if(ttsChunksIndex >= ttsChunks.length)
+            return;
+            
+        var downloadURL = ttsChunks[ttsChunksIndex];
+        ttsChunksIndex = ttsChunksIndex + 1;
+        
+        ttsAudio.src = downloadURL;
+        ttsAudio.load();
+        ttsAudio.play();
+    }
+
+    function synthesizeRequest(text, v) {
+        var downloadURL = '/synthesize' +
+          '?voice=' + v +
+          '&text=' + encodeURIComponent(text) +
+          '&X-WDC-PL-OPT-OUT=0';
+        
+        ttsChunks.push(downloadURL);
         playTTSChunk();
     }
-}
-
-function synthesizeRequest(text, v) {
-    var downloadURL = '/synthesize' +
-      '?voice=' + v +
-      '&text=' + encodeURIComponent(text) +
-      '&X-WDC-PL-OPT-OUT=0';
-    
-    ttsChunks.push(downloadURL);
-    
-    if(timerStarted == false) {
-        timerID = setTimeout(playTTSifInputSpeechIsOff, 300);
-        timerStarted = true;
-    }
-}
+});
 
