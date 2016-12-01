@@ -163,6 +163,7 @@ $(document).ready(function(){
     var timerID;
 
     var playTTSChunk = function() {
+        console.log('playTTSChunk start');
         if(ttsChunksIndex >= ttsChunks.length)
             return;
             
@@ -175,11 +176,12 @@ $(document).ready(function(){
     }
 
     function synthesizeRequest(text, v) {
+        console.log('voice: ---> ' + v);
         var downloadURL = '/synthesize' +
           '?voice=' + v +
           '&text=' + encodeURIComponent(text) +
           '&X-WDC-PL-OPT-OUT=0';
-        
+        console.log('downloadURL: ---> ' + downloadURL);
         ttsChunks.push(downloadURL);
         playTTSChunk();
     }
