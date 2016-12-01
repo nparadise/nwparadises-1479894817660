@@ -134,6 +134,7 @@
 						if (context.hasOwnProperty('next') && context.next === true) {
 							printExamples();
 							delete context.next;
+							console.log(context);
 						}
 						afterGetContext();
 					}
