@@ -62,7 +62,9 @@
 					async: false,
 					url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
 					success: function(data) {
+						console.log(data);
 						target = data.answer_units;
+						console.log(target);
 					}
 				});
 				for (j in target) {
@@ -92,17 +94,17 @@
 				iterator = 0;
 				foods = [];
 				if (context.hasOwnProperty('health')) {
-					console.log(context['health'] + 'is came for input.');
+					console.log(context['health'] + ' is came for input.');
 					category = context.health;
 					getData('healthy');
 					delete context.health;
 				} else if (context.hasOwnProperty('events')) {
-					console.log(context.events + 'is came for input.');
+					console.log(context.events + ' is came for input.');
 					category = context.events;
 					getData('events');
 					delete context.events;			
 				} else if (context.hasOwnProperty('time')) {
-					console.log(context.time + 'is came for input.');
+					console.log(context.time + ' is came for input.');
 					category = context.time;
 					getData('timeslot');
 					delete context.time;
@@ -131,6 +133,7 @@
 						$("#answer").val(output);
 						if (context.hasOwnProperty('next') && context.next === true) {
 							printExamples();
+							delete context.next;
 						}
 						afterGetContext();
 					}
