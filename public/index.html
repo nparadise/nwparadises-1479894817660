@@ -29,7 +29,8 @@
 				category,		// what category of food
 				target = [],	// save json file at here
 				foods = [],		// where a list of foods will be saved
-				iterator = 0;	// iterator for print examples
+				iterator = 0,	// iterator for print examples
+				allFoods = [];
 
 			// function prints 4 examples of foods
 			var printExamples = function() {
@@ -123,6 +124,8 @@
 					success: function (data) {
 						var parsedData = JSON.parse(data);
 						context = parsedData.context;		// context passed by watson
+						allFoods = context.allFoods;
+						context.allFoods = true;
 						console.log(context.allFoods);
 						output = parsedData.output.text[0];	// watson answer
 						$("#answer").val(output);
