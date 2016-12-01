@@ -50,7 +50,7 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;
 					output = parsedData.output.text[0];	// watson answer
-                    //TTS(output);
+                    TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
 
@@ -146,7 +146,7 @@ $(document).ready(function(){
     	}
     	printExamples();
     }
-    /*
+    
     function TTS(textToSynthesize) {
         console.log('text to synthesize: ---> ' + textToSynthesize);
         var voice = 'en-US_AllisonVoice';
@@ -183,6 +183,6 @@ $(document).ready(function(){
         ttsChunks.push(downloadURL);
         playTTSChunk();
     }
-    */
+
 });
 

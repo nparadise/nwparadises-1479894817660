@@ -95,3 +95,10 @@ app.post("/test", function(req, res){
 		}
 	});
 });
+
+var watson = require('watson-developer-cloud');
+var text_to_speech = watson.text_to_speech({
+  username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
+  password: 'ztMYjoTIJkgO',
+  version: 'v1'
+});

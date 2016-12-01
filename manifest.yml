@@ -8,9 +8,9 @@ applications:
   disk_quota: 1024M
   services :
   - Conversation-3d
-  - text-to-speech-service
+  - Text to Speech-lm
 
 declared-services:
-  text-to-speech-service:
+  Text to Speech-yw:
     label: text_to_speech
     plan: standard  
