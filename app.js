@@ -71,6 +71,7 @@ app.post("/test", function(req, res){
 				var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
 				for (var j in target)
 				{
+					if (!target[j].hasOwnProperty('nutrition')) continue;
 					var initialNut = target[j].nutrition,
 						calories = initialNut[0].split(" "),
 						fat = initialNut[1].split(" "),
