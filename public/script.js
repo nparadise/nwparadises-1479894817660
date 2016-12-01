@@ -118,13 +118,14 @@ $(document).ready(function(){
 		$.ajax({
 			dataType: "json",
 			async: false,
-			url: "/public/jsondata/" + entity + "_" + category + "_30_revised.json",
+			url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
 			success: function(data) {
 				console.log(data);
 				target = data.foods;
 				console.log(target);
 			}
 		});
+		console.log(window.location.href);
 		var j,			// iterator for array of objects about recipe
 			i = -1;		// iterator for food array
 		for (j in target) {
