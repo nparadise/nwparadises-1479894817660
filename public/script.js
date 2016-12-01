@@ -148,12 +148,12 @@ $(document).ready(function(){
     }
 
     function TTS(textToSynthesize) {
-        var voice = 'en_US_AllisonVoice';
+        var voice = 'en-US_AllisonVoice';
         synthesizeRequest(textToSynthesize, voice);
     }
 
     var ttsAudio = $('.audio-tts').get(0);
-    
+
     window.ttsChunks = new Array();
     window.ttsChunksIndex = 0;
     window.inputSpeechOn = false;
