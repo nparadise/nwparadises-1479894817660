@@ -66,7 +66,7 @@ app.post("/test", function(req, res){
 				// read json files containing foods
 				var fs = require('fs');
 				var path = require('path');
-				var dirPath = '/jsondata';
+				var dirPath = '../jsondata';
 				var fileType = '.json';
 				var files = [];
 				fs.readdir(dirPath, function(err, list)
