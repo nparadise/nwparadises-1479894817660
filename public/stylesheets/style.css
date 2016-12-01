@@ -101,10 +101,6 @@ th, td {
 	padding: 2px 20px;
 }
 
-tr {
-	border-bottom: 1px solid #000;
-}
-
 .env-var {
 	text-align: right;
 	border-right: 1px solid #000;
@@ -238,6 +234,12 @@ pre {
 	margin: 10px;
 }
 
+.detail_name{
+	float: left;
+	width: 950px;
+	padding: 25px;
+	background: #987654;
+}
 .detail_pic{
 	float: left;
 	background: #000;
@@ -253,6 +255,7 @@ pre {
 }
 
 .detail_right_text{
+	padding: 10px;
 	text-align: left;
 	background: red;
 }
