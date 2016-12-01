@@ -62,6 +62,8 @@ app.post("/test", function(req, res){
 			console.log('error:', err);
 		else
 		{
+			console.log('dir: ' + directory);
+			console.log('dirname: ' + __dirname);
 			if (!context.hasOwnProperty('allFoods'))
 			{
 				// read json files containing foods
