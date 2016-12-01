@@ -74,10 +74,10 @@ $(document).ready(function(){
     		} // when reach last food, stop iterating and printing
     		singleFood = foods[iterator];
 
-    		var htmlString = "<div class="menu_pic"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/></div>" + 
-    						 "<div id='name_" + j + "' class="menu_name"><b>" + singleFood.name + "</div>";
+    		var htmlString = "<div class=\"menu_pic\"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/>" + 
+    						 "<div id='name_" + j + "' class=\"menu_name\"><b>" + singleFood.name + "</div>";
     		if (singleFood.hasOwnProperty('nutrition')) {
-    			htmlString += "<div id='calories_" + j + "' class="menu_content">" + singleFood.nutrition.calories + " kcal</div>";
+    			htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + singleFood.nutrition.calories + " kcal</div>";
     		}
 
     		// print food list
