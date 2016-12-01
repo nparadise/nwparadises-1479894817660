@@ -57,6 +57,7 @@
 				// get json file
 				$.ajax({
 					dataType: "json",
+					async: false,
 					url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
 					success: function(data) {
 						console.log(data);
@@ -126,8 +127,8 @@
 						var parsedData = JSON.parse(data);
 						context = parsedData.context;		// context passed by watson
 						allFoods = context.allFoods;
-						context.allFoods = true;
 						console.log(context.allFoods);
+						context.allFoods = true;
 						output = parsedData.output.text[0];	// watson answer
 						$("#answer").val(output);
 						if (context.hasOwnProperty('next') && context.next === true) {
