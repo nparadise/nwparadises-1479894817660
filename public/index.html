@@ -42,7 +42,8 @@
 					} // when reach last food, stop iterating and printing
 					singleFood = foods[iterator];
 
-					var htmlString = "<div id='name_" + j + "'><b>" + singleFood.name + "</div>";
+					var htmlString = "<img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='30'/>" + 
+									 "<div id='name_" + j + "'><b>" + singleFood.name + "</div>";
 					if (singleFood.hasOwnProperty('nutrition')) {
 						htmlString += "<div id='calories_" + j + "'>" + singleFood.nutrition.calories + " kcal</div>";
 					}
