@@ -105,7 +105,7 @@ app.post("/test", function(req, res){
 const TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
 
 // Bootstrap application settings
-require('./config/express.js')(app);
+require(directory + '/config/express.js')(app);
 
 const textToSpeech = new TextToSpeechV1({
   // If unspecified here, the TEXT_TO_SPEECH_USERNAME and
