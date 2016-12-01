@@ -51,8 +51,10 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;				// to notify server that we already have information about every foods
 					output = parsedData.output.text[0];		// watson answer
-					if (context.hasOwnProperty('except'))
+					if (context.hasOwnProperty('except')) {
 						exception.push(context.except);		// add ingredients to except
+						delete context.except;
+					}
 					$('<audio src="watsonspeak.wav" autoplay></audio>').insertBefore('.msg_push');
 					//TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
