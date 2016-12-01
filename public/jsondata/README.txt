@@ -34,6 +34,7 @@
       ready_in_time: 재료 숙성 등 사전 준비에 걸리는 시간
       prep_time: 요리 직전에 걸리는 준비 시간
       cook_time: 요리에 걸리는 시간
+      total_time: 준비 시간을 전부 포함한 총 조리 시간
 
 == 테마별로 나눠져 있는 json 파일(revised 아닌 거) title, content의 text가 순서대로 다음과 같음 ==
 

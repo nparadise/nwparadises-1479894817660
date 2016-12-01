@@ -1,6 +1,7 @@
 {
     "foods": [
         {
+            "total_time": 100, 
             "nutrition": [
                 "Calories: 183 kcal 9", 
                 "Fat: 3.9 g 6", 
@@ -32,6 +33,7 @@
             "cook_time": 20
         }, 
         {
+            "total_time": 130, 
             "nutrition": [
                 "Calories: 451 kcal 23", 
                 "Fat: 29.1 g 45", 
@@ -69,6 +71,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 374 kcal 19", 
                 "Fat: 27.2 g 42", 
@@ -99,6 +102,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 273 kcal 14", 
                 "Fat: 24 g 37", 
@@ -131,6 +135,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 95, 
             "nutrition": [
                 "Calories: 427 kcal 21", 
                 "Fat: 23.7 g 36", 
@@ -170,6 +175,7 @@
             "cook_time": 20
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 559 kcal 28", 
                 "Fat: 48.1 g 74", 
@@ -200,6 +206,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 349 kcal 17", 
                 "Fat: 15.2 g 23", 
@@ -234,6 +241,7 @@
             "cook_time": 10
         }, 
         {
+            "total_time": 70, 
             "nutrition": [
                 "Calories: 384 kcal 19", 
                 "Fat: 33.5 g 52", 
@@ -268,6 +276,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 40, 
             "nutrition": [
                 "Calories: 338 kcal 17", 
                 "Fat: 23.5 g 36", 
@@ -302,6 +311,7 @@
             "cook_time": 10
         }, 
         {
+            "total_time": 300, 
             "nutrition": [
                 "Calories: 390 kcal 20", 
                 "Fat: 18.7 g 29", 
@@ -336,6 +346,7 @@
             "cook_time": 10
         }, 
         {
+            "total_time": 90, 
             "nutrition": [
                 "Calories: 372 kcal 19", 
                 "Fat: 30.7 g 47", 
@@ -376,6 +387,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 110, 
             "nutrition": [
                 "Calories: 336 kcal 17", 
                 "Fat: 26.8 g 41", 
@@ -408,6 +420,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 344 kcal 17", 
                 "Fat: 31.9 g 49", 
@@ -436,6 +449,7 @@
             "cook_time": 15
         }, 
         {
+            "total_time": 60, 
             "nutrition": [
                 "Calories: 426 kcal 21", 
                 "Fat: 31.6 g 49", 
@@ -472,6 +486,7 @@
             "cook_time": 10
         }, 
         {
+            "total_time": 100, 
             "nutrition": [
                 "Calories: 183 kcal 9", 
                 "Fat: 3.9 g 6", 
