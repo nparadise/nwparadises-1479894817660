@@ -43,11 +43,11 @@ var conversation = watson.conversation({
 	version_date: '2016-09-20'
 });
 
-// var text_to_speech = watson.text_to_speech({
-//   username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
-//   password: 'ztMYjoTIJkgO',
-//   version: 'v1'
-// });
+var text_to_speech = watson.text_to_speech({
+	username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
+	password: 'ztMYjoTIJkgO',
+	version: 'v1'
+});
 
 // replace with the context obtained from the initial request
 var allFoodList = [];
