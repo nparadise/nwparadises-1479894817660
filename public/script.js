@@ -67,6 +67,7 @@ $(document).ready(function(){
 						delete context.next;
 						console.log(context);
 					} else if (context.hasOwnProperty('foodnames')) {
+						console.log(context.foodnames);
 						var lookingfor = context.foodnames;
 						var checkAppear = false;
 						for (var it in nowShowing) {
