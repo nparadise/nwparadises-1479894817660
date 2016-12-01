@@ -71,14 +71,21 @@ app.post("/test", function(req, res){
 				var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
 				for (var j in target)
 				{
-					var initialNut = target[j].nutrition;
+					var initialNut = target[j].nutrition,
+						calories = initialNut[0].split(" "),
+						fat = initialNut[1].split(" "),
+						carbohydrate = initialNut[2].split(" "),
+						protein = initialNut[3].split(" "),
+						cholesterol = initialNut[4].split(" "),
+						sodium = initialNut[5].split(" ");
+					console.log('initial Nutrition: ' + initialNut);
 					var nutritionObj = {
-						'calories': initialNut[0].split(" ")[1],
-						'fat': initialNut[1].split(" ")[1],
-						'carbohydrate': initialNut[2].split(" ")[1].substring(0, initialNut[2].split(" ")[1].length - 1),
-						'protein': initialNut[3].split(" ")[1],
-						'cholesterol': initialNut[4].split(" ")[1],
-						'sodium': initialNut[5].split(" ")[1]
+						'calories': calories[1],
+						'fat': fat[1],
+						'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
+						'protein': protein[1],
+						'cholesterol': cholesterol[1],
+						'sodium': sodium[1]
 					};
 					target[j].nutrition = nutritionObj;
 				}
