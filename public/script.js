@@ -56,11 +56,11 @@ $(document).ready(function(){
 						exception.push(context.except);		// add ingredients to except
 						delete context.except;
 					}
-
-					$('<audio src="/api/synthesize?text=' + output + '" autoplay></audio>').insertBefore('.msg_push');
-					//TTS(output);
-					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
-
+					if (!context.hasOwnProperty('foodnames')) {
+						$('<audio src="/api/synthesize?text=' + output + '" autoplay></audio>').insertBefore('.msg_push');
+						//TTS(output);
+						$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+					}
 
 					if (context.hasOwnProperty('next') && context.next === true) {
 						printExamples();
@@ -76,6 +76,7 @@ $(document).ready(function(){
 							}
 							if (nowShowing[it].name == lookingfor) {
 								checkAppear = true;
+								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '" autoplay></audio>').insertBefore('.msg_push');
 								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');
 								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="250" height="200"/>' + 
 												 "<div id='name_" + j + "' class=\"menu_name\"><b>" + nowShowing[it].name + "</div>";
