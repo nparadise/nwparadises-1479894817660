@@ -1,0 +1,353 @@
+ingredient,Bok Choy
+ingredient,Snake Beans
+ingredient,Sorrel Leaves
+ingredient,Rocket Leaves
+ingredient,Drumstick
+ingredient,Cherry Tomatoes
+ingredient,Kaffir Lime
+ingredient,Plantain
+ingredient,Turnip
+ingredient,Sweet Potatoes
+ingredient,Round Gourd
+ingredient,Ridge Gourd
+ingredient,Pimiento
+ingredient,Spinach
+ingredient,Onion
+ingredient,Mustard Leaves
+ingredient,Mushroom
+ingredient,Radish
+ingredient,Shallots
+ingredient,Lettuce
+ingredient,Leek
+ingredient,Pumpkin
+ingredient,Yam
+ingredient,Jalapeno
+ingredient,Jackfruit
+ingredient,Horseradish
+ingredient,Spring Onion
+ingredient,Green Peas
+ingredient,Green Chillies
+ingredient,Cluster Beans
+ingredient,Gherkins
+ingredient,Garlic
+ingredient,French Beans
+ingredient,Fenugreek
+ingredient,Cucumber
+ingredient,Zucchini
+ingredient,Corn
+ingredient,Shiitake Mushroom
+ingredient,Celery
+ingredient,Cauliflower
+ingredient,Carrot
+ingredient,Capsicum
+ingredient,Capers
+ingredient,Broccoli
+ingredient,Broad Beans
+ingredient,Bottle Gourd
+ingredient,Bitter Gourd
+ingredient,Lady Finger
+ingredient,Lotus Stem
+ingredient,Bell Pepper
+ingredient,Beetroot
+ingredient,Pigweed
+ingredient,Cabbage
+ingredient,Bamboo Shoot
+ingredient,Baby Corn
+ingredient,Avocado
+ingredient,Eggplant
+ingredient,Asparagus
+ingredient,Ash Gourd
+ingredient,Artichoke
+ingredient,Colocasia
+ingredient,Potatoes
+ingredient,Ginger
+ingredient,Yeast
+ingredient,Coriander Powder
+ingredient,Chives
+ingredient,Galangal
+ingredient,Tulsi
+ingredient,Sage
+ingredient,Rosemary
+ingredient,Yellow Chillies
+ingredient,Oregano
+ingredient,Nasturtium
+ingredient,Salt
+ingredient,Mustard Powder
+ingredient,Paprika
+ingredient,Mint Leaves
+ingredient,Marjoram
+ingredient,Lemongrass
+ingredient,Red Chilli
+ingredient,Saffron
+ingredient,Dried Fenugreek Leaves
+ingredient,Kashmiri Mirch
+ingredient,Onion Seeds
+ingredient,Mace
+ingredient,Nutmeg
+ingredient,Herbs
+ingredient,Thyme
+ingredient,Turmeric
+ingredient,Garam Masala
+ingredient,Five Spice Powder
+ingredient,Fenugreek Seeds
+ingredient,Fennel
+ingredient,Green Cardamom
+ingredient,Dry Ginger Powder
+ingredient,Dill
+ingredient,Curry Leaves
+ingredient,Cumin Seeds
+ingredient,Coriander Seeds
+ingredient,Coriander Leaves
+ingredient,Cloves
+ingredient,Cinnamon
+ingredient,Star Anise
+ingredient,Cayenne
+ingredient,Caraway Seeds
+ingredient,Cajun Spices
+ingredient,Rock Salt
+ingredient,Black Pepper
+ingredient,Black Cumin
+ingredient,Bay Leaf
+ingredient,Basil
+ingredient,Black Cardamom
+ingredient,Asafoetida
+ingredient,Aniseed
+ingredient,Raw Mango Powder
+ingredient,Allspice
+ingredient,Carom Seeds
+ingredient,Acacia
+ingredient,Carom Seeds
+ingredient,Parsley
+ingredient,Acacia
+ingredient,Flour
+ingredient,Muesli
+ingredient,Oats
+ingredient,Jowar
+ingredient,Brown Rice
+ingredient,Arborio Rice
+ingredient,Water Chestnut flour
+ingredient,Barnyard Millet
+ingredient,Tapioca
+ingredient,Semolina
+ingredient,Ragi
+ingredient,Puffed Rice
+ingredient,Buckwheat
+ingredient,Kidney Beans
+ingredient,Whole Bengal Gram
+ingredient,Green Gram
+ingredient,All Purpose Flour
+ingredient,Whole Brown Lentils
+ingredient,Husked Black Gram
+ingredient,Husked Green Gram
+ingredient,Couscous
+ingredient,Cornmeal
+ingredient,Pressed Rice
+ingredient,Rice
+ingredient,Breadcrumbs
+ingredient,Bread
+ingredient,Black-eyed Beans
+ingredient,Black Gram
+ingredient,Black Beans
+ingredient,Gram flour
+ingredient,Bengal Gram (Split)
+ingredient,Chickpeas
+ingredient,Basmati Rice
+ingredient,Barley
+ingredient,Pearl Millet
+ingredient,Whole Wheat Flour
+ingredient,Pigeon Pea
+ingredient,Bean Sprouts
+ingredient,Beef
+ingredient,Turkey
+ingredient,Pork
+ingredient,Partridge
+ingredient,Meat Stock
+ingredient,Keema
+ingredient,Mutton Liver
+ingredient,Ham
+ingredient,Kidney Meat
+ingredient,Crab
+ingredient,Chicken Stock
+ingredient,Chicken Liver
+ingredient,Chicken,Grass Fed Chicken,Free Range Chicken,Organic Chicken,Skinned Chicken
+ingredient,Chops
+ingredient,Lamb Meat
+ingredient,Quail
+ingredient,Mutton
+ingredient,Bacon
+ingredient,Cheese,Gruyere Cheese,Gouda Cheese,Feta Cheese,Brie Cheese,Cream Cheese,Ricotta Cheese,Parmesan Cheese,Blue Cheese,Cheddar Cheese,Mascarpone Cheese,Provolone Cheese,Mozzarella Cheese,Cottage Cheese
+ingredient,Milk
+ingredient,Cream
+ingredient,Khoya
+ingredient,Hung Curd
+ingredient,Yogurt
+ingredient,Condensed Milk
+ingredient,Clarified Butter
+ingredient,Buttermilk
+ingredient,Butter
+ingredient,Cranberry
+ingredient,Kiwi
+ingredient,Blueberries
+ingredient,Mango
+ingredient,Watermelon
+ingredient,Tomato
+ingredient,Strawberry
+ingredient,Water Chestnut
+ingredient,Papaya
+ingredient,Orange Rind
+ingredient,Orange
+ingredient,Olives
+ingredient,Pear
+ingredient,Sultana
+ingredient,Mulberry
+ingredient,Lychee
+ingredient,Lemon Juice
+ingredient,Lemon,Lemon Rind
+ingredient,Raisins
+ingredient,Jamun
+ingredient,Tamarind
+ingredient,Grapefruit
+ingredient,Indian Gooseberry
+ingredient,Dried Fruit
+ingredient,Dates
+ingredient,Custard Apple
+ingredient,Currant
+ingredient,Coconut
+ingredient,Cherry
+ingredient,Cape Gooseberry
+ingredient,Banana
+ingredient,Peach
+ingredient,Apricots
+ingredient,Apples,Cooking Apples
+ingredient,Figs
+ingredient,Grapes
+ingredient,Pomegranate
+ingredient,Pineapple
+ingredient,Guava
+ingredient,Plum
+ingredient,Shrimp
+ingredient,Tuna Fish
+ingredient,Shellfish
+ingredient,Shark
+ingredient,Hilsa
+ingredient,Sardines
+ingredient,Salmon
+ingredient,Prawns
+ingredient,Pomfret
+ingredient,Perch
+ingredient,Pearl spot
+ingredient,Mussels
+ingredient,Mullet
+ingredient,Squids
+ingredient,Haddock
+ingredient,Flounder
+ingredient,Fish Stock
+ingredient,Fish
+ingredient,Fish Fillet
+ingredient,Cuttle fish
+ingredient,Cod
+ingredient,Clams
+ingredient,Cat fish
+ingredient,Mackerel
+ingredient,Anchovies
+ingredient,Brown Sugar
+ingredient,Mishri
+ingredient,Icing Sugar
+ingredient,Honey
+ingredient,Jaggery
+ingredient,Golden Syrup
+ingredient,Sugar
+ingredient,Castor Sugar
+ingredient,Caramel
+ingredient,Cane Sugar
+ingredient,Chia Seeds
+ingredient,Hazelnut
+ingredient,Pine Nuts
+ingredient,Mustard Oil
+ingredient,Sunflower Seeds
+ingredient,Sesame Oil
+ingredient,Pistachio
+ingredient,Olive Oil
+ingredient,Mustard Seeds
+ingredient,Poppy Seeds
+ingredient,Sesame Seeds
+ingredient,Peanuts
+ingredient,Chironji
+ingredient,Cashew Nuts
+ingredient,Blanched Almonds
+ingredient,Almonds
+ingredient,Walnuts
+ingredient,Almond Milk
+ingredient,Red Wine Vinegar
+ingredient,Red Wine
+ingredient,Margarine
+ingredient,Soy Milk
+ingredient,White Wine
+ingredient,White Pepper
+ingredient,Rice Vinegar
+ingredient,Sea Salt
+ingredient,Hoisin Sauce
+ingredient,Malt Vinegar
+ingredient,Chocolate Chips
+ingredient,Quinoa
+ingredient,Rice Flour
+ingredient,Polenta
+ingredient,Oyster Sauce
+ingredient,Guchchi
+ingredient,Flat Noodles
+ingredient,Balsamic Vinegar
+ingredient,Coconut Oil
+ingredient,Barfi
+ingredient,Rice Noodles
+ingredient,Coffee
+ingredient,Beer
+ingredient,Chocolate
+ingredient,Sake
+ingredient,Vinaigrette
+ingredient,Vanilla Essence
+ingredient,Tortilla
+ingredient,Tomato Puree
+ingredient,Vegetable Oil
+ingredient,Tartaric Acid
+ingredient,Soya Sauce
+ingredient,Vinegar
+ingredient,Sharbat
+ingredient,Vermicelli
+ingredient,Sev
+ingredient,Rum
+ingredient,Roux
+ingredient,Petha
+ingredient,Pasta
+ingredient,Papad
+ingredient,Paan
+ingredient,Meringue
+ingredient,Mayonnaise
+ingredient,Melon Seeds
+ingredient,Makhana
+ingredient,Vetiver
+ingredient,Kewda
+ingredient,Jus
+ingredient,Jelly
+ingredient,Rose Water
+ingredient,Gold Leaves
+ingredient,Glycerine
+ingredient,Gelatin
+ingredient,Fish Sauce
+ingredient,Desiccated Coconut
+ingredient,Cranberry Sauce
+ingredient,Cornflour
+ingredient,Cognac
+ingredient,Coconut Water
+ingredient,Coconut Milk
+ingredient,Cocoa
+ingredient,Tea
+ingredient,Brown Sauce
+ingredient,Baking Soda
+ingredient,Tofu
+ingredient,Baking Powder
+ingredient,Arrowroot
+ingredient,Egg
+ingredient,Alum
+ingredient,Ajinomoto
+ingredient,Agar
+ingredient,Agar
