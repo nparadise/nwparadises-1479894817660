@@ -50,8 +50,10 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;
 					output = parsedData.output.text[0];	// watson answer
-					/*$("#answer").val(output);*/
+                    TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+
+
 					if (context.hasOwnProperty('next') && context.next === true) {
 						printExamples();
 						delete context.next;
@@ -74,10 +76,10 @@ $(document).ready(function(){
     		} // when reach last food, stop iterating and printing
     		singleFood = foods[iterator];
 
-    		var htmlString = "<div class="menu_pic"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/></div>" + 
-    						 "<div id='name_" + j + "' class="menu_name"><b>" + singleFood.name + "</div>";
+    		var htmlString = "<div class=\"menu_pic\"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/>" + 
+    						 "<div id='name_" + j + "' class=\"menu_name\"><b>" + singleFood.name + "</div>";
     		if (singleFood.hasOwnProperty('nutrition')) {
-    			htmlString += "<div id='calories_" + j + "' class="menu_content">" + singleFood.nutrition.calories + " kcal</div>";
+    			htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + singleFood.nutrition.calories + " kcal</div>";
     		}
 
     		// print food list
@@ -144,4 +146,45 @@ $(document).ready(function(){
     	}
     	printExamples();
     }
+    
+    function TTS(textToSynthesize) {
+        console.log('text to synthesize: ---> ' + textToSynthesize);
+        var voice = 'en-US_AllisonVoice';
+        synthesizeRequest(textToSynthesize, voice);
+    }
+
+    var ttsAudio = $('.audio-tts').get(0);
+
+    window.ttsChunks = new Array();
+    window.ttsChunksIndex = 0;
+    window.inputSpeechOn = false;
+
+    var timerStarted = false;
+    var timerID;
+
+    var playTTSChunk = function() {
+        console.log('playTTSChunk start');
+        if(ttsChunksIndex >= ttsChunks.length)
+            return;
+            
+        var downloadURL = ttsChunks[ttsChunksIndex];
+        ttsChunksIndex = ttsChunksIndex + 1;
+        
+        ttsAudio.src = downloadURL;
+        ttsAudio.load();
+        ttsAudio.play();
+    }
+
+    function synthesizeRequest(text, v) {
+        console.log('voice: ---> ' + v);
+        var downloadURL = '/synthesize' +
+          '?voice=' + v +
+          '&text=' + encodeURIComponent(text) +
+          '&X-WDC-PL-OPT-OUT=0';
+        console.log('downloadURL: ---> ' + downloadURL);
+        ttsChunks.push(downloadURL);
+        playTTSChunk();
+    }
+
 });
+

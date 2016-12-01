@@ -223,6 +223,7 @@ pre {
 
 .menu_name{
 	padding: 10px;
+	min-height: 30px;
 	background:#faffbc;
 }
 
