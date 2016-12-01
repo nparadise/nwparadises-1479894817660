@@ -55,7 +55,7 @@ $(document).ready(function(){
 						exception.push(context.except);		// add ingredients to except
 						delete context.except;
 					}
-					$('<audio src="/synthesize?text=' + encodeURIComponent(output) + '&voice=es-ES_EnriqueVoice" autoplay></audio>').insertBefore('.msg_push');
+					$('<audio src="https://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?text=' + encodeURIComponent(output) + '&voice=es-ES_EnriqueVoice" autoplay></audio>').insertBefore('.msg_push');
 					//TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
