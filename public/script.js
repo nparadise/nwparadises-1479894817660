@@ -50,24 +50,7 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;
 					output = parsedData.output.text[0];	// watson answer
-                    synthesize(options, callback());
-                    //text to speech code start
-					var watson = require('watson-developer-cloud');
-                    var fs = require('fs');
-
-                    var text_to_speech = watson.text_to_speech({
-                      username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
-                      password: 'ztMYjoTIJkgO',
-                      version: 'v1'
-                    });
-
-                    var params = {
-                      text: output,
-                      voice: 'en-US_AllisonVoice',
-                      accept: 'audio/wav'
-                    };
-                    //text to speech code end
-
+                    TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
 
@@ -164,4 +147,78 @@ $(document).ready(function(){
     	printExamples();
     }
 });
+
+function TTS(textToSynthesize) {
+    var voice = 'en_US_AllisonVoice';
+    synthesizeRequest(textToSynthesize, voice);
+}
+
+var ttsAudio = $('.audio-tts').get(0);
+
+/* $('#playTTS').click(function() {
+  var textContent = $('#resultsText').val();
+  $('#translation textarea').val('');
+  TTS(textContent);
+  
+  //
+  var downloadURL = '/synthesize' + '?voice=' + getVoice() +
+    '&text=' + encodeURIComponent($('#translation textarea').val()) +
+    '&X-WDC-PL-OPT-OUT=0';
+  
+  ttsAudio.currentTime = 0;
+  ttsAudio.pause();
+  ttsAudio.src = downloadURL;
+  ttsAudio.load();
+  ttsAudio.play();
+  //
+});
+*/
+window.ttsChunks = new Array();
+window.ttsChunksIndex = 0;
+window.inputSpeechOn = false;
+
+var timerStarted = false;
+var timerID;
+
+var playTTSChunk = function() {
+    if(ttsChunksIndex >= ttsChunks.length)
+        return;
+        
+    var downloadURL = ttsChunks[ttsChunksIndex];
+    ttsChunksIndex = ttsChunksIndex + 1;
+    
+    ttsAudio.src = downloadURL;
+    ttsAudio.load();
+    ttsAudio.play();
+}
+
+ttsAudio.addEventListener('ended', playTTSChunk);
+
+function playTTSifInputSpeechIsOff() {
+    clearTimeout(timerID);
+    var streaming = $('#microphone_streaming').prop('checked');
+    
+    if(streaming== false && inputSpeechOn == true || ttsAudio.paused == false) {
+        timerID = setTimeout(playTTSifInputSpeechIsOff, 100);
+        timerStarted = true;
+    }
+    else {
+        timerStarted = false;
+        playTTSChunk();
+    }
+}
+
+function synthesizeRequest(text, v) {
+    var downloadURL = '/synthesize' +
+      '?voice=' + v +
+      '&text=' + encodeURIComponent(text) +
+      '&X-WDC-PL-OPT-OUT=0';
+    
+    ttsChunks.push(downloadURL);
+    
+    if(timerStarted == false) {
+        timerID = setTimeout(playTTSifInputSpeechIsOff, 300);
+        timerStarted = true;
+    }
+}
 
