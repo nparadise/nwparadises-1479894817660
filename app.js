@@ -98,13 +98,46 @@ app.post("/test", function(req, res){
 			}
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
-
-			// var params = {
-			// 	text: response.output.text[0],
-			// 	voice: 'en-US_AllisonVoice',
-			// 	accept: 'audio/wav'
-			// };
-			// text_to_speech.synthesize(params).pipe(fs.createWriteStream('watsonspeak.wav'));
 		}
 	});
 });
+
+const TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
+
+// Bootstrap application settings
+require('./config/express')(app);
+
+const textToSpeech = new TextToSpeechV1({
+  // If unspecified here, the TEXT_TO_SPEECH_USERNAME and
+  // TEXT_TO_SPEECH_PASSWORD env properties will be checked
+  // After that, the SDK will fall back to the bluemix-provided VCAP_SERVICES environment property
+  // username: '<username>',
+  // password: '<password>',
+});
+
+app.get('/', (req, res) => {
+  res.render('index');
+});
+
+/**
+ * Pipe the synthesize method
+ */
+app.get('/api/synthesize', (req, res, next) => {
+  const transcript = textToSpeech.synthesize(req.query);
+  transcript.on('response', (response) => {
+    if (req.query.download) {
+      if (req.query.accept && req.query.accept === 'audio/wav') {
+        response.headers['content-disposition'] = 'attachment; filename=transcript.wav';
+      } else {
+        response.headers['content-disposition'] = 'attachment; filename=transcript.ogg';
+      }
+    }
+  });
+  transcript.on('error', next);
+  transcript.pipe(res);
+});
+
+// error-handler settings
+require('./config/error-handler')(app);
+
+module.exports = app;
