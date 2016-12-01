@@ -101,7 +101,7 @@ app.post("/test", function(req, res){
 		}
 	});
 });
-
+/*
 const TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
 
 // Bootstrap application settings
@@ -121,7 +121,7 @@ app.get('/', (req, res) => {
 
 /**
  * Pipe the synthesize method
- */
+ *//*
 app.get('/api/synthesize', (req, res, next) => {
   const transcript = text_to_speech.synthesize(req.query);
   transcript.on('response', (response) => {
@@ -140,4 +140,4 @@ app.get('/api/synthesize', (req, res, next) => {
 // error-handler settings
 require('./config/error-handler')(app);
 
-module.exports = app;
+module.exports = app;*/
