@@ -78,7 +78,7 @@ $(document).ready(function(){
 								checkAppear = true;
 								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '" autoplay></audio>').insertBefore('.msg_push');
 								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');
-								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="250" height="200"/>' + 
+								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="400" height="250"/>' + 
 												 "<div id='name_" + j + "' class=\"menu_name\"><b>" + nowShowing[it].name + "</div>";
 								if (nowShowing[it].hasOwnProperty('nutrition')) {
 									htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + nowShowing[it].nutrition.calories + " kcal</div>";

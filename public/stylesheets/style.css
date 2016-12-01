@@ -230,5 +230,38 @@ pre {
 .menu_content{
 	padding: 10px;
 	background:#ffb0c5;
+}
 
+.detail{
+	float: left;
+	width: 1000px;
+	margin: 10px;
+}
+
+.detail_pic{
+	float: left;
+	background: #000;
+	width:400px;
+	height: 250px;
+}
+.detail_right{
+	float: left;
+	background: #fff;
+	width: 580px;
+	height: 230px;
+	padding: 10px;
+}
+
+.detail_right_text{
+	text-align: left;
+	background: red;
+}
+
+.detail_bottom{
+	float: left;
+	background: grey;
+	width: 980px;
+	height: 330px;
+	padding: 10px;
+	word-wrap: break-word;
 }
