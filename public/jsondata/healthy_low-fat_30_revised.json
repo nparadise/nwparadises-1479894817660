@@ -1,0 +1,842 @@
+{
+    "foods": [
+        {
+            "nutrition": [
+                "Calories: 11 kcal < 1", 
+                "Fat: 0.2 g < 1", 
+                "Carbs: 2.2g < 1", 
+                "Protein: 0.4 g < 1", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 2 mg < 1"
+            ], 
+            "name": "Roasted Spicy Salsa Verde", 
+            "ingredients": [
+                "2 fresh poblano chile peppers ", 
+                " 2 serrano chile peppers ", 
+                " 6 fresh tomatillos, husks removed ", 
+                " 1 1/2-inch slice of white onion ", 
+                " 2 cloves garlic ", 
+                " salt to taste ", 
+                " 1 tablespoon chopped fresh cilantro (optional) ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/828107.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 30, 
+            "directions": "Preheat an outdoor grill for high heat, and lightly oil the grate. Lay the poblano peppers, serrano peppers, and tomatillos on the hot grill, and cook, turning every 2 minutes, until the pepper skins are evenly charred and blackened, and the tomatillos have turned pale yellow and started to ooze juice, about 10 minutes. Remove the vegetables from the grill. Scrape off most of the burned pepper skin, cut the stems off, cut the peppers in half the long way, and remove the seeds. Place the onion and garlic in the work bowl of a food processor, and pulse about 4 times to chop. Drop in the peppers, pulse 4 times to roughly chop, and add the tomatillos and salt. Pulse 4 or more times to the desired smoothness, and stir in the cilantro.", 
+            "id": 123102, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 153 kcal 8", 
+                "Fat: 3.7 g 6", 
+                "Carbs: 11g 4", 
+                "Protein: 18.6 g 37", 
+                "Cholesterol: 35 mg 12", 
+                "Sodium: 207 mg 8"
+            ], 
+            "name": "Seared Scallops with Tropical Salsa", 
+            "ingredients": [
+                "1/2 cup diced fresh pineapple ", 
+                " 1/2 cup diced fresh mango ", 
+                " 1/2 cup peeled and diced cucumber ", 
+                " 1/2 cup diced red bell pepper ", 
+                " 3 tablespoons chopped fresh cilantro ", 
+                " 4 teaspoons fresh lime juice ", 
+                " 1 jalapeno pepper, seeded and minced ", 
+                " salt and pepper to taste ", 
+                " 1 pound sea scallops, rinsed and drained ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3888455.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 20, 
+            "directions": "Combine the pineapple, mango, cucumber, bell pepper, bell pepper, cilantro, lime juice and jalapeno. Season to taste with salt and pepper, and set aside. Heat a large, nonstick fry pan over medium-high heat. Coat the pan with cooking spray. Season the scallops with salt and pepper. Add half of the scallops to the pan; sear until golden brown on both sides, about 2 minutes per side. Transfer the scallops to a warmed plate; set aside. Repeat with the remaining scallops. Divide the scallops among four warmed plates. Spoon the salsa over the scallops, and serve immediately.", 
+            "id": 123103, 
+            "cook_time": 5
+        }, 
+        {
+            "nutrition": [
+                "Calories: 286 kcal 14", 
+                "Fat: 6.2 g 10", 
+                "Carbs: 50.9g 16", 
+                "Protein: 5.7 g 11", 
+                "Cholesterol: 2 mg < 1", 
+                "Sodium: 697 mg 28"
+            ], 
+            "name": "Best Spanish Rice", 
+            "ingredients": [
+                "2 tablespoons oil ", 
+                " 2 tablespoons chopped onion ", 
+                " 1 1/2 cups uncooked white rice ", 
+                " 2 cups chicken broth ", 
+                " 1 cup chunky salsa ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/66199.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Heat oil in a large, heavy skillet over medium heat. Stir in onion, and cook until tender, about 5 minutes. Mix rice into skillet, stirring often. When rice begins to brown, stir in chicken broth and salsa. Reduce heat, cover and simmer 20 minutes, until liquid has been absorbed.", 
+            "id": 123104, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 192 kcal 10", 
+                "Fat: 2.6 g 4", 
+                "Carbs: 32.5g 10", 
+                "Protein: 12.1 g 24", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 572 mg 23"
+            ], 
+            "name": "Red Lentil Curry", 
+            "ingredients": [
+                "2 cups red lentils ", 
+                " 1 large onion, diced ", 
+                " 1 tablespoon vegetable oil ", 
+                " 2 tablespoons curry paste ", 
+                " 1 tablespoon curry powder ", 
+                " 1 teaspoon ground turmeric ", 
+                " 1 teaspoon ground cumin ", 
+                " 1 teaspoon chili powder ", 
+                " 1 teaspoon salt ", 
+                " 1 teaspoon white sugar ", 
+                " 1 teaspoon minced garlic ", 
+                " 1 teaspoon minced fresh ginger ", 
+                " 1 (14.25 ounce) can tomato puree ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 40, 
+            "directions": "Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils.", 
+            "id": 123105, 
+            "cook_time": 30
+        }, 
+        {
+            "nutrition": [
+                "Calories: 232 kcal 12", 
+                "Fat: 3.7 g 6", 
+                "Carbs: 24.8g 8", 
+                "Protein: 25.6 g 51", 
+                "Cholesterol: 67 mg 22", 
+                "Sodium: 296 mg 12"
+            ], 
+            "name": "Baked Honey Mustard Chicken", 
+            "ingredients": [
+                "6 skinless, boneless chicken breast halves ", 
+                " salt and pepper to taste ", 
+                " 1/2 cup honey ", 
+                " 1/2 cup prepared mustard ", 
+                " 1 teaspoon dried basil ", 
+                " 1 teaspoon paprika ", 
+                " 1/2 teaspoon dried parsley ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3264007.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 60, 
+            "directions": "Preheat oven to 350 degrees F (175 degrees C). Sprinkle chicken breasts with salt and pepper to taste, and place in a lightly greased 9x13 inch baking dish. In a small bowl, combine the honey, mustard, basil, paprika, and parsley. Mix well. Pour 1/2 of this mixture over the chicken, and brush to cover. Bake in the preheated oven for 30 minutes. Turn chicken pieces over and brush with the remaining 1/2 of the honey mustard mixture. Bake for an additional 10 to 15 minutes, or until chicken is no longer pink and juices run clear. Let cool 10 minutes before serving.", 
+            "id": 123106, 
+            "cook_time": 45
+        }, 
+        {
+            "nutrition": [
+                "Calories: 142 kcal 7", 
+                "Fat: 4.4 g 7", 
+                "Carbs: 6.7g 2", 
+                "Protein: 18.3 g 37", 
+                "Cholesterol: 164 mg 55", 
+                "Sodium: 500 mg 20"
+            ], 
+            "name": "Szechwan Shrimp", 
+            "ingredients": [
+                "4 tablespoons water ", 
+                " 2 tablespoons ketchup ", 
+                " 1 tablespoon soy sauce ", 
+                " 2 teaspoons cornstarch ", 
+                " 1 teaspoon honey ", 
+                " 1/2 teaspoon crushed red pepper ", 
+                " 1/4 teaspoon ground ginger ", 
+                " 1 tablespoon vegetable oil ", 
+                " 1/4 cup sliced green onions ", 
+                " 4 cloves garlic, minced ", 
+                " 12 ounces cooked shrimp, tails removed ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1052895.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 20, 
+            "directions": "In a bowl, stir together water, ketchup, soy sauce, cornstarch, honey, crushed red pepper, and ground ginger. Set aside. Heat oil in a large skillet over medium-high heat. Stir in green onions and garlic; cook 30 seconds. Stir in shrimp, and toss to coat with oil. Stir in sauce. Cook and stir until sauce is bubbly and thickened.", 
+            "id": 123107, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 127 kcal 6", 
+                "Fat: 0.2 g < 1", 
+                "Carbs: 29.5g 10", 
+                "Protein: 2.4 g 5", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 100 mg 4"
+            ], 
+            "name": "Almost No Fat Banana Bread", 
+            "ingredients": [
+                "1 1/2 cups all-purpose flour ", 
+                " 3/4 cup white sugar ", 
+                " 1 1/4 teaspoons baking powder ", 
+                " 1/2 teaspoon baking soda ", 
+                " 1/2 teaspoon ground cinnamon ", 
+                " 2 egg whites ", 
+                " 1 cup banana, mashed ", 
+                " 1/4 cup applesauce ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1107296.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 65, 
+            "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease an 8x4 inch loaf pan. In a large bowl, stir together flour, sugar, baking powder, baking soda and cinnamon. Add egg whites, bananas and applesauce; stir just until combined. Pour batter into prepared pan. Bake in preheated oven for 50 to 55 minutes, until a toothpick inserted into center of loaf comes out clean. Turn out onto wire rack and allow to cool before slicing.", 
+            "id": 123108, 
+            "cook_time": 55
+        }, 
+        {
+            "nutrition": [
+                "Calories: 247 kcal 12", 
+                "Fat: 3 g 5", 
+                "Carbs: 27.4g 9", 
+                "Protein: 25.6 g 51", 
+                "Cholesterol: 67 mg 22", 
+                "Sodium: 687 mg 27"
+            ], 
+            "name": "Easy Grilled Chicken", 
+            "ingredients": [
+                "4 skinless, boneless chicken breast halves ", 
+                " 1 cup fat free Italian-style dressing ", 
+                " 1 green bell pepper ", 
+                " 1 red bell pepper ", 
+                " 1 zucchini ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/99974.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 20, 
+            "directions": "Place washed chicken breasts in large sealable bag. Add 1 cup fat-free Italian dressing and close. Let marinate for 5 to 10 minutes. Cut up peppers into big chunks, and zucchini into big slices. Put into another sealable bag. Coat with leftover dressing. Grill chicken and veggies over medium heat.", 
+            "id": 123109, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 414 kcal 21", 
+                "Fat: 11 g 17", 
+                "Carbs: 49.5g 16", 
+                "Protein: 28.4 g 57", 
+                "Cholesterol: 50 mg 17", 
+                "Sodium: 1015 mg 41"
+            ], 
+            "name": "The Ultimate Chili", 
+            "ingredients": [
+                "1 pound lean ground beef ", 
+                " salt and pepper to taste ", 
+                " 3 (15 ounce) cans dark red kidney beans ", 
+                " 3 (14.5 ounce) cans Mexican-style stewed tomatoes ", 
+                " 2 stalks celery, chopped ", 
+                " 1 red bell pepper, chopped ", 
+                " 1/4 cup red wine vinegar ", 
+                " 2 tablespoons chili powder ", 
+                " 1 teaspoon ground cumin ", 
+                " 1 teaspoon dried parsley ", 
+                " 1 teaspoon dried basil ", 
+                " 1 dash Worcestershire sauce ", 
+                " 1/2 cup red wine ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1003997.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 380, 
+            "directions": "In a large skillet over medium-high heat, cook ground beef until evenly browned. Drain off grease, and season to taste with salt and pepper. In a slow cooker, combine the cooked beef, kidney beans, tomatoes, celery, red bell pepper, and red wine vinegar. Season with chili powder, cumin, parsley, basil and Worcestershire sauce. Stir to distribute ingredients evenly. Cook on High for 6 hours, or on Low for 8 hours. Pour in the wine during the last 2 hours.", 
+            "id": 123110, 
+            "cook_time": 370
+        }, 
+        {
+            "nutrition": [
+                "Calories: 191 kcal 10", 
+                "Fat: 5 g 8", 
+                "Carbs: 34.6g 11", 
+                "Protein: 4 g 8", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 257 mg 10"
+            ], 
+            "name": "Roasted Vegetable Medley", 
+            "ingredients": [
+                "2 tablespoons olive oil, divided ", 
+                " 1 large yam, peeled and cut into 1 inch pieces ", 
+                " 1 large parsnip, peeled and cut into 1 inch pieces ", 
+                " 1 cup baby carrots ", 
+                " 1 zucchini, cut into 1 inch slices ", 
+                " 1 bunch fresh asparagus, trimmed and cut into 1 inch pieces ", 
+                " 1/2 cup roasted red peppers, cut into 1-inch pieces ", 
+                " 2 cloves garlic, minced ", 
+                " 1/4 cup chopped fresh basil ", 
+                " 1/2 teaspoon kosher salt ", 
+                " 1/2 teaspoon ground black pepper ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/249686.jpg", 
+            "prep_time": 25, 
+            "ready_in_time": 115, 
+            "directions": "Preheat oven to 425 degrees F (220 degrees C). Grease 2 baking sheets with 1 tablespoon olive oil. Place the yams, parsnips, and carrots onto the baking sheets. Bake in the preheated oven for 30 minutes, then add the zucchini and asparagus, and drizzle with the remaining 1 tablespoon of olive oil. Continue baking until all of the vegetables are tender, about 30 minutes more. Once tender, remove from the oven, and allow to cool for 30 minutes on the baking sheet. Toss the roasted peppers together with the garlic, basil, salt, and pepper in a large bowl until combined. Add the roasted vegetables, and toss to mix. Serve at room temperature or cold.", 
+            "id": 123111, 
+            "cook_time": 60
+        }, 
+        {
+            "nutrition": [
+                "Calories: 310 kcal 16", 
+                "Fat: 1 g 2", 
+                "Carbs: 57.9g 19", 
+                "Protein: 19.7 g 39", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 255 mg 10"
+            ], 
+            "name": "Split Pea Soup", 
+            "ingredients": [
+                "2 1/4 cups dried split peas ", 
+                " 2 quarts cold water ", 
+                " 1 1/2 pounds ham bone ", 
+                " 2 onions, thinly sliced ", 
+                " 1/2 teaspoon salt ", 
+                " 1/4 teaspoon ground black pepper ", 
+                " 1 pinch dried marjoram ", 
+                " 3 stalks celery, chopped ", 
+                " 3 carrots, chopped ", 
+                " 1 potato, diced ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/46633.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 630, 
+            "directions": "In a large stock pot, cover peas with 2 quarts cold water and soak overnight. If you need a faster method, simmer the peas gently for 2 minutes, and then soak for l hour. Once peas are soaked, add ham bone, onion, salt, pepper and marjoram. Cover, bring to boil and then simmer for 1 1/2 hours, stirring occasionally. Remove bone; cut off meat, dice and return meat to soup. Add celery, carrots and potatoes. Cook slowly, uncovered for 30 to 40 minutes, or until vegetables are tender.", 
+            "id": 123112, 
+            "cook_time": 120
+        }, 
+        {
+            "nutrition": [
+                "Calories: 119 kcal 6", 
+                "Fat: 2.1 g 3", 
+                "Carbs: 21.6g 7", 
+                "Protein: 3.1 g 6", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 157 mg 6"
+            ], 
+            "name": "Jay's Signature Pizza Crust", 
+            "ingredients": [
+                "2 1/4 teaspoons active dry yeast ", 
+                " 1/2 teaspoon brown sugar ", 
+                " 1 1/2 cups warm water (110 degrees F/45 degrees C) ", 
+                " 1 teaspoon salt ", 
+                " 2 tablespoons olive oil ", 
+                " 3 1/3 cups all-purpose flour ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/576102.jpg", 
+            "prep_time": 30, 
+            "ready_in_time": 110, 
+            "directions": "In a large bowl, dissolve the yeast and brown sugar in the water, and let sit for 10 minutes. Stir the salt and oil into the yeast solution. Mix in 2 1/2 cups of the flour. Turn dough out onto a clean, well floured surface, and knead in more flour until the dough is no longer sticky. Place the dough into a well oiled bowl, and cover with a cloth. Let the dough rise until double; this should take about 1 hour. Punch down the dough, and form a tight ball. Allow the dough to relax for a minute before rolling out. Use for your favorite pizza recipe. Preheat oven to 425 degrees F (220 degrees C). If you are baking the dough on a pizza stone, you may place your toppings on the dough, and bake immediately. If you are baking your pizza in a pan, lightly oil the pan, and let the dough rise for 15 or 20 minutes before topping and baking it. Bake pizza in preheated oven, until the cheese and crust are golden brown, about 15 to 20 minutes.", 
+            "id": 123113, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 158 kcal 8", 
+                "Fat: 2.8 g 4", 
+                "Carbs: 29.1g 9", 
+                "Protein: 3.4 g 7", 
+                "Cholesterol: 1 mg < 1", 
+                "Sodium: 631 mg 25"
+            ], 
+            "name": "Mexican Rice III", 
+            "ingredients": [
+                "1 cup long grain white rice ", 
+                " 1 tablespoon vegetable oil ", 
+                " 1 1/2 cups chicken broth ", 
+                " 1/2 onion, finely chopped ", 
+                " 1/2 green bell pepper, finely chopped ", 
+                " 1 fresh jalapeno pepper, chopped ", 
+                " 1 tomato, seeded and chopped ", 
+                " 1 cube chicken bouillon ", 
+                " salt and pepper to taste ", 
+                " 1/2 teaspoon ground cumin ", 
+                " 1/2 cup chopped fresh cilantro ", 
+                " 1 clove garlic, halved ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/690435.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 30, 
+            "directions": "In a medium sauce pan, cook rice in oil over medium heat for about 3 minutes. Pour in chicken broth, and bring to a boil. Stir in onion, green pepper, jalapeno, and diced tomato. Season with bouillon cube, salt and pepper, cumin, cilantro, and garlic. Bring to a boil, cover, and reduce heat to low. Cook for 20 minutes.", 
+            "id": 123114, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 140 kcal 7", 
+                "Fat: 0.9 g 1", 
+                "Carbs: 27.1g 9", 
+                "Protein: 6.3 g 13", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 354 mg 14"
+            ], 
+            "name": "Black Beans and Rice", 
+            "ingredients": [
+                "1 teaspoon olive oil ", 
+                " 1 onion, chopped ", 
+                " 2 cloves garlic, minced ", 
+                " 3/4 cup uncooked white rice ", 
+                " 1 1/2 cups low sodium, low fat vegetable broth ", 
+                " 1 teaspoon ground cumin ", 
+                " 1/4 teaspoon cayenne pepper ", 
+                " 3 1/2 cups canned black beans, drained ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2119665.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 30, 
+            "directions": "In a stockpot over medium-high heat, heat the oil. Add the onion and garlic and saute for 4 minutes. Add the rice and saute for 2 minutes. Add the vegetable broth, bring to a boil, cover and lower the heat and cook for 20 minutes. Add the spices and black beans.", 
+            "id": 123115, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 135 kcal 7", 
+                "Fat: 3 g 5", 
+                "Carbs: 0.9g < 1", 
+                "Protein: 24.7 g 49", 
+                "Cholesterol: 67 mg 22", 
+                "Sodium: 205 mg 8"
+            ], 
+            "name": "Blackened Chicken", 
+            "ingredients": [
+                "1/2 teaspoon paprika ", 
+                " 1/8 teaspoon salt ", 
+                " 1/4 teaspoon cayenne pepper ", 
+                " 1/4 teaspoon ground cumin ", 
+                " 1/4 teaspoon dried thyme ", 
+                " 1/8 teaspoon ground white pepper ", 
+                " 1/8 teaspoon onion powder ", 
+                " 2 skinless, boneless chicken breast halves ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/364458.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 20, 
+            "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a baking sheet. Heat a cast iron skillet over high heat for 5 minutes until it is smoking hot. Mix together the paprika, salt, cayenne, cumin, thyme, white pepper, and onion powder. Oil the chicken breasts with cooking spray on both sides, then coat the chicken breasts evenly with the spice mixture. Place the chicken in the hot pan, and cook for 1 minute. Turn, and cook 1 minute on other side. Place the breasts on the prepared baking sheet. Bake in the preheated oven until no longer pink in the center and the juices run clear, about 5 minutes.", 
+            "id": 123116, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 123 kcal 6", 
+                "Fat: 2.7 g 4", 
+                "Carbs: 19.4g 6", 
+                "Protein: 4.8 g 10", 
+                "Cholesterol: 48 mg 16", 
+                "Sodium: 230 mg 9"
+            ], 
+            "name": "Fluffy French Toast", 
+            "ingredients": [
+                "1/4 cup all-purpose flour ", 
+                " 1 cup milk ", 
+                " 1 pinch salt ", 
+                " 3 eggs ", 
+                " 1/2 teaspoon ground cinnamon ", 
+                " 1 teaspoon vanilla extract ", 
+                " 1 tablespoon white sugar ", 
+                " 12 thick slices bread ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2049275.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth. Heat a lightly oiled griddle or frying pan over medium heat. Soak bread slices in mixture until saturated. Cook bread on each side until golden brown. Serve hot.", 
+            "id": 123117, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 90 kcal 5", 
+                "Fat: 0.5 g < 1", 
+                "Carbs: 20.7g 7", 
+                "Protein: 4 g 8", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 483 mg 19"
+            ], 
+            "name": "Cabbage Fat-Burning Soup", 
+            "ingredients": [
+                "5 carrots, chopped ", 
+                " 3 onions, chopped ", 
+                " 2 (16 ounce) cans whole peeled tomatoes, with liquid ", 
+                " 1 large head cabbage, chopped ", 
+                " 1 (1 ounce) envelope dry onion soup mix ", 
+                " 1 (15 ounce) can cut green beans, drained ", 
+                " 2 quarts tomato juice ", 
+                " 2 green bell peppers, diced ", 
+                " 10 stalks celery, chopped ", 
+                " 1 (14 ounce) can beef broth ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3086983.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 45, 
+            "directions": "Place carrots, onions, tomatoes, cabbage, green beans, peppers, and celery in a large pot. Add onion soup mix, tomato juice, beef broth, and enough water to cover vegetables. Simmer until vegetables are tender. May be stored in the refrigerator for several days.", 
+            "id": 123118, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 272 kcal 14", 
+                "Fat: 4.7 g 7", 
+                "Carbs: 9.3g 3", 
+                "Protein: 45.3 g 91", 
+                "Cholesterol: 117 mg 39", 
+                "Sodium: 976 mg 39"
+            ], 
+            "name": "Slow Cooker Cilantro Lime Chicken", 
+            "ingredients": [
+                "1 (16 ounce) jar salsa ", 
+                " 1 (1.25 ounce) package dry taco seasoning mix ", 
+                " 1 lime, juiced ", 
+                " 3 tablespoons chopped fresh cilantro ", 
+                " 3 pounds skinless, boneless chicken breast halves ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/701274.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 250, 
+            "directions": "Place the salsa, taco seasoning, lime juice, and cilantro into a slow cooker, and stir to combine. Add the chicken breasts, and stir to coat with the salsa mixture. Cover the cooker, set to High, and cook until the chicken is very tender, about 4 hours. If desired, set cooker to Low and cook 6 to 8 hours. Shred chicken with 2 forks to serve.", 
+            "id": 123120, 
+            "cook_time": 240
+        }, 
+        {
+            "nutrition": [
+                "Calories: 180 kcal 9", 
+                "Fat: 3.7 g 6", 
+                "Carbs: 5.8g 2", 
+                "Protein: 24.5 g 49", 
+                "Cholesterol: 65 mg 22", 
+                "Sodium: 918 mg 37"
+            ], 
+            "name": "Amazing Pork Tenderloin in the Slow Cooker", 
+            "ingredients": [
+                "1 (2 pound) pork tenderloin ", 
+                " 1 (1 ounce) envelope dry onion soup mix ", 
+                " 1 cup water ", 
+                " 3/4 cup red wine ", 
+                " 3 tablespoons minced garlic ", 
+                " 3 tablespoons soy sauce ", 
+                " freshly ground black pepper to taste ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2209649.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 255, 
+            "directions": "Place pork tenderloin in a slow cooker with the contents of the soup packet. Pour water, wine, and soy sauce over the top, turning the pork to coat. Carefully spread garlic over the pork, leaving as much on top of the roast during cooking as possible. Sprinkle with pepper, cover, and cook on low setting for 4 hours. Serve with cooking liquid on the side as au jus.", 
+            "id": 123121, 
+            "cook_time": 240
+        }, 
+        {
+            "nutrition": [
+                "Calories: 198 kcal 10", 
+                "Fat: 3 g 5", 
+                "Carbs: 33.1g 11", 
+                "Protein: 11.2 g 22", 
+                "Cholesterol: 46 mg 16", 
+                "Sodium: 607 mg 24"
+            ], 
+            "name": "Homemade Black Bean Veggie Burgers", 
+            "ingredients": [
+                "1 (16 ounce) can black beans, drained and rinsed ", 
+                " 1/2 green bell pepper, cut into 2 inch pieces ", 
+                " 1/2 onion, cut into wedges ", 
+                " 3 cloves garlic, peeled ", 
+                " 1 egg ", 
+                " 1 tablespoon chili powder ", 
+                " 1 tablespoon cumin ", 
+                " 1 teaspoon Thai chili sauce or hot sauce ", 
+                " 1/2 cup bread crumbs ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/820428.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 35, 
+            "directions": "If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet. In a medium bowl, mash black beans with a fork until thick and pasty. In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans. In a small bowl, stir together egg, chili powder, cumin, and chili sauce. Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties. If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side.", 
+            "id": 123122, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 121 kcal 6", 
+                "Fat: 0.2 g < 1", 
+                "Carbs: 31.8g 10", 
+                "Protein: 0.4 g < 1", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 3 mg < 1"
+            ], 
+            "name": "Sarah's Applesauce", 
+            "ingredients": [
+                "4 apples - peeled, cored and chopped ", 
+                " 3/4 cup water ", 
+                " 1/4 cup white sugar ", 
+                " 1/2 teaspoon ground cinnamon ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/25840.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "In a saucepan, combine apples, water, sugar, and cinnamon. Cover, and cook over medium heat for 15 to 20 minutes, or until apples are soft. Allow to cool, then mash with a fork or potato masher.", 
+            "id": 123123, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 82 kcal 4", 
+                "Fat: 2.2 g 3", 
+                "Carbs: 14.1g 5", 
+                "Protein: 1.7 g 3", 
+                "Cholesterol: < 1 mg < 1", 
+                "Sodium: 263 mg 11"
+            ], 
+            "name": "Pretzel Turtles\u00ae", 
+            "ingredients": [
+                "20 small mini pretzels ", 
+                " 20 chocolate covered caramel candies ", 
+                " 20 pecan halves ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/314943.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 14, 
+            "directions": "Preheat oven to 300 degrees F (150 degrees C). Arrange the pretzels in a single layer on a parchment lined cookie sheet. Place one chocolate covered caramel candy on each pretzel. Bake for 4 minutes. While the candy is warm, press a pecan half onto each candy covered pretzel. Cool completely before storing in an airtight container.", 
+            "id": 123124, 
+            "cook_time": 4
+        }, 
+        {
+            "nutrition": [
+                "Calories: 139 kcal 7", 
+                "Fat: 0.5 g < 1", 
+                "Carbs: 25.4g 8", 
+                "Protein: 8.5 g 17", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 785 mg 31"
+            ], 
+            "name": "Refried Beans Without the Refry", 
+            "ingredients": [
+                "1 onion, peeled and halved ", 
+                " 3 cups dry pinto beans, rinsed ", 
+                " 1/2 fresh jalapeno pepper, seeded and chopped ", 
+                " 2 tablespoons minced garlic ", 
+                " 5 teaspoons salt ", 
+                " 1 3/4 teaspoons fresh ground black pepper ", 
+                " 1/8 teaspoon ground cumin, optional ", 
+                " 9 cups water ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/373926.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 495, 
+            "directions": "Place the onion, rinsed beans, jalapeno, garlic, salt, pepper, and cumin into a slow cooker. Pour in the water and stir to combine. Cook on High for 8 hours, adding more water as needed. Note: if more than 1 cup of water has evaporated during cooking, then the temperature is too high. Once the beans have cooked, strain them, and reserve the liquid. Mash the beans with a potato masher, adding the reserved water as needed to attain desired consistency.", 
+            "id": 123125, 
+            "cook_time": 480
+        }, 
+        {
+            "nutrition": [
+                "Calories: 588 kcal 29", 
+                "Fat: 8.4 g 13", 
+                "Carbs: 82.1g 26", 
+                "Protein: 34.5 g 69", 
+                "Cholesterol: 76 mg 25", 
+                "Sodium: 1595 mg 64"
+            ], 
+            "name": "Gary's Turkey Burritos", 
+            "ingredients": [
+                "1 pound ground turkey ", 
+                " 2 (7 ounce) cans hot tomato sauce ", 
+                " 1 (15.25 ounce) can whole kernel corn, drained ", 
+                " 1/2 small onion, diced ", 
+                " 1 (16 ounce) can fat-free refried beans ", 
+                " 1 (16 ounce) container fat free sour cream ", 
+                " 3/4 cup shredded reduced-fat Cheddar cheese ", 
+                " 6 (10 inch) flour tortillas ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/710781.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 25, 
+            "directions": "In a large skillet over medium high heat, brown ground turkey. Stir in tomato sauce, corn and onion. Reduce heat to medium and let simmer, stirring occasionally, until liquids reduce (about 20 minutes). In a separate medium skillet, heat beans over medium-low heat. Prepare sour cream and cheese for sprinkling into burritos. One by one, heat tortillas over stove burner for 1 to 2 minutes, flipping a few times. Top with beans, then meat mixture, then sour cream and cheese. Fold over and serve while still warm.", 
+            "id": 123126, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 273 kcal 14", 
+                "Fat: 1.5 g 2", 
+                "Carbs: 1.5g < 1", 
+                "Protein: 59.5 g 119", 
+                "Cholesterol: 164 mg 55", 
+                "Sodium: 309 mg 12"
+            ], 
+            "name": "Slow Cooker Turkey Breast", 
+            "ingredients": [
+                "1 (6 pound) bone-in turkey breast ", 
+                " 1 (1 ounce) envelope dry onion soup mix ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2074494.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 490, 
+            "directions": "Rinse the turkey breast and pat dry. Cut off any excess skin, but leave the skin covering the breast. Rub onion soup mix all over outside of the turkey and under the skin. Place in a slow cooker. Cover, and cook on High for 1 hour, then set to Low, and cook for 7 hours.", 
+            "id": 123127, 
+            "cook_time": 480
+        }, 
+        {
+            "nutrition": [
+                "Calories: 153 kcal 8", 
+                "Fat: 1.7 g 3", 
+                "Carbs: 27.8g 9", 
+                "Protein: 7.7 g 15", 
+                "Cholesterol: 0 mg 0", 
+                "Sodium: 517 mg 21"
+            ], 
+            "name": "Quinoa and Black Beans", 
+            "ingredients": [
+                "1 teaspoon vegetable oil ", 
+                " 1 onion, chopped ", 
+                " 3 cloves garlic, chopped ", 
+                " 3/4 cup quinoa ", 
+                " 1 1/2 cups vegetable broth ", 
+                " 1 teaspoon ground cumin ", 
+                " 1/4 teaspoon cayenne pepper ", 
+                " salt and ground black pepper to taste ", 
+                " 1 cup frozen corn kernels ", 
+                " 2 (15 ounce) cans black beans, rinsed and drained ", 
+                " 1/2 cup chopped fresh cilantro ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/357989.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 50, 
+            "directions": "Heat oil in a saucepan over medium heat; cook and stir onion and garlic until lightly browned, about 10 minutes. Mix quinoa into onion mixture and cover with vegetable broth; season with cumin, cayenne pepper, salt, and pepper. Bring the mixture to a boil. Cover, reduce heat, and simmer until quinoa is tender and broth is absorbed, about 20 minutes. Stir frozen corn into the saucepan, and continue to simmer until heated through, about 5 minutes; mix in the black beans and cilantro.", 
+            "id": 123128, 
+            "cook_time": 35
+        }, 
+        {
+            "nutrition": [
+                "Calories: 58 kcal 3", 
+                "Fat: 2 g 3", 
+                "Carbs: 9.8g 3", 
+                "Protein: 0.9 g 2", 
+                "Cholesterol: 10 mg 3", 
+                "Sodium: 34 mg 1"
+            ], 
+            "name": "Chocolate Crinkles II", 
+            "ingredients": [
+                "1 cup unsweetened cocoa powder ", 
+                " 2 cups white sugar ", 
+                " 1/2 cup vegetable oil ", 
+                " 4 eggs ", 
+                " 2 teaspoons vanilla extract ", 
+                " 2 cups all-purpose flour ", 
+                " 2 teaspoons baking powder ", 
+                " 1/2 teaspoon salt ", 
+                " 1/2 cup confectioners' sugar ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3993107.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 300, 
+            "directions": "In a medium bowl, mix together cocoa, white sugar, and vegetable oil. Beat in eggs one at a time, then stir in the vanilla. Combine the flour, baking powder, and salt; stir into the cocoa mixture. Cover dough, and chill for at least 4 hours. Preheat oven to 350 degrees F (175 degrees C). Line cookie sheets with parchment paper. Roll dough into one inch balls. I like to use a number 50 size scoop. Coat each ball in confectioners' sugar before placing onto prepared cookie sheets. Bake in preheated oven for 10 to 12 minutes. Let stand on the cookie sheet for a minute before transferring to wire racks to cool.", 
+            "id": 123129, 
+            "cook_time": 12
+        }, 
+        {
+            "nutrition": [
+                "Calories: 160 kcal 8", 
+                "Fat: 2.2 g 3", 
+                "Carbs: 14.7g 5", 
+                "Protein: 19.4 g 39", 
+                "Cholesterol: 52 mg 17", 
+                "Sodium: 332 mg 13"
+            ], 
+            "name": "Pineapple Chicken Tenders", 
+            "ingredients": [
+                "1 cup pineapple juice ", 
+                " 1/2 cup packed brown sugar ", 
+                " 1/3 cup light soy sauce ", 
+                " 2 pounds chicken breast tenderloins or strips ", 
+                " skewers ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/227447.jpg", 
+            "prep_time": 30, 
+            "ready_in_time": 70, 
+            "directions": "In a small saucepan over medium heat, mix pineapple juice, brown sugar, and soy sauce. Remove from heat just before the mixture comes to a boil. Place chicken tenders in a medium bowl. Cover with the pineapple marinade, and refrigerate for at least 30 minutes. Preheat grill for medium heat. Thread chicken lengthwise onto wooden skewers. Lightly oil the grill grate. Grill chicken tenders 5 minutes per side, or until juices run clear. They cook quickly, so watch them closely.", 
+            "id": 123130, 
+            "cook_time": 10
+        }
+    ]
+}

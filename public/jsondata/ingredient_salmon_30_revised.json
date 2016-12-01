@@ -1,0 +1,921 @@
+{
+    "foods": [
+        {
+            "nutrition": [
+                "Calories: 405 kcal 20", 
+                "Fat: 26.6 g 41", 
+                "Carbs: 4g 1", 
+                "Protein: 36.2 g 72", 
+                "Cholesterol: 104 mg 35", 
+                "Sodium: 180 mg 7"
+            ], 
+            "name": "Tomato Basil Salmon", 
+            "ingredients": [
+                "2 (6 ounce) boneless salmon fillets ", 
+                " 1 tablespoon dried basil ", 
+                " 1 tomato, thinly sliced ", 
+                " 1 tablespoon olive oil ", 
+                " 2 tablespoons grated Parmesan cheese ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/691788.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Preheat oven to 375 degrees F (190 degrees C). Line a baking sheet with a piece of aluminum foil, and spray with nonstick cooking spray. Place the salmon fillets onto the foil, sprinkle with basil, top with tomato slices, drizzle with olive oil, and sprinkle with the Parmesan cheese. Bake in the preheated oven until the salmon is opaque in the center, and the Parmesan cheese is lightly browned on top, about 20 minutes.", 
+            "id": 41601, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 368 kcal 18", 
+                "Fat: 22.4 g 34", 
+                "Carbs: 15.9g 5", 
+                "Protein: 26.1 g 52", 
+                "Cholesterol: 91 mg 30", 
+                "Sodium: 353 mg 14"
+            ], 
+            "name": "Alaska Salmon Bake with Pecan Crunch Coating", 
+            "ingredients": [
+                "3 tablespoons Dijon mustard ", 
+                " 3 tablespoons butter, melted ", 
+                " 5 teaspoons honey ", 
+                " 1/2 cup fresh bread crumbs ", 
+                " 1/2 cup finely chopped pecans ", 
+                " 3 teaspoons chopped fresh parsley ", 
+                " 6 (4 ounce) fillets salmon ", 
+                " salt and pepper to taste ", 
+                " 6 lemon wedges ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/374951.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 30, 
+            "directions": "Preheat the oven to 400 degrees F (200 degrees C). In a small bowl, mix together the mustard, butter, and honey. In another bowl, mix together the bread crumbs, pecans, and parsley. Season each salmon fillet with salt and pepper. Place on a lightly greased baking sheet. Brush with mustard-honey mixture. Cover the top of each fillet with bread crumb mixture. Bake for 10 minutes per inch of thickness, measured at thickest part, or until salmon just flakes when tested with a fork. Serve garnished with lemon wedges.", 
+            "id": 41602, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 377 kcal 19", 
+                "Fat: 13.7 g 21", 
+                "Carbs: 13.4g 4", 
+                "Protein: 48.4 g 97", 
+                "Cholesterol: 100 mg 33", 
+                "Sodium: 519 mg 21"
+            ], 
+            "name": "Fast Salmon with a Ginger Glaze", 
+            "ingredients": [
+                "4 (8 ounce) fresh salmon fillets ", 
+                " salt to taste ", 
+                " 1/3 cup cold water ", 
+                " 1/4 cup seasoned rice vinegar ", 
+                " 2 tablespoons brown sugar ", 
+                " 1 tablespoon hot chile paste (such as sambal oelek) ", 
+                " 1 tablespoon finely grated fresh ginger ", 
+                " 4 cloves garlic, minced ", 
+                " 1 teaspoon soy sauce ", 
+                " 1/4 cup chopped fresh basil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3454021.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 25, 
+            "directions": "Preheat grill for medium heat and lightly oil the grate. Season salmon fillets with salt. Place salmon on the preheated grill; cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork. Combine water, rice vinegar, brown sugar, chile paste, ginger, garlic, and soy sauce in a small saucepan over medium heat. Bring mixture to a boil, reduce heat to medium and simmer until barely thickened, about 2 minutes. Sprinkle basil on top of salmon; spoon glaze over basil.", 
+            "id": 41603, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 331 kcal 17", 
+                "Fat: 21.5 g 33", 
+                "Carbs: 7.5g 2", 
+                "Protein: 25 g 50", 
+                "Cholesterol: 106 mg 35", 
+                "Sodium: 552 mg 22"
+            ], 
+            "name": "Baked Salmon Fillets Dijon", 
+            "ingredients": [
+                "4 (4 ounce) fillets salmon ", 
+                " 3 tablespoons prepared Dijon-style mustard ", 
+                " salt and pepper to taste ", 
+                " 1/4 cup Italian-style dry bread crumbs ", 
+                " 1/4 cup butter, melted ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1014163.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 25, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). Line a shallow baking pan with aluminum foil. Place salmon skin-side down on foil. Spread a thin layer of mustard on the top of each fillet, and season with salt and pepper. Top with bread crumbs, then drizzle with melted butter. Bake in a preheated oven for 15 minutes, or until salmon flakes easily with a fork.", 
+            "id": 41604, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 320 kcal 16", 
+                "Fat: 22.1 g 34", 
+                "Carbs: 2.4g < 1", 
+                "Protein: 25.7 g 51", 
+                "Cholesterol: 104 mg 35", 
+                "Sodium: 197 mg 8"
+            ], 
+            "name": "Salmon with Lemon and Dill", 
+            "ingredients": [
+                "1 pound salmon fillets ", 
+                " 1/4 cup butter, melted ", 
+                " 5 tablespoons lemon juice ", 
+                " 1 tablespoon dried dill weed ", 
+                " 1/4 teaspoon garlic powder ", 
+                " sea salt to taste ", 
+                " freshly ground black pepper to taste ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/174253.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 35, 
+            "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish. Place salmon in the baking dish. Mix the butter and lemon juice in a small bowl, and drizzle over the salmon. Season with dill, garlic powder, sea salt, and pepper. Bake 25 minutes in the preheated oven, or until salmon is easily flaked with a fork.", 
+            "id": 41605, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 422 kcal 21", 
+                "Fat: 29 g 45", 
+                "Carbs: 17.6g 6", 
+                "Protein: 24.3 g 49", 
+                "Cholesterol: 97 mg 32", 
+                "Sodium: 480 mg 19"
+            ], 
+            "name": "Baked Dijon Salmon", 
+            "ingredients": [
+                "1/4 cup butter, melted ", 
+                " 3 tablespoons Dijon mustard ", 
+                " 1 1/2 tablespoons honey ", 
+                " 1/4 cup dry bread crumbs ", 
+                " 1/4 cup finely chopped pecans ", 
+                " 4 teaspoons chopped fresh parsley ", 
+                " 4 (4 ounce) fillets salmon ", 
+                " salt and pepper to taste ", 
+                " 1 lemon, for garnish ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/877476.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 35, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). In a small bowl, stir together butter, mustard, and honey. Set aside. In another bowl, mix together bread crumbs, pecans, and parsley. Brush each salmon fillet lightly with honey mustard mixture, and sprinkle the tops of the fillets with the bread crumb mixture. Bake salmon 12 to 15 minutes in the preheated oven, or until it flakes easily with a fork. Season with salt and pepper, and garnish with a wedge of lemon.", 
+            "id": 41606, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 262 kcal 13", 
+                "Fat: 18.1 g 28", 
+                "Carbs: 0.7g < 1", 
+                "Protein: 22.8 g 46", 
+                "Cholesterol: 82 mg 27", 
+                "Sodium: 254 mg 10"
+            ], 
+            "name": "Salmon with Dill", 
+            "ingredients": [
+                "1 pound salmon fillets or steaks ", 
+                " 1/4 teaspoon salt ", 
+                " 1/2 teaspoon ground black pepper ", 
+                " 1 teaspoon onion powder ", 
+                " 1 teaspoon dried dill weed ", 
+                " 2 tablespoons butter ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1104086.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 30, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). Rinse salmon, and arrange in a 9x13 inch baking dish. Sprinkle salt, pepper, onion powder, and dill over the fish. Place pieces of butter evenly over the fish. Bake in preheated oven for 20 to 25 minutes. Salmon is done when it flakes easily with a fork.", 
+            "id": 41607, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 318 kcal 16", 
+                "Fat: 20.1 g 31", 
+                "Carbs: 13.2g 4", 
+                "Protein: 20.5 g 41", 
+                "Cholesterol: 56 mg 19", 
+                "Sodium: 1092 mg 44"
+            ], 
+            "name": "Grilled Salmon I", 
+            "ingredients": [
+                "1 1/2 pounds salmon fillets ", 
+                " lemon pepper to taste ", 
+                " garlic powder to taste ", 
+                " salt to taste ", 
+                " 1/3 cup soy sauce ", 
+                " 1/3 cup brown sugar ", 
+                " 1/3 cup water ", 
+                " 1/4 cup vegetable oil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/800839.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 151, 
+            "directions": "Season salmon fillets with lemon pepper, garlic powder, and salt. In a small bowl, stir together soy sauce, brown sugar, water, and vegetable oil until sugar is dissolved. Place fish in a large resealable plastic bag with the soy sauce mixture, seal, and turn to coat. Refrigerate for at least 2 hours. Preheat grill for medium heat. Lightly oil grill grate. Place salmon on the preheated grill, and discard marinade. Cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork.", 
+            "id": 41608, 
+            "cook_time": 16
+        }, 
+        {
+            "nutrition": [
+                "Calories: 441 kcal 22", 
+                "Fat: 29 g 45", 
+                "Carbs: 20g 6", 
+                "Protein: 24.2 g 48", 
+                "Cholesterol: 123 mg 41", 
+                "Sodium: 634 mg 25"
+            ], 
+            "name": "Oregon Salmon Patties", 
+            "ingredients": [
+                "1 (14.75 ounce) can salmon ", 
+                " 2 tablespoons butter ", 
+                " 1 medium onion, chopped ", 
+                " 2/3 cup cracker crumbs ", 
+                " 2 eggs, beaten ", 
+                " 1/4 cup chopped fresh parsley ", 
+                " 1 teaspoon dry mustard ", 
+                " 3 tablespoons shortening ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/679310.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 25, 
+            "directions": "Drain the salmon, reserving 3/4 cup of the liquid. Flake the meat. Melt butter in a large skillet over medium- high heat. Add onion, and cook until tender. In a medium bowl, combine the onions with the reserved salmon liquid, 1/3 of the cracker crumbs, eggs, parsley, mustard and salmon. Mix until well blended, then shape into six patties. Coat patties in remaining cracker crumbs. Melt shortening in a large skillet over medium heat. Cook patties until browned, then carefully turn and brown on the other side.", 
+            "id": 41609, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 380 kcal 19", 
+                "Fat: 19.4 g 30", 
+                "Carbs: 15.7g 5", 
+                "Protein: 34.7 g 69", 
+                "Cholesterol: 88 mg 29", 
+                "Sodium: 1251 mg 50"
+            ], 
+            "name": "Heather's Grilled Salmon", 
+            "ingredients": [
+                "1/4 cup brown sugar ", 
+                " 1/4 cup olive oil ", 
+                " 1/4 cup soy sauce ", 
+                " 2 teaspoons lemon pepper ", 
+                " 1 teaspoon dried thyme ", 
+                " 1 teaspoon dried basil ", 
+                " 1 teaspoon dried parsley ", 
+                " 1/2 teaspoon garlic powder ", 
+                " 4 (6 ounce) salmon fillets ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2430433.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 80, 
+            "directions": "Whisk together the brown sugar, olive oil, soy sauce, lemon pepper, thyme, basil, parsley, and garlic powder in a bowl, and pour into a resealable plastic bag. Add the salmon fillets, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 1 hour, turning occasionally. Preheat an outdoor grill for medium heat, and lightly oil the grate. Remove the salmon from the marinade, and shake off excess. Discard the remaining marinade. Grill the salmon on the preheated grill until browned and the fish flakes easily with a fork, about 5 minutes on each side.", 
+            "id": 41610, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 252 kcal 13", 
+                "Fat: 13.8 g 21", 
+                "Carbs: 8g 3", 
+                "Protein: 23.1 g 46", 
+                "Cholesterol: 111 mg 37", 
+                "Sodium: 509 mg 20"
+            ], 
+            "name": "Potato Salmon Patties", 
+            "ingredients": [
+                "1 (14.75 ounce) can salmon, drained and flaked ", 
+                " 2 eggs, beaten ", 
+                " 1/4 cup garlic and herb seasoned dry bread crumbs ", 
+                " 1/4 cup dry potato flakes ", 
+                " 1 medium onion, minced ", 
+                " 1 clove garlic, minced ", 
+                " 1/4 teaspoon dried dill weed ", 
+                " 1/4 teaspoon celery salt ", 
+                " salt and pepper to taste ", 
+                " 2 tablespoons olive oil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/310162.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 45, 
+            "directions": "In a medium bowl, mix salmon, eggs, garlic and herb seasoned dry bread crumbs, dry potato flakes, onion, garlic, dill weed, celery salt, salt, and pepper. Form the mixture into 2 inch balls, and flatten into patties about 1/2 inch thick. Heat olive oil in a medium skillet over medium heat. In batches, cook patties about 5 minutes on each side, until lightly browned.", 
+            "id": 41611, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 307 kcal 15", 
+                "Fat: 21.5 g 33", 
+                "Carbs: 4.6g 1", 
+                "Protein: 23.3 g 47", 
+                "Cholesterol: 63 mg 21", 
+                "Sodium: 649 mg 26"
+            ], 
+            "name": "Firecracker Grilled Alaska Salmon", 
+            "ingredients": [
+                "8 (4 ounce) fillets salmon ", 
+                " 1/2 cup peanut oil ", 
+                " 4 tablespoons soy sauce ", 
+                " 4 tablespoons balsamic vinegar ", 
+                " 4 tablespoons green onions, chopped ", 
+                " 3 teaspoons brown sugar ", 
+                " 2 cloves garlic, minced ", 
+                " 1 1/2 teaspoons ground ginger ", 
+                " 2 teaspoons crushed red pepper flakes ", 
+                " 1 teaspoon sesame oil ", 
+                " 1/2 teaspoon salt ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/997347.jpg", 
+            "prep_time": 20, 
+            "ready_in_time": 400, 
+            "directions": "Place salmon filets in a medium, nonporous glass dish. In a separate medium bowl, combine the peanut oil, soy sauce, vinegar, green onions, brown sugar, garlic, ginger, red pepper flakes, sesame oil and salt. Whisk together well, and pour over the fish. Cover and marinate the fish in the refrigerator for 4 to 6 hours. Prepare an outdoor grill with coals about 5 inches from the grate, and lightly oil the grate. Grill the fillets 5 inches from coals for 10 minutes per inch of thickness, measured at the thickest part, or until fish just flakes with a fork. Turn over halfway through cooking.", 
+            "id": 41612, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 490 kcal 25", 
+                "Fat: 33.7 g 52", 
+                "Carbs: 15.7g 5", 
+                "Protein: 30.1 g 60", 
+                "Cholesterol: 136 mg 45", 
+                "Sodium: 659 mg 26"
+            ], 
+            "name": "Salmon Cakes II", 
+            "ingredients": [
+                "1 (14.75 ounce) can salmon, drained and flaked ", 
+                " 1 small onion, minced ", 
+                " 1 egg ", 
+                " 1/2 cup fresh bread crumbs ", 
+                " 1 tablespoon Worcestershire sauce ", 
+                " 1/8 teaspoon hot pepper sauce ", 
+                " 1/4 teaspoon ground black pepper ", 
+                " 1/4 cup shredded Cheddar cheese ", 
+                " 2 tablespoons chopped fresh parsley ", 
+                " 2 tablespoons all-purpose flour for coating ", 
+                " 1/4 cup butter ", 
+                " 3 tablespoons olive oil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/527453.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 40, 
+            "directions": "Combine salmon, onion, egg, bread crumbs, Worcestershire sauce, hot pepper sauce, black pepper, cheese and parsley; mix well. Shape into four patties. Dust lightly with flour. Chill for 20 minutes. In a large skillet heat butter and olive oil over medium high heat. Cook the patties until browned on both sides, about 10 minutes. Drain briefly on paper towels before serving.", 
+            "id": 41613, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 613 kcal 31", 
+                "Fat: 51.9 g 80", 
+                "Carbs: 2.9g < 1", 
+                "Protein: 36.3 g 73", 
+                "Cholesterol: 75 mg 25", 
+                "Sodium: 1235 mg 49"
+            ], 
+            "name": "Baked Salmon II", 
+            "ingredients": [
+                "2 cloves garlic, minced ", 
+                " 6 tablespoons light olive oil ", 
+                " 1 teaspoon dried basil ", 
+                " 1 teaspoon salt ", 
+                " 1 teaspoon ground black pepper ", 
+                " 1 tablespoon lemon juice ", 
+                " 1 tablespoon fresh parsley, chopped ", 
+                " 2 (6 ounce) fillets salmon ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/593567.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 120, 
+            "directions": "In a medium glass bowl, prepare marinade by mixing garlic, light olive oil, basil, salt, pepper, lemon juice and parsley. Place salmon fillets in a medium glass baking dish, and cover with the marinade. Marinate in the refrigerator about 1 hour, turning occasionally. Preheat oven to 375 degrees F (190 degrees C). Place fillets in aluminum foil, cover with marinade, and seal. Place sealed salmon in the glass dish, and bake 35 to 45 minutes, until easily flaked with a fork.", 
+            "id": 41614, 
+            "cook_time": 45
+        }, 
+        {
+            "nutrition": [
+                "Calories: 219 kcal 11", 
+                "Fat: 10.9 g 17", 
+                "Carbs: 1g < 1", 
+                "Protein: 25.8 g 52", 
+                "Cholesterol: 74 mg 25", 
+                "Sodium: 405 mg 16"
+            ], 
+            "name": "Dill Poached Salmon", 
+            "ingredients": [
+                "4 (4 ounce) fillets salmon ", 
+                " 2 cups chicken stock ", 
+                " 1 bunch fresh dill tied with kitchen twine ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/661173.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 20, 
+            "directions": "Place the salmon fillets in a large pot, and pour in the chicken stock. Bring to a boil, reduce heat to low, and place dill in the pot. Cover, and cook 15 minutes, or until fish is easily flaked with a fork.", 
+            "id": 41615, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 388 kcal 19", 
+                "Fat: 12 g 19", 
+                "Carbs: 39.6g 13", 
+                "Protein: 27.9 g 56", 
+                "Cholesterol: 51 mg 17", 
+                "Sodium: 279 mg 11"
+            ], 
+            "name": "Asian Salmon", 
+            "ingredients": [
+                "2 pounds salmon fillets, with skin ", 
+                " 2 tablespoons olive oil ", 
+                " 2 tablespoons rice vinegar ", 
+                " 2 tablespoons soy sauce ", 
+                " 1 tablespoon packed brown sugar ", 
+                " 2 cloves garlic, minced ", 
+                " 1 pinch ground black pepper ", 
+                " 2 tablespoons minced onion ", 
+                " 1 tablespoon sesame oil ", 
+                " 2 cups long-grain white rice ", 
+                " 1 teaspoon dried dill weed ", 
+                " 3 cups water ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/864553.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 105, 
+            "directions": "Make several shallow slashes in the skinless side of the salmon fillets. Place fillets skin-side down in a glass baking dish. In a medium bowl, whisk together the olive oil, rice vinegar, soy sauce, brown sugar, garlic, pepper, onion and sesame oil. Pour the liquid over the salmon, cover, and refrigerate for 1 to 2 hours. Preheat the oven to 350 degrees F (175 degrees C). In a medium saucepan, combine the rice, water, and dill weed. Cover pan, bring to a boil, then reduce heat to low and cook 20 minutes, until rice is tender and water has been absorbed. Allow to stand for 5 minutes before removing lid and fluffing rice with a fork. Remove cover from salmon, and bake the fish and the marinade for about 30 minutes, or until fish can be flaked with a fork. Serve salmon over the rice, and pour sauce over.", 
+            "id": 41616, 
+            "cook_time": 30
+        }, 
+        {
+            "nutrition": [
+                "Calories: 370 kcal 19", 
+                "Fat: 22.1 g 34", 
+                "Carbs: 1.1g < 1", 
+                "Protein: 39.4 g 79", 
+                "Cholesterol: 112 mg 37", 
+                "Sodium: 109 mg 4"
+            ], 
+            "name": "Herbed Salmon", 
+            "ingredients": [
+                "2 pounds salmon ", 
+                " 5 dried sage leaves ", 
+                " 1 tablespoon dried thyme ", 
+                " 1 pinch ground paprika ", 
+                " 1 pinch ground cayenne pepper ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/114508.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Preheat oven to 350 degrees F (175 degrees C). Spray one side of a sheet of aluminum foil large enough to fold over all the salmon with cooking spray. Arrange salmon on the prepared side of the foil. Sprinkle with sage, thyme, paprika, and pepper. Fold foil over salmon to enclose. Bake salmon 20 minutes in the preheated oven, or until easily flaked with a fork.", 
+            "id": 41617, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 490 kcal 25", 
+                "Fat: 25.9 g 40", 
+                "Carbs: 26.5g 9", 
+                "Protein: 38.6 g 77", 
+                "Cholesterol: 104 mg 35", 
+                "Sodium: 1140 mg 46"
+            ], 
+            "name": "Salmon Chowder", 
+            "ingredients": [
+                "3 tablespoons butter ", 
+                " 3/4 cup chopped onion ", 
+                " 1/2 cup chopped celery ", 
+                " 1 teaspoon garlic powder ", 
+                " 2 cups diced potatoes ", 
+                " 2 carrots, diced ", 
+                " 2 cups chicken broth ", 
+                " 1 teaspoon salt ", 
+                " 1 teaspoon ground black pepper ", 
+                " 1 teaspoon dried dill weed ", 
+                " 2 (16 ounce) cans salmon ", 
+                " 1 (12 fluid ounce) can evaporated milk ", 
+                " 1 (15 ounce) can creamed corn ", 
+                " 1/2 pound Cheddar cheese, shredded ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/26758.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 45, 
+            "directions": "Melt butter in a large pot over medium heat. Saute onion, celery, and garlic powder until onions are tender. Stir in potatoes, carrots, broth, salt, pepper, and dill. Bring to a boil, and reduce heat. Cover, and simmer 20 minutes. Stir in salmon, evaporated milk, corn, and cheese. Cook until heated through.", 
+            "id": 41618, 
+            "cook_time": 30
+        }, 
+        {
+            "nutrition": [
+                "Calories: 396 kcal 20", 
+                "Fat: 26.9 g 41", 
+                "Carbs: 6.8g 2", 
+                "Protein: 32 g 64", 
+                "Cholesterol: 91 mg 30", 
+                "Sodium: 640 mg 26"
+            ], 
+            "name": "Grilled Salmon with Avocado Dip", 
+            "ingredients": [
+                "2 avocados - peeled, pitted and diced ", 
+                " 2 cloves garlic, peeled and minced ", 
+                " 3 tablespoons Greek-style yogurt ", 
+                " 1 tablespoon fresh lemon juice ", 
+                " salt and pepper to taste ", 
+                " 2 pounds salmon steaks ", 
+                " 2 teaspoons dried dill weed ", 
+                " 2 teaspoons lemon pepper ", 
+                " salt to taste ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/441103.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 45, 
+            "directions": "Preheat an outdoor grill for high heat, and lightly oil grate. In a medium bowl, mash together avocados, garlic, yogurt, and lemon juice. Season with salt and pepper. Rub salmon with dill, lemon pepper, and salt. Place on the prepared grill, and cook 15 minutes, turning once, until easily flaked with a fork. Serve with the avocado mixture.", 
+            "id": 41619, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 169 kcal 8", 
+                "Fat: 6.7 g 10", 
+                "Carbs: 2.1g < 1", 
+                "Protein: 24.5 g 49", 
+                "Cholesterol: 50 mg 17", 
+                "Sodium: 48 mg 2"
+            ], 
+            "name": "Garlic Salmon", 
+            "ingredients": [
+                "1 1/2 pounds salmon fillet ", 
+                " salt and pepper to taste ", 
+                " 3 cloves garlic, minced ", 
+                " 1 sprig fresh dill, chopped ", 
+                " 5 slices lemon ", 
+                " 5 sprigs fresh dill weed ", 
+                " 2 green onions, chopped ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/367824.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 40, 
+            "directions": "Preheat oven to 450 degrees F (230 degrees C). Spray two large pieces of aluminum foil with cooking spray. Place salmon fillet on top of one piece of foil. Sprinkle salmon with salt, pepper, garlic and chopped dill. Arrange lemon slices on top of fillet and place a sprig of dill on top of each lemon slice. Sprinkle fillet with chopped scallions. Cover salmon with second piece of foil and pinch together foil to tightly seal. Place on a baking sheet or in a large baking dish. Bake in preheated oven for 20 to 25 minutes, until salmon flakes easily.", 
+            "id": 41620, 
+            "cook_time": 25
+        }, 
+        {
+            "nutrition": [
+                "Calories: 288 kcal 14", 
+                "Fat: 15.5 g 24", 
+                "Carbs: 6.5g 2", 
+                "Protein: 28.5 g 57", 
+                "Cholesterol: 84 mg 28", 
+                "Sodium: 171 mg 7"
+            ], 
+            "name": "Balsamic-Glazed Salmon Fillets", 
+            "ingredients": [
+                "6 (5 ounce) salmon fillets ", 
+                " 4 cloves garlic, minced ", 
+                " 1 tablespoon white wine ", 
+                " 1 tablespoon honey ", 
+                " 1/3 cup balsamic vinegar ", 
+                " 4 teaspoons Dijon mustard ", 
+                " salt and pepper to taste ", 
+                " 1 tablespoon chopped fresh oregano ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/54136.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil, and spray with non-stick cooking spray. Coat a small saucepan with non-stick cooking spray. Over medium heat, cook and stir garlic until soft, about 3 minutes. Mix in white wine, honey, balsamic vinegar, mustard, and salt and pepper. Simmer, uncovered, for about 3 minutes, or until slightly thickened. Arrange salmon fillets on foil-lined baking sheet. Brush fillets with balsamic glaze, and sprinkle with oregano. Bake in preheated oven for 10 to 14 minutes, or until flesh flakes easily with a fork. Brush fillets with remaining glaze, and season with salt and pepper. Use a spatula to transfer fillets to serving platter, leaving the skin behind on the foil.", 
+            "id": 41621, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 330 kcal 16", 
+                "Fat: 16.2 g 25", 
+                "Carbs: 15g 5", 
+                "Protein: 29 g 58", 
+                "Cholesterol: 83 mg 28", 
+                "Sodium: 310 mg 12"
+            ], 
+            "name": "Salmon with Brown Sugar Glaze", 
+            "ingredients": [
+                "1/4 cup packed light brown sugar ", 
+                " 2 tablespoons Dijon mustard ", 
+                " 4 (6 ounce) boneless salmon fillets ", 
+                " salt and ground black pepper to taste ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1119391.jpg", 
+            "prep_time": 5, 
+            "ready_in_time": 15, 
+            "directions": "Preheat the oven's broiler and set the oven rack at about 6 inches from the heat source; prepare the rack of a broiler pan with cooking spray. Season the salmon with salt and pepper and arrange onto the prepared broiler pan. Whisk together the brown sugar and Dijon mustard in a small bowl; spoon mixture evenly onto top of salmon fillets. Cook under the preheated broiler until the fish flakes easily with a fork, 10 to 15 minutes.", 
+            "id": 41622, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 379 kcal 19", 
+                "Fat: 26.2 g 40", 
+                "Carbs: 12.3g 4", 
+                "Protein: 23.5 g 47", 
+                "Cholesterol: 68 mg 23", 
+                "Sodium: 74 mg 3"
+            ], 
+            "name": "Marinated Wild Salmon", 
+            "ingredients": [
+                "4 salmon fillets ", 
+                " salt and pepper to taste ", 
+                " 1 tablespoon onion powder ", 
+                " 1 teaspoon crushed red pepper flakes ", 
+                " 1/4 cup olive oil ", 
+                " 1/4 cup fresh lemon juice ", 
+                " 4 cloves garlic, minced ", 
+                " 3 tablespoons white balsamic vinegar ", 
+                " 2 tablespoons white sugar ", 
+                " 2 tablespoons chopped green onions ", 
+                " 2 tablespoons chopped cilantro ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/16767.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 30, 
+            "directions": "Season fillets with salt and pepper, onion powder, and red pepper flakes. Set aside in a baking dish. In a medium bowl, mix together olive oil, lemon juice, garlic, balsamic vinegar, sugar, green onions, and cilantro. Pour marinade over salmon; cover, and refrigerate overnight, or at least 6 hours. Preheat oven to 450 degrees F (230 degrees C). Arrange salmon on a broiling sheet. Place in a preheated oven, and bake for 5 minutes. Increase heat to 500 degrees F (260 degrees C), turn fillets, and broil 5 minutes more.", 
+            "id": 41623, 
+            "cook_time": 15
+        }, 
+        {
+            "nutrition": [
+                "Calories: 678 kcal 34", 
+                "Fat: 45.8 g 70", 
+                "Carbs: 1.7g < 1", 
+                "Protein: 61.3 g 123", 
+                "Cholesterol: 179 mg 60", 
+                "Sodium: 981 mg 39"
+            ], 
+            "name": "Cedar Planked Salmon", 
+            "ingredients": [
+                "3 (12 inch) untreated cedar planks ", 
+                " 1/3 cup vegetable oil ", 
+                " 1 1/2 tablespoons rice vinegar ", 
+                " 1 teaspoon sesame oil ", 
+                " 1/3 cup soy sauce ", 
+                " 1/4 cup chopped green onions ", 
+                " 1 tablespoon grated fresh ginger root ", 
+                " 1 teaspoon minced garlic ", 
+                " 2 (2 pound) salmon fillets, skin removed ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2609651.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 35, 
+            "directions": "Soak the cedar planks for at least 1 hour in warm water. Soak longer if you have time. In a shallow dish, stir together the vegetable oil, rice vinegar, sesame oil, soy sauce, green onions, ginger, and garlic. Place the salmon fillets in the marinade and turn to coat. Cover and marinate for at least 15 minutes, or up to one hour. Preheat an outdoor grill for medium heat. Place the planks on the grate. The boards are ready when they start to smoke and crackle just a little. Place the salmon fillets onto the planks and discard the marinade. Cover, and grill for about 20 minutes. Fish is done when you can flake it with a fork. It will continue to cook after you remove it from the grill.", 
+            "id": 41624, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 407 kcal 20", 
+                "Fat: 26.7 g 41", 
+                "Carbs: 9.4g 3", 
+                "Protein: 31.3 g 63", 
+                "Cholesterol: 84 mg 28", 
+                "Sodium: 1332 mg 53"
+            ], 
+            "name": "Grilled Salmon Kyoto", 
+            "ingredients": [
+                "1/3 cup soy sauce ", 
+                " 1/4 cup orange juice concentrate ", 
+                " 2 tablespoons vegetable oil ", 
+                " 2 tablespoons tomato sauce ", 
+                " 1 teaspoon lemon juice ", 
+                " 1/2 teaspoon prepared mustard ", 
+                " 1 tablespoon green onion, minced ", 
+                " 1 clove garlic, minced ", 
+                " 1/2 teaspoon minced fresh ginger root ", 
+                " 4 salmon steaks (1 inch thick) ", 
+                " 1 tablespoon olive oil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/95770.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 80, 
+            "directions": "In a shallow glass baking dish, combine soy sauce, orange juice concentrate, oil, tomato sauce, lemon juice, mustard, green onion, garlic, and ginger. Place salmon in marinade, and turn to coat. Cover, and refrigerate for 30 minutes to 1 hour. Preheat an outdoor grill for high heat. Remove salmon from marinade. Pour marinade into a small saucepan. Bring to a boil, and cook for 1 minute. Lightly oil the grill grate. Brush or spray salmon with olive oil. Cook on grill for 5 to 10 minutes, or until fish flakes easily with a fork. Turn salmon once, and brush with boiled marinade halfway through cooking time.", 
+            "id": 41625, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 265 kcal 13", 
+                "Fat: 12.4 g 19", 
+                "Carbs: 14.1g 5", 
+                "Protein: 23.2 g 46", 
+                "Cholesterol: 67 mg 22", 
+                "Sodium: 633 mg 25"
+            ], 
+            "name": "Maple Salmon", 
+            "ingredients": [
+                "1/4 cup maple syrup ", 
+                " 2 tablespoons soy sauce ", 
+                " 1 clove garlic, minced ", 
+                " 1/4 teaspoon garlic salt ", 
+                " 1/8 teaspoon ground black pepper ", 
+                " 1 pound salmon ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/862371.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 60, 
+            "directions": "In a small bowl, mix the maple syrup, soy sauce, garlic, garlic salt, and pepper. Place salmon in a shallow glass baking dish, and coat with the maple syrup mixture. Cover the dish, and marinate salmon in the refrigerator 30 minutes, turning once. Preheat oven to 400 degrees F (200 degrees C). Place the baking dish in the preheated oven, and bake salmon uncovered 20 minutes, or until easily flaked with a fork.", 
+            "id": 41626, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 484 kcal 24", 
+                "Fat: 16.7 g 26", 
+                "Carbs: 47.3g 15", 
+                "Protein: 37 g 74", 
+                "Cholesterol: 114 mg 38", 
+                "Sodium: 893 mg 36"
+            ], 
+            "name": "Pepper-Honey Cedar Plank Salmon", 
+            "ingredients": [
+                "2 (12 inch) untreated cedar planks ", 
+                " 1/4 cup pineapple juice ", 
+                " 1/3 cup soy sauce ", 
+                " 2 tablespoons white vinegar ", 
+                " 2 tablespoons lemon juice ", 
+                " 1 tablespoon olive oil ", 
+                " 3/4 cup honey ", 
+                " 1/4 cup packed brown sugar ", 
+                " 1 teaspoon ground black pepper ", 
+                " 1/2 teaspoon cayenne pepper ", 
+                " 1/2 teaspoon paprika ", 
+                " 1/4 teaspoon garlic powder ", 
+                " 6 (6 ounce) skinless, boneless salmon fillets ", 
+                " 1 pinch salt and pepper to taste ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/680641.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 105, 
+            "directions": "Soak the cedar planks in warm water for 1 to 2 hours. Add a splash of bourbon to the water if desired. Bring the pineapple juice, soy sauce, vinegar, lemon juice, olive oil, and honey to a simmer in a saucepan over medium-high heat. Reduce the heat to medium-low, and stir in the sugar, 1 teaspoon black pepper, cayenne pepper, paprika, and garlic powder. Simmer, stirring occasionally, until the sauce has reduced to a syrupy consistency, about 15 minutes. Set the sauce aside. Preheat an outdoor grill for medium heat. Place the planks on the grate. They are ready to cook on when they start to smoke and crackle just a little. Season the salmon with a light sprinkling of salt and pepper. Place the fillets onto the smoking cedar planks, close the lid of the grill, and cook for 10 minutes. Spoon a small amount of the sauce over the salmon fillets, and continue cooking until the fish turns opaque in the center, about 5 minutes more. Serve with the remaining sauce.", 
+            "id": 41627, 
+            "cook_time": 30
+        }, 
+        {
+            "nutrition": [
+                "Calories: 511 kcal 26", 
+                "Fat: 38.3 g 59", 
+                "Carbs: 4.5g 1", 
+                "Protein: 37.4 g 75", 
+                "Cholesterol: 166 mg 55", 
+                "Sodium: 1248 mg 50"
+            ], 
+            "name": "Blackened Salmon Fillets", 
+            "ingredients": [
+                "2 tablespoons ground paprika ", 
+                " 1 tablespoon ground cayenne pepper ", 
+                " 1 tablespoon onion powder ", 
+                " 2 teaspoons salt ", 
+                " 1/2 teaspoon ground white pepper ", 
+                " 1/2 teaspoon ground black pepper ", 
+                " 1/4 teaspoon dried thyme ", 
+                " 1/4 teaspoon dried basil ", 
+                " 1/4 teaspoon dried oregano ", 
+                " 4 salmon fillets, skin and bones removed ", 
+                " 1/2 cup unsalted butter, melted ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1095418.jpg", 
+            "prep_time": 15, 
+            "ready_in_time": 25, 
+            "directions": "In a small bowl, mix paprika, cayenne pepper, onion powder, salt, white pepper, black pepper, thyme, basil and oregano. Brush salmon fillets on both sides with 1/4 cup butter, and sprinkle evenly with the cayenne pepper mixture. Drizzle one side of each fillet with 1/2 remaining butter. In a large, heavy skillet over high heat, cook salmon, butter side down, until blackened, 2 to 5 minutes. Turn fillets, drizzle with remaining butter, and continue cooking until blackened and fish is easily flaked with a fork.", 
+            "id": 41628, 
+            "cook_time": 10
+        }, 
+        {
+            "nutrition": [
+                "Calories: 233 kcal 12", 
+                "Fat: 17.6 g 27", 
+                "Carbs: 2.9g < 1", 
+                "Protein: 15.3 g 31", 
+                "Cholesterol: 44 mg 15", 
+                "Sodium: 395 mg 16"
+            ], 
+            "name": "Grilled Salmon II", 
+            "ingredients": [
+                "4 (4 ounce) fillets salmon ", 
+                " 1/4 cup peanut oil ", 
+                " 2 tablespoons soy sauce ", 
+                " 2 tablespoons balsamic vinegar ", 
+                " 2 tablespoons thinly sliced green onion ", 
+                " 1 1/2 teaspoons brown sugar ", 
+                " 1 clove garlic, minced ", 
+                " 3/4 teaspoon ground ginger ", 
+                " 1/2 teaspoon crushed red pepper flakes ", 
+                " 1/2 teaspoon sesame oil ", 
+                " 1/8 teaspoon salt ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/204768.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 390, 
+            "directions": "Whisk together peanut oil, soy sauce, balsamic vinegar, green onions, garlic, brown sugar, ginger, red chile flakes, sesame oil, and salt. Place fish in a glass dish, and pour marinade over all. Cover with plastic wrap, and refrigerate for 4 to 6 hours. Preheat barbecue or gas grill. Oil the grill rack, and adjust height to 5 inches from coals. Remove salmon from marinade, and place on grill. Grill for 10 minutes per inch of thickness, measured at thickest part, or until fish just flakes when tested with a fork. Turn halfway through cooking.", 
+            "id": 41629, 
+            "cook_time": 20
+        }, 
+        {
+            "nutrition": [
+                "Calories: 257 kcal 13", 
+                "Fat: 18 g 28", 
+                "Carbs: 6.1g 2", 
+                "Protein: 20.5 g 41", 
+                "Cholesterol: 56 mg 19", 
+                "Sodium: 1017 mg 41"
+            ], 
+            "name": "Lemon Rosemary Salmon", 
+            "ingredients": [
+                "1 lemon, thinly sliced ", 
+                " 4 sprigs fresh rosemary ", 
+                " 2 salmon fillets, bones and skin removed ", 
+                " coarse salt to taste ", 
+                " 1 tablespoon olive oil, or as needed ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/693200.jpg", 
+            "prep_time": 10, 
+            "ready_in_time": 30, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). Arrange half the lemon slices in a single layer in a baking dish. Layer with 2 sprigs rosemary, and top with salmon fillets. Sprinkle salmon with salt, layer with remaining rosemary sprigs, and top with remaining lemon slices. Drizzle with olive oil. Bake 20 minutes in the preheated oven, or until fish is easily flaked with a fork.", 
+            "id": 41630, 
+            "cook_time": 20
+        }
+    ]
+}
