@@ -6,6 +6,6 @@ jsonData = json.loads(open(directory).read())
 foods = jsonData['foods']
 
 with open('foodnames.csv', 'w', newline='') as csvfile:
-	foodwriter = csv.writer(csvfile, delimiter=',')
+	foodwriter = csv.writer(csvfile)
 	for food in foods:
 		foodwriter.writerow(['foodnames', food['name']])
