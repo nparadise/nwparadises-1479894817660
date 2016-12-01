@@ -118,7 +118,7 @@ $(document).ready(function(){
 		$.ajax({
 			dataType: "json",
 			async: false,
-			url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
+			url: "../jsondata/" + entity + "_" + category + "_30_revised.json",
 			success: function(data) {
 				console.log(data);
 				target = data.foods;
