@@ -135,8 +135,9 @@
 							printExamples();
 							delete context.next;
 							console.log(context);
+						} else {
+							afterGetContext();
 						}
-						afterGetContext();
 					}
 				});
 			}
