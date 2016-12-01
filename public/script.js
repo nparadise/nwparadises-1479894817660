@@ -50,8 +50,27 @@ $(document).ready(function(){
 					console.log(context.allFoods);
 					context.allFoods = true;
 					output = parsedData.output.text[0];	// watson answer
-					/*$("#answer").val(output);*/
+                    synthesize(options, callback());
+                    //text to speech code start
+					var watson = require('watson-developer-cloud');
+                    var fs = require('fs');
+
+                    var text_to_speech = watson.text_to_speech({
+                      username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
+                      password: 'ztMYjoTIJkgO',
+                      version: 'v1'
+                    });
+
+                    var params = {
+                      text: output,
+                      voice: 'en-US_AllisonVoice',
+                      accept: 'audio/wav'
+                    };
+                    //text to speech code end
+
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+
+
 					if (context.hasOwnProperty('next') && context.next === true) {
 						printExamples();
 						delete context.next;
@@ -145,3 +164,4 @@ $(document).ready(function(){
     	printExamples();
     }
 });
+
