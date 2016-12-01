@@ -15,6 +15,7 @@ var cfenv = require('cfenv');
 // create a new express server
 var app = express();
 
+var directory = __dirname;
 // serve the files out of ./public as our main files
 app.use(express.static(__dirname + '/public'));
 
@@ -66,7 +67,7 @@ app.post("/test", function(req, res){
 				// read json files containing foods
 				var fs = require('fs');
 				var path = require('path');
-				var dirPath = '/public/jsondata/';
+				var dirPath = directory + '/public/jsondata';
 				var fileType = '.json';
 				var files = [];
 				fs.readdir(dirPath, function(err, list)
