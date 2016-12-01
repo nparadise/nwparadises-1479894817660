@@ -54,8 +54,6 @@
 
 			// get data based on entities and category
 			var getData = function(entity) {
-				var j,			// iterator for array of objects about recipe
-					i = -1;		// iterator for food array
 				// get json file
 				$.ajax({
 					dataType: "json",
@@ -67,6 +65,8 @@
 						console.log(target);
 					}
 				});
+				var j,			// iterator for array of objects about recipe
+					i = -1;		// iterator for food array
 				for (j in target) {
 					if (!target[j].hasOwnProperty('nutrition')) continue;
 					var initialNut = target[j].nutrition,
