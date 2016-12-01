@@ -73,12 +73,12 @@ app.post("/test", function(req, res){
 				{
 					var initialNut = target[j].nutrition;
 					var nutritionObj = {
-						'calories': (initialNut[0].split(" "))[1],
-						'fat': (initialNut[1].split(" "))[1],
-						'carbohydrate': (initialNut[2].split(" "))[1].substring(0, (initialNut[2].split(" "))[1].length - 1),
-						'protein': (initialNut[3].split(" "))[1],
-						'cholesterol': (initialNut[4].split(" "))[1],
-						'sodium': (initialNut[5].split(" "))[1]
+						'calories': initialNut[0].split(" ")[1],
+						'fat': initialNut[1].split(" ")[1],
+						'carbohydrate': initialNut[2].split(" ")[1].substring(0, initialNut[2].split(" ")[1].length - 1),
+						'protein': initialNut[3].split(" ")[1],
+						'cholesterol': initialNut[4].split(" ")[1],
+						'sodium': initialNut[5].split(" ")[1]
 					};
 					target[j].nutrition = nutritionObj;
 				}
