@@ -71,7 +71,7 @@ $(document).ready(function(){
 						var lookingfor = context.foodnames;
 						var checkAppear = false;
 						for (var it in nowShowing) {
-							for (var j = 1; j < 5; j++) {
+							for (var j = 0; j < 4; j++) {
 								$("#food_" + j).html("");
 							}
 							if (nowShowing[it].name == lookingfor) {
@@ -100,6 +100,7 @@ $(document).ready(function(){
 	var printExamples = function() {
 		var j, singleFood;
 		nowShowing = [];
+		$('#food_detail').html("");
 		if (foods.length === 0) return;
 		for (j = 0; j < 4; iterator++, j++) {
 			if (iterator === 30) {
