@@ -56,25 +56,6 @@ $(document).ready(function(){
 						delete context.except;
 					}
 
-					//TTS
-					var watson = require('watson-developer-cloud');
-					var fs = require('fs');
-
-					var text_to_speech = watson.text_to_speech({
-					  username: '{username}',
-					  password: '{password}',
-					  version: 'v1'
-					});
-
-					var params = {
-					  text: output,
-					  voice: 'en-US_AllisonVoice',
-					  accept: 'audio/wav'
-					};
-
-					// Pipe the synthesized text to a file.
-					text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
-					//TTS
 					$('<audio src="output.wav" autoplay></audio>').insertBefore('.msg_push');
 					//TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
