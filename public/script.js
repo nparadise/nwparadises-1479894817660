@@ -57,7 +57,7 @@ $(document).ready(function(){
 						delete context.except;
 					}
 
-					$('<audio src="output.wav" autoplay></audio>').insertBefore('.msg_push');
+					$('<audio src="/api/synthesize?text=' + output + '" autoplay></audio>').insertBefore('.msg_push');
 					//TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
