@@ -55,7 +55,7 @@ $(document).ready(function(){
 						exception.push(context.except);		// add ingredients to except
 						delete context.except;
 					}
-					$('<audio src="watsonspeak.wav" autoplay></audio>').insertBefore('.msg_push');
+					$('<audio src="/synthesize?text=' + encodeURIComponent(output) + '&voice=es-ES_EnriqueVoice" autoplay></audio>').insertBefore('.msg_push');
 					//TTS(output);
 					$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 
@@ -118,7 +118,7 @@ $(document).ready(function(){
 		$.ajax({
 			dataType: "json",
 			async: false,
-			url: "../jsondata/" + entity + "_" + category + "_30_revised.json",
+			url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
 			success: function(data) {
 				console.log(data);
 				target = data.foods;
