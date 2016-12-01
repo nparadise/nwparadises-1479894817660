@@ -123,7 +123,7 @@ app.get('/', (req, res) => {
  * Pipe the synthesize method
  */
 app.get('/api/synthesize', (req, res, next) => {
-  const transcript = textToSpeech.synthesize(req.query);
+  const transcript = text_to_speech.synthesize(req.query);
   transcript.on('response', (response) => {
     if (req.query.download) {
       if (req.query.accept && req.query.accept === 'audio/wav') {
