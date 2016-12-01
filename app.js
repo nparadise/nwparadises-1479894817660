@@ -96,25 +96,59 @@ app.post("/test", function(req, res){
 	});
 });
 
-var tts_credentials = extend({
-  url: 'https://stream.watsonplatform.net/text-to-speech/api',
-  version: 'v1',
+var TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
+
+var watson = require('watson-developer-cloud');
+var text_to_speech = watson.text_to_speech({
   username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
   password: 'ztMYjoTIJkgO',
-}, bluemix.getServiceCreds('text_to_speech'));
+  version: 'v1'
+});
 
-// Create the service wrappers
-var textToSpeech = watson.text_to_speech(tts_credentials);
+// Bootstrap application settings
+require('./config/express')(app);
 
-app.get('/synthesize', function(req, res) {
-  var transcript = textToSpeech.synthesize(req.query);
-  transcript.on('response', function(response) {
+var textToSpeech = new TextToSpeechV1({
+  // If unspecified here, the TEXT_TO_SPEECH_USERNAME and
+  // TEXT_TO_SPEECH_PASSWORD env properties will be checked
+  // After that, the SDK will fall back to the bluemix-provided VCAP_SERVICES environment property
+  // username: '<username>',
+  // password: '<password>',
+});
+
+app.get('/', (req, res) => {
+  res.render('index');
+});
+
+/**
+ * Pipe the synthesize method
+ */
+app.get('/api/synthesize', (req, res, next) => {
+  var transcript = text_to_speech.synthesize(req.query);
+  transcript.on('response', (response) => {
     if (req.query.download) {
-      response.headers['content-disposition'] = 'attachment; filename=transcript.ogg';
+      if (req.query.accept && req.query.accept === 'audio/wav') {
+        response.headers['content-disposition'] = 'attachment; filename=transcript.wav';
+      } else {
+        response.headers['content-disposition'] = 'attachment; filename=transcript.ogg';
+      }
     }
   });
-  transcript.on('error', function(error) {
-    console.log('Synthesize error: ', error)
-  });
+  transcript.on('error', next);
   transcript.pipe(res);
 });
+
+// Return the list of voices
+app.get('/api/voices', (req, res, next) => {
+  text_to_speech.voices(null, (error, voices) => {
+    if (error) {
+      return next(error);
+    }
+    res.json(voices);
+  });
+});
+
+// error-handler settings
+require('./config/error-handler')(app);
+
+module.exports = app;
