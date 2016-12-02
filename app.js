@@ -43,8 +43,21 @@ var conversation = watson.conversation({
 	version_date: '2016-09-20'
 });
 
+var text_to_speech = watson.text_to_speech({
+	username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
+	password: 'ztMYjoTIJkgO',
+	version: 'v1'
+});
+
+var tone_analyzer = watson.tone_analyzer({
+  username: '5d6812dc-d371-492f-a265-1d9f1f5bcc45',
+  password: 'LQpaYHcJyqXM',
+  version: 'v3',
+  version_date: '2016-05-19'	
+});
+
 // replace with the context obtained from the initial request
-var totalFoodList = [];
+var allFoodList = [];
 
 app.post("/test", function(req, res){
 	console.log(req.body);
@@ -66,76 +79,76 @@ app.post("/test", function(req, res){
 			{
 				// read json files containing foods
 				var fs = require('fs');
-				var path = require('path');
-				var dirPath = directory + '/public/jsondata';
-				var fileType = '.json';
-				var files = [];
-				fs.readdir(dirPath, function(err, list)
+				var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
+				for (var j in target)
 				{
-					if (err)
-						console.log('error:', err);
-					else
-					{
-						for (var i = 0; i < list; i++)
-						{
-							if (path.extname(list[i]) === fileType)
-							{
-								console.log(list[i]);
-								files.push(list[i]);
-							}
-						}
-					}
-					console.log(files);
-				});
-
-				var i = -1;
-				for (var i in files)
-				{
-					var target = JSON.parse(fs.readFileSync(files[i], 'utf8')).answer_units;
-					for (var j in target)
-					{
-						if (target[j].title === 'recipe') continue;
-						if (target[j].parent_id === "")
-						{
-							var insertingObj = {
-								'name': target[j].title
-							};
-							totalFoodList.push(insertingObj);
-							i++;
-						} 
-						else if (target[j].title === 'Nutrition')
-						{
-							var nutritionText = target[j]['content'][0]['text'].split(" ");
-							var nutritionObj = {
-								calories: nutritionText[1],
-								fat: nutritionText[5],
-								carbohydrate: nutritionText[9].substring(0, nutritionText[9].length - 1),
-								protein: nutritionText[12],
-								cholesterol: nutritionText[16],
-								sodium: nutritionText[20]
-							};
-							totalFoodList[i].nutrition = nutritionObj;
-						}
-						else if (target[j].title === 'Ingredients List')
-						{
-							var ingrText = target[j]['content'][0]['text'].split(" ");
-							var getRidOfAd = [];
-							for (var idx in ingrText)
-							{
-								if (ingrText[idx] === 'ADVERTISEMENT') continue;
-								getRidOfAd.push(ingrText[idx]);
-							}
-							totalFoodList[i].ingredients = getRidOfAd.join(" ");
-						}
-						else if (target[j].title === 'Directions')
-							totalFoodList[i].directions = target[j]['content'][0]['text'];
-					}
+					if (!target[j].hasOwnProperty('nutrition')) continue;
+					var initialNut = target[j].nutrition,
+						calories = initialNut[0].split(" "),
+						fat = initialNut[1].split(" "),
+						carbohydrate = initialNut[2].split(" "),
+						protein = initialNut[3].split(" "),
+						cholesterol = initialNut[4].split(" "),
+						sodium = initialNut[5].split(" ");
+					var nutritionObj = {
+						'calories': calories[1],
+						'fat': fat[1],
+						'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
+						'protein': protein[1],
+						'cholesterol': cholesterol[1],
+						'sodium': sodium[1]
+					};
+					target[j].nutrition = nutritionObj;
 				}
-				response.context.allFoods = totalFoodList;
+				response.context.allFoods = target;
+				console.log(target.length);
 			}
 
+			tone_analyzer.tone({ 
+				text: input.intents,
+			}, function(err, tone) {
+			    if (err)
+			      console.log(err);
+			    else
+			    {
+			      var emotion_obj1 = JSON.stringify(tone, null, 2);
+			      var emotion_obj2 = JSON.parse(emotion_obj1);
+			      var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
+			      var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
+			      if(anger >=0.5 || disgust >=0.5)
+			      {
+			        console.log("I think you are very disappointed with my suggestions."); 
+			        response.context.angry = true;
+			      } else {
+			      	response.context.angry = false;
+			      }
+			    }
+			});
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
 		}
 	});
+});
+
+var TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
+var fs = require('fs');
+
+var text_to_speech = new TextToSpeechV1({
+  username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
+  password: 'ztMYjoTIJkgO'
+});
+
+var params = {
+  text: 'Hello from IBM Watson',
+  voice: 'en-US_AllisonVoice', // Optional voice
+  accept: 'audio/wav'
+};
+
+// Pipe the synthesized text to a file
+text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
+
+app.get('/api/synthesize', function(req, res, next) {
+  var transcript = text_to_speech.synthesize(req.query);
+  transcript.on('error', next);
+  transcript.pipe(res);
 });

@@ -8,3 +8,10 @@ applications:
   disk_quota: 1024M
   services :
   - Conversation-3d
+  - Text to Speech-lm
+  - Tone Analyzer-9p
+
+declared-services:
+  Text to Speech-yw:
+    label: text_to_speech
+    plan: standard  

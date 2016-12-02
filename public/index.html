@@ -1,144 +1,42 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>NodeJS Starter Application</title>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="stylesheets/style.css">
-	</head>
-	<body>
-		<div>
-			<h1>Convesation API test page</h1>
-			<form>
-				Input Sentence:<t><input type="text" name="input_sentence" id="input_sentence" size="50"/><br>
-				Answer Sentence:<t><input type="text" name="answer" id="answer" size="50"/><br>
-				<input type="button" name="execute" id="execute" value="make_answer" onclick="getAnswer()"/>
-			</form>
-		</div>
-		<div>
-			<div id="food_0" style="float: left; margin: 3px; padding: 10px"></div>
-			<div id="food_1" style="float: left; margin: 3px; padding: 10px"></div>
-			<div id="food_2" style="float: left; margin: 3px; padding: 10px"></div>
-			<div id="food_3" style="float: left; margin: 3px; padding: 10px"></div>
-		</div>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-		<script>
-			var context = {},	// save context came from conversation api
-				output = "",	// the answer watson will say
-				category,		// what category of food
-				target = [],	// save json file at here
-				foods = [],		// where a list of foods will be saved
-				iterator = 0;	// iterator for print examples
-
-			// function prints 4 examples of foods
-			var printExamples = function() {
-				var j, obje;
-				for (j = 0; j < 4; iterator++, j++) {
-					if (iterator === 30) {
-						alert('no more foods');
-						break;
-					} // when reach last food, stop iterating and printing
-					obje = foods[iterator];
-					// print food list
-					$("#food_" + j).html(
-						"<div id='name_" + j + "'><b>" + obje.name + "</div>" +
-						"<div id='calories_" + j + "'>" + obje.nutrition.calories + " kcal</div>"
-					);
-				}
-			}
-
-			// get data based on entities and category
-			var getData = function(entity) {
-				var j,			// iterator for array of objects about recipe
-					i = -1;		// iterator for food array
-				// get json file
-				$.ajax({
-					dataType: "json",
-					async: false,
-					url: "/jsondata/" + entity + "_" + category + "_30.json",
-					success: function(data) {
-						target = data.answer_units;
-					}
-				});
-				for (j in target) {
-					// if title is recipe, bypass
-					if (target[j].title === 'recipe') continue;
-
-					// if object has no parent_id, it is food, so get food name
-					if (target[j].parent_id === "") {
-						var insertingObj = {
-							'name': target[j]['title']
-						};
-						foods.push(insertingObj);
-						i++;
-					}
-					else {
-						// if title is nutrition, it is nutrition data of latest scanned food so put datas into formal food object
-						if (target[j].title === 'Nutrition') {
-							var nutrText = target[j]['content'][0]['text'].split(" ");
-							var nutritionObj = {
-								calories: nutrText[1],
-								fat: nutrText[5],
-								carbohydrate: nutrText[9].substring(0, nutrText[9].length - 1),
-								protein: nutrText[12],
-								cholesterol: nutrText[16],
-								sodium: nutrText[20]
-							};
-							foods[i].nutrition = nutritionObj;
-						}
-					}
-				}
-			}
-
-			// based on context, detemine data to get
-			var afterGetContext = function() {
-				iterator = 0;
-				foods = [];
-				if (context.hasOwnProperty('health')) {
-					console.log(context['health'] + 'is came for input.');
-					category = context.health;
-					getData('healthy');
-					delete context.health;
-				} else if (context.hasOwnProperty('events')) {
-					console.log(context.events + 'is came for input.');
-					category = context.events;
-					getData('events');
-					delete context.events;			
-				} else if (context.hasOwnProperty('time')) {
-					console.log(context.time + 'is came for input.');
-					category = context.time;
-					getData('timeslot');
-					delete context.time;
-				}
-				printExamples();
-			}
-
-			// execute when button clicked
-			var getAnswer = function() {
-				$.ajax({
-					url: "http://nwparadises.mybluemix.net/test",
-					type: "post",
-					contentType: "application/x-www-form-urlencoded",
-					dataType: "text",
-					data: {
-						input_sentence: $("#input_sentence").val(),
-						cur_context: JSON.stringify(context)
-					},
-					success: function (data) {
-						var parsedData = JSON.parse(data);
-						context = parsedData.context;		// context passed by watson
-						console.log(context.allFoods);
-						output = parsedData.output.text[0];	// watson answer
-						$("#answer").val(output);
-						if (context.hasOwnProperty('next') && context.next === true) {
-							printExamples();
-						}
-						afterGetContext();
-					}
-				});
-			}
-			getAnswer();
-		</script>
-	</body>
+  <head>
+    <title>MC Watson</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/style.css">
+  </head>
+  <body>
+    <div class="mainbox">
+      <table class="indextable">
+        <tr>
+          <td colspan="2">
+            <h1 style="text-align: center" id="message">MC Watson</h1>
+          </td>
+        </tr>
+        <tr>
+          <td style= "width:25%;">
+            <img class = "appIcon" src="images/app-icon.png">
+          </td>
+          <td>
+            <h3> Don't you know what to Eat? </h3>
+            <h3> "My Chef Watson" will tell you what you want. </h3>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <h2> Eat! Enjoy! with Watson! </h2>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <div class="enterbox">
+              <h2 style="text-align: center"><a href="main.html">Start Now!</a></h1>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
 </html>
