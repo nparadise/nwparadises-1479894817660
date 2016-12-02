@@ -50,8 +50,8 @@ var text_to_speech = watson.text_to_speech({
 });
 
 var tone_analyzer = watson.tone_analyzer({
-  username: 'f5013813-b539-4ebc-956e-a7e30a6a8ab8',
-  password: 'QWKZ8IKtbA3U',
+  username: '5d6812dc-d371-492f-a265-1d9f1f5bcc45',
+  password: 'LQpaYHcJyqXM',
   version_date: '2016-05-19'
 });
 
