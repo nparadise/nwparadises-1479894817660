@@ -104,8 +104,10 @@ app.post("/test", function(req, res){
 				console.log(target.length);
 			}
 
-			tone_analyzer.tone({ text: input_sentence }, //ajax에서 request
-			  function(err, tone) {
+			tone_analyzer.tone({ 
+				body: input_sentence,
+				Content-Type: 'text/plain'
+			}, function(err, tone) {
 			    if (err)
 			      console.log(err);
 			    else
@@ -123,7 +125,6 @@ app.post("/test", function(req, res){
 			      }
 			    }
 			});
-
 			res.json(response);
 			console.log(JSON.stringify(response, null, 2));
 		}
