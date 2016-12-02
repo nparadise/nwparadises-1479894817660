@@ -9,6 +9,7 @@ applications:
   services :
   - Conversation-3d
   - Text to Speech-lm
+  - Tone Analyzer-9p
 
 declared-services:
   Text to Speech-yw:
