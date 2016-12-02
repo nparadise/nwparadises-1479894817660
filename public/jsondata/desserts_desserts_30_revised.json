@@ -3,13 +3,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 345 kcal 17", 
-                "Fat: 13.8 g 21", 
-                "Carbs: 53.8g 17", 
-                "Protein: 3.4 g 7", 
-                "Cholesterol: 59 mg 20", 
-                "Sodium: 174 mg 7"
+                "Calories: 345 kcal 17 %", 
+                "Fat: 13.8 g 21 %", 
+                "Carbs: 53.8g 17 %", 
+                "Protein: 3.4 g 7 %", 
+                "Cholesterol: 59 mg 20 %", 
+                "Sodium: 174 mg 7 %"
             ], 
+            "rating": "3.86363625526428", 
             "name": "Pumpkin Spice Cupcakes With Cream Cheese Frosting", 
             "ingredients": [
                 "Cupcakes: ", 
@@ -34,8 +35,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1054935.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 50, 
+            "prep_time": 20, 
+            "cal": 345, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Line 24 muffin cups with paper liners. Beat white sugar and 3/4 cup butter together in a bowl using an electric mixer until smooth and creamy; add eggs, 1 at a time, beating well after each addition. Beat pumpkin into creamed butter mixture. Mix flour, pumpkin pie spice, 1 tablespoon cinnamon, baking powder, and ginger together in a bowl; stir into creamed butter mixture, alternating with buttermilk, until batter is smooth. Fill each muffin cup 3/4-full with batter. Bake in the preheated oven until a toothpick inserted in the center of a cupcake comes out clean, 20 to 25 minutes. Cool in muffin tin for 10 minutes before transferring to wire rack. Beat cream cheese and 1/2 cup butter together in a bowl using an electric mixer until fluffy. Beat confectioners' sugar, 2 teaspoons cinnamon, and vanilla extract into creamed butter until frosting is smooth. Spread frosting on each cupcake.", 
             "id": 7901, 
             "cook_time": 20
@@ -43,13 +45,14 @@
         {
             "total_time": 65, 
             "nutrition": [
-                "Calories: 285 kcal 14", 
-                "Fat: 13.9 g 21", 
-                "Carbs: 40.1g 13", 
-                "Protein: 2.8 g 6", 
-                "Cholesterol: 42 mg 14", 
-                "Sodium: 111 mg 4"
+                "Calories: 285 kcal 14 %", 
+                "Fat: 13.9 g 21 %", 
+                "Carbs: 40.1g 13 %", 
+                "Protein: 2.8 g 6 %", 
+                "Cholesterol: 42 mg 14 %", 
+                "Sodium: 111 mg 4 %"
             ], 
+            "rating": "4.61709690093994", 
             "name": "Best Big, Fat, Chewy Chocolate Chip Cookie", 
             "ingredients": [
                 "2 cups all-purpose flour ", 
@@ -67,8 +70,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1107530.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 285, 
             "directions": "Preheat the oven to 325 degrees F (165 degrees C). Grease cookie sheets or line with parchment paper. Sift together the flour, baking soda and salt; set aside. In a medium bowl, cream together the melted butter, brown sugar and white sugar until well blended. Beat in the vanilla, egg, and egg yolk until light and creamy. Mix in the sifted ingredients until just blended. Stir in the chocolate chips by hand using a wooden spoon. Drop cookie dough 1/4 cup at a time onto the prepared cookie sheets. Cookies should be about 3 inches apart. Bake for 15 to 17 minutes in the preheated oven, or until the edges are lightly toasted. Cool on baking sheets for a few minutes before transferring to wire racks to cool completely.", 
             "id": 7902, 
             "cook_time": 15
@@ -76,13 +80,14 @@
         {
             "total_time": 145, 
             "nutrition": [
-                "Calories: 218 kcal 11", 
-                "Fat: 8.8 g 14", 
-                "Carbs: 32.3g 10", 
-                "Protein: 3 g 6", 
-                "Cholesterol: 36 mg 12", 
-                "Sodium: 213 mg 9"
+                "Calories: 218 kcal 11 %", 
+                "Fat: 8.8 g 14 %", 
+                "Carbs: 32.3g 10 %", 
+                "Protein: 3 g 6 %", 
+                "Cholesterol: 36 mg 12 %", 
+                "Sodium: 213 mg 9 %"
             ], 
+            "rating": "4.69906806945801", 
             "name": "Soft Oatmeal Cookies", 
             "ingredients": [
                 "1 cup butter, softened ", 
@@ -100,8 +105,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2410419.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 120, 
+            "prep_time": 15, 
+            "cal": 218, 
             "directions": "In a medium bowl, cream together butter, white sugar, and brown sugar. Beat in eggs one at a time, then stir in vanilla. Combine flour, baking soda, salt, and cinnamon; stir into the creamed mixture. Mix in oats. Cover, and chill dough for at least one hour. Preheat the oven to 375 degrees F (190 degrees C). Grease cookie sheets. Roll the dough into walnut sized balls, and place 2 inches apart on cookie sheets. Flatten each cookie with a large fork dipped in sugar. Bake for 8 to 10 minutes in preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.", 
             "id": 7903, 
             "cook_time": 10
@@ -109,45 +115,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 416 kcal 21", 
-                "Fat: 18.5 g 28", 
-                "Carbs: 60.1g 19", 
-                "Protein: 4.3 g 9", 
-                "Cholesterol: 7 mg 2", 
-                "Sodium: 510 mg 20"
+                "Calories: 122 kcal 6 %", 
+                "Fat: 3.2 g 5 %", 
+                "Carbs: 22.4g 7 %", 
+                "Protein: 1.2 g 2 %", 
+                "Cholesterol: 13 mg 4 %", 
+                "Sodium: 120 mg 5 %"
             ], 
-            "name": "Aunt Joyce's Chocolate Cake", 
-            "ingredients": [
-                "3 (1 ounce) squares unsweetened chocolate, chopped ", 
-                " 1 cup mayonnaise ", 
-                " 2 tablespoons vinegar ", 
-                " 2 tablespoons vanilla extract ", 
-                " 3 cups all-purpose flour ", 
-                " 2 cups white sugar ", 
-                " 2 teaspoons baking soda ", 
-                " 1 teaspoon salt ", 
-                " 2 cups warm water ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/250x250/40356.jpg", 
-            "prep_time": 20, 
-            "ready_in_time": 60, 
-            "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. Melt the chocolate in a double boiler or in the microwave. Pour the melted chocolate into a large mixing bowl. Blend in the mayonnaise, vinegar and vanilla. Combine the flour, sugar, baking soda, and salt and gradually stir into the chocolate mixture. Slowly stir in the warm water. Pour batter into prepared pan. Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center of the cake comes out clean. Allow to cool.", 
-            "id": 7904, 
-            "cook_time": 40
-        }, 
-        {
-            "total_time": 120, 
-            "nutrition": [
-                "Calories: 122 kcal 6", 
-                "Fat: 3.2 g 5", 
-                "Carbs: 22.4g 7", 
-                "Protein: 1.2 g 2", 
-                "Cholesterol: 13 mg 4", 
-                "Sodium: 120 mg 5"
-            ], 
+            "rating": "4.71648550033569", 
             "name": "Iced Pumpkin Cookies", 
             "ingredients": [
                 "2 1/2 cups all-purpose flour ", 
@@ -171,22 +146,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/4035.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 80, 
+            "prep_time": 20, 
+            "cal": 122, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Combine flour, baking powder, baking soda, cinnamon, nutmeg, ground cloves, and salt; set aside. In a medium bowl, cream together the 1/2 cup of butter and white sugar. Add pumpkin, egg, and 1 teaspoon vanilla to butter mixture, and beat until creamy. Mix in dry ingredients. Drop on cookie sheet by tablespoonfuls; flatten slightly. Bake for 15 to 20 minutes in the preheated oven. Cool cookies, then drizzle glaze with fork. To Make Glaze: Combine confectioners' sugar, milk, 1 tablespoon melted butter, and 1 teaspoon vanilla. Add milk as needed, to achieve drizzling consistency.", 
-            "id": 7906, 
+            "id": 7905, 
             "cook_time": 20
         }, 
         {
             "total_time": 155, 
             "nutrition": [
-                "Calories: 316 kcal 16", 
-                "Fat: 8.4 g 13", 
-                "Carbs: 60.5g 20", 
-                "Protein: 2.4 g 5", 
-                "Cholesterol: 20 mg 7", 
-                "Sodium: 98 mg 4"
+                "Calories: 316 kcal 16 %", 
+                "Fat: 8.4 g 13 %", 
+                "Carbs: 60.5g 20 %", 
+                "Protein: 2.4 g 5 %", 
+                "Cholesterol: 20 mg 7 %", 
+                "Sodium: 98 mg 4 %"
             ], 
+            "rating": "4.69160413742065", 
             "name": "Apple Crisp II", 
             "ingredients": [
                 "10 cups all-purpose apples, peeled, cored and sliced ", 
@@ -205,22 +182,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/277070.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 80, 
+            "prep_time": 30, 
+            "cal": 316, 
             "directions": "Preheat oven to 350 degrees F (175 degree C). Place the sliced apples in a 9x13 inch pan. Mix the white sugar, 1 tablespoon flour and ground cinnamon together, and sprinkle over apples. Pour water evenly over all. Combine the oats, 1 cup flour, brown sugar, baking powder, baking soda and melted butter together. Crumble evenly over the apple mixture. Bake at 350 degrees F (175 degrees C) for about 45 minutes.", 
-            "id": 7907, 
+            "id": 7906, 
             "cook_time": 45
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 298 kcal 15", 
-                "Fat: 15.6 g 24", 
-                "Carbs: 38.8g 13", 
-                "Protein: 3.6 g 7", 
-                "Cholesterol: 36 mg 12", 
-                "Sodium: 166 mg 7"
+                "Calories: 298 kcal 15 %", 
+                "Fat: 15.6 g 24 %", 
+                "Carbs: 38.8g 13 %", 
+                "Protein: 3.6 g 7 %", 
+                "Cholesterol: 36 mg 12 %", 
+                "Sodium: 166 mg 7 %"
             ], 
+            "rating": "4.60245513916016", 
             "name": "Best Chocolate Chip Cookies", 
             "ingredients": [
                 "1 cup butter, softened ", 
@@ -239,22 +218,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2514148.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 60, 
+            "prep_time": 20, 
+            "cal": 298, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.", 
-            "id": 7908, 
+            "id": 7907, 
             "cook_time": 10
         }, 
         {
             "total_time": 82, 
             "nutrition": [
-                "Calories: 145 kcal 7", 
-                "Fat: 8.1 g 12", 
-                "Carbs: 17.2g 6", 
-                "Protein: 2.1 g 4", 
-                "Cholesterol: 20 mg 7", 
-                "Sodium: 107 mg 4"
+                "Calories: 145 kcal 7 %", 
+                "Fat: 8.1 g 12 %", 
+                "Carbs: 17.2g 6 %", 
+                "Protein: 2.1 g 4 %", 
+                "Cholesterol: 20 mg 7 %", 
+                "Sodium: 107 mg 4 %"
             ], 
+            "rating": "4.55715608596802", 
             "name": "Chewy Chocolate Chip Oatmeal Cookies", 
             "ingredients": [
                 "1 cup butter, softened ", 
@@ -273,22 +254,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/508714.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 55, 
+            "prep_time": 15, 
+            "cal": 145, 
             "directions": "Preheat the oven to 325 degrees F (165 degrees C). In a large bowl, cream together the butter, brown sugar, and white sugar until smooth. Beat in eggs one at a time, then stir in vanilla. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended. Mix in the quick oats, walnuts, and chocolate chips. Drop by heaping spoonfuls onto ungreased baking sheets. Bake for 12 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.", 
-            "id": 7909, 
+            "id": 7908, 
             "cook_time": 12
         }, 
         {
             "total_time": 132, 
             "nutrition": [
-                "Calories: 116 kcal 6", 
-                "Fat: 6 g 9", 
-                "Carbs: 14.3g 5", 
-                "Protein: 1.9 g 4", 
-                "Cholesterol: 6 mg 2", 
-                "Sodium: 79 mg 3"
+                "Calories: 116 kcal 6 %", 
+                "Fat: 6 g 9 %", 
+                "Carbs: 14.3g 5 %", 
+                "Protein: 1.9 g 4 %", 
+                "Cholesterol: 6 mg 2 %", 
+                "Sodium: 79 mg 3 %"
             ], 
+            "rating": "4.71183204650879", 
             "name": "Peanut Blossoms II", 
             "ingredients": [
                 "1 cup shortening ", 
@@ -308,22 +291,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3210836.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 90, 
+            "prep_time": 30, 
+            "cal": 116, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Grease cookie sheets. In a large bowl, cream together the shortening, peanut butter, brown sugar, and 1 cup white sugar until smooth. Beat in the eggs one at a time, and stir in the milk and vanilla. Combine the flour, baking soda, and salt; stir into the peanut butter mixture until well blended. Shape tablespoonfuls of dough into balls, and roll in remaining white sugar. Place cookies 2 inches apart on the prepared cookie sheets. Bake for 10 to12 minutes in the preheated oven. Remove from oven, and immediately press a chocolate kiss into each cookie. Allow to cool completely; the kiss will harden as it cools.", 
-            "id": 7910, 
+            "id": 7909, 
             "cook_time": 12
         }, 
         {
             "total_time": 180, 
             "nutrition": [
-                "Calories: 405 kcal 20", 
-                "Fat: 17.5 g 27", 
-                "Carbs: 61.5g 20", 
-                "Protein: 2.9 g 6", 
-                "Cholesterol: 53 mg 18", 
-                "Sodium: 125 mg 5"
+                "Calories: 405 kcal 20 %", 
+                "Fat: 17.5 g 27 %", 
+                "Carbs: 61.5g 20 %", 
+                "Protein: 2.9 g 6 %", 
+                "Cholesterol: 53 mg 18 %", 
+                "Sodium: 125 mg 5 %"
             ], 
+            "rating": "4.41772174835205", 
             "name": "Apple Slab Pie", 
             "ingredients": [
                 "1 1/2 cups all-purpose flour ", 
@@ -348,22 +333,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1050640.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 90, 
+            "prep_time": 30, 
+            "cal": 405, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C.) In a large bowl, combine flour sugar, salt and baking powder. Cut in shortening until mixture resembles coarse crumbs. Mix egg yolk and water together and mix into flour until it forms a ball. Roll out to fit the bottom of a 10x15 inch pan. In a large bowl, combine apples, lemon juice, 2 tablespoons flour, sugar and cinnamon. Pour filling into pie crust and dot with 2 tablespoons butter. In a medium bowl, combine 1 cup flour, 1 teaspoon cinnamon, 2/3 cup brown sugar and 2/3 cup butter. Cut in the butter until crumbly, then sprinkle over apples. Bake in the preheated oven for 60 minutes, or until topping is golden brown.", 
-            "id": 7911, 
+            "id": 7910, 
             "cook_time": 60
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 92 kcal 5", 
-                "Fat: 4.3 g 7", 
-                "Carbs: 12.4g 4", 
-                "Protein: 1 g 2", 
-                "Cholesterol: 13 mg 4", 
-                "Sodium: 55 mg 2"
+                "Calories: 92 kcal 5 %", 
+                "Fat: 4.3 g 7 %", 
+                "Carbs: 12.4g 4 %", 
+                "Protein: 1 g 2 %", 
+                "Cholesterol: 13 mg 4 %", 
+                "Sodium: 55 mg 2 %"
             ], 
+            "rating": "4.73543167114258", 
             "name": "Mrs. Sigg's Snickerdoodles", 
             "ingredients": [
                 "1/2 cup butter, softened ", 
@@ -382,22 +369,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3206419.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 60, 
+            "prep_time": 20, 
+            "cal": 92, 
             "directions": "Preheat oven to 400 degrees F (200 degrees C). Cream together butter, shortening, 1 1/2 cups sugar, the eggs and the vanilla. Blend in the flour, cream of tartar, soda and salt. Shape dough by rounded spoonfuls into balls. Mix the 2 tablespoons sugar and the cinnamon. Roll balls of dough in mixture. Place 2 inches apart on ungreased baking sheets. Bake 8 to 10 minutes, or until set but not too hard. Remove immediately from baking sheets.", 
-            "id": 7912, 
+            "id": 7911, 
             "cook_time": 10
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 366 kcal 18", 
-                "Fat: 6.9 g 11", 
-                "Carbs: 67.6g 22", 
-                "Protein: 8.8 g 18", 
-                "Cholesterol: 64 mg 21", 
-                "Sodium: 237 mg 9"
+                "Calories: 366 kcal 18 %", 
+                "Fat: 6.9 g 11 %", 
+                "Carbs: 67.6g 22 %", 
+                "Protein: 8.8 g 18 %", 
+                "Cholesterol: 64 mg 21 %", 
+                "Sodium: 237 mg 9 %"
             ], 
+            "rating": "4.72347593307495", 
             "name": "Creamy Rice Pudding", 
             "ingredients": [
                 "3/4 cup uncooked white rice ", 
@@ -413,22 +402,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/108681.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 45, 
+            "prep_time": 25, 
+            "cal": 366, 
             "directions": "Bring 1 1/2 cups water to a boil in a saucepan; stir rice into boiling water. Reduce heat to low, cover, and simmer for 20 minutes. In a clean saucepan, combine 1 1/2 cups cooked rice, 1 1/2 cups milk, sugar and salt. Cook over medium heat until thick and creamy, 15 to 20 minutes. Stir in remaining 1/2 cup milk, beaten egg, and raisins; cook 2 minutes more, stirring constantly. Remove from heat and stir in butter and vanilla.", 
-            "id": 7913, 
+            "id": 7912, 
             "cook_time": 20
         }, 
         {
             "total_time": 50, 
             "nutrition": [
-                "Calories: 86 kcal 4", 
-                "Fat: 4 g 6", 
-                "Carbs: 11.7g 4", 
-                "Protein: 0.9 g 2", 
-                "Cholesterol: 14 mg 5", 
-                "Sodium: 60 mg 2"
+                "Calories: 86 kcal 4 %", 
+                "Fat: 4 g 6 %", 
+                "Carbs: 11.7g 4 %", 
+                "Protein: 0.9 g 2 %", 
+                "Cholesterol: 14 mg 5 %", 
+                "Sodium: 60 mg 2 %"
             ], 
+            "rating": "4.47545957565308", 
             "name": "Easy Sugar Cookies", 
             "ingredients": [
                 "2 3/4 cups all-purpose flour ", 
@@ -443,22 +434,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1754462.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 25, 
+            "prep_time": 15, 
+            "cal": 86, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). In a small bowl, stir together flour, baking soda, and baking powder. Set aside. In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets. Bake 8 to 10 minutes in the preheated oven, or until golden. Let stand on cookie sheet two minutes before removing to cool on wire racks.", 
-            "id": 7914, 
+            "id": 7913, 
             "cook_time": 10
         }, 
         {
             "total_time": 77, 
             "nutrition": [
-                "Calories: 144 kcal 7", 
-                "Fat: 6.3 g 10", 
-                "Carbs: 20.6g 7", 
-                "Protein: 1.9 g 4", 
-                "Cholesterol: 17 mg 6", 
-                "Sodium: 92 mg 4"
+                "Calories: 144 kcal 7 %", 
+                "Fat: 6.3 g 10 %", 
+                "Carbs: 20.6g 7 %", 
+                "Protein: 1.9 g 4 %", 
+                "Cholesterol: 17 mg 6 %", 
+                "Sodium: 92 mg 4 %"
             ], 
+            "rating": "4.74463176727295", 
             "name": "Beth's Spicy Oatmeal Raisin Cookies", 
             "ingredients": [
                 "1/2 cup butter, softened ", 
@@ -479,22 +472,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/472586.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 144, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). In a large bowl, cream together the butter, butter flavored shortening, brown sugar, white sugar, eggs, and vanilla until smooth. Combine the flour, baking soda, cinnamon, cloves, and salt; stir into the sugar mixture. Stir in the oats and raisins. Drop by rounded teaspoonfuls onto ungreased cookie sheets. Bake 10 to 12 minutes until light and golden. Do not overbake. Let them cool for 2 minutes before removing from cookie sheets to cool completely. Store in airtight container. Make sure you get some, because they don't last long!", 
-            "id": 7915, 
+            "id": 7914, 
             "cook_time": 12
         }, 
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 109 kcal 5", 
-                "Fat: 6.1 g 9", 
-                "Carbs: 13.1g 4", 
-                "Protein: 1.1 g 2", 
-                "Cholesterol: 15 mg 5", 
-                "Sodium: 43 mg 2"
+                "Calories: 109 kcal 5 %", 
+                "Fat: 6.1 g 9 %", 
+                "Carbs: 13.1g 4 %", 
+                "Protein: 1.1 g 2 %", 
+                "Cholesterol: 15 mg 5 %", 
+                "Sodium: 43 mg 2 %"
             ], 
+            "rating": "4.43333339691162", 
             "name": "Apple Crisp Cups", 
             "ingredients": [
                 "3 large McIntosh apples - peeled, cored, and chopped ", 
@@ -512,22 +507,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/490285.jpg", 
-            "prep_time": 45, 
             "ready_in_time": 65, 
+            "prep_time": 45, 
+            "cal": 109, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease 4 12-cup mini-muffin tins. Mix apples, water, white sugar, and 1/2 teaspoon of cinnamon together in a saucepan, and bring to a simmer over medium-low heat, stirring occasionally. Simmer until apples are partially cooked, about 5 minutes; remove from heat. Combine flour, oats, brown sugar, 1 teaspoon of cinnamon, and nutmeg in a large bowl; cut the butter into the flour mixture with a pastry cutter until the mixture looks like coarse crumbs. Place a heaping tablespoon of the crust mixture into a mini muffin cup, and press it into the cup so that it covers the bottom and pushes up the sides of the cup. Make the crust go all the way to the top of the little muffin cup, and patch any holes with more crust mixture. There will be crust mixture left over. Place about 2 teaspoons of apple filling in the crust. Sprinkle about 1 teaspoon of the remaining crust mixture on the filling. Bake in the preheated oven until golden brown, 15 to 20 minutes.", 
-            "id": 7916, 
+            "id": 7915, 
             "cook_time": 20
         }, 
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 248 kcal 12", 
-                "Fat: 11.2 g 17", 
-                "Carbs: 37.5g 12", 
-                "Protein: 2.9 g 6", 
-                "Cholesterol: 51 mg 17", 
-                "Sodium: 165 mg 7"
+                "Calories: 248 kcal 12 %", 
+                "Fat: 11.2 g 17 %", 
+                "Carbs: 37.5g 12 %", 
+                "Protein: 2.9 g 6 %", 
+                "Cholesterol: 51 mg 17 %", 
+                "Sodium: 165 mg 7 %"
             ], 
+            "rating": "4.62475156784058", 
             "name": "Brooke's Best Bombshell Brownies", 
             "ingredients": [
                 "1 cup butter, melted ", 
@@ -543,22 +540,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/358859.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 248, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 baking dish. Combine the melted butter, sugar, and vanilla in a large bowl. Beat in the eggs, one at a time, mixing well after each, until thoroughly blended. Sift the flour, cocoa powder, and salt in a bowl. Gradually stir flour mixture into the egg mixture until blended. Stir in the chocolate morsels. Spread the batter evenly into the prepared baking dish. Bake in preheated oven until an inserted toothpick comes out clean, 35 to 40 minutes. Remove, and cool pan on wire rack before cutting.", 
-            "id": 7917, 
+            "id": 7916, 
             "cook_time": 35
         }, 
         {
             "total_time": 127, 
             "nutrition": [
-                "Calories: 177 kcal 9", 
-                "Fat: 10.5 g 16", 
-                "Carbs: 20.7g 7", 
-                "Protein: 2.1 g 4", 
-                "Cholesterol: 24 mg 8", 
-                "Sodium: 116 mg 5"
+                "Calories: 177 kcal 9 %", 
+                "Fat: 10.5 g 16 %", 
+                "Carbs: 20.7g 7 %", 
+                "Protein: 2.1 g 4 %", 
+                "Cholesterol: 24 mg 8 %", 
+                "Sodium: 116 mg 5 %"
             ], 
+            "rating": "4.65325117111206", 
             "name": "Award Winning Soft Chocolate Chip Cookies", 
             "ingredients": [
                 "4 1/2 cups all-purpose flour ", 
@@ -576,22 +575,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/693521.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 100, 
+            "prep_time": 15, 
+            "cal": 177, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Sift together the flour and baking soda, set aside. In a large bowl, cream together the butter, brown sugar, and white sugar. Beat in the instant pudding mix until blended. Stir in the eggs and vanilla. Blend in the flour mixture. Finally, stir in the chocolate chips and nuts. Drop cookies by rounded spoonfuls onto ungreased cookie sheets. Bake for 10 to 12 minutes in the preheated oven. Edges should be golden brown.", 
-            "id": 7918, 
+            "id": 7917, 
             "cook_time": 12
         }, 
         {
             "total_time": 180, 
             "nutrition": [
-                "Calories: 512 kcal 26", 
-                "Fat: 26.7 g 41", 
-                "Carbs: 67.8g 22", 
-                "Protein: 3.6 g 7", 
-                "Cholesterol: 31 mg 10", 
-                "Sodium: 241 mg 10"
+                "Calories: 512 kcal 26 %", 
+                "Fat: 26.7 g 41 %", 
+                "Carbs: 67.8g 22 %", 
+                "Protein: 3.6 g 7 %", 
+                "Cholesterol: 31 mg 10 %", 
+                "Sodium: 241 mg 10 %"
             ], 
+            "rating": "4.77091836929321", 
             "name": "Apple Pie by Grandma Ople", 
             "ingredients": [
                 "1 recipe pastry for a 9 inch double crust pie ", 
@@ -606,22 +607,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/736203.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 90, 
+            "prep_time": 30, 
+            "cal": 512, 
             "directions": "Preheat oven to 425 degrees F (220 degrees C). Melt the butter in a saucepan. Stir in flour to form a paste. Add water, white sugar and brown sugar, and bring to a boil. Reduce temperature and let simmer. Place the bottom crust in your pan. Fill with apples, mounded slightly. Cover with a lattice work crust. Gently pour the sugar and butter liquid over the crust. Pour slowly so that it does not run off. Bake 15 minutes in the preheated oven. Reduce the temperature to 350 degrees F (175 degrees C). Continue baking for 35 to 45 minutes, until apples are soft.", 
-            "id": 7919, 
+            "id": 7918, 
             "cook_time": 60
         }, 
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 333 kcal 17", 
-                "Fat: 19 g 29", 
-                "Carbs: 38.5g 12", 
-                "Protein: 2.7 g 5", 
-                "Cholesterol: 31 mg 10", 
-                "Sodium: 360 mg 14"
+                "Calories: 333 kcal 17 %", 
+                "Fat: 19 g 29 %", 
+                "Carbs: 38.5g 12 %", 
+                "Protein: 2.7 g 5 %", 
+                "Cholesterol: 31 mg 10 %", 
+                "Sodium: 360 mg 14 %"
             ], 
+            "rating": "4.77322387695313", 
             "name": "Country Apple Dumplings", 
             "ingredients": [
                 "2 large Granny Smith apples, peeled and cored ", 
@@ -635,22 +638,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/655095.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 65, 
+            "prep_time": 20, 
+            "cal": 333, 
             "directions": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13 inch baking dish. Cut each apple into 8 wedges and set aside. Separate the crescent roll dough into triangles. Roll each apple wedge in crescent roll dough starting at the smallest end. Pinch to seal and place in the baking dish. Melt butter in a small saucepan and stir in the sugar and cinnamon. Pour over the apple dumplings. Pour Mountain Dew(TM) over the dumplings. Bake for 35 to 45 minutes in the preheated oven, or until golden brown.", 
-            "id": 7920, 
+            "id": 7919, 
             "cook_time": 45
         }, 
         {
             "total_time": 340, 
             "nutrition": [
-                "Calories: 341 kcal 17", 
-                "Fat: 23.4 g 36", 
-                "Carbs: 30.3g 10", 
-                "Protein: 5.1 g 10", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 165 mg 7"
+                "Calories: 341 kcal 17 %", 
+                "Fat: 23.4 g 36 %", 
+                "Carbs: 30.3g 10 %", 
+                "Protein: 5.1 g 10 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 165 mg 7 %"
             ], 
+            "rating": "4.72797346115112", 
             "name": "Autumn Cheesecake", 
             "ingredients": [
                 "1 cup graham cracker crumbs ", 
@@ -671,22 +676,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/126606.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 240, 
+            "prep_time": 30, 
+            "cal": 341, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). In a large bowl, stir together the graham cracker crumbs, 1/2 cup finely chopped pecans, 3 tablespoons sugar, 1/2 teaspoon cinnamon and melted butter; press into the bottom of a 9 inch springform pan. Bake in preheated oven for 10 minutes. In a large bowl, combine cream cheese and 1/2 cup sugar. Mix at medium speed until smooth. Beat in eggs one at a time, mixing well after each addition. Blend in vanilla; pour filling into the baked crust. In a small bowl, stir together 1/3 cup sugar and 1/2 teaspoon cinnamon. Toss the cinnamon-sugar with the apples to coat. Spoon apple mixture over cream cheese layer and sprinkle with 1/4 cup chopped pecans. Bake in preheated oven for 60 to 70 minutes. With a knife, loosen cake from rim of pan. Let cool, then remove the rim of pan. Chill cake before serving.", 
-            "id": 7921, 
+            "id": 7920, 
             "cook_time": 70
         }, 
         {
             "total_time": 540, 
             "nutrition": [
-                "Calories: 533 kcal 27", 
-                "Fat: 35.7 g 55", 
-                "Carbs: 44.2g 14", 
-                "Protein: 10.3 g 21", 
-                "Cholesterol: 159 mg 53", 
-                "Sodium: 380 mg 15"
+                "Calories: 533 kcal 27 %", 
+                "Fat: 35.7 g 55 %", 
+                "Carbs: 44.2g 14 %", 
+                "Protein: 10.3 g 21 %", 
+                "Cholesterol: 159 mg 53 %", 
+                "Sodium: 380 mg 15 %"
             ], 
+            "rating": "4.71421766281128", 
             "name": "Chantal's New York Cheesecake", 
             "ingredients": [
                 "15 graham crackers, crushed ", 
@@ -703,22 +710,59 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/730824.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 450, 
+            "prep_time": 30, 
+            "cal": 533, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9 inch springform pan. In a medium bowl, mix graham cracker crumbs with melted butter. Press onto bottom of springform pan. In a large bowl, mix cream cheese with sugar until smooth. Blend in milk, and then mix in the eggs one at a time, mixing just enough to incorporate. Mix in sour cream, vanilla and flour until smooth. Pour filling into prepared crust. Bake in preheated oven for 1 hour. Turn the oven off, and let cake cool in oven with the door closed for 5 to 6 hours; this prevents cracking. Chill in refrigerator until serving.", 
-            "id": 7922, 
+            "id": 7921, 
             "cook_time": 60
+        }, 
+        {
+            "total_time": 170, 
+            "nutrition": [
+                "Calories: 277 kcal 14 %", 
+                "Fat: 18.9 g 29 %", 
+                "Carbs: 22g 7 %", 
+                "Protein: 5 g 10 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 187 mg 7 %"
+            ], 
+            "rating": "4.63775491714478", 
+            "name": "Eggnog Cheesecake III", 
+            "ingredients": [
+                "1 cup graham cracker crumbs ", 
+                " 2 tablespoons white sugar ", 
+                " 3 tablespoons melted butter ", 
+                " 3 (8 ounce) packages cream cheese, softened ", 
+                " 1 cup white sugar ", 
+                " 3 tablespoons all-purpose flour ", 
+                " 3/4 cup eggnog ", 
+                " 2 eggs ", 
+                " 2 tablespoons rum ", 
+                " 1 pinch ground nutmeg ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/756445.jpg", 
+            "ready_in_time": 85, 
+            "prep_time": 30, 
+            "cal": 277, 
+            "directions": "Preheat oven to 325 degrees F (165 degrees C). In a medium bowl combine graham cracker crumbs, 2 tablespoons sugar and butter. Press into the bottom of a 9 inch spring form pan. Bake in preheated oven for 10 minutes. Place on a wire rack to cool. Preheat oven to 425 degrees F (220 degrees C). In a food processor combine cream cheese, 1 cup sugar, flour and eggnog; process until smooth. Blend in eggs, rum and nutmeg. Pour mixture into cooled crust. Bake in preheated oven for 10 minutes. Reduce heat to 250 and bake for 45 minutes, or until center of cake is barely firm to the touch. Remove from the oven and immediately loosen cake from rim. Let cake cool completely before removing the rim.", 
+            "id": 7922, 
+            "cook_time": 55
         }, 
         {
             "total_time": 75, 
             "nutrition": [
-                "Calories: 143 kcal 7", 
-                "Fat: 6 g 9", 
-                "Carbs: 21.1g 7", 
-                "Protein: 1.6 g 3", 
-                "Cholesterol: 8 mg 3", 
-                "Sodium: 147 mg 6"
+                "Calories: 143 kcal 7 %", 
+                "Fat: 6 g 9 %", 
+                "Carbs: 21.1g 7 %", 
+                "Protein: 1.6 g 3 %", 
+                "Cholesterol: 8 mg 3 %", 
+                "Sodium: 147 mg 6 %"
             ], 
+            "rating": "4.73989152908325", 
             "name": "Big Soft Ginger Cookies", 
             "ingredients": [
                 "2 1/4 cups all-purpose flour ", 
@@ -738,8 +782,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/288811.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 143, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Sift together the flour, ginger, baking soda, cinnamon, cloves, and salt. Set aside. In a large bowl, cream together the margarine and 1 cup sugar until light and fluffy. Beat in the egg, then stir in the water and molasses. Gradually stir the sifted ingredients into the molasses mixture. Shape dough into walnut sized balls, and roll them in the remaining 2 tablespoons of sugar. Place the cookies 2 inches apart onto an ungreased cookie sheet, and flatten slightly. Bake for 8 to 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before removing to a wire rack to cool completely. Store in an airtight container.", 
             "id": 7923, 
             "cook_time": 10
@@ -747,13 +792,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 682 kcal 34", 
-                "Fat: 42.8 g 66", 
-                "Carbs: 71.1g 23", 
-                "Protein: 6.5 g 13", 
-                "Cholesterol: 67 mg 22", 
-                "Sodium: 375 mg 15"
+                "Calories: 682 kcal 34 %", 
+                "Fat: 42.8 g 66 %", 
+                "Carbs: 71.1g 23 %", 
+                "Protein: 6.5 g 13 %", 
+                "Cholesterol: 67 mg 22 %", 
+                "Sodium: 375 mg 15 %"
             ], 
+            "rating": "4.614173412323", 
             "name": "Apple Harvest Pound Cake with Caramel Glaze", 
             "ingredients": [
                 "2 cups white sugar ", 
@@ -774,8 +820,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/445258.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 110, 
+            "prep_time": 30, 
+            "cal": 682, 
             "directions": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9 inch Bundt pan. In a large bowl, beat the sugar, oil, vanilla and eggs with an electric mixer until light and fluffy. Combine the flour, baking soda, cinnamon and salt; stir into the batter just until blended. Fold in the apples and walnuts using a spoon. Pour into the prepared pan. Bake for 1 hour and 20 minutes in the preheated oven, until a toothpick inserted into the crown or the cake comes out clean. Allow to cool for about 20 minutes then invert on to a wire rack. Make the glaze by heating the butter, milk and brown sugar in a small saucepan over medium heat. Bring to a boil, stirring to dissolve the sugar, then remove from the heat. Drizzle over the warm cake. I like to place a sheet of aluminum foil under the cooling rack to catch the drips for easy clean up.", 
             "id": 7924, 
             "cook_time": 80
@@ -783,13 +830,14 @@
         {
             "total_time": 208, 
             "nutrition": [
-                "Calories: 109 kcal 5", 
-                "Fat: 5 g 8", 
-                "Carbs: 14.7g 5", 
-                "Protein: 1.5 g 3", 
-                "Cholesterol: 25 mg 8", 
-                "Sodium: 93 mg 4"
+                "Calories: 109 kcal 5 %", 
+                "Fat: 5 g 8 %", 
+                "Carbs: 14.7g 5 %", 
+                "Protein: 1.5 g 3 %", 
+                "Cholesterol: 25 mg 8 %", 
+                "Sodium: 93 mg 4 %"
             ], 
+            "rating": "4.43101358413696", 
             "name": "The Best Rolled Sugar Cookies", 
             "ingredients": [
                 "1 1/2 cups butter, softened ", 
@@ -803,9 +851,10 @@
                 " Add all ingredients to list May we suggest ", 
                 ""
             ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/495217.jpg", 
-            "prep_time": 20, 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/296432.jpg", 
             "ready_in_time": 180, 
+            "prep_time": 20, 
+            "cal": 109, 
             "directions": "In a large bowl, cream together butter and sugar until smooth. Beat in eggs and vanilla. Stir in the flour, baking powder, and salt. Cover, and chill dough for at least one hour (or overnight). Preheat oven to 400 degrees F (200 degrees C). Roll out dough on floured surface 1/4 to 1/2 inch thick. Cut into shapes with any cookie cutter. Place cookies 1 inch apart on ungreased cookie sheets. Bake 6 to 8 minutes in preheated oven. Cool completely.", 
             "id": 7925, 
             "cook_time": 8
@@ -813,13 +862,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 155 kcal 8", 
-                "Fat: 5.5 g 9", 
-                "Carbs: 25.7g 8", 
-                "Protein: 2.3 g 5", 
-                "Cholesterol: 16 mg 5", 
-                "Sodium: 240 mg 10"
+                "Calories: 155 kcal 8 %", 
+                "Fat: 5.5 g 9 %", 
+                "Carbs: 25.7g 8 %", 
+                "Protein: 2.3 g 5 %", 
+                "Cholesterol: 16 mg 5 %", 
+                "Sodium: 240 mg 10 %"
             ], 
+            "rating": "4.76694393157959", 
             "name": "Black Magic Cake", 
             "ingredients": [
                 "1 3/4 cups all-purpose flour ", 
@@ -838,8 +888,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/625949.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 155, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour two 9 inch round cake pans or one 9x13 inch pan. In large bowl combine flour, sugar, cocoa, baking soda, baking powder and salt. Make a well in the center. Add eggs, coffee, buttermilk, oil and vanilla. Beat for 2 minutes on medium speed. Batter will be thin. Pour into prepared pans. Bake at 350 degrees F (175 degrees C) for 30 to 40 minutes, or until toothpick inserted into center of cake comes out clean. Cool for 10 minutes, then remove from pans and finish cooling on a wire rack. Fill and frost as desired.", 
             "id": 7926, 
             "cook_time": 35
@@ -847,13 +898,14 @@
         {
             "total_time": 210, 
             "nutrition": [
-                "Calories: 575 kcal 29", 
-                "Fat: 34.8 g 54", 
-                "Carbs: 63.7g 21", 
-                "Protein: 5.1 g 10", 
-                "Cholesterol: 69 mg 23", 
-                "Sodium: 347 mg 14"
+                "Calories: 575 kcal 29 %", 
+                "Fat: 34.8 g 54 %", 
+                "Carbs: 63.7g 21 %", 
+                "Protein: 5.1 g 10 %", 
+                "Cholesterol: 69 mg 23 %", 
+                "Sodium: 347 mg 14 %"
             ], 
+            "rating": "4.71596097946167", 
             "name": "Carrot Cake III", 
             "ingredients": [
                 "4 eggs ", 
@@ -877,8 +929,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1053595.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 120, 
+            "prep_time": 30, 
+            "cal": 575, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch pan. In a large bowl, beat together eggs, oil, white sugar and 2 teaspoons vanilla. Mix in flour, baking soda, baking powder, salt and cinnamon. Stir in carrots. Fold in pecans. Pour into prepared pan. Bake in the preheated oven for 40 to 50 minutes, or until a toothpick inserted into the center of the cake comes out clean. Let cool in pan for 10 minutes, then turn out onto a wire rack and cool completely. To Make Frosting: In a medium bowl, combine butter, cream cheese, confectioners' sugar and 1 teaspoon vanilla. Beat until the mixture is smooth and creamy. Stir in chopped pecans. Frost the cooled cake.", 
             "id": 7927, 
             "cook_time": 60
@@ -886,13 +939,14 @@
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 122 kcal 6", 
-                "Fat: 6.5 g 10", 
-                "Carbs: 14.4g 5", 
-                "Protein: 2.4 g 5", 
-                "Cholesterol: 11 mg 4", 
-                "Sodium: 119 mg 5"
+                "Calories: 122 kcal 6 %", 
+                "Fat: 6.5 g 10 %", 
+                "Carbs: 14.4g 5 %", 
+                "Protein: 2.4 g 5 %", 
+                "Cholesterol: 11 mg 4 %", 
+                "Sodium: 119 mg 5 %"
             ], 
+            "rating": "4.79504346847534", 
             "name": "Peanut Butter Cup Cookies", 
             "ingredients": [
                 "1 3/4 cups all-purpose flour ", 
@@ -911,8 +965,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/271187.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 95, 
+            "prep_time": 25, 
+            "cal": 122, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Sift together the flour, salt and baking soda; set aside. Cream together the butter, sugar, peanut butter and brown sugar until fluffy. Beat in the egg, vanilla and milk. Add the flour mixture; mix well. Shape into 40 balls and place each into an ungreased mini muffin pan. Bake at 375 degrees for about 8 minutes. Remove from oven and immediately press a mini peanut butter cup into each ball. Cool and carefully remove from pan.", 
             "id": 7928, 
             "cook_time": 10
@@ -920,13 +975,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 183 kcal 9", 
-                "Fat: 9 g 14", 
-                "Carbs: 25.7g 8", 
-                "Protein: 1.8 g 4", 
-                "Cholesterol: 44 mg 15", 
-                "Sodium: 110 mg 4"
+                "Calories: 183 kcal 9 %", 
+                "Fat: 9 g 14 %", 
+                "Carbs: 25.7g 8 %", 
+                "Protein: 1.8 g 4 %", 
+                "Cholesterol: 44 mg 15 %", 
+                "Sodium: 110 mg 4 %"
             ], 
+            "rating": "4.52955675125122", 
             "name": "Best Brownies", 
             "ingredients": [
                 "1/2 cup butter ", 
@@ -948,8 +1004,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1090243.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 60, 
+            "prep_time": 25, 
+            "cal": 183, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan. In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan. Bake in preheated oven for 25 to 30 minutes. Do not overcook. To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm.", 
             "id": 7929, 
             "cook_time": 35
@@ -957,13 +1014,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 209 kcal 10", 
-                "Fat: 8.6 g 13", 
-                "Carbs: 32.9g 11", 
-                "Protein: 2.3 g 5", 
-                "Cholesterol: < 1 mg < 1", 
-                "Sodium: 200 mg 8"
+                "Calories: 209 kcal 10 %", 
+                "Fat: 8.6 g 13 %", 
+                "Carbs: 32.9g 11 %", 
+                "Protein: 2.3 g 5 %", 
+                "Cholesterol: < 1 mg < 1 %", 
+                "Sodium: 200 mg 8 %"
             ], 
+            "rating": "4.48302030563354", 
             "name": "Zucchini Brownies", 
             "ingredients": [
                 "1/2 cup vegetable oil ", 
@@ -985,8 +1043,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/103496.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 209, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x13 inch baking pan. In a large bowl, mix together the oil, sugar and 2 teaspoons vanilla until well blended. Combine the flour, 1/2 cup cocoa, baking soda and salt; stir into the sugar mixture. Fold in the zucchini and walnuts. Spread evenly into the prepared pan. Bake for 25 to 30 minutes in the preheated oven, until brownies spring back when gently touched. To make the frosting, melt together the 6 tablespoons of cocoa and margarine; set aside to cool. In a medium bowl, blend together the confectioners' sugar, milk and 1/2 teaspoon vanilla. Stir in the cocoa mixture. Spread over cooled brownies before cutting into squares.", 
             "id": 7930, 
             "cook_time": 30

@@ -3,13 +3,14 @@
         {
             "total_time": 50, 
             "nutrition": [
-                "Calories: 462 kcal 23", 
-                "Fat: 36.5 g 56", 
-                "Carbs: 22.6g 7", 
-                "Protein: 12 g 24", 
-                "Cholesterol: 135 mg 45", 
-                "Sodium: 997 mg 40"
+                "Calories: 462 kcal 23 %", 
+                "Fat: 36.5 g 56 %", 
+                "Carbs: 22.6g 7 %", 
+                "Protein: 12 g 24 %", 
+                "Cholesterol: 135 mg 45 %", 
+                "Sodium: 997 mg 40 %"
             ], 
+            "rating": "4.76506996154785", 
             "name": "Creamy Chicken and Wild Rice Soup", 
             "ingredients": [
                 "4 cups chicken broth ", 
@@ -26,8 +27,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/355161.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 25, 
+            "prep_time": 5, 
+            "cal": 462, 
             "directions": "In a large pot over medium heat, combine broth, water and chicken. Bring just to boiling, then stir in rice, reserving seasoning packet. Cover and remove from heat. In a small bowl, combine salt, pepper and flour. In a medium saucepan over medium heat, melt butter. Stir in contents of seasoning packet until mixture is bubbly. Reduce heat to low, then stir in flour mixture by tablespoons, to form a roux. Whisk in cream, a little at a time, until fully incorporated and smooth. Cook until thickened, 5 minutes. Stir cream mixture into broth and rice. Cook over medium heat until heated through, 10 to 15 minutes.", 
             "id": 9401, 
             "cook_time": 20
@@ -35,13 +37,14 @@
         {
             "total_time": 230, 
             "nutrition": [
-                "Calories: 305 kcal 15", 
-                "Fat: 13.7 g 21", 
-                "Carbs: 25.5g 8", 
-                "Protein: 22.3 g 45", 
-                "Cholesterol: 55 mg 18", 
-                "Sodium: 1267 mg 51"
+                "Calories: 305 kcal 15 %", 
+                "Fat: 13.7 g 21 %", 
+                "Carbs: 25.5g 8 %", 
+                "Protein: 22.3 g 45 %", 
+                "Cholesterol: 55 mg 18 %", 
+                "Sodium: 1267 mg 51 %"
             ], 
+            "rating": "4.64448261260986", 
             "name": "It's Chili by George!!", 
             "ingredients": [
                 "2 pounds lean ground beef ", 
@@ -63,8 +66,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/779750.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 115, 
+            "prep_time": 10, 
+            "cal": 305, 
             "directions": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and crumble. In a large pot over high heat combine the ground beef, tomato juice, tomato sauce, kidney beans, pinto beans, onions, bell pepper, cayenne pepper, sugar, oregano, ground black pepper, salt, cumin and chili powder. Bring to a boil, then reduce heat to low. Simmer for 1 1/2 hours. (Note: If using a slow cooker, set on low, add ingredients, and cook for 8 to 10 hours.)", 
             "id": 9402, 
             "cook_time": 105
@@ -72,13 +76,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 265 kcal 13", 
-                "Fat: 18.2 g 28", 
-                "Carbs: 15.1g 5", 
-                "Protein: 10 g 20", 
-                "Cholesterol: 56 mg 19", 
-                "Sodium: 1136 mg 45"
+                "Calories: 265 kcal 13 %", 
+                "Fat: 18.2 g 28 %", 
+                "Carbs: 15.1g 5 %", 
+                "Protein: 10 g 20 %", 
+                "Cholesterol: 56 mg 19 %", 
+                "Sodium: 1136 mg 45 %"
             ], 
+            "rating": "4.62357091903687", 
             "name": "Broccoli Cheese Soup", 
             "ingredients": [
                 "1/2 cup butter ", 
@@ -95,54 +100,65 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/306621.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 265, 
             "directions": "In a stockpot, melt butter over medium heat. Cook onion in butter until softened. Stir in broccoli, and cover with chicken broth. Simmer until broccoli is tender, 10 to 15 minutes. Reduce heat, and stir in cheese cubes until melted. Mix in milk and garlic powder. In a small bowl, stir cornstarch into water until dissolved. Stir into soup; cook, stirring frequently, until thick.", 
             "id": 9403, 
             "cook_time": 30
         }, 
         {
-            "total_time": 120, 
+            "total_time": 160, 
             "nutrition": [
-                "Calories: 248 kcal 12", 
-                "Fat: 18.2 g 28", 
-                "Carbs: 21.8g 7", 
-                "Protein: 2.7 g 5", 
-                "Cholesterol: 48 mg 16", 
-                "Sodium: 820 mg 33"
+                "Calories: 295 kcal 15 %", 
+                "Fat: 13.5 g 21 %", 
+                "Carbs: 27.1g 9 %", 
+                "Protein: 17.6 g 35 %", 
+                "Cholesterol: 43 mg 14 %", 
+                "Sodium: 649 mg 26 %"
             ], 
-            "name": "Butternut Squash Bisque", 
+            "rating": "4.4193549156189", 
+            "name": "Emily's Famous Chili", 
             "ingredients": [
-                "1 tablespoon canola oil ", 
-                " 1 tablespoon unsalted butter ", 
-                " 1/2 cup diced onion ", 
-                " 3/4 cup diced carrots ", 
-                " 4 cups peeled and cubed butternut squash ", 
-                " 3 cups vegetable stock ", 
-                " salt and ground black pepper to taste ", 
-                " ground nutmeg to taste ", 
-                " 1/2 cup heavy cream (optional) ", 
+                "2 pounds lean ground beef ", 
+                " 1 onion, chopped ", 
+                " 2 red bell peppers, seeded and diced ", 
+                " 2 jalapeno peppers, seeded and diced ", 
+                " 4 cloves garlic, minced ", 
+                " 1/2 cup chili powder ", 
+                " 1/4 cup ground cumin ", 
+                " 1 teaspoon salt ", 
+                " 1 teaspoon ground black pepper ", 
+                " 1 (6 ounce) can tomato paste ", 
+                " 4 (15 ounce) cans kidney beans with liquid ", 
+                " 1 (14.5 ounce) can Italian-style stewed tomatoes ", 
+                " 1 (7 ounce) can chipotle peppers in adobo sauce ", 
+                " 1 quart water, divided ", 
+                " 1/4 cup all-purpose flour ", 
+                " 1 tablespoon rice vinegar ", 
                 " Add all ingredients to list ", 
                 " Add all ingredients to list May we suggest ", 
                 ""
             ], 
-            "image": "http://images.media-allrecipes.com/userphotos/250x250/138387.jpg", 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/690275.jpg", 
+            "ready_in_time": 80, 
             "prep_time": 20, 
-            "ready_in_time": 60, 
-            "directions": "Heat the oil and melt the butter in a large pot over medium heat. Cook and stir the onion in the butter and oil under tender. Mix the carrots and squash into the pot. Pour in vegetable stock, and season with salt, pepper, and nutmeg. Bring to a boil, reduce heat, and simmer until vegetables are tender. In a blender or food processor, puree the soup mixture until smooth. Return to the pot, and stir in the heavy cream. Heat through, but do not boil. Serve warm with a dash of nutmeg.", 
+            "cal": 295, 
+            "directions": "In a large pot over medium-high heat, cook beef until brown. Drain and return to pot. Stir in onions, bell peppers and jalapenos and cook until tender. Stir in garlic and cook 1 minute more. Season with chili powder, cumin, salt and pepper. Stir in the tomato paste and kidney beans with their liquid. In a food processor or blender, puree the tomatoes with the chipotle peppers until smooth. Stir into the pot with 3 cups of water. Combine the remaining 1 cup water with the flour in a jar and shake to combine. Pour into the chili and stir in the vinegar. Simmer about 45 minutes before serving.", 
             "id": 9404, 
-            "cook_time": 40
+            "cook_time": 60
         }, 
         {
             "total_time": 170, 
             "nutrition": [
-                "Calories: 554 kcal 28", 
-                "Fat: 32.6 g 50", 
-                "Carbs: 45.8g 15", 
-                "Protein: 19.8 g 40", 
-                "Cholesterol: 99 mg 33", 
-                "Sodium: 2386 mg 95"
+                "Calories: 554 kcal 28 %", 
+                "Fat: 32.6 g 50 %", 
+                "Carbs: 45.8g 15 %", 
+                "Protein: 19.8 g 40 %", 
+                "Cholesterol: 99 mg 33 %", 
+                "Sodium: 2386 mg 95 %"
             ], 
+            "rating": "4.80142498016357", 
             "name": "Super-Delicious Zuppa Toscana", 
             "ingredients": [
                 "1 pound bulk mild Italian sausage ", 
@@ -159,8 +175,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1115547.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 85, 
+            "prep_time": 25, 
+            "cal": 554, 
             "directions": "Cook the Italian sausage and red pepper flakes in a Dutch oven over medium-high heat until crumbly, browned, and no longer pink, 10 to 15 minutes. Drain and set aside. Cook the bacon in the same Dutch oven over medium heat until crisp, about 10 minutes. Drain, leaving a few tablespoons of drippings with the bacon in the bottom of the Dutch oven. Stir in the onions and garlic; cook until onions are soft and translucent, about 5 minutes. Pour the chicken broth into the Dutch oven with the bacon and onion mixture; bring to a boil over high heat. Add the potatoes, and boil until fork tender, about 20 minutes. Reduce the heat to medium and stir in the heavy cream and the cooked sausage; heat through. Mix the spinach into the soup just before serving.", 
             "id": 9405, 
             "cook_time": 60
@@ -168,13 +185,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 374 kcal 19", 
-                "Fat: 14.4 g 22", 
-                "Carbs: 37g 12", 
-                "Protein: 25.1 g 50", 
-                "Cholesterol: 40 mg 13", 
-                "Sodium: 1187 mg 47"
+                "Calories: 374 kcal 19 %", 
+                "Fat: 14.4 g 22 %", 
+                "Carbs: 37g 12 %", 
+                "Protein: 25.1 g 50 %", 
+                "Cholesterol: 40 mg 13 %", 
+                "Sodium: 1187 mg 47 %"
             ], 
+            "rating": "4.72955989837646", 
             "name": "Ham and Split Pea Soup Recipe - A Great Soup", 
             "ingredients": [
                 "2 tablespoons butter ", 
@@ -192,8 +210,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1508123.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 110, 
+            "prep_time": 20, 
+            "cal": 374, 
             "directions": "Place the butter in a large soup pot over medium-low heat. Stir in onion, celery, and sliced garlic. Cook slowly until the onions are translucent but not brown, 5 to 8 minutes. Mix in ham, bay leaf, and split peas. Pour in chicken stock and water. Stir to combine, and simmer slowly until the peas are tender and the soup is thick, about 1 hour and 15 minutes. Stir occasionally. Season with salt and black pepper to serve.", 
             "id": 9406, 
             "cook_time": 90
@@ -201,13 +220,14 @@
         {
             "total_time": 150, 
             "nutrition": [
-                "Calories: 618 kcal 31", 
-                "Fat: 35.9 g 55", 
-                "Carbs: 39.5g 13", 
-                "Protein: 29.7 g 59", 
-                "Cholesterol: 114 mg 38", 
-                "Sodium: 3336 mg 133"
+                "Calories: 618 kcal 31 %", 
+                "Fat: 35.9 g 55 %", 
+                "Carbs: 39.5g 13 %", 
+                "Protein: 29.7 g 59 %", 
+                "Cholesterol: 114 mg 38 %", 
+                "Sodium: 3336 mg 133 %"
             ], 
+            "rating": "4.7302074432373", 
             "name": "French Onion Soup Gratinee", 
             "ingredients": [
                 "4 tablespoons butter ", 
@@ -232,8 +252,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/404976.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 75, 
+            "prep_time": 15, 
+            "cal": 618, 
             "directions": "Melt butter in a large pot over medium-high heat. Stir in salt, red onions and sweet onions. Cook 35 minutes, stirring frequently, until onions are caramelized and almost syrupy. Mix chicken broth, beef broth, red wine and Worcestershire sauce into pot. Bundle the parsley, thyme, and bay leaf with twine and place in pot. Simmer over medium heat for 20 minutes, stirring occasionally. Remove and discard the herbs. Reduce the heat to low, mix in vinegar and season with salt and pepper. Cover and keep over low heat to stay hot while you prepare the bread. Preheat oven broiler. Arrange bread slices on a baking sheet and broil 3 minutes, turning once, until well toasted on both sides. Remove from heat; do not turn off broiler. Arrange 4 large oven safe bowls or crocks on a rimmed baking sheet. Fill each bowl 2/3 full with hot soup. Top each bowl with 1 slice toasted bread, 2 slice Gruyere cheese and 1/4 of the Asiago or mozzarella cheese. Sprinkle a little bit of paprika over the top of each one. Broil 5 minutes, or until bubbly and golden brown. As it softens, the cheese will cascade over the sides of the crock and form a beautifully melted crusty seal. Serve immediately!", 
             "id": 9407, 
             "cook_time": 60
@@ -241,13 +262,14 @@
         {
             "total_time": 740, 
             "nutrition": [
-                "Calories: 385 kcal 19", 
-                "Fat: 18 g 28", 
-                "Carbs: 37g 12", 
-                "Protein: 18.1 g 36", 
-                "Cholesterol: 45 mg 15", 
-                "Sodium: 1245 mg 50"
+                "Calories: 385 kcal 19 %", 
+                "Fat: 18 g 28 %", 
+                "Carbs: 37g 12 %", 
+                "Protein: 18.1 g 36 %", 
+                "Cholesterol: 45 mg 15 %", 
+                "Sodium: 1245 mg 50 %"
             ], 
+            "rating": "4.35982799530029", 
             "name": "Slow Cooker Chicken and Dumplings", 
             "ingredients": [
                 "4 skinless, boneless chicken breast halves ", 
@@ -260,8 +282,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/806223.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 370, 
+            "prep_time": 10, 
+            "cal": 385, 
             "directions": "Place the chicken, butter, soup, and onion in a slow cooker, and fill with enough water to cover. Cover, and cook for 5 to 6 hours on High. About 30 minutes before serving, place the torn biscuit dough in the slow cooker. Cook until the dough is no longer raw in the center.", 
             "id": 9408, 
             "cook_time": 360
@@ -269,13 +292,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 473 kcal 24", 
-                "Fat: 15.3 g 24", 
-                "Carbs: 50.3g 16", 
-                "Protein: 39.6 g 79", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 2436 mg 97"
+                "Calories: 473 kcal 24 %", 
+                "Fat: 15.3 g 24 %", 
+                "Carbs: 50.3g 16 %", 
+                "Protein: 39.6 g 79 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 2436 mg 97 %"
             ], 
+            "rating": "4.75", 
             "name": "Catherine's Spicy Chicken Soup", 
             "ingredients": [
                 "2 quarts water ", 
@@ -302,8 +326,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/698391.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 473, 
             "directions": "In a large pot over medium heat, combine water, chicken, salt, pepper, garlic powder, parsley, onion powder and bouillon cubes. Bring to a boil, then reduce heat and simmer 1 hour, or until chicken juices run clear. Remove chicken, reserve broth. Shred chicken. In a large pot over medium heat, cook onion and garlic in olive oil until slightly browned. Stir in salsa, diced tomatoes, whole tomatoes, tomato soup, chili powder, corn, chili beans, sour cream, shredded chicken and 5 cups broth. Simmer 30 minutes.", 
             "id": 9409, 
             "cook_time": 30
@@ -311,13 +336,14 @@
         {
             "total_time": 300, 
             "nutrition": [
-                "Calories: 600 kcal 30", 
-                "Fat: 30.1 g 46", 
-                "Carbs: 55.3g 18", 
-                "Protein: 30.8 g 62", 
-                "Cholesterol: 70 mg 23", 
-                "Sodium: 2092 mg 84"
+                "Calories: 600 kcal 30 %", 
+                "Fat: 30.1 g 46 %", 
+                "Carbs: 55.3g 18 %", 
+                "Protein: 30.8 g 62 %", 
+                "Cholesterol: 70 mg 23 %", 
+                "Sodium: 2092 mg 84 %"
             ], 
+            "rating": "4.80292320251465", 
             "name": "Boilermaker Tailgate Chili", 
             "ingredients": [
                 "2 pounds ground beef chuck ", 
@@ -353,8 +379,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/890638.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 150, 
+            "prep_time": 30, 
+            "cal": 600, 
             "directions": "Heat a large stock pot over medium-high heat. Crumble the ground chuck and sausage into the hot pan, and cook until evenly browned. Drain off excess grease. Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green and red bell peppers, chile peppers, bacon bits, bouillon, and beer. Season with chili powder, Worcestershire sauce, garlic, oregano, cumin, hot pepper sauce, basil, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for at least 2 hours, stirring occasionally. After 2 hours, taste, and adjust salt, pepper, and chili powder if necessary. The longer the chili simmers, the better it will taste. Remove from heat and serve, or refrigerate, and serve the next day. To serve, ladle into bowls, and top with corn chips and shredded Cheddar cheese.", 
             "id": 9410, 
             "cook_time": 120
@@ -362,13 +389,14 @@
         {
             "total_time": 1000, 
             "nutrition": [
-                "Calories: 235 kcal 12", 
-                "Fat: 13.6 g 21", 
-                "Carbs: 6.1g 2", 
-                "Protein: 20.2 g 40", 
-                "Cholesterol: 99 mg 33", 
-                "Sodium: 688 mg 28"
+                "Calories: 235 kcal 12 %", 
+                "Fat: 13.6 g 21 %", 
+                "Carbs: 6.1g 2 %", 
+                "Protein: 20.2 g 40 %", 
+                "Cholesterol: 99 mg 33 %", 
+                "Sodium: 688 mg 28 %"
             ], 
+            "rating": "4.4199366569519", 
             "name": "Colleen's Slow Cooker Jambalaya", 
             "ingredients": [
                 "1 pound skinless, boneless chicken breast halves - cut into 1 inch cubes ", 
@@ -389,8 +417,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/258513.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 500, 
+            "prep_time": 20, 
+            "cal": 235, 
             "directions": "In a slow cooker, mix the chicken, sausage, tomatoes with juice, onion, green bell pepper, celery, and broth. Season with oregano, parsley, Cajun seasoning, cayenne pepper, and thyme. Cover, and cook 7 to 8 hours on Low, or 3 to 4 hours on High. Stir in the shrimp during the last 30 minutes of cook time.", 
             "id": 9411, 
             "cook_time": 480
@@ -398,13 +427,14 @@
         {
             "total_time": 390, 
             "nutrition": [
-                "Calories: 353 kcal 18", 
-                "Fat: 8 g 12", 
-                "Carbs: 50.2g 16", 
-                "Protein: 18.9 g 38", 
-                "Cholesterol: 17 mg 6", 
-                "Sodium: 1008 mg 40"
+                "Calories: 353 kcal 18 %", 
+                "Fat: 8 g 12 %", 
+                "Carbs: 50.2g 16 %", 
+                "Protein: 18.9 g 38 %", 
+                "Cholesterol: 17 mg 6 %", 
+                "Sodium: 1008 mg 40 %"
             ], 
+            "rating": "4.6365385055542", 
             "name": "Lentil and Sausage Soup", 
             "ingredients": [
                 "1/2 pound sweet Italian sausage ", 
@@ -430,8 +460,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/393916.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 195, 
+            "prep_time": 15, 
+            "cal": 353, 
             "directions": "Place sausage in a large pot. Cook over medium high heat until evenly brown. Add onion, celery and chopped garlic, and saute until tender and translucent. Stir in lentils, carrot, water, chicken broth and tomatoes. Season with garlic powder, parsley, bay leaves, oregano, thyme, basil, salt and pepper. Bring to a boil, then reduce heat. Cover, and simmer for 2 1/2 to 3 hours, or until lentils are tender. Stir in pasta, and cook 15 to 20 minutes, or until pasta is tender.", 
             "id": 9412, 
             "cook_time": 180
@@ -439,13 +470,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 448 kcal 22", 
-                "Fat: 18.9 g 29", 
-                "Carbs: 27.9g 9", 
-                "Protein: 45.1 g 90", 
-                "Cholesterol: 140 mg 47", 
-                "Sodium: 1635 mg 65"
+                "Calories: 448 kcal 22 %", 
+                "Fat: 18.9 g 29 %", 
+                "Carbs: 27.9g 9 %", 
+                "Protein: 45.1 g 90 %", 
+                "Cholesterol: 140 mg 47 %", 
+                "Sodium: 1635 mg 65 %"
             ], 
+            "rating": "4.60493850708008", 
             "name": "Chef John's Turkey Chili", 
             "ingredients": [
                 "Secret Chili Spice Mix: ", 
@@ -471,8 +503,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/912607.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 110, 
+            "prep_time": 10, 
+            "cal": 448, 
             "directions": "Mix the ancho chile powder, paprika, cumin, salt, chipotle pepper, oregano, cocoa powder, black pepper, cayenne pepper, and cinnamon in a bowl; set aside. Heat the olive oil in a large heavy pot over medium heat. Stir in the onion; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the ground turkey and garlic. Cook and stir until turkey is no longer pink, breaking up any large chunks, 7 to 8 minutes. Stir in the spice mixture. Cook until fragrant, 3 to 4 minutes. Stir in the tomato puree and water. Bring to a simmer, then reduce heat to low. Cook until the turkey meat is broken down, about 1 hour. Stir in the beans, and continue to simmer until flavors have blended, 20 to 30 more minutes.", 
             "id": 9413, 
             "cook_time": 100
@@ -480,13 +513,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 385 kcal 19", 
-                "Fat: 24.4 g 38", 
-                "Carbs: 22.5g 7", 
-                "Protein: 18.8 g 38", 
-                "Cholesterol: 58 mg 19", 
-                "Sodium: 1259 mg 50"
+                "Calories: 385 kcal 19 %", 
+                "Fat: 24.4 g 38 %", 
+                "Carbs: 22.5g 7 %", 
+                "Protein: 18.8 g 38 %", 
+                "Cholesterol: 58 mg 19 %", 
+                "Sodium: 1259 mg 50 %"
             ], 
+            "rating": "4.80604076385498", 
             "name": "Italian Sausage Soup", 
             "ingredients": [
                 "1 pound Italian sausage ", 
@@ -504,8 +538,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/521051.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 50, 
+            "prep_time": 10, 
+            "cal": 385, 
             "directions": "In a stockpot or Dutch oven, brown sausage with garlic. Stir in broth, tomatoes and carrots, and season with salt and pepper. Reduce heat, cover, and simmer 15 minutes. Stir in beans with liquid and zucchini. Cover, and simmer another 15 minutes, or until zucchini is tender. Remove from heat, and add spinach. Replace lid allowing the heat from the soup to cook the spinach leaves. Soup is ready to serve after 5 minutes.", 
             "id": 9414, 
             "cook_time": 40
@@ -513,13 +548,14 @@
         {
             "total_time": 190, 
             "nutrition": [
-                "Calories: 324 kcal 16", 
-                "Fat: 20.2 g 31", 
-                "Carbs: 19.1g 6", 
-                "Protein: 14.6 g 29", 
-                "Cholesterol: 50 mg 17", 
-                "Sodium: 1145 mg 46"
+                "Calories: 324 kcal 16 %", 
+                "Fat: 20.2 g 31 %", 
+                "Carbs: 19.1g 6 %", 
+                "Protein: 14.6 g 29 %", 
+                "Cholesterol: 50 mg 17 %", 
+                "Sodium: 1145 mg 46 %"
             ], 
+            "rating": "4.8142991065979", 
             "name": "Italian Sausage Soup with Tortellini", 
             "ingredients": [
                 "1 pound sweet Italian sausage, casings removed ", 
@@ -541,8 +577,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1557216.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 95, 
+            "prep_time": 20, 
+            "cal": 324, 
             "directions": "In a 5 quart Dutch oven, brown sausage. Remove sausage and drain, reserving 1 tablespoon of the drippings. Saute onions and garlic in drippings. Stir in beef broth, water, wine, tomatoes, carrots, basil, oregano, tomato sauce, and sausage. Bring to a boil. Reduce heat; simmer uncovered for 30 minutes. Skim fat from the soup. Stir in zucchini and parsley. Simmer covered for 30 minutes. Add tortellini during the last 10 minutes. Sprinkle with Parmesan cheese on top of each serving.", 
             "id": 9415, 
             "cook_time": 75
@@ -550,13 +587,14 @@
         {
             "total_time": 1020, 
             "nutrition": [
-                "Calories: 262 kcal 13", 
-                "Fat: 10.8 g 17", 
-                "Carbs: 24.7g 8", 
-                "Protein: 18 g 36", 
-                "Cholesterol: 45 mg 15", 
-                "Sodium: 893 mg 36"
+                "Calories: 262 kcal 13 %", 
+                "Fat: 10.8 g 17 %", 
+                "Carbs: 24.7g 8 %", 
+                "Protein: 18 g 36 %", 
+                "Cholesterol: 45 mg 15 %", 
+                "Sodium: 893 mg 36 %"
             ], 
+            "rating": "4.66966962814331", 
             "name": "Slow-Cooker Chicken Tortilla Soup", 
             "ingredients": [
                 "1 pound shredded, cooked chicken ", 
@@ -581,8 +619,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/193211.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 510, 
+            "prep_time": 30, 
+            "cal": 262, 
             "directions": "Place chicken, tomatoes, enchilada sauce, onion, green chiles, and garlic into a slow cooker. Pour in water and chicken broth, and season with cumin, chili powder, salt, pepper, and bay leaf. Stir in corn and cilantro. Cover, and cook on Low setting for 6 to 8 hours or on High setting for 3 to 4 hours. Preheat oven to 400 degrees F (200 degrees C). Lightly brush both sides of tortillas with oil. Cut tortillas into strips, then spread on a baking sheet. Bake in preheated oven until crisp, about 10 to 15 minutes. To serve, sprinkle tortilla strips over soup.", 
             "id": 9416, 
             "cook_time": 480
@@ -590,13 +629,14 @@
         {
             "total_time": 1480, 
             "nutrition": [
-                "Calories: 516 kcal 26", 
-                "Fat: 29.6 g 46", 
-                "Carbs: 29.8g 10", 
-                "Protein: 31.8 g 64", 
-                "Cholesterol: 101 mg 34", 
-                "Sodium: 531 mg 21"
+                "Calories: 516 kcal 26 %", 
+                "Fat: 29.6 g 46 %", 
+                "Carbs: 29.8g 10 %", 
+                "Protein: 31.8 g 64 %", 
+                "Cholesterol: 101 mg 34 %", 
+                "Sodium: 531 mg 21 %"
             ], 
+            "rating": "4.41508483886719", 
             "name": "Slow Cooker Beef Stew I", 
             "ingredients": [
                 "2 pounds beef stew meat, cut into 1 inch cubes ", 
@@ -617,8 +657,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/276397.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 740, 
+            "prep_time": 20, 
+            "cal": 516, 
             "directions": "Place meat in slow cooker. In a small bowl mix together the flour, salt, and pepper; pour over meat, and stir to coat meat with flour mixture. Stir in the garlic, bay leaf, paprika, Worcestershire sauce, onion, beef broth, potatoes, carrots, and celery. Cover, and cook on Low setting for 10 to 12 hours, or on High setting for 4 to 6 hours.", 
             "id": 9417, 
             "cook_time": 720
@@ -626,13 +667,14 @@
         {
             "total_time": 360, 
             "nutrition": [
-                "Calories: 336 kcal 17", 
-                "Fat: 15.8 g 24", 
-                "Carbs: 26.7g 9", 
-                "Protein: 21 g 42", 
-                "Cholesterol: 56 mg 19", 
-                "Sodium: 1103 mg 44"
+                "Calories: 336 kcal 17 %", 
+                "Fat: 15.8 g 24 %", 
+                "Carbs: 26.7g 9 %", 
+                "Protein: 21 g 42 %", 
+                "Cholesterol: 56 mg 19 %", 
+                "Sodium: 1103 mg 44 %"
             ], 
+            "rating": "4.86324787139893", 
             "name": "Ken's Kickin' Posole", 
             "ingredients": [
                 "2 fresh poblano chile peppers ", 
@@ -656,8 +698,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/439694.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 190, 
+            "prep_time": 20, 
+            "cal": 336, 
             "directions": "Preheat the oven's broiler and set the oven rack at about 6 inches from the heat source. Line a baking sheet with aluminum foil. Place the poblano chiles cut-side-down onto the baking sheet. Cook under the preheated broiler until the skin of the peppers has blackened and blistered, about 5 minutes. Place the blackened peppers into a bowl, and tightly seal with plastic wrap. Allow the peppers to steam as they cool, about 20 minutes. Once cool, remove the skins and discard. Dice the chiles. Cook and stir the bacon in a large pot over medium heat until it has released its fat and is beginning to crisp, about 5 minutes. Drain the bacon on a paper towel-lined plate, and discard all but 1 tablespoon of bacon grease from the pot. Increase the heat to medium-high, and add the pork loin cubes. Cook, stirring occasionally until browned on all sides, about 5 minutes. Remove the pork from the pot, and reduce the heat to medium. Stir in the onion and garlic; cook and stir until the onion has softened and is beginning to turn brown, about 5 minutes. Stir the roasted poblano chiles, jalapeno peppers, oregano, cumin, New Mexico chile powder, cloves, salt, and cilantro into the onions; cook for 1 minute. Pour in the chicken stock and enchilada sauce. Stir in the bacon and pork cubes, and bring to a simmer over medium-high heat. Reduce heat to medium-low, cover, and simmer 1 hour. Stir in the hominy, recover, and continue cooking 1 hour more until the pork is very tender.", 
             "id": 9418, 
             "cook_time": 150
@@ -665,13 +708,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 161 kcal 8", 
-                "Fat: 6.1 g 9", 
-                "Carbs: 12.1g 4", 
-                "Protein: 13.4 g 27", 
-                "Cholesterol: 46 mg 15", 
-                "Sodium: 1357 mg 54"
+                "Calories: 161 kcal 8 %", 
+                "Fat: 6.1 g 9 %", 
+                "Carbs: 12.1g 4 %", 
+                "Protein: 13.4 g 27 %", 
+                "Cholesterol: 46 mg 15 %", 
+                "Sodium: 1357 mg 54 %"
             ], 
+            "rating": "4.70436811447144", 
             "name": "Quick and Easy Chicken Noodle Soup", 
             "ingredients": [
                 "1 tablespoon butter ", 
@@ -690,8 +734,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1261155.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 161, 
             "directions": "In a large pot over medium heat, melt butter. Cook onion and celery in butter until just tender, 5 minutes. Pour in chicken and vegetable broths and stir in chicken, noodles, carrots, basil, oregano, salt and pepper. Bring to a boil, then reduce heat and simmer 20 minutes before serving.", 
             "id": 9419, 
             "cook_time": 20
@@ -699,13 +744,14 @@
         {
             "total_time": 290, 
             "nutrition": [
-                "Calories: 425 kcal 21", 
-                "Fat: 21.4 g 33", 
-                "Carbs: 23.2g 7", 
-                "Protein: 33.1 g 66", 
-                "Cholesterol: 99 mg 33", 
-                "Sodium: 794 mg 32"
+                "Calories: 425 kcal 21 %", 
+                "Fat: 21.4 g 33 %", 
+                "Carbs: 23.2g 7 %", 
+                "Protein: 33.1 g 66 %", 
+                "Cholesterol: 99 mg 33 %", 
+                "Sodium: 794 mg 32 %"
             ], 
+            "rating": "4.60384607315063", 
             "name": "Baked Beef Stew", 
             "ingredients": [
                 "2 pounds beef stew meat, cut into 1 inch cubes ", 
@@ -726,8 +772,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2700.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 150, 
+            "prep_time": 20, 
+            "cal": 425, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish. In a large skillet over medium heat, brown the stew meat; drain and set aside. In a mixing bowl, combine the tomatoes, water, tapioca, beef bouillon granules, sugar, salt and pepper. Stir in the beef, carrots, celery, potatoes, onion, and bread cubes. Pour into the prepared baking dish. Cover and bake for 2 hours, or until meat and vegetables are tender.", 
             "id": 9420, 
             "cook_time": 120
@@ -735,13 +782,14 @@
         {
             "total_time": 140, 
             "nutrition": [
-                "Calories: 480 kcal 24", 
-                "Fat: 31.1 g 48", 
-                "Carbs: 24.9g 8", 
-                "Protein: 26.7 g 53", 
-                "Cholesterol: 96 mg 32", 
-                "Sodium: 1366 mg 55"
+                "Calories: 480 kcal 24 %", 
+                "Fat: 31.1 g 48 %", 
+                "Carbs: 24.9g 8 %", 
+                "Protein: 26.7 g 53 %", 
+                "Cholesterol: 96 mg 32 %", 
+                "Sodium: 1366 mg 55 %"
             ], 
+            "rating": "4.75676584243774", 
             "name": "Debdoozie's Blue Ribbon Chili", 
             "ingredients": [
                 "2 pounds ground beef ", 
@@ -758,8 +806,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/593156.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 70, 
+            "prep_time": 10, 
+            "cal": 480, 
             "directions": "In a large saucepan over medium heat, combine the ground beef and the onion and saute for 10 minutes, or until meat is browned and onion is tender. Drain grease, if desired. Add the ground black pepper, garlic salt, tomato sauce, salsa, chili seasoning mix and kidney beans. Mix well, reduce heat to low and simmer for at least an hour.", 
             "id": 9421, 
             "cook_time": 60
@@ -767,13 +816,14 @@
         {
             "total_time": 200, 
             "nutrition": [
-                "Calories: 219 kcal 11", 
-                "Fat: 10.4 g 16", 
-                "Carbs: 29.2g 9", 
-                "Protein: 5.7 g 11", 
-                "Cholesterol: 20 mg 7", 
-                "Sodium: 947 mg 38"
+                "Calories: 219 kcal 11 %", 
+                "Fat: 10.4 g 16 %", 
+                "Carbs: 29.2g 9 %", 
+                "Protein: 5.7 g 11 %", 
+                "Cholesterol: 20 mg 7 %", 
+                "Sodium: 947 mg 38 %"
             ], 
+            "rating": "4.51754379272461", 
             "name": "Roasted Butternut Squash Soup with Apples and Bacon", 
             "ingredients": [
                 "1 (3 pound) butternut squash - peeled, seeded, and cubed ", 
@@ -798,8 +848,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3900410.jpg", 
-            "prep_time": 40, 
             "ready_in_time": 100, 
+            "prep_time": 40, 
+            "cal": 219, 
             "directions": "Preheat an oven to 375 degrees F (190 degrees C). Place squash in a large bowl and drizzle with olive oil; mix to coat; sprinkle with salt and pepper. Spread squash into a single layer on a baking pan. Roast the squash in the preheated oven, turning once, until fork-tender and caramelized; 30 to 40 minutes. Place the bacon in a Dutch oven and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Remove the bacon slices to a paper towel-lined plate, reserving the drippings in the pan. Place the onion, celery, carrot, bay leaf, curry powder, thyme, and salt and pepper in the Dutch oven; cook in reserved bacon drippings until the carrots and celery are soft. Mix in the apples and cooked squash and cook another 5 minutes. Stir the garlic into the mixture and cook another 1 minute. Pour the apple cider over the mixture; reduce heat to medium-low and bring to a simmer; allow to reduce to about half its original volume. Stir in the chicken stock; simmer over medium-low heat for about 20 minutes. Puree the soup in small batches in a blender, or use an immersion blender. If using a blender, don't fill the blender more than half-way. Always remove the center lid piece of a stand blender when blending hot liquids so the steam can escape. Cover the hole with a dish towel while blending. Stir the nutmeg into the soup. Garnish each bowl with 1 tablespoon of sour cream and some of the bacon pieces to serve.", 
             "id": 9422, 
             "cook_time": 60
@@ -807,13 +858,14 @@
         {
             "total_time": 170, 
             "nutrition": [
-                "Calories: 227 kcal 11", 
-                "Fat: 8.3 g 13", 
-                "Carbs: 30g 10", 
-                "Protein: 8.6 g 17", 
-                "Cholesterol: 1 mg < 1", 
-                "Sodium: 1142 mg 46"
+                "Calories: 227 kcal 11 %", 
+                "Fat: 8.3 g 13 %", 
+                "Carbs: 30g 10 %", 
+                "Protein: 8.6 g 17 %", 
+                "Cholesterol: 1 mg < 1 %", 
+                "Sodium: 1142 mg 46 %"
             ], 
+            "rating": "4.72381401062012", 
             "name": "Jamie's Minestrone", 
             "ingredients": [
                 "3 tablespoons olive oil ", 
@@ -840,8 +892,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/691795.jpg", 
-            "prep_time": 35, 
             "ready_in_time": 85, 
+            "prep_time": 35, 
+            "cal": 227, 
             "directions": "In a large stock pot, over medium-low heat, heat olive oil and saute garlic for 2 to 3 minutes. Add onion and saute for 4 to 5 minutes. Add celery and carrots, saute for 1 to 2 minutes. Add chicken broth, water and tomato sauce, bring to boil, stirring frequently. If desired add red wine at this point. Reduce heat to low and add kidney beans, green beans, spinach leaves, zucchini, oregano, basil, salt and pepper. Simmer for 30 to 40 minutes, the longer the better. Fill a medium saucepan with water and bring to a boil. Add macaroni and cook until tender. Drain water and set aside. Once pasta is cooked and soup is heated through place 2 tablespoons cooked pasta into individual serving bowls. Ladle soup on top of pasta and sprinkle Parmesan cheese on top. Spray with olive oil and serve.", 
             "id": 9423, 
             "cook_time": 50
@@ -849,13 +902,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 684 kcal 34", 
-                "Fat: 16.8 g 26", 
-                "Carbs: 74.9g 24", 
-                "Protein: 59.1 g 118", 
-                "Cholesterol: 102 mg 34", 
-                "Sodium: 1896 mg 76"
+                "Calories: 684 kcal 34 %", 
+                "Fat: 16.8 g 26 %", 
+                "Carbs: 74.9g 24 %", 
+                "Protein: 59.1 g 118 %", 
+                "Cholesterol: 102 mg 34 %", 
+                "Sodium: 1896 mg 76 %"
             ], 
+            "rating": "4.6701979637146", 
             "name": "Cha Cha's White Chicken Chili", 
             "ingredients": [
                 "1 tablespoon vegetable oil ", 
@@ -875,8 +929,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/631578.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 684, 
             "directions": "Heat the oil in a large saucepan over medium-low heat. Slowly cook and stir the onion until tender. Mix in the garlic, jalapeno, green chile peppers, cumin, oregano and cayenne. Continue to cook and stir the mixture until tender, about 3 minutes. Mix in the chicken broth, chicken and white beans. Simmer 15 minutes, stirring occasionally. Remove the mixture from heat. Slowly stir in the cheese until melted. Serve warm.", 
             "id": 9424, 
             "cook_time": 20
@@ -884,13 +939,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 195 kcal 10", 
-                "Fat: 10.5 g 16", 
-                "Carbs: 19.5g 6", 
-                "Protein: 6.1 g 12", 
-                "Cholesterol: 30 mg 10", 
-                "Sodium: 394 mg 16"
+                "Calories: 195 kcal 10 %", 
+                "Fat: 10.5 g 16 %", 
+                "Carbs: 19.5g 6 %", 
+                "Protein: 6.1 g 12 %", 
+                "Cholesterol: 30 mg 10 %", 
+                "Sodium: 394 mg 16 %"
             ], 
+            "rating": "4.83580541610718", 
             "name": "Delicious Ham and Potato Soup", 
             "ingredients": [
                 "3 1/2 cups peeled and diced potatoes ", 
@@ -909,8 +965,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/962656.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 45, 
+            "prep_time": 20, 
+            "cal": 195, 
             "directions": "Combine the potatoes, celery, onion, ham and water in a stockpot. Bring to a boil, then cook over medium heat until potatoes are tender, about 10 to 15 minutes. Stir in the chicken bouillon, salt and pepper. In a separate saucepan, melt butter over medium-low heat. Whisk in flour with a fork, and cook, stirring constantly until thick, about 1 minute. Slowly stir in milk as not to allow lumps to form until all of the milk has been added. Continue stirring over medium-low heat until thick, 4 to 5 minutes. Stir the milk mixture into the stockpot, and cook soup until heated through. Serve immediately.", 
             "id": 9425, 
             "cook_time": 25
@@ -918,13 +975,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 397 kcal 20", 
-                "Fat: 33.4 g 51", 
-                "Carbs: 20.2g 7", 
-                "Protein: 7.7 g 15", 
-                "Cholesterol: 83 mg 28", 
-                "Sodium: 1081 mg 43"
+                "Calories: 397 kcal 20 %", 
+                "Fat: 33.4 g 51 %", 
+                "Carbs: 20.2g 7 %", 
+                "Protein: 7.7 g 15 %", 
+                "Cholesterol: 83 mg 28 %", 
+                "Sodium: 1081 mg 43 %"
             ], 
+            "rating": "4.58157253265381", 
             "name": "Butternut Squash Soup", 
             "ingredients": [
                 "6 tablespoons chopped onion ", 
@@ -941,8 +999,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/45392.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 60, 
+            "prep_time": 25, 
+            "cal": 397, 
             "directions": "In a large saucepan, saute onions in margarine until tender. Add squash, water, bouillon, marjoram, black pepper and cayenne pepper. Bring to boil; cook 20 minutes, or until squash is tender. Puree squash and cream cheese in a blender or food processor in batches until smooth. Return to saucepan, and heat through. Do not allow to boil.", 
             "id": 9426, 
             "cook_time": 35
@@ -950,13 +1009,14 @@
         {
             "total_time": 280, 
             "nutrition": [
-                "Calories: 401 kcal 20", 
-                "Fat: 21.2 g 33", 
-                "Carbs: 24.9g 8", 
-                "Protein: 27.2 g 54", 
-                "Cholesterol: 79 mg 26", 
-                "Sodium: 436 mg 17"
+                "Calories: 401 kcal 20 %", 
+                "Fat: 21.2 g 33 %", 
+                "Carbs: 24.9g 8 %", 
+                "Protein: 27.2 g 54 %", 
+                "Cholesterol: 79 mg 26 %", 
+                "Sodium: 436 mg 17 %"
             ], 
+            "rating": "4.59812355041504", 
             "name": "Beef Stew VI", 
             "ingredients": [
                 "2 pounds cubed beef stew meat ", 
@@ -977,8 +1037,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/729310.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 140, 
+            "prep_time": 20, 
+            "cal": 401, 
             "directions": "In a large pot or dutch oven, cook beef in oil over medium heat until brown. Dissolve bouillon in water and pour into pot. Stir in rosemary, parsley and pepper. Bring to a boil, then reduce heat, cover and simmer 1 hour. Stir potatoes, carrots, celery, and onion into the pot. Dissolve cornstarch in 2 teaspoons cold water and stir into stew. Cover and simmer 1 hour more.", 
             "id": 9427, 
             "cook_time": 120
@@ -986,13 +1047,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 508 kcal 25", 
-                "Fat: 15 g 23", 
-                "Carbs: 70.7g 23", 
-                "Protein: 22.8 g 46", 
-                "Cholesterol: 31 mg 10", 
-                "Sodium: 1538 mg 62"
+                "Calories: 508 kcal 25 %", 
+                "Fat: 15 g 23 %", 
+                "Carbs: 70.7g 23 %", 
+                "Protein: 22.8 g 46 %", 
+                "Cholesterol: 31 mg 10 %", 
+                "Sodium: 1538 mg 62 %"
             ], 
+            "rating": "4.64302062988281", 
             "name": "Brazilian Black Bean Stew", 
             "ingredients": [
                 "1 tablespoon canola oil ", 
@@ -1014,8 +1076,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/572555.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 508, 
             "directions": "Heat the oil in a large pot over medium heat, and cook the chorizo and ham 2 to 3 minutes. Place the onion in the pot, and cook until tender. Stir in garlic, and cook until tender, then mix in the sweet potatoes, bell pepper, tomatoes with juice, chile pepper, and water. Bring to a boil, reduce heat to low, cover, and simmer 15 minutes, until sweet potatoes are tender. Stir the beans into the pot, and cook uncovered until heated through. Mix in the mango and cilantro, and season with salt.", 
             "id": 9428, 
             "cook_time": 30
@@ -1023,13 +1086,14 @@
         {
             "total_time": 870, 
             "nutrition": [
-                "Calories: 434 kcal 22", 
-                "Fat: 17.7 g 27", 
-                "Carbs: 42.3g 14", 
-                "Protein: 27.2 g 54", 
-                "Cholesterol: 68 mg 23", 
-                "Sodium: 1597 mg 64"
+                "Calories: 434 kcal 22 %", 
+                "Fat: 17.7 g 27 %", 
+                "Carbs: 42.3g 14 %", 
+                "Protein: 27.2 g 54 %", 
+                "Cholesterol: 68 mg 23 %", 
+                "Sodium: 1597 mg 64 %"
             ], 
+            "rating": "4.67283296585083", 
             "name": "Slow Cooker Chicken Taco Soup", 
             "ingredients": [
                 "1 onion, chopped ", 
@@ -1049,8 +1113,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/322598.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 435, 
+            "prep_time": 15, 
+            "cal": 434, 
             "directions": "Place the onion, chili beans, black beans, corn, tomato sauce, beer, and diced tomatoes in a slow cooker. Add taco seasoning, and stir to blend. Lay chicken breasts on top of the mixture, pressing down slightly until just covered by the other ingredients. Set slow cooker for low heat, cover, and cook for 5 hours. Remove chicken breasts from the soup, and allow to cool long enough to be handled. Stir the shredded chicken back into the soup, and continue cooking for 2 hours. Serve topped with shredded Cheddar cheese, a dollop of sour cream, and crushed tortilla chips, if desired.", 
             "id": 9429, 
             "cook_time": 420
@@ -1058,13 +1123,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 748 kcal 37", 
-                "Fat: 49.3 g 76", 
-                "Carbs: 49.7g 16", 
-                "Protein: 27.2 g 54", 
-                "Cholesterol: 85 mg 28", 
-                "Sodium: 1335 mg 53"
+                "Calories: 748 kcal 37 %", 
+                "Fat: 49.3 g 76 %", 
+                "Carbs: 49.7g 16 %", 
+                "Protein: 27.2 g 54 %", 
+                "Cholesterol: 85 mg 28 %", 
+                "Sodium: 1335 mg 53 %"
             ], 
+            "rating": "4.65555572509766", 
             "name": "Baked Potato Soup I", 
             "ingredients": [
                 "12 slices bacon ", 
@@ -1082,8 +1148,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/23845.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 40, 
+            "prep_time": 15, 
+            "cal": 748, 
             "directions": "Place bacon in a large, deep skillet. Cook over medium heat until browned. Drain, crumble, and set aside. In a stock pot or Dutch oven, melt the margarine over medium heat. Whisk in flour until smooth. Gradually stir in milk, whisking constantly until thickened. Stir in potatoes and onions. Bring to a boil, stirring frequently. Reduce heat, and simmer 10 minutes. Mix in bacon, cheese, sour cream, salt, and pepper. Continue cooking, stirring frequently, until cheese is melted.", 
             "id": 9430, 
             "cook_time": 25

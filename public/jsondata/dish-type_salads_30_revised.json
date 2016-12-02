@@ -3,13 +3,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 183 kcal 9", 
-                "Fat: 3.9 g 6", 
-                "Carbs: 32.2g 10", 
-                "Protein: 5.4 g 11", 
-                "Cholesterol: 10 mg 3", 
-                "Sodium: 796 mg 32"
+                "Calories: 183 kcal 9 %", 
+                "Fat: 3.9 g 6 %", 
+                "Carbs: 32.2g 10 %", 
+                "Protein: 5.4 g 11 %", 
+                "Cholesterol: 10 mg 3 %", 
+                "Sodium: 796 mg 32 %"
             ], 
+            "rating": "4.60103607177734", 
             "name": "Authentic German Potato Salad", 
             "ingredients": [
                 "3 cups diced peeled potatoes ", 
@@ -26,8 +27,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/586962.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 50, 
+            "prep_time": 30, 
+            "cal": 183, 
             "directions": "Place the potatoes into a pot, and fill with enough water to cover. Bring to a boil, and cook for about 10 minutes, or until easily pierced with a fork. Drain, and set aside to cool. Place the bacon in a large deep skillet over medium-high heat. Fry until browned and crisp, turning as needed. Remove from the pan and set aside. Add onion to the bacon grease, and cook over medium heat until browned. Add the vinegar, water, sugar, salt and pepper to the pan. Bring to a boil, then add the potatoes and parsley. Crumble in half of the bacon. Heat through, then transfer to a serving dish. Crumble the remaining bacon over the top, and serve warm.", 
             "id": 9601, 
             "cook_time": 20
@@ -35,13 +37,14 @@
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 451 kcal 23", 
-                "Fat: 29.1 g 45", 
-                "Carbs: 33.2g 11", 
-                "Protein: 15 g 30", 
-                "Cholesterol: 37 mg 12", 
-                "Sodium: 978 mg 39"
+                "Calories: 451 kcal 23 %", 
+                "Fat: 29.1 g 45 %", 
+                "Carbs: 33.2g 11 %", 
+                "Protein: 15 g 30 %", 
+                "Cholesterol: 37 mg 12 %", 
+                "Sodium: 978 mg 39 %"
             ], 
+            "rating": "4.62409830093384", 
             "name": "Antipasto Pasta Salad", 
             "ingredients": [
                 "1 pound seashell pasta ", 
@@ -64,8 +67,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/655688.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 95, 
+            "prep_time": 20, 
+            "cal": 451, 
             "directions": "Cook the pasta in a large pot of salted boiling water until al dente. Drain, and cool under cold water. In a large bowl, combine the pasta, salami, pepperoni, Asiago cheese, black olives, red bell pepper, green bell pepper and tomatoes. Stir in the envelope of dressing mix. Cover, and refrigerate for at least one hour. To prepare the dressing, whisk together the olive oil, balsamic vinegar, oregano, parsley, Parmesan cheese, salt and pepper. Just before serving, pour dressing over the salad, and mix well.", 
             "id": 9602, 
             "cook_time": 15
@@ -73,13 +77,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 374 kcal 19", 
-                "Fat: 27.2 g 42", 
-                "Carbs: 28.5g 9", 
-                "Protein: 7.3 g 15", 
-                "Cholesterol: 18 mg 6", 
-                "Sodium: 353 mg 14"
+                "Calories: 374 kcal 19 %", 
+                "Fat: 27.2 g 42 %", 
+                "Carbs: 28.5g 9 %", 
+                "Protein: 7.3 g 15 %", 
+                "Cholesterol: 18 mg 6 %", 
+                "Sodium: 353 mg 14 %"
             ], 
+            "rating": "4.76936769485474", 
             "name": "Fresh Broccoli Salad", 
             "ingredients": [
                 "2 heads fresh broccoli ", 
@@ -95,8 +100,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/727586.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 30, 
+            "prep_time": 15, 
+            "cal": 374, 
             "directions": "Place bacon in a deep skillet and cook over medium high heat until evenly brown. Cool and crumble. Cut the broccoli into bite-size pieces and cut the onion into thin bite-size slices. Combine with the bacon, raisins, your favorite nuts and mix well. To prepare the dressing, mix the mayonnaise, sugar and vinegar together until smooth. Stir into the salad, let chill and serve.", 
             "id": 9603, 
             "cook_time": 15
@@ -104,13 +110,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 273 kcal 14", 
-                "Fat: 24 g 37", 
-                "Carbs: 7.3g 2", 
-                "Protein: 8.1 g 16", 
-                "Cholesterol: 35 mg 12", 
-                "Sodium: 543 mg 22"
+                "Calories: 273 kcal 14 %", 
+                "Fat: 24 g 37 %", 
+                "Carbs: 7.3g 2 %", 
+                "Protein: 8.1 g 16 %", 
+                "Cholesterol: 35 mg 12 %", 
+                "Sodium: 543 mg 22 %"
             ], 
+            "rating": "4.60530090332031", 
             "name": "Bodacious Broccoli Salad", 
             "ingredients": [
                 "8 slices bacon ", 
@@ -128,8 +135,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/352465.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 30, 
+            "prep_time": 15, 
+            "cal": 273, 
             "directions": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, and crumble. In a large bowl, combine broccoli, cheese, bacon and onion. Prepare the dressing in a small bowl by whisking together the red wine vinegar, sugar, pepper, salt, mayonnaise and lemon juice. Combine dressing with salad. Cover, and refrigerate until ready to serve.", 
             "id": 9606, 
             "cook_time": 15
@@ -137,13 +145,14 @@
         {
             "total_time": 95, 
             "nutrition": [
-                "Calories: 427 kcal 21", 
-                "Fat: 23.7 g 36", 
-                "Carbs: 49.5g 16", 
-                "Protein: 8.4 g 17", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 168 mg 7"
+                "Calories: 427 kcal 21 %", 
+                "Fat: 23.7 g 36 %", 
+                "Carbs: 49.5g 16 %", 
+                "Protein: 8.4 g 17 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 168 mg 7 %"
             ], 
+            "rating": "4.6097559928894", 
             "name": "Quinoa Salad with Grapefruit, Avocado, and Arugula", 
             "ingredients": [
                 "1 cup quinoa ", 
@@ -168,8 +177,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/808345.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 427, 
             "directions": "In a dry skillet over medium heat, toast the quinoa until it has a nutty aroma. Remove from heat, rinse and drain in a fine mesh strainer. Bring water to a boil in a saucepan, add salt, and slowly add toasted quinoa. Cook until tender and the outer rings appear on the grains, 15 to 20 minutes. Strain through a fine mesh colander. Place in a large bowl to cool. In a small bowl, combine cranberries, lime juice, olive oil, honey, garlic, serrano pepper, mint, cilantro, shallot, and arugula. Stir into the cooled quinoa and add salt and freshly ground pepper to taste. Place 1 cup of baby arugula on each salad plate. Top with quinoa mixture, avocado, and grapefruit.", 
             "id": 9612, 
             "cook_time": 20
@@ -177,13 +187,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 559 kcal 28", 
-                "Fat: 48.1 g 74", 
-                "Carbs: 23.9g 8", 
-                "Protein: 12.9 g 26", 
-                "Cholesterol: 31 mg 10", 
-                "Sodium: 584 mg 23"
+                "Calories: 559 kcal 28 %", 
+                "Fat: 48.1 g 74 %", 
+                "Carbs: 23.9g 8 %", 
+                "Protein: 12.9 g 26 %", 
+                "Cholesterol: 31 mg 10 %", 
+                "Sodium: 584 mg 23 %"
             ], 
+            "rating": "4.78544044494629", 
             "name": "Alyson's Broccoli Salad", 
             "ingredients": [
                 "10 slices bacon ", 
@@ -199,8 +210,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/503913.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 30, 
+            "prep_time": 15, 
+            "cal": 559, 
             "directions": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside. In a medium bowl, combine the broccoli, onion and raisins. In a small bowl, whisk together the vinegar, sugar and mayonnaise. Pour over broccoli mixture, and toss until well mixed. Refrigerate for at least two hours. Before serving, toss salad with crumbled bacon and sunflower seeds.", 
             "id": 9615, 
             "cook_time": 15
@@ -208,13 +220,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 349 kcal 17", 
-                "Fat: 15.2 g 23", 
-                "Carbs: 38.3g 12", 
-                "Protein: 15.9 g 32", 
-                "Cholesterol: 24 mg 8", 
-                "Sodium: 308 mg 12"
+                "Calories: 349 kcal 17 %", 
+                "Fat: 15.2 g 23 %", 
+                "Carbs: 38.3g 12 %", 
+                "Protein: 15.9 g 32 %", 
+                "Cholesterol: 24 mg 8 %", 
+                "Sodium: 308 mg 12 %"
             ], 
+            "rating": "4.44816589355469", 
             "name": "Sesame Pasta Chicken Salad", 
             "ingredients": [
                 "1/4 cup sesame seeds ", 
@@ -234,8 +247,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/92940.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 30, 
+            "prep_time": 20, 
+            "cal": 349, 
             "directions": "Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside. Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl. In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well. Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.", 
             "id": 9616, 
             "cook_time": 10
@@ -243,13 +257,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 384 kcal 19", 
-                "Fat: 33.5 g 52", 
-                "Carbs: 16.3g 5", 
-                "Protein: 5.8 g 12", 
-                "Cholesterol: 18 mg 6", 
-                "Sodium: 549 mg 22"
+                "Calories: 384 kcal 19 %", 
+                "Fat: 33.5 g 52 %", 
+                "Carbs: 16.3g 5 %", 
+                "Protein: 5.8 g 12 %", 
+                "Cholesterol: 18 mg 6 %", 
+                "Sodium: 549 mg 22 %"
             ], 
+            "rating": "4.75049257278442", 
             "name": "Caesar Salad Supreme", 
             "ingredients": [
                 "6 cloves garlic, peeled, divided ", 
@@ -269,8 +284,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/368159.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 35, 
+            "prep_time": 20, 
+            "cal": 384, 
             "directions": "Mince 3 cloves of garlic, and combine in a small bowl with mayonnaise, anchovies, 2 tablespoons of the Parmesan cheese, Worcestershire sauce, mustard, and lemon juice. Season to taste with salt and black pepper. Refrigerate until ready to use. Heat oil in a large skillet over medium heat. Cut the remaining 3 cloves of garlic into quarters, and add to hot oil. Cook and stir until brown, and then remove garlic from pan. Add bread cubes to the hot oil. Cook, turning frequently, until lightly browned. Remove bread cubes from oil, and season with salt and pepper. Place lettuce in a large bowl. Toss with dressing, remaining Parmesan cheese, and seasoned bread cubes.", 
             "id": 9617, 
             "cook_time": 15
@@ -278,13 +294,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 338 kcal 17", 
-                "Fat: 23.5 g 36", 
-                "Carbs: 30.4g 10", 
-                "Protein: 4.9 g 10", 
-                "Cholesterol: 4 mg 1", 
-                "Sodium: 58 mg 2"
+                "Calories: 338 kcal 17 %", 
+                "Fat: 23.5 g 36 %", 
+                "Carbs: 30.4g 10 %", 
+                "Protein: 4.9 g 10 %", 
+                "Cholesterol: 4 mg 1 %", 
+                "Sodium: 58 mg 2 %"
             ], 
+            "rating": "4.78918218612671", 
             "name": "Jamie's Cranberry Spinach Salad", 
             "ingredients": [
                 "1 tablespoon butter ", 
@@ -304,8 +321,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/273205.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 338, 
             "directions": "In a medium saucepan, melt butter over medium heat. Cook and stir almonds in butter until lightly toasted. Remove from heat, and let cool. In a medium bowl, whisk together the sesame seeds, poppy seeds, sugar, onion, paprika, white wine vinegar, cider vinegar, and vegetable oil. Toss with spinach just before serving. In a large bowl, combine the spinach with the toasted almonds and cranberries.", 
             "id": 9618, 
             "cook_time": 10
@@ -313,13 +331,14 @@
         {
             "total_time": 300, 
             "nutrition": [
-                "Calories: 390 kcal 20", 
-                "Fat: 18.7 g 29", 
-                "Carbs: 49.3g 16", 
-                "Protein: 6.8 g 14", 
-                "Cholesterol: 8 mg 3", 
-                "Sodium: 529 mg 21"
+                "Calories: 390 kcal 20 %", 
+                "Fat: 18.7 g 29 %", 
+                "Carbs: 49.3g 16 %", 
+                "Protein: 6.8 g 14 %", 
+                "Cholesterol: 8 mg 3 %", 
+                "Sodium: 529 mg 21 %"
             ], 
+            "rating": "4.46492052078247", 
             "name": "Classic Macaroni Salad", 
             "ingredients": [
                 "4 cups uncooked elbow macaroni ", 
@@ -339,63 +358,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/878056.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 270, 
+            "prep_time": 20, 
+            "cal": 390, 
             "directions": "Bring a large pot of lightly salted water to a boil. Add the macaroni, and cook until tender, about 8 minutes. Rinse under cold water and drain. In a large bowl, mix together the mayonnaise, vinegar, sugar, mustard, salt and pepper. Stir in the onion, celery, green pepper, carrot, pimentos and macaroni. Refrigerate for at least 4 hours before serving, but preferably overnight.", 
             "id": 9619, 
             "cook_time": 10
         }, 
         {
-            "total_time": 90, 
-            "nutrition": [
-                "Calories: 372 kcal 19", 
-                "Fat: 30.7 g 47", 
-                "Carbs: 21.4g 7", 
-                "Protein: 5.9 g 12", 
-                "Cholesterol: 12 mg 4", 
-                "Sodium: 624 mg 25"
-            ], 
-            "name": "Curried Cashew, Pear, and Grape Salad", 
-            "ingredients": [
-                "3/4 cup cashew halves ", 
-                " 4 slices bacon, coarsely chopped ", 
-                " 1 tablespoon melted butter ", 
-                " 1 teaspoon chopped fresh rosemary ", 
-                " 1 teaspoon curry powder ", 
-                " 1 tablespoon brown sugar ", 
-                " 1/2 teaspoon kosher salt ", 
-                " 1/2 teaspoon cayenne pepper ", 
-                " Dressing: ", 
-                " 3 tablespoons white wine vinegar ", 
-                " 3 tablespoons Dijon mustard ", 
-                " 2 tablespoons honey ", 
-                " 1/2 cup olive oil ", 
-                " salt and black pepper to taste ", 
-                " Salad: ", 
-                " 1 (10 ounce) package mixed salad greens ", 
-                " 1/2 medium Bosc pear, thinly sliced ", 
-                " 1/2 cup halved seedless red grapes ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/212094.jpg", 
-            "prep_time": 30, 
-            "ready_in_time": 45, 
-            "directions": "In a large, dry skillet over medium-high heat, toast cashews until golden brown, about 5 minutes. Remove cashews to a dish to cool slightly. Return skillet to medium-high heat, cook bacon strips until crisp on both sides, about 7 minutes. Remove bacon with a slotted spoon, and soak up grease with a paper towel. Coarsely chop bacon, and set aside. In a medium bowl, stir together butter, rosemary, curry powder, brown sugar, salt, cayenne pepper, and toasted cashews. Set aside. In a small bowl, stir together white wine vinegar, mustard, and honey. Slowly whisk in olive oil, and sprinkle with salt and pepper to taste. In a large salad bowl, toss dressing with greens, pear slices, grapes, and bacon, and sprinkle with nut mixture.", 
-            "id": 9621, 
-            "cook_time": 15
-        }, 
-        {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 336 kcal 17", 
-                "Fat: 26.8 g 41", 
-                "Carbs: 14.9g 5", 
-                "Protein: 9.3 g 19", 
-                "Cholesterol: 31 mg 10", 
-                "Sodium: 691 mg 28"
+                "Calories: 336 kcal 17 %", 
+                "Fat: 26.8 g 41 %", 
+                "Carbs: 14.9g 5 %", 
+                "Protein: 9.3 g 19 %", 
+                "Cholesterol: 31 mg 10 %", 
+                "Sodium: 691 mg 28 %"
             ], 
+            "rating": "4.4714035987854", 
             "name": "Bacon Ranch Pasta Salad", 
             "ingredients": [
                 "1 (12 ounce) package uncooked tri-color rotini pasta ", 
@@ -413,22 +393,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/580466.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 85, 
+            "prep_time": 10, 
+            "cal": 336, 
             "directions": "Bring a large pot of lightly salted water to a boil; cook rotini at a boil until tender yet firm to the bite, about 8 minutes; drain. Place bacon in a skillet over medium-high heat and cook until evenly brown. Drain and chop. In a large bowl, mix mayonnaise, ranch dressing mix, garlic powder, and garlic pepper. Stir in milk until smooth. Place rotini, bacon, tomato, black olives and cheese in bowl and toss to coat with dressing. Cover and chill at least 1 hour in the refrigerator. Toss with additional milk if the salad seems a little dry.", 
-            "id": 9622, 
+            "id": 9621, 
             "cook_time": 15
         }, 
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 344 kcal 17", 
-                "Fat: 31.9 g 49", 
-                "Carbs: 2.3g < 1", 
-                "Protein: 13 g 26", 
-                "Cholesterol: 382 mg 127", 
-                "Sodium: 351 mg 14"
+                "Calories: 344 kcal 17 %", 
+                "Fat: 31.9 g 49 %", 
+                "Carbs: 2.3g < 1 %", 
+                "Protein: 13 g 26 %", 
+                "Cholesterol: 382 mg 127 %", 
+                "Sodium: 351 mg 14 %"
             ], 
+            "rating": "4.61747741699219", 
             "name": "Delicious Egg Salad for Sandwiches", 
             "ingredients": [
                 "8 eggs ", 
@@ -442,22 +424,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/632353.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 344, 
             "directions": "Place egg in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop. Place the chopped eggs in a bowl, and stir in the mayonnaise, mustard and green onion. Season with salt, pepper and paprika. Stir and serve on your favorite bread or crackers.", 
-            "id": 9623, 
+            "id": 9622, 
             "cook_time": 15
         }, 
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 426 kcal 21", 
-                "Fat: 31.6 g 49", 
-                "Carbs: 33.1g 11", 
-                "Protein: 8 g 16", 
-                "Cholesterol: 21 mg 7", 
-                "Sodium: 654 mg 26"
+                "Calories: 426 kcal 21 %", 
+                "Fat: 31.6 g 49 %", 
+                "Carbs: 33.1g 11 %", 
+                "Protein: 8 g 16 %", 
+                "Cholesterol: 21 mg 7 %", 
+                "Sodium: 654 mg 26 %"
             ], 
+            "rating": "4.85520601272583", 
             "name": "Roquefort Pear Salad", 
             "ingredients": [
                 "1 head leaf lettuce, torn into bite-size pieces ", 
@@ -479,22 +463,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/49064.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 30, 
+            "prep_time": 20, 
+            "cal": 426, 
             "directions": "In a skillet over medium heat, stir 1/4 cup of sugar together with the pecans. Continue stirring gently until sugar has melted and caramelized the pecans. Carefully transfer nuts onto waxed paper. Allow to cool, and break into pieces. For the dressing, blend oil, vinegar, 1 1/2 teaspoons sugar, mustard, chopped garlic, salt, and pepper. In a large serving bowl, layer lettuce, pears, blue cheese, avocado, and green onions. Pour dressing over salad, sprinkle with pecans, and serve.", 
-            "id": 9627, 
+            "id": 9626, 
             "cook_time": 10
         }, 
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 183 kcal 9", 
-                "Fat: 3.9 g 6", 
-                "Carbs: 32.2g 10", 
-                "Protein: 5.4 g 11", 
-                "Cholesterol: 10 mg 3", 
-                "Sodium: 796 mg 32"
+                "Calories: 183 kcal 9 %", 
+                "Fat: 3.9 g 6 %", 
+                "Carbs: 32.2g 10 %", 
+                "Protein: 5.4 g 11 %", 
+                "Cholesterol: 10 mg 3 %", 
+                "Sodium: 796 mg 32 %"
             ], 
+            "rating": "4.60103607177734", 
             "name": "Authentic German Potato Salad", 
             "ingredients": [
                 "3 cups diced peeled potatoes ", 
@@ -511,8 +497,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/586962.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 50, 
+            "prep_time": 30, 
+            "cal": 183, 
             "directions": "Place the potatoes into a pot, and fill with enough water to cover. Bring to a boil, and cook for about 10 minutes, or until easily pierced with a fork. Drain, and set aside to cool. Place the bacon in a large deep skillet over medium-high heat. Fry until browned and crisp, turning as needed. Remove from the pan and set aside. Add onion to the bacon grease, and cook over medium heat until browned. Add the vinegar, water, sugar, salt and pepper to the pan. Bring to a boil, then add the potatoes and parsley. Crumble in half of the bacon. Heat through, then transfer to a serving dish. Crumble the remaining bacon over the top, and serve warm.", 
             "id": 9630, 
             "cook_time": 20

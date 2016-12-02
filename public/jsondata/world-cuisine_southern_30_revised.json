@@ -3,13 +3,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 184 kcal 9", 
-                "Fat: 6.2 g 10", 
-                "Carbs: 5.6g 2", 
-                "Protein: 25.3 g 51", 
-                "Cholesterol: 67 mg 22", 
-                "Sodium: 735 mg 29"
+                "Calories: 184 kcal 9 %", 
+                "Fat: 6.2 g 10 %", 
+                "Carbs: 5.6g 2 %", 
+                "Protein: 25.3 g 51 %", 
+                "Cholesterol: 67 mg 22 %", 
+                "Sodium: 735 mg 29 %"
             ], 
+            "rating": "4.30316734313965", 
             "name": "Key West Chicken", 
             "ingredients": [
                 "3 tablespoons soy sauce ", 
@@ -23,8 +24,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/694150.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 184, 
             "directions": "In a shallow container, blend soy sauce, honey, vegetable oil, lime juice, and garlic. Place chicken breast halves into the mixture, and turn to coat. Cover, and marinate in the refrigerator at least 30 minutes. Preheat an outdoor grill for high heat. Lightly oil the grill grate. Discard marinade, and grill chicken 6 to 8 minutes on each side, until juices run clear.", 
             "id": 1587601, 
             "cook_time": 15
@@ -32,13 +34,14 @@
         {
             "total_time": 900, 
             "nutrition": [
-                "Calories: 630 kcal 32", 
-                "Fat: 24.2 g 37", 
-                "Carbs: 79.1g 26", 
-                "Protein: 24 g 48", 
-                "Cholesterol: 33 mg 11", 
-                "Sodium: 604 mg 24"
+                "Calories: 630 kcal 32 %", 
+                "Fat: 24.2 g 37 %", 
+                "Carbs: 79.1g 26 %", 
+                "Protein: 24 g 48 %", 
+                "Cholesterol: 33 mg 11 %", 
+                "Sodium: 604 mg 24 %"
             ], 
+            "rating": "4.45031690597534", 
             "name": "Authentic Louisiana Red Beans and Rice", 
             "ingredients": [
                 "1 pound dry kidney beans ", 
@@ -62,8 +65,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/16658.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 690, 
+            "prep_time": 25, 
+            "cal": 630, 
             "directions": "Rinse beans, and then soak in a large pot of water overnight. In a skillet, heat oil over medium heat. Cook onion, bell pepper, garlic, and celery in olive oil for 3 to 4 minutes. Rinse beans, and transfer to a large pot with 6 cups water. Stir cooked vegetables into beans. Season with bay leaves, cayenne pepper, thyme, sage, parsley, and Cajun seasoning. Bring to a boil, and then reduce heat to medium-low. Simmer for 2 1/2 hours. Stir sausage into beans, and continue to simmer for 30 minutes. Meanwhile, prepare the rice. In a saucepan, bring water and rice to a boil. Reduce heat, cover, and simmer for 20 minutes. Serve beans over steamed white rice.", 
             "id": 1587602, 
             "cook_time": 185
@@ -71,13 +75,14 @@
         {
             "total_time": 180, 
             "nutrition": [
-                "Calories: 192 kcal 10", 
-                "Fat: 7.5 g 12", 
-                "Carbs: 27.1g 9", 
-                "Protein: 3.9 g 8", 
-                "Cholesterol: 30 mg 10", 
-                "Sodium: 202 mg 8"
+                "Calories: 192 kcal 10 %", 
+                "Fat: 7.5 g 12 %", 
+                "Carbs: 27.1g 9 %", 
+                "Protein: 3.9 g 8 %", 
+                "Cholesterol: 30 mg 10 %", 
+                "Sodium: 202 mg 8 %"
             ], 
+            "rating": "4.79457235336304", 
             "name": "Sweet Dinner Rolls", 
             "ingredients": [
                 "1/2 cup warm water (110 degrees F/45 degrees C) ", 
@@ -94,8 +99,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/518228.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 140, 
+            "prep_time": 20, 
+            "cal": 192, 
             "directions": "Place water, milk, egg, 1/3 cup butter, sugar, salt, flour and yeast in the pan of the bread machine in the order recommended by the manufacturer. Select Dough/Knead and First Rise Cycle; press Start. When cycle finishes, turn dough out onto a lightly floured surface. Divide dough in half. Roll each half into a 12 inch circle, spread 1/4 cup softened butter over entire round. Cut each circle into 8 wedges. Roll wedges starting at wide end; roll gently but tightly. Place point side down on ungreased cookie sheet. Cover with clean kitchen towel and put in a warm place, let rise 1 hour. Meanwhile, preheat oven to 400 degrees F (200 degrees C). Bake in preheated oven for 10 to 15 minutes, until golden.", 
             "id": 1587603, 
             "cook_time": 20
@@ -103,13 +109,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 534 kcal 27", 
-                "Fat: 23.8 g 37", 
-                "Carbs: 73.2g 24", 
-                "Protein: 4.6 g 9", 
-                "Cholesterol: 60 mg 20", 
-                "Sodium: 146 mg 6"
+                "Calories: 534 kcal 27 %", 
+                "Fat: 23.8 g 37 %", 
+                "Carbs: 73.2g 24 %", 
+                "Protein: 4.6 g 9 %", 
+                "Cholesterol: 60 mg 20 %", 
+                "Sodium: 146 mg 6 %"
             ], 
+            "rating": "4.80558443069458", 
             "name": "Bananas Foster II", 
             "ingredients": [
                 "1/4 cup butter ", 
@@ -125,8 +132,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/973634.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 20, 
+            "prep_time": 5, 
+            "cal": 534, 
             "directions": "In a large, deep skillet over medium heat, melt butter. Stir in sugar, rum, vanilla and cinnamon. When mixture begins to bubble, place bananas and walnuts in pan. Cook until bananas are hot, 1 to 2 minutes. Serve at once over vanilla ice cream.", 
             "id": 1587604, 
             "cook_time": 15
@@ -134,13 +142,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 154 kcal 8", 
-                "Fat: 8 g 12", 
-                "Carbs: 17.9g 6", 
-                "Protein: 2.7 g 5", 
-                "Cholesterol: 21 mg 7", 
-                "Sodium: 231 mg 9"
+                "Calories: 154 kcal 8 %", 
+                "Fat: 8 g 12 %", 
+                "Carbs: 17.9g 6 %", 
+                "Protein: 2.7 g 5 %", 
+                "Cholesterol: 21 mg 7 %", 
+                "Sodium: 231 mg 9 %"
             ], 
+            "rating": "4.61603879928589", 
             "name": "Kentucky Biscuits", 
             "ingredients": [
                 "2 cups all-purpose flour ", 
@@ -155,8 +164,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/145630.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 30, 
+            "prep_time": 15, 
+            "cal": 154, 
             "directions": "Preheat oven to 400 degrees F (200 degrees C). In a bowl, mix the flour, baking powder, baking soda, salt, and sugar. Cut in 1/2 cup butter until the mixture resembles coarse crumbs. Mix in the buttermilk. Turn out onto a lightly floured surface, and knead 2 minutes. Transfer to an ungreased baking sheet, roll into a 6x6 inch square, and cut into 12 even sections. Do not separate. Bake 15 minutes in the preheated oven, until a knife inserted in the center of the square comes out clean. Separate into biscuits, and serve hot.", 
             "id": 1587605, 
             "cook_time": 15
@@ -164,13 +174,14 @@
         {
             "total_time": 1000, 
             "nutrition": [
-                "Calories: 235 kcal 12", 
-                "Fat: 13.6 g 21", 
-                "Carbs: 6.1g 2", 
-                "Protein: 20.2 g 40", 
-                "Cholesterol: 99 mg 33", 
-                "Sodium: 688 mg 28"
+                "Calories: 235 kcal 12 %", 
+                "Fat: 13.6 g 21 %", 
+                "Carbs: 6.1g 2 %", 
+                "Protein: 20.2 g 40 %", 
+                "Cholesterol: 99 mg 33 %", 
+                "Sodium: 688 mg 28 %"
             ], 
+            "rating": "4.4199366569519", 
             "name": "Colleen's Slow Cooker Jambalaya", 
             "ingredients": [
                 "1 pound skinless, boneless chicken breast halves - cut into 1 inch cubes ", 
@@ -191,22 +202,58 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/258513.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 500, 
+            "prep_time": 20, 
+            "cal": 235, 
             "directions": "In a slow cooker, mix the chicken, sausage, tomatoes with juice, onion, green bell pepper, celery, and broth. Season with oregano, parsley, Cajun seasoning, cayenne pepper, and thyme. Cover, and cook 7 to 8 hours on Low, or 3 to 4 hours on High. Stir in the shrimp during the last 30 minutes of cook time.", 
             "id": 1587607, 
             "cook_time": 480
         }, 
         {
+            "total_time": 100, 
+            "nutrition": [
+                "Calories: 298 kcal 15 %", 
+                "Fat: 17.9 g 28 %", 
+                "Carbs: 7.7g 2 %", 
+                "Protein: 25 g 50 %", 
+                "Cholesterol: 121 mg 40 %", 
+                "Sodium: 777 mg 31 %"
+            ], 
+            "rating": "4.27142858505249", 
+            "name": "Smothered Hamburger Steak", 
+            "ingredients": [
+                "2 eggs ", 
+                " 2 tablespoons minced onion ", 
+                " 1 tablespoon beef base ", 
+                " 1/2 teaspoon black pepper ", 
+                " 3 slices white bread ", 
+                " 2 pounds lean ground beef ", 
+                " 1 (10.75 ounce) can condensed cream of mushroom soup ", 
+                " 1 (10.75 ounce) can water ", 
+                " 1 dash Worcestershire sauce ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/247027.jpg", 
+            "ready_in_time": 50, 
+            "prep_time": 14, 
+            "cal": 298, 
+            "directions": "Whisk together the eggs, onion, beef base, and pepper in a bowl. Tear the bread into large pieces, and place into the bowl. Let the bread soak for a few seconds and add the ground beef. Mix the meat into the egg-bread mixture, and form into 8 patties. Heat a large heavy skillet over medium-high heat, and fry the patties until they are browned and the meat is no longer pink in the center, about 8 minutes per side. Set the patties aside. Remove the excess grease from the skillet, and whisk the mushroom soup, water, and Worcestershire sauce together in the skillet until smooth. Place the patties back into the skillet, spoon sauce over them to cover, and bring to a boil over medium-high heat. Reduce the heat to a simmer, and cook until the sauce is thickened and the flavors have blended, about 20 minutes.", 
+            "id": 1587608, 
+            "cook_time": 36
+        }, 
+        {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 348 kcal 17", 
-                "Fat: 13.8 g 21", 
-                "Carbs: 32.3g 10", 
-                "Protein: 22.7 g 45", 
-                "Cholesterol: 72 mg 24", 
-                "Sodium: 1143 mg 46"
+                "Calories: 348 kcal 17 %", 
+                "Fat: 13.8 g 21 %", 
+                "Carbs: 32.3g 10 %", 
+                "Protein: 22.7 g 45 %", 
+                "Cholesterol: 72 mg 24 %", 
+                "Sodium: 1143 mg 46 %"
             ], 
+            "rating": "4.68844223022461", 
             "name": "Bubba's Jambalaya", 
             "ingredients": [
                 "6 slices bacon, cut into 1 inch pieces ", 
@@ -228,22 +275,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/305156.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 65, 
+            "prep_time": 25, 
+            "cal": 348, 
             "directions": "Heat a large pot over medium-high heat. Add bacon, and cook until crisp. Remove bacon pieces with a slotted spoon, and set aside. Add celery, bell pepper, and onion to the bacon drippings, and cook until tender. Add the ham, chicken and sausage to the pot, and pour in the tomatoes, beef broth and chicken broth. Season with thyme and Cajun seasoning. Bring to a boil, and add the rice. Bring to a boil, then turn the heat to low, cover, and simmer for about 20 minutes, until the rice is tender. Stir in the shrimp and bacon just before serving, and heat through. If you use uncooked shrimp, let it cook for about 5 minutes before serving.", 
-            "id": 1587608, 
+            "id": 1587609, 
             "cook_time": 40
         }, 
         {
             "total_time": 210, 
             "nutrition": [
-                "Calories: 508 kcal 25", 
-                "Fat: 22.6 g 35", 
-                "Carbs: 71.1g 23", 
-                "Protein: 6.2 g 12", 
-                "Cholesterol: 117 mg 39", 
-                "Sodium: 467 mg 19"
+                "Calories: 508 kcal 25 %", 
+                "Fat: 22.6 g 35 %", 
+                "Carbs: 71.1g 23 %", 
+                "Protein: 6.2 g 12 %", 
+                "Cholesterol: 117 mg 39 %", 
+                "Sodium: 467 mg 19 %"
             ], 
+            "rating": "4.61785364151001", 
             "name": "Kentucky Butter Cake", 
             "ingredients": [
                 "3 cups unbleached all-purpose flour ", 
@@ -264,22 +313,59 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1061447.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 120, 
+            "prep_time": 30, 
+            "cal": 508, 
             "directions": "Preheat oven to 325 degrees F (165 degrees C). Grease and flour a 10 inch Bundt pan. In a large bowl, mix the flour, 2 cups sugar, salt, baking powder and baking soda. Blend in buttermilk, 1 cup of butter, 2 teaspoons of vanilla and 4 eggs. Beat for 3 minutes at medium speed. Pour batter into prepared pan. Bake in preheated oven for 60 minutes, or until a wooden toothpick inserted into center of cake comes out clean. Prick holes in the still warm cake. Slowly pour sauce over cake. Let cake cool before removing from pan. To Make Butter Sauce: In a saucepan combine the remaining 3/4 cups sugar, 1/3 cup butter, 2 teaspoons vanilla, and the water. Cook over medium heat, until fully melted and combined, but do not boil.", 
-            "id": 1587609, 
+            "id": 1587610, 
             "cook_time": 60
+        }, 
+        {
+            "total_time": 90, 
+            "nutrition": [
+                "Calories: 318 kcal 16 %", 
+                "Fat: 9.1 g 14 %", 
+                "Carbs: 58.4g 19 %", 
+                "Protein: 2.7 g 5 %", 
+                "Cholesterol: 23 mg 8 %", 
+                "Sodium: 253 mg 10 %"
+            ], 
+            "rating": "4.73719358444214", 
+            "name": "Blackberry Cobbler II", 
+            "ingredients": [
+                "1 cup all-purpose flour ", 
+                " 1 1/2 cups white sugar, divided ", 
+                " 1 teaspoon baking powder ", 
+                " 1/2 teaspoon salt ", 
+                " 6 tablespoons cold butter ", 
+                " 1/4 cup boiling water ", 
+                " 2 tablespoons cornstarch ", 
+                " 1/4 cup cold water ", 
+                " 1 tablespoon lemon juice ", 
+                " 4 cups fresh blackberries, rinsed and drained ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/862734.jpg", 
+            "ready_in_time": 45, 
+            "prep_time": 20, 
+            "cal": 318, 
+            "directions": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil. In a large bowl, mix the flour, 1/2 cup sugar, baking powder, and salt. Cut in butter until the mixture resembles coarse crumbs. Stir in 1/4 cup boiling water just until mixture is evenly moist. In a separate bowl, dissolve the cornstarch in cold water. Mix in remaining 1 cup sugar, lemon juice, and blackberries. Transfer to a cast iron skillet, and bring to a boil, stirring frequently. Drop dough into the skillet by spoonfuls. Place skillet on the foil lined baking sheet. Bake 25 minutes in the preheated oven, until dough is golden brown.", 
+            "id": 1587611, 
+            "cook_time": 25
         }, 
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 562 kcal 28", 
-                "Fat: 17.6 g 27", 
-                "Carbs: 99.4g 32", 
-                "Protein: 3.5 g 7", 
-                "Cholesterol: 46 mg 15", 
-                "Sodium: 400 mg 16"
+                "Calories: 562 kcal 28 %", 
+                "Fat: 17.6 g 27 %", 
+                "Carbs: 99.4g 32 %", 
+                "Protein: 3.5 g 7 %", 
+                "Cholesterol: 46 mg 15 %", 
+                "Sodium: 400 mg 16 %"
             ], 
+            "rating": "4.70086336135864", 
             "name": "Fresh Southern Peach Cobbler", 
             "ingredients": [
                 "8 fresh peaches - peeled, pitted and sliced into thin wedges ", 
@@ -304,22 +390,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2500761.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 60, 
+            "prep_time": 20, 
+            "cal": 562, 
             "directions": "Preheat oven to 425 degrees F (220 degrees C). In a large bowl, combine peaches, 1/4 cup white sugar, 1/4 cup brown sugar, 1/4 teaspoon cinnamon, nutmeg, lemon juice, and cornstarch. Toss to coat evenly, and pour into a 2 quart baking dish. Bake in preheated oven for 10 minutes. Meanwhile, in a large bowl, combine flour, 1/4 cup white sugar, 1/4 cup brown sugar, baking powder, and salt. Blend in butter with your fingertips, or a pastry blender, until mixture resembles coarse meal. Stir in water until just combined. Remove peaches from oven, and drop spoonfuls of topping over them. Sprinkle entire cobbler with the sugar and cinnamon mixture. Bake until topping is golden, about 30 minutes.", 
-            "id": 1587611, 
+            "id": 1587612, 
             "cook_time": 40
         }, 
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 791 kcal 40", 
-                "Fat: 34.3 g 53", 
-                "Carbs: 71.1g 23", 
-                "Protein: 47 g 94", 
-                "Cholesterol: 124 mg 41", 
-                "Sodium: 1393 mg 56"
+                "Calories: 791 kcal 40 %", 
+                "Fat: 34.3 g 53 %", 
+                "Carbs: 71.1g 23 %", 
+                "Protein: 47 g 94 %", 
+                "Cholesterol: 124 mg 41 %", 
+                "Sodium: 1393 mg 56 %"
             ], 
+            "rating": "4.49023628234863", 
             "name": "The Best Chicken Fried Steak", 
             "ingredients": [
                 "4 (1/2 pound) beef cube steaks ", 
@@ -341,22 +429,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/422143.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 40, 
+            "prep_time": 20, 
+            "cal": 791, 
             "directions": "Pound the steaks to about 1/4-inch thickness. Place 2 cups of flour in a shallow bowl. Stir together the baking powder, baking soda, pepper, and salt in a separate shallow bowl; stir in the buttermilk, egg, Tabasco Sauce, and garlic. Dredge each steak first in the flour, then in the batter, and again in the flour. Pat the flour onto the surface of each steak so they are completely coated with dry flour. Heat the shortening in a deep cast-iron skillet to 325 degrees F (165 degrees C). Fry the steaks until evenly golden brown, 3 to 5 minutes per side. Place fried steaks on a plate with paper towels to drain. Drain the fat from the skillet, reserving 1/4 cup of the liquid and as much of the solid remnants as possible. Return the skillet to medium-low heat with the reserved oil. Whisk the remaining flour into the oil. Scrape the bottom of the pan with a spatula to release solids into the gravy. Stir in the milk, raise the heat to medium, and bring the gravy to a simmer, cook until thick, 6 to 7 minutes. Season with kosher salt and pepper. Spoon the gravy over the steaks to serve.", 
-            "id": 1587612, 
+            "id": 1587613, 
             "cook_time": 20
         }, 
         {
             "total_time": 280, 
             "nutrition": [
-                "Calories: 389 kcal 19", 
-                "Fat: 20.6 g 32", 
-                "Carbs: 47.8g 15", 
-                "Protein: 4.5 g 9", 
-                "Cholesterol: 78 mg 26", 
-                "Sodium: 254 mg 10"
+                "Calories: 389 kcal 19 %", 
+                "Fat: 20.6 g 32 %", 
+                "Carbs: 47.8g 15 %", 
+                "Protein: 4.5 g 9 %", 
+                "Cholesterol: 78 mg 26 %", 
+                "Sodium: 254 mg 10 %"
             ], 
+            "rating": "4.78427410125732", 
             "name": "Sweet Potato Pie I", 
             "ingredients": [
                 "1 (1 pound) sweet potato ", 
@@ -373,55 +463,56 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1484910.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 140, 
+            "prep_time": 30, 
+            "cal": 389, 
             "directions": "Boil sweet potato whole in skin for 40 to 50 minutes, or until done. Run cold water over the sweet potato, and remove the skin. Break apart sweet potato in a bowl. Add butter, and mix well with mixer. Stir in sugar, milk, eggs, nutmeg, cinnamon and vanilla. Beat on medium speed until mixture is smooth. Pour filling into an unbaked pie crust. Bake at 350 degrees F (175 degrees C) for 55 to 60 minutes, or until knife inserted in center comes out clean. Pie will puff up like a souffle, and then will sink down as it cools.", 
-            "id": 1587613, 
+            "id": 1587614, 
             "cook_time": 110
         }, 
         {
-            "total_time": 90, 
+            "total_time": 360, 
             "nutrition": [
-                "Calories: 318 kcal 16", 
-                "Fat: 9.1 g 14", 
-                "Carbs: 58.4g 19", 
-                "Protein: 2.7 g 5", 
-                "Cholesterol: 23 mg 8", 
-                "Sodium: 253 mg 10"
+                "Calories: 511 kcal 26 %", 
+                "Fat: 30.1 g 46 %", 
+                "Carbs: 19.4g 6 %", 
+                "Protein: 38.8 g 78 %", 
+                "Cholesterol: 111 mg 37 %", 
+                "Sodium: 2172 mg 87 %"
             ], 
-            "name": "Blackberry Cobbler II", 
+            "rating": "4.72834634780884", 
+            "name": "Tangy Honey Glazed Ham", 
             "ingredients": [
-                "1 cup all-purpose flour ", 
-                " 1 1/2 cups white sugar, divided ", 
-                " 1 teaspoon baking powder ", 
-                " 1/2 teaspoon salt ", 
-                " 6 tablespoons cold butter ", 
-                " 1/4 cup boiling water ", 
-                " 2 tablespoons cornstarch ", 
-                " 1/4 cup cold water ", 
-                " 1 tablespoon lemon juice ", 
-                " 4 cups fresh blackberries, rinsed and drained ", 
+                "1 (10 pound) fully-cooked, bone-in ham ", 
+                " 1 1/4 cups packed dark brown sugar ", 
+                " 1/3 cup pineapple juice ", 
+                " 1/3 cup honey ", 
+                " 1/3 large orange, juiced and zested ", 
+                " 2 tablespoons Dijon mustard ", 
+                " 1/4 teaspoon ground cloves ", 
                 " Add all ingredients to list ", 
                 " Add all ingredients to list May we suggest ", 
                 ""
             ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/862734.jpg", 
-            "prep_time": 20, 
-            "ready_in_time": 45, 
-            "directions": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil. In a large bowl, mix the flour, 1/2 cup sugar, baking powder, and salt. Cut in butter until the mixture resembles coarse crumbs. Stir in 1/4 cup boiling water just until mixture is evenly moist. In a separate bowl, dissolve the cornstarch in cold water. Mix in remaining 1 cup sugar, lemon juice, and blackberries. Transfer to a cast iron skillet, and bring to a boil, stirring frequently. Drop dough into the skillet by spoonfuls. Place skillet on the foil lined baking sheet. Bake 25 minutes in the preheated oven, until dough is golden brown.", 
-            "id": 1587614, 
-            "cook_time": 25
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/549168.jpg", 
+            "ready_in_time": 180, 
+            "prep_time": 15, 
+            "cal": 511, 
+            "directions": "Preheat oven to 325 degrees F (165 degrees C). Place ham in a roasting pan. In a small saucepan, combine brown sugar, pineapple juice, honey, orange juice, orange zest, Dijon mustard, and ground cloves. Bring to a boil, reduce heat, and simmer for 5 to 10 minutes. Set aside. Bake ham in preheated oven uncovered for 2 hours. Remove ham from oven, and brush with glaze. Bake for an additional 30 to 45 minutes, brushing ham with glaze every 10 minutes.", 
+            "id": 1587615, 
+            "cook_time": 165
         }, 
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 73 kcal 4", 
-                "Fat: 0 g 0", 
-                "Carbs: 18.7g 6", 
-                "Protein: 0 g 0", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 41 mg 2"
+                "Calories: 73 kcal 4 %", 
+                "Fat: 0 g 0 %", 
+                "Carbs: 18.7g 6 %", 
+                "Protein: 0 g 0 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 41 mg 2 %"
             ], 
+            "rating": "4.81089496612549", 
             "name": "Smooth Sweet Tea", 
             "ingredients": [
                 "1 pinch baking soda ", 
@@ -434,22 +525,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/216335.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 200, 
+            "prep_time": 5, 
+            "cal": 73, 
             "directions": "Sprinkle a pinch of baking soda into a 64-ounce, heat-proof, glass pitcher. Pour in boiling water, and add tea bags. Cover, and allow to steep for 15 minutes. Remove tea bags, and discard; stir in sugar until dissolved. Pour in cool water, then refrigerate until cold.", 
-            "id": 1587615, 
+            "id": 1587616, 
             "cook_time": 15
         }, 
         {
             "total_time": 140, 
             "nutrition": [
-                "Calories: 127 kcal 6", 
-                "Fat: 9.2 g 14", 
-                "Carbs: 7.9g 3", 
-                "Protein: 4.4 g 9", 
-                "Cholesterol: 12 mg 4", 
-                "Sodium: 1001 mg 40"
+                "Calories: 127 kcal 6 %", 
+                "Fat: 9.2 g 14 %", 
+                "Carbs: 7.9g 3 %", 
+                "Protein: 4.4 g 9 %", 
+                "Cholesterol: 12 mg 4 %", 
+                "Sodium: 1001 mg 40 %"
             ], 
+            "rating": "4.72601556777954", 
             "name": "Kickin' Collard Greens", 
             "ingredients": [
                 "1 tablespoon olive oil ", 
@@ -466,22 +559,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/822015.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 70, 
+            "prep_time": 10, 
+            "cal": 127, 
             "directions": "Heat oil in a large pot over medium-high heat. Add bacon, and cook until crisp. Remove bacon from pan, crumble and return to the pan. Add onion, and cook until tender, about 5 minutes. Add garlic, and cook until just fragrant. Add collard greens, and fry until they start to wilt. Pour in chicken broth, and season with salt, pepper, and red pepper flakes. Reduce heat to low, cover, and simmer for 45 minutes, or until greens are tender.", 
-            "id": 1587616, 
+            "id": 1587617, 
             "cook_time": 60
         }, 
         {
             "total_time": 360, 
             "nutrition": [
-                "Calories: 1043 kcal 52", 
-                "Fat: 68.5 g 105", 
-                "Carbs: 54.7g 18", 
-                "Protein: 50.7 g 101", 
-                "Cholesterol: 234 mg 78", 
-                "Sodium: 1720 mg 69"
+                "Calories: 1043 kcal 52 %", 
+                "Fat: 68.5 g 105 %", 
+                "Carbs: 54.7g 18 %", 
+                "Protein: 50.7 g 101 %", 
+                "Cholesterol: 234 mg 78 %", 
+                "Sodium: 1720 mg 69 %"
             ], 
+            "rating": "4.82089567184448", 
             "name": "Scott Hibb's Amazing Whisky Grilled Baby Back Ribs", 
             "ingredients": [
                 "2 (2 pound) slabs baby back pork ribs ", 
@@ -509,22 +604,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/417609.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 180, 
+            "prep_time": 20, 
+            "cal": 1043, 
             "directions": "Preheat oven to 300 degree F (150 degrees C). Cut each full rack of ribs in half, so that you have 4 half racks. Sprinkle salt and pepper (more pepper than salt), and 1 tablespoon chile pepper over meat. Wrap each half rack in aluminum foil. Bake for 2 1/2 hours. Meanwhile, heat oil in a medium saucepan over medium heat. Cook and stir the onions in oil for 5 minutes. Stir in water, tomato paste, vinegar, brown sugar, honey, and Worcestershire sauce. Season with 2 teaspoons salt, 1/4 teaspoon black pepper, liquid smoke, whiskey, garlic powder, paprika, onion powder, dark molasses, and 1/2 tablespoon ground chile pepper. Bring mixture to a boil, then reduce heat. Simmer for 1 1/4 hours, uncovered, or until sauce thickens. Remove from heat, and set sauce aside. Preheat an outdoor grill for high heat. Remove the ribs from the oven, and let stand 10 minutes. Remove the racks from the foil, and place on the grill. Grill the ribs for 3 to 4 minutes on each side. Brush sauce on the ribs while they're grilling, just before you serve them (adding it too early will burn it).", 
-            "id": 1587617, 
+            "id": 1587618, 
             "cook_time": 160
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 391 kcal 20", 
-                "Fat: 11.4 g 18", 
-                "Carbs: 37.3g 12", 
-                "Protein: 32.8 g 66", 
-                "Cholesterol: 116 mg 39", 
-                "Sodium: 935 mg 37"
+                "Calories: 391 kcal 20 %", 
+                "Fat: 11.4 g 18 %", 
+                "Carbs: 37.3g 12 %", 
+                "Protein: 32.8 g 66 %", 
+                "Cholesterol: 116 mg 39 %", 
+                "Sodium: 935 mg 37 %"
             ], 
+            "rating": "4.55983257293701", 
             "name": "Garlic Chicken Fried Chicken", 
             "ingredients": [
                 "2 teaspoons garlic powder, or to taste ", 
@@ -542,22 +639,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/24041.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 35, 
+            "prep_time": 20, 
+            "cal": 391, 
             "directions": "In a shallow dish, mix together the garlic powder, pepper, salt, paprika, bread crumbs and flour. In a separate dish, whisk together the milk and egg. Heat the oil in an electric skillet set to 350 degrees F (175 degrees C). Dip the chicken into the egg and milk, then dredge in the dry ingredients until evenly coated. Fry chicken in the hot oil for about 5 minutes per side, or until the chicken is cooked through and juices run clear. Remove from the oil with a slotted spatula, and serve.", 
-            "id": 1587618, 
+            "id": 1587619, 
             "cook_time": 15
         }, 
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 510 kcal 25", 
-                "Fat: 27 g 42", 
-                "Carbs: 56.3g 18", 
-                "Protein: 12.6 g 25", 
-                "Cholesterol: 95 mg 32", 
-                "Sodium: 1136 mg 45"
+                "Calories: 510 kcal 25 %", 
+                "Fat: 27 g 42 %", 
+                "Carbs: 56.3g 18 %", 
+                "Protein: 12.6 g 25 %", 
+                "Cholesterol: 95 mg 32 %", 
+                "Sodium: 1136 mg 45 %"
             ], 
+            "rating": "4.62049055099487", 
             "name": "Best Fried Green Tomatoes", 
             "ingredients": [
                 "4 large green tomatoes ", 
@@ -574,22 +673,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/888769.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 20, 
+            "prep_time": 5, 
+            "cal": 510, 
             "directions": "Slice tomatoes 1/2 inch thick. Discard the ends. Whisk eggs and milk together in a medium-size bowl. Scoop flour onto a plate. Mix cornmeal, bread crumbs and salt and pepper on another plate. Dip tomatoes into flour to coat. Then dip the tomatoes into milk and egg mixture. Dredge in breadcrumbs to completely coat. In a large skillet, pour vegetable oil (enough so that there is 1/2 inch of oil in the pan) and heat over a medium heat. Place tomatoes into the frying pan in batches of 4 or 5, depending on the size of your skillet. Do not crowd the tomatoes, they should not touch each other. When the tomatoes are browned, flip and fry them on the other side. Drain them on paper towels.", 
-            "id": 1587619, 
+            "id": 1587620, 
             "cook_time": 15
         }, 
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 284 kcal 14", 
-                "Fat: 12.2 g 19", 
-                "Carbs: 39.1g 13", 
-                "Protein: 4.8 g 10", 
-                "Cholesterol: 59 mg 20", 
-                "Sodium: 318 mg 13"
+                "Calories: 284 kcal 14 %", 
+                "Fat: 12.2 g 19 %", 
+                "Carbs: 39.1g 13 %", 
+                "Protein: 4.8 g 10 %", 
+                "Cholesterol: 59 mg 20 %", 
+                "Sodium: 318 mg 13 %"
             ], 
+            "rating": "4.81049060821533", 
             "name": "Grandmother's Buttermilk Cornbread", 
             "ingredients": [
                 "1/2 cup butter ", 
@@ -605,52 +706,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2077366.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 55, 
-            "directions": "Preheat oven to 375 degrees F (175 degrees C). Grease an 8 inch square pan. Melt butter in large skillet. Remove from heat and stir in sugar. Quickly add eggs and beat until well blended. Combine buttermilk with baking soda and stir into mixture in pan. Stir in cornmeal, flour, and salt until well blended and few lumps remain. Pour batter into the prepared pan. Bake in the preheated oven for 30 to 40 minutes, or until a toothpick inserted in the center comes out clean.", 
-            "id": 1587620, 
-            "cook_time": 40
-        }, 
-        {
-            "total_time": 360, 
-            "nutrition": [
-                "Calories: 511 kcal 26", 
-                "Fat: 30.1 g 46", 
-                "Carbs: 19.4g 6", 
-                "Protein: 38.8 g 78", 
-                "Cholesterol: 111 mg 37", 
-                "Sodium: 2172 mg 87"
-            ], 
-            "name": "Tangy Honey Glazed Ham", 
-            "ingredients": [
-                "1 (10 pound) fully-cooked, bone-in ham ", 
-                " 1 1/4 cups packed dark brown sugar ", 
-                " 1/3 cup pineapple juice ", 
-                " 1/3 cup honey ", 
-                " 1/3 large orange, juiced and zested ", 
-                " 2 tablespoons Dijon mustard ", 
-                " 1/4 teaspoon ground cloves ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/549168.jpg", 
             "prep_time": 15, 
-            "ready_in_time": 180, 
-            "directions": "Preheat oven to 325 degrees F (165 degrees C). Place ham in a roasting pan. In a small saucepan, combine brown sugar, pineapple juice, honey, orange juice, orange zest, Dijon mustard, and ground cloves. Bring to a boil, reduce heat, and simmer for 5 to 10 minutes. Set aside. Bake ham in preheated oven uncovered for 2 hours. Remove ham from oven, and brush with glaze. Bake for an additional 30 to 45 minutes, brushing ham with glaze every 10 minutes.", 
+            "cal": 284, 
+            "directions": "Preheat oven to 375 degrees F (175 degrees C). Grease an 8 inch square pan. Melt butter in large skillet. Remove from heat and stir in sugar. Quickly add eggs and beat until well blended. Combine buttermilk with baking soda and stir into mixture in pan. Stir in cornmeal, flour, and salt until well blended and few lumps remain. Pour batter into the prepared pan. Bake in the preheated oven for 30 to 40 minutes, or until a toothpick inserted in the center comes out clean.", 
             "id": 1587621, 
-            "cook_time": 165
+            "cook_time": 40
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 488 kcal 24", 
-                "Fat: 13.8 g 21", 
-                "Carbs: 58.5g 19", 
-                "Protein: 29.1 g 58", 
-                "Cholesterol: 74 mg 25", 
-                "Sodium: 1082 mg 43"
+                "Calories: 488 kcal 24 %", 
+                "Fat: 13.8 g 21 %", 
+                "Carbs: 58.5g 19 %", 
+                "Protein: 29.1 g 58 %", 
+                "Cholesterol: 74 mg 25 %", 
+                "Sodium: 1082 mg 43 %"
             ], 
+            "rating": "4.48421049118042", 
             "name": "Easy Cajun Jambalaya", 
             "ingredients": [
                 "2 teaspoons olive oil ", 
@@ -673,8 +746,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/794731.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 488, 
             "directions": "Heat oil in a large pot over medium high heat. Saute chicken and kielbasa until lightly browned, about 5 minutes. Stir in onion, bell pepper, celery and garlic. Season with cayenne, onion powder, salt and pepper. Cook 5 minutes, or until onion is tender and translucent. Add rice, then stir in chicken stock and bay leaves. Bring to a boil, then reduce heat, cover, and simmer 20 minutes, or until rice is tender. Stir in the Worcestershire sauce and hot pepper sauce.", 
             "id": 1587622, 
             "cook_time": 30
@@ -682,13 +756,14 @@
         {
             "total_time": 44, 
             "nutrition": [
-                "Calories: 133 kcal 7", 
-                "Fat: 6.1 g 9", 
-                "Carbs: 16.6g 5", 
-                "Protein: 2.8 g 6", 
-                "Cholesterol: 4 mg 1", 
-                "Sodium: 312 mg 12"
+                "Calories: 133 kcal 7 %", 
+                "Fat: 6.1 g 9 %", 
+                "Carbs: 16.6g 5 %", 
+                "Protein: 2.8 g 6 %", 
+                "Cholesterol: 4 mg 1 %", 
+                "Sodium: 312 mg 12 %"
             ], 
+            "rating": "4.39641427993774", 
             "name": "Mayonnaise Biscuits", 
             "ingredients": [
                 "2 cups self-rising flour ", 
@@ -699,8 +774,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/38478.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 22, 
+            "prep_time": 10, 
+            "cal": 133, 
             "directions": "Preheat oven to 400 degrees F (200 degrees C). In a large bowl, stir together flour, milk, and mayonnaise until just blended. Drop by spoonfuls onto lightly greased baking sheets. Bake for 12 minutes in the preheated oven, or until golden brown.", 
             "id": 1587623, 
             "cook_time": 12
@@ -708,13 +784,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 299 kcal 15", 
-                "Fat: 11.9 g 18", 
-                "Carbs: 46.8g 15", 
-                "Protein: 3.2 g 6", 
-                "Cholesterol: 2 mg < 1", 
-                "Sodium: 383 mg 15"
+                "Calories: 299 kcal 15 %", 
+                "Fat: 11.9 g 18 %", 
+                "Carbs: 46.8g 15 %", 
+                "Protein: 3.2 g 6 %", 
+                "Cholesterol: 2 mg < 1 %", 
+                "Sodium: 383 mg 15 %"
             ], 
+            "rating": "4.47165536880493", 
             "name": "Peach Cobbler VI", 
             "ingredients": [
                 "1 cup all-purpose flour ", 
@@ -732,8 +809,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/717731.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 299, 
             "directions": "Preheat oven to 400 degrees F (200 degrees C). Grease a 9x9-inch baking dish. In a large bowl, combine flour, brown sugar, white sugar, baking powder, salt, and vanilla. Pour milk into dry ingredients, and then stir in melted margarine. Mix thoroughly. Pour mixture into prepared baking pan. Arrange peaches on top and sprinkle with cinnamon. Bake in preheated oven until golden brown, about 30 minutes.", 
             "id": 1587624, 
             "cook_time": 30
@@ -741,13 +819,14 @@
         {
             "total_time": 500, 
             "nutrition": [
-                "Calories: 192 kcal 10", 
-                "Fat: 15 g 23", 
-                "Carbs: 13.7g 4", 
-                "Protein: 3.4 g 7", 
-                "Cholesterol: 42 mg 14", 
-                "Sodium: 114 mg 5"
+                "Calories: 192 kcal 10 %", 
+                "Fat: 15 g 23 %", 
+                "Carbs: 13.7g 4 %", 
+                "Protein: 3.4 g 7 %", 
+                "Cholesterol: 42 mg 14 %", 
+                "Sodium: 114 mg 5 %"
             ], 
+            "rating": "4.5", 
             "name": "Slow Cooker Creamed Corn", 
             "ingredients": [
                 "1 1/4 (16 ounce) packages frozen corn kernels ", 
@@ -761,8 +840,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1056430.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 250, 
+            "prep_time": 10, 
+            "cal": 192, 
             "directions": "In a slow cooker, combine corn, cream cheese, butter, milk, and sugar. Season with salt and pepper to taste. Cook on High for 2 to 4 hours, or on Low for 4 to 6 hours.", 
             "id": 1587625, 
             "cook_time": 240
@@ -770,13 +850,14 @@
         {
             "total_time": 780, 
             "nutrition": [
-                "Calories: 178 kcal 9", 
-                "Fat: 10.1 g 16", 
-                "Carbs: 2.9g < 1", 
-                "Protein: 17.9 g 36", 
-                "Cholesterol: 58 mg 19", 
-                "Sodium: 282 mg 11"
+                "Calories: 178 kcal 9 %", 
+                "Fat: 10.1 g 16 %", 
+                "Carbs: 2.9g < 1 %", 
+                "Protein: 17.9 g 36 %", 
+                "Cholesterol: 58 mg 19 %", 
+                "Sodium: 282 mg 11 %"
             ], 
+            "rating": "4.61176490783691", 
             "name": "Southern Pulled Pork", 
             "ingredients": [
                 "1 tablespoon butter ", 
@@ -791,8 +872,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/116420.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 390, 
+            "prep_time": 30, 
+            "cal": 178, 
             "directions": "Cut the pork roast into large chunks. Season generously with the Cajun seasoning. Melt butter in a large skillet over medium-high heat. Add pork, and brown on all sides. Remove from the skillet, and transfer to a slow cooker. Add the onion and garlic to the skillet, and cook for a few minutes until tender. Stir in the water scraping the bottom to include all of the browned pork bits from the bottom of the pan, then pour the whole mixture into the slow cooker with the pork. Stir in liquid smoke flavoring. Cover, and cook on High for 6 hours, or until meat is falling apart when pierced with a fork. Remove pieces of pork from the slow cooker, and shred. Return to the slow cooker to keep warm while serving.", 
             "id": 1587627, 
             "cook_time": 360
@@ -800,13 +882,14 @@
         {
             "total_time": 150, 
             "nutrition": [
-                "Calories: 620 kcal 31", 
-                "Fat: 43.8 g 67", 
-                "Carbs: 16.4g 5", 
-                "Protein: 38.8 g 78", 
-                "Cholesterol: 270 mg 90", 
-                "Sodium: 1755 mg 70"
+                "Calories: 620 kcal 31 %", 
+                "Fat: 43.8 g 67 %", 
+                "Carbs: 16.4g 5 %", 
+                "Protein: 38.8 g 78 %", 
+                "Cholesterol: 270 mg 90 %", 
+                "Sodium: 1755 mg 70 %"
             ], 
+            "rating": "4.86283206939697", 
             "name": "Old Charleston Style Shrimp and Grits", 
             "ingredients": [
                 "1 cup coarsely ground grits ", 
@@ -834,8 +917,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1046567.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 75, 
+            "prep_time": 30, 
+            "cal": 620, 
             "directions": "Bring water, grits, and salt to a boil in a heavy saucepan with a lid. Stir in half-and-half and simmer until grits are thickened and tender, 15 to 20 minutes. Set aside and keep warm. Sprinkle shrimp with salt and cayenne pepper; drizzle with lemon juice. Set aside in a bowl. Place andouille sausage slices in a large skillet over medium heat; fry sausage until browned, 5 to 8 minutes. Remove skillet from heat. Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Retain bacon drippings in skillet. Transfer bacon slices to paper towels, let cool, and crumble. Cook and stir green, red, and yellow bell peppers, onion, and garlic in the bacon drippings until the onion is translucent, about 8 minutes. Stir shrimp and cooked vegetables into the andouille sausage and mix to combine. Melt butter in a saucepan over medium heat; stir in flour to make a smooth paste. Turn heat to low and cook, stirring constantly, until the mixture is medium brown in color, 8 to 10 minutes. Watch carefully, mixture burns easily. Pour the butter-flour mixture into the skillet with andouille sausage, shrimp, and vegetables. Place the skillet over medium heat and pour in chicken broth, bacon and Worcestershire sauce, cooking and stirring until the sauce thickens and the shrimp become opaque and bright pink, about 8 minutes. Just before serving, mix sharp Cheddar cheese into grits until melted and grits are creamy and light yellow. Serve shrimp mixture over cheese grits.", 
             "id": 1587628, 
             "cook_time": 45
@@ -843,13 +927,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 65 kcal 3", 
-                "Fat: 4.6 g 7", 
-                "Carbs: 5.9g 2", 
-                "Protein: 1.6 g 3", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 1286 mg 51"
+                "Calories: 65 kcal 3 %", 
+                "Fat: 4.6 g 7 %", 
+                "Carbs: 5.9g 2 %", 
+                "Protein: 1.6 g 3 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 1286 mg 51 %"
             ], 
+            "rating": "4.72831058502197", 
             "name": "Roasted Okra", 
             "ingredients": [
                 "18 fresh okra pods, sliced 1/3 inch thick ", 
@@ -861,8 +946,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/687536.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 20, 
+            "prep_time": 5, 
+            "cal": 65, 
             "directions": "Preheat an oven to 425 degrees F (220 degrees C). Arrange the okra slices in one layer on a foil lined cookie sheet. Drizzle with olive oil and sprinkle with salt and pepper. Bake in the preheated oven for 10 to 15 minutes.", 
             "id": 1587629, 
             "cook_time": 15
@@ -870,13 +956,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 368 kcal 18", 
-                "Fat: 29.8 g 46", 
-                "Carbs: 8.5g 3", 
-                "Protein: 17.4 g 35", 
-                "Cholesterol: 72 mg 24", 
-                "Sodium: 2478 mg 99"
+                "Calories: 368 kcal 18 %", 
+                "Fat: 29.8 g 46 %", 
+                "Carbs: 8.5g 3 %", 
+                "Protein: 17.4 g 35 %", 
+                "Cholesterol: 72 mg 24 %", 
+                "Sodium: 2478 mg 99 %"
             ], 
+            "rating": "4.37393140792847", 
             "name": "Barlow's Blackened Catfish", 
             "ingredients": [
                 "2 teaspoons cayenne pepper ", 
@@ -892,8 +979,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/425659.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 50, 
+            "prep_time": 10, 
+            "cal": 368, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a medium baking dish. In a shallow, medium bowl, mix cayenne pepper, lemon pepper, garlic powder, salt and pepper. Brush both sides of catfish fillets with butter. Rub fillets with the cayenne pepper mixture on both sides. Heat a large heavy skillet over medium-high heat until really hot. Add fillets, and fry approximately 2 minutes on each side, until slightly blackened. Arrange blackened fillets in a single layer in the prepared baking dish, and coat with Italian-style salad dressing. Bake 30 to 35 minutes in the preheated oven, until fish is easily flaked with a fork.", 
             "id": 1587630, 
             "cook_time": 40

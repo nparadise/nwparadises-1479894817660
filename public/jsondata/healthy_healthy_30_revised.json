@@ -3,13 +3,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 196 kcal 10", 
-                "Fat: 6 g 9", 
-                "Carbs: 28.9g 9", 
-                "Protein: 6.7 g 13", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 455 mg 18"
+                "Calories: 196 kcal 10 %", 
+                "Fat: 6 g 9 %", 
+                "Carbs: 28.9g 9 %", 
+                "Protein: 6.7 g 13 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 455 mg 18 %"
             ], 
+            "rating": "4.296875", 
             "name": "Quinoa with Asian Flavors", 
             "ingredients": [
                 "1 tablespoon extra-virgin olive oil ", 
@@ -24,8 +25,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/470894.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 40, 
+            "prep_time": 5, 
+            "cal": 196, 
             "directions": "Heat olive oil in a saucepan over medium heat. Stir in quinoa and allow to toast for 2 to 3 minutes, then add chicken broth, soy sauce, ginger and garlic. Increase heat and bring to a boil. Cover and reduce heat to low. Simmer until all liquid has been absorbed, 25 to 30 minutes. Fluff quinoa with fork and top with green onions before serving.", 
             "id": 8401, 
             "cook_time": 35
@@ -33,13 +35,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 232 kcal 12", 
-                "Fat: 3.7 g 6", 
-                "Carbs: 24.8g 8", 
-                "Protein: 25.6 g 51", 
-                "Cholesterol: 67 mg 22", 
-                "Sodium: 296 mg 12"
+                "Calories: 232 kcal 12 %", 
+                "Fat: 3.7 g 6 %", 
+                "Carbs: 24.8g 8 %", 
+                "Protein: 25.6 g 51 %", 
+                "Cholesterol: 67 mg 22 %", 
+                "Sodium: 296 mg 12 %"
             ], 
+            "rating": "4.21302700042725", 
             "name": "Baked Honey Mustard Chicken", 
             "ingredients": [
                 "6 skinless, boneless chicken breast halves ", 
@@ -54,8 +57,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3264007.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 232, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Sprinkle chicken breasts with salt and pepper to taste, and place in a lightly greased 9x13 inch baking dish. In a small bowl, combine the honey, mustard, basil, paprika, and parsley. Mix well. Pour 1/2 of this mixture over the chicken, and brush to cover. Bake in the preheated oven for 30 minutes. Turn chicken pieces over and brush with the remaining 1/2 of the honey mustard mixture. Bake for an additional 10 to 15 minutes, or until chicken is no longer pink and juices run clear. Let cool 10 minutes before serving.", 
             "id": 8403, 
             "cook_time": 45
@@ -63,13 +67,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 196 kcal 10", 
-                "Fat: 7 g 11", 
-                "Carbs: 7.6g 2", 
-                "Protein: 23.8 g 48", 
-                "Cholesterol: 61 mg 20", 
-                "Sodium: 511 mg 20"
+                "Calories: 196 kcal 10 %", 
+                "Fat: 7 g 11 %", 
+                "Carbs: 7.6g 2 %", 
+                "Protein: 23.8 g 48 %", 
+                "Cholesterol: 61 mg 20 %", 
+                "Sodium: 511 mg 20 %"
             ], 
+            "rating": "4.36739206314087", 
             "name": "Braised Balsamic Chicken", 
             "ingredients": [
                 "6 skinless, boneless chicken breast halves ", 
@@ -88,8 +93,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/532125.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 196, 
             "directions": "Season both sides of chicken breasts with garlic salt and pepper. Heat olive oil in a skillet over medium heat; cook seasoned chicken breasts until chicken is browned, 3 to 4 minutes per side. Add onion; cook and stir until onion is browned, 3 to 4 minutes. Pour diced tomatoes and balsamic vinegar over chicken; season with basil, oregano, rosemary and thyme. Simmer until chicken is no longer pink and the juices run clear, about 15 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C).", 
             "id": 8404, 
             "cook_time": 25
@@ -97,13 +103,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 409 kcal 20", 
-                "Fat: 18.8 g 29", 
-                "Carbs: 43g 14", 
-                "Protein: 17.3 g 35", 
-                "Cholesterol: 54 mg 18", 
-                "Sodium: 407 mg 16"
+                "Calories: 409 kcal 20 %", 
+                "Fat: 18.8 g 29 %", 
+                "Carbs: 43g 14 %", 
+                "Protein: 17.3 g 35 %", 
+                "Cholesterol: 54 mg 18 %", 
+                "Sodium: 407 mg 16 %"
             ], 
+            "rating": "4.70325899124146", 
             "name": "Fish Tacos", 
             "ingredients": [
                 "1 cup all-purpose flour ", 
@@ -130,8 +137,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/317051.jpg", 
-            "prep_time": 40, 
             "ready_in_time": 60, 
+            "prep_time": 40, 
+            "cal": 409, 
             "directions": "To make beer batter: In a large bowl, combine flour, cornstarch, baking powder, and salt. Blend egg and beer, then quickly stir into the flour mixture (don't worry about a few lumps). To make white sauce: In a medium bowl, mix together yogurt and mayonnaise. Gradually stir in fresh lime juice until consistency is slightly runny. Season with jalapeno, capers, oregano, cumin, dill, and cayenne. Heat oil in deep-fryer to 375 degrees F (190 degrees C). Dust fish pieces lightly with flour. Dip into beer batter, and fry until crisp and golden brown. Drain on paper towels. Lightly fry tortillas; not too crisp. To serve, place fried fish in a tortilla, and top with shredded cabbage, and white sauce.", 
             "id": 8405, 
             "cook_time": 20
@@ -139,13 +147,14 @@
         {
             "total_time": 620, 
             "nutrition": [
-                "Calories: 315 kcal 16", 
-                "Fat: 4.3 g 7", 
-                "Carbs: 64.6g 21", 
-                "Protein: 6.8 g 14", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 231 mg 9"
+                "Calories: 315 kcal 16 %", 
+                "Fat: 4.3 g 7 %", 
+                "Carbs: 64.6g 21 %", 
+                "Protein: 6.8 g 14 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 231 mg 9 %"
             ], 
+            "rating": "4.21052646636963", 
             "name": "Blueberry and Banana Steel Cut Oats", 
             "ingredients": [
                 "2 cups water ", 
@@ -162,8 +171,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2012689.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 310, 
+            "prep_time": 10, 
+            "cal": 315, 
             "directions": "Stir water, almond milk, blueberries, bananas, oats, honey, vanilla extract, cinnamon, and salt together in the crock of a slow cooker. Cook on Low for 5 to 8 hours.", 
             "id": 8406, 
             "cook_time": 300
@@ -171,13 +181,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 345 kcal 17", 
-                "Fat: 14.9 g 23", 
-                "Carbs: 17.4g 6", 
-                "Protein: 34.7 g 69", 
-                "Cholesterol: 93 mg 31", 
-                "Sodium: 353 mg 14"
+                "Calories: 345 kcal 17 %", 
+                "Fat: 14.9 g 23 %", 
+                "Carbs: 17.4g 6 %", 
+                "Protein: 34.7 g 69 %", 
+                "Cholesterol: 93 mg 31 %", 
+                "Sodium: 353 mg 14 %"
             ], 
+            "rating": "4.17647075653076", 
             "name": "Orange Roasted Salmon", 
             "ingredients": [
                 "2 oranges, sliced into rounds ", 
@@ -195,8 +206,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/65359.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 55, 
+            "prep_time": 15, 
+            "cal": 345, 
             "directions": "Preheat the oven to 400 degrees F (200 degrees C). In a small bowl or cup, stir together the lemon pepper, garlic powder, and dried parsley. Place the slices from one of the oranges in a single layer in the bottom of a 9x13 inch baking dish. Place a layer of onion slices over the orange. Drizzle with a little bit of olive oil, and sprinkle with half of the herb mixture. Place the dish in the preheated oven, and roast for about 25 minutes, or until the onions are browned and tender. Remove the dish from the oven, and increase the temperature to 450 degrees F (220 degrees C). Push the onion and orange slices to the outer edge of the baking dish, and place the salmon fillets in the center. Season with the remaining half of the herb mixture. Whisk together the orange juice, lemon juice and honey in a small bowl. Pour evenly over the salmon. Bake for 12 to 15 minutes in the preheated oven, or until the salmon is opaque in the center. Remove fillets to a serving dish, and discard the roasted orange. Garnish fillets with roasted onions and fresh orange slices.", 
             "id": 8407, 
             "cook_time": 40
@@ -204,13 +216,14 @@
         {
             "total_time": 180, 
             "nutrition": [
-                "Calories: 400 kcal 20", 
-                "Fat: 8.6 g 13", 
-                "Carbs: 8.2g 3", 
-                "Protein: 47.8 g 96", 
-                "Cholesterol: 148 mg 49", 
-                "Sodium: 676 mg 27"
+                "Calories: 400 kcal 20 %", 
+                "Fat: 8.6 g 13 %", 
+                "Carbs: 8.2g 3 %", 
+                "Protein: 47.8 g 96 %", 
+                "Cholesterol: 148 mg 49 %", 
+                "Sodium: 676 mg 27 %"
             ], 
+            "rating": "4.33292388916016", 
             "name": "Burgundy Pork Tenderloin", 
             "ingredients": [
                 "2 pounds pork tenderloin ", 
@@ -226,8 +239,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/220538.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 90, 
+            "prep_time": 30, 
+            "cal": 400, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Place pork in a 9x13 inch baking dish, and sprinkle meat with salt, pepper and garlic powder. Top with onion and celery, and pour wine over all. Bake in the preheated oven for 45 minutes. When done baking, remove meat from baking dish, and place on a serving platter. Pour gravy mix into baking dish with wine and cooking juices, and stir until thickened. Slice meat, and cover with the gravy.", 
             "id": 8410, 
             "cook_time": 60
@@ -235,13 +249,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 214 kcal 11", 
-                "Fat: 4.9 g 8", 
-                "Carbs: 27.2g 9", 
-                "Protein: 17.2 g 34", 
-                "Cholesterol: 32 mg 11", 
-                "Sodium: 1482 mg 59"
+                "Calories: 214 kcal 11 %", 
+                "Fat: 4.9 g 8 %", 
+                "Carbs: 27.2g 9 %", 
+                "Protein: 17.2 g 34 %", 
+                "Cholesterol: 32 mg 11 %", 
+                "Sodium: 1482 mg 59 %"
             ], 
+            "rating": "4.5342812538147", 
             "name": "Six Can Chicken Tortilla Soup", 
             "ingredients": [
                 "1 (15 ounce) can whole kernel corn, drained ", 
@@ -254,54 +269,57 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/931547.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 20, 
+            "prep_time": 5, 
+            "cal": 214, 
             "directions": "Open the cans of corn, chicken broth, chunk chicken, black beans, and diced tomatoes with green chilies. Pour everything into a large saucepan or stock pot. Simmer over medium heat until chicken is heated through.", 
             "id": 8411, 
             "cook_time": 15
         }, 
         {
-            "total_time": 120, 
+            "total_time": 70, 
             "nutrition": [
-                "Calories: 382 kcal 19", 
-                "Fat: 9.1 g 14", 
-                "Carbs: 47.6g 15", 
-                "Protein: 24 g 48", 
-                "Cholesterol: 51 mg 17", 
-                "Sodium: 526 mg 21"
+                "Calories: 311 kcal 16 %", 
+                "Fat: 6.8 g 10 %", 
+                "Carbs: 43.2g 14 %", 
+                "Protein: 20.3 g 41 %", 
+                "Cholesterol: 29 mg 10 %", 
+                "Sodium: 113 mg 5 %"
             ], 
-            "name": "Chicken and Sausage with Bowties", 
+            "rating": "4.12587404251099", 
+            "name": "Asparagus, Chicken and Penne Pasta", 
             "ingredients": [
-                "1 (16 ounce) package uncooked farfalle pasta ", 
-                " 2 skinless, boneless chicken breasts ", 
-                " 1 pound hot Italian turkey sausage, casings removed ", 
-                " 1 tablespoon olive oil ", 
-                " 2 cloves garlic, sliced ", 
-                " 1 (14.5 ounce) can crushed tomatoes ", 
-                " 1/2 cup red wine ", 
-                " 2 tablespoons chopped fresh basil ", 
-                " 1 teaspoon dried rosemary ", 
+                "1 (16 ounce) package dry penne pasta ", 
+                " 2 tablespoons olive oil, divided ", 
+                " 3/4 pound skinless, boneless chicken breast meat - cut into bite-size pieces ", 
+                " 4 cloves garlic, minced ", 
+                " 12 ounces asparagus, trimmed and cut into 1 inch pieces ", 
+                " 1 teaspoon crushed red pepper flakes ", 
+                " salt and pepper to taste ", 
+                " 1/2 cup grated Parmesan cheese ", 
                 " Add all ingredients to list ", 
                 " Add all ingredients to list May we suggest ", 
                 ""
             ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/1084963.jpg", 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/1110758.jpg", 
+            "ready_in_time": 35, 
             "prep_time": 15, 
-            "ready_in_time": 60, 
-            "directions": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Wash chicken breasts and cut into large bite-size pieces. Cut sausages into large pieces. In a large, deep skillet over medium low heat, combine oil and garlic; and cook just enough to flavor the oil. Remove garlic from oil. Add chicken and sausage to skillet and brown both lightly until they are opaque. Add the tomatoes and the wine. Bring to a boil and let simmer for 20 minutes. Season sauce mixture with basil, rosemary and salt and pepper to taste. Add cooked, drained pasta to the skillet mixture. Toss and serve.", 
+            "cal": 311, 
+            "directions": "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water for 8 to 10 minutes, or until al dente. Drain, and transfer to a large bowl. Heat 1 tablespoon olive oil in a large skillet over medium heat. Saute chicken until firm and lightly browned; remove from pan. Add the remaining tablespoon of olive oil to the skillet. Cook and stir garlic, asparagus, and red pepper flakes in oil until asparagus is tender. Stir in chicken, and cook for 2 minutes to blend the flavors. Season with salt and pepper. Toss pasta with chicken and asparagus mixture. Sprinkle with Parmesan cheese.", 
             "id": 8412, 
-            "cook_time": 45
+            "cook_time": 20
         }, 
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 58 kcal 3", 
-                "Fat: 2.8 g 4", 
-                "Carbs: 7.6g 2", 
-                "Protein: 2.5 g 5", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 185 mg 7"
+                "Calories: 58 kcal 3 %", 
+                "Fat: 2.8 g 4 %", 
+                "Carbs: 7.6g 2 %", 
+                "Protein: 2.5 g 5 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 185 mg 7 %"
             ], 
+            "rating": "4.45976495742798", 
             "name": "Baked Kale Chips", 
             "ingredients": [
                 "1 bunch kale ", 
@@ -312,8 +330,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/490832.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 58, 
             "directions": "Preheat an oven to 350 degrees F (175 degrees C). Line a non insulated cookie sheet with parchment paper. With a knife or kitchen shears carefully remove the leaves from the thick stems and tear into bite size pieces. Wash and thoroughly dry kale with a salad spinner. Drizzle kale with olive oil and sprinkle with seasoning salt. Bake until the edges brown but are not burnt, 10 to 15 minutes.", 
             "id": 8413, 
             "cook_time": 10
@@ -321,13 +340,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 312 kcal 16", 
-                "Fat: 5.9 g 9", 
-                "Carbs: 59g 19", 
-                "Protein: 6.8 g 14", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 462 mg 18"
+                "Calories: 312 kcal 16 %", 
+                "Fat: 5.9 g 9 %", 
+                "Carbs: 59g 19 %", 
+                "Protein: 6.8 g 14 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 462 mg 18 %"
             ], 
+            "rating": "4.77724361419678", 
             "name": "Annie's Fruit Salsa and Cinnamon Chips", 
             "ingredients": [
                 "2 kiwis, peeled and diced ", 
@@ -345,8 +365,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/829527.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 312, 
             "directions": "In a large bowl, thoroughly mix kiwis, Golden Delicious apples, raspberries, strawberries, white sugar, brown sugar and fruit preserves. Cover and chill in the refrigerator at least 15 minutes. Preheat oven to 350 degrees F (175 degrees C). Coat one side of each flour tortilla with butter flavored cooking spray. Cut into wedges and arrange in a single layer on a large baking sheet. Sprinkle wedges with desired amount of cinnamon sugar. Spray again with cooking spray. Bake in the preheated oven 8 to 10 minutes. Repeat with any remaining tortilla wedges. Allow to cool approximately 15 minutes. Serve with chilled fruit mixture.", 
             "id": 8414, 
             "cook_time": 10
@@ -354,13 +375,14 @@
         {
             "total_time": 575, 
             "nutrition": [
-                "Calories: 337 kcal 17", 
-                "Fat: 16.4 g 25", 
-                "Carbs: 22.4g 7", 
-                "Protein: 24.8 g 50", 
-                "Cholesterol: 67 mg 22", 
-                "Sodium: 736 mg 29"
+                "Calories: 337 kcal 17 %", 
+                "Fat: 16.4 g 25 %", 
+                "Carbs: 22.4g 7 %", 
+                "Protein: 24.8 g 50 %", 
+                "Cholesterol: 67 mg 22 %", 
+                "Sodium: 736 mg 29 %"
             ], 
+            "rating": "4.4839015007019", 
             "name": "Unbelievable Chicken", 
             "ingredients": [
                 "1/4 cup cider vinegar ", 
@@ -378,8 +400,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/259036.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 540, 
+            "prep_time": 15, 
+            "cal": 337, 
             "directions": "In a large glass bowl, mix the cider vinegar, mustard, garlic, lime juice, lemon juice, brown sugar, salt, and pepper. Whisk in the olive oil. Place chicken in the mixture. Cover, and marinate 8 hours, or overnight. Preheat an outdoor grill for high heat. Lightly oil the grill grate. Place chicken on the prepared grill, and cook 6 to 8 minutes per side, until juices run clear. Discard marinade.", 
             "id": 8415, 
             "cook_time": 20
@@ -387,13 +410,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 240 kcal 12", 
-                "Fat: 5 g 8", 
-                "Carbs: 34.5g 11", 
-                "Protein: 13.3 g 27", 
-                "Cholesterol: 6 mg 2", 
-                "Sodium: 1216 mg 49"
+                "Calories: 240 kcal 12 %", 
+                "Fat: 5 g 8 %", 
+                "Carbs: 34.5g 11 %", 
+                "Protein: 13.3 g 27 %", 
+                "Cholesterol: 6 mg 2 %", 
+                "Sodium: 1216 mg 49 %"
             ], 
+            "rating": "4.64212226867676", 
             "name": "Black Bean and Salsa Soup", 
             "ingredients": [
                 "2 (15 ounce) cans black beans, drained and rinsed ", 
@@ -407,8 +431,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/403768.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 240, 
             "directions": "In an electric food processor or blender, combine beans, broth, salsa, and cumin. Blend until fairly smooth. Heat the bean mixture in a saucepan over medium heat until thoroughly heated. Ladle soup into 4 individual bowls, and top each bowl with 1 tablespoon of the sour cream and 1/2 tablespoon green onion.", 
             "id": 8417, 
             "cook_time": 10
@@ -416,13 +441,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 161 kcal 8", 
-                "Fat: 5.5 g 8", 
-                "Carbs: 26.6g 9", 
-                "Protein: 2.4 g 5", 
-                "Cholesterol: 8 mg 3", 
-                "Sodium: 79 mg 3"
+                "Calories: 161 kcal 8 %", 
+                "Fat: 5.5 g 8 %", 
+                "Carbs: 26.6g 9 %", 
+                "Protein: 2.4 g 5 %", 
+                "Cholesterol: 8 mg 3 %", 
+                "Sodium: 79 mg 3 %"
             ], 
+            "rating": "4.52963972091675", 
             "name": "Playgroup Granola Bars", 
             "ingredients": [
                 "2 cups rolled oats ", 
@@ -441,8 +467,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/125805.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 161, 
             "directions": "Preheat the oven to 350 degrees F (175 degrees C). Generously grease a 9x13 inch baking pan. In a large bowl, mix together the oats, brown sugar, wheat germ, cinnamon, flour, raisins and salt. Make a well in the center, and pour in the honey, egg, oil and vanilla. Mix well using your hands. Pat the mixture evenly into the prepared pan. Bake for 30 to 35 minutes in the preheated oven, until the bars begin to turn golden at the edges. Cool for 5 minutes, then cut into bars while still warm. Do not allow the bars to cool completely before cutting, or they will be too hard to cut.", 
             "id": 8418, 
             "cook_time": 35
@@ -450,13 +477,14 @@
         {
             "total_time": 510, 
             "nutrition": [
-                "Calories: 180 kcal 9", 
-                "Fat: 3.7 g 6", 
-                "Carbs: 5.8g 2", 
-                "Protein: 24.5 g 49", 
-                "Cholesterol: 65 mg 22", 
-                "Sodium: 918 mg 37"
+                "Calories: 180 kcal 9 %", 
+                "Fat: 3.7 g 6 %", 
+                "Carbs: 5.8g 2 %", 
+                "Protein: 24.5 g 49 %", 
+                "Cholesterol: 65 mg 22 %", 
+                "Sodium: 918 mg 37 %"
             ], 
+            "rating": "4.13614845275879", 
             "name": "Amazing Pork Tenderloin in the Slow Cooker", 
             "ingredients": [
                 "1 (2 pound) pork tenderloin ", 
@@ -471,8 +499,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2209649.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 255, 
+            "prep_time": 15, 
+            "cal": 180, 
             "directions": "Place pork tenderloin in a slow cooker with the contents of the soup packet. Pour water, wine, and soy sauce over the top, turning the pork to coat. Carefully spread garlic over the pork, leaving as much on top of the roast during cooking as possible. Sprinkle with pepper, cover, and cook on low setting for 4 hours. Serve with cooking liquid on the side as au jus.", 
             "id": 8419, 
             "cook_time": 240
@@ -480,13 +509,14 @@
         {
             "total_time": 50, 
             "nutrition": [
-                "Calories: 212 kcal 11", 
-                "Fat: 8.6 g 13", 
-                "Carbs: 7.9g 3", 
-                "Protein: 28.8 g 58", 
-                "Cholesterol: 68 mg 23", 
-                "Sodium: 94 mg 4"
+                "Calories: 212 kcal 11 %", 
+                "Fat: 8.6 g 13 %", 
+                "Carbs: 7.9g 3 %", 
+                "Protein: 28.8 g 58 %", 
+                "Cholesterol: 68 mg 23 %", 
+                "Sodium: 94 mg 4 %"
             ], 
+            "rating": "4.33206129074097", 
             "name": "Simple Lemon Herb Chicken", 
             "ingredients": [
                 "2 skinless, boneless chicken breast halves ", 
@@ -500,8 +530,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/530026.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 25, 
+            "prep_time": 10, 
+            "cal": 212, 
             "directions": "Cut lemon in half, and squeeze juice from 1/2 lemon on chicken. Season with salt to taste. Let sit while you heat oil in a small skillet over medium low heat. When oil is hot, put chicken in skillet. As you saute chicken, add juice from other 1/2 lemon, pepper to taste, and oregano. Saute for 5 to 10 minutes each side, or until juices run clear. Serve with parsley for garnish.", 
             "id": 8420, 
             "cook_time": 15
@@ -509,13 +540,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 198 kcal 10", 
-                "Fat: 3 g 5", 
-                "Carbs: 33.1g 11", 
-                "Protein: 11.2 g 22", 
-                "Cholesterol: 46 mg 16", 
-                "Sodium: 607 mg 24"
+                "Calories: 198 kcal 10 %", 
+                "Fat: 3 g 5 %", 
+                "Carbs: 33.1g 11 %", 
+                "Protein: 11.2 g 22 %", 
+                "Cholesterol: 46 mg 16 %", 
+                "Sodium: 607 mg 24 %"
             ], 
+            "rating": "4.36050271987915", 
             "name": "Homemade Black Bean Veggie Burgers", 
             "ingredients": [
                 "1 (16 ounce) can black beans, drained and rinsed ", 
@@ -532,8 +564,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/820428.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 35, 
+            "prep_time": 15, 
+            "cal": 198, 
             "directions": "If grilling, preheat an outdoor grill for high heat, and lightly oil a sheet of aluminum foil. If baking, preheat oven to 375 degrees F (190 degrees C), and lightly oil a baking sheet. In a medium bowl, mash black beans with a fork until thick and pasty. In a food processor, finely chop bell pepper, onion, and garlic. Then stir into mashed beans. In a small bowl, stir together egg, chili powder, cumin, and chili sauce. Stir the egg mixture into the mashed beans. Mix in bread crumbs until the mixture is sticky and holds together. Divide mixture into four patties. If grilling, place patties on foil, and grill about 8 minutes on each side. If baking, place patties on baking sheet, and bake about 10 minutes on each side.", 
             "id": 8421, 
             "cook_time": 20
@@ -541,13 +574,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 121 kcal 6", 
-                "Fat: 0.2 g < 1", 
-                "Carbs: 31.8g 10", 
-                "Protein: 0.4 g < 1", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 3 mg < 1"
+                "Calories: 121 kcal 6 %", 
+                "Fat: 0.2 g < 1 %", 
+                "Carbs: 31.8g 10 %", 
+                "Protein: 0.4 g < 1 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 3 mg < 1 %"
             ], 
+            "rating": "4.79306316375732", 
             "name": "Sarah's Applesauce", 
             "ingredients": [
                 "4 apples - peeled, cored and chopped ", 
@@ -559,8 +593,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/25840.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 121, 
             "directions": "In a saucepan, combine apples, water, sugar, and cinnamon. Cover, and cook over medium heat for 15 to 20 minutes, or until apples are soft. Allow to cool, then mash with a fork or potato masher.", 
             "id": 8423, 
             "cook_time": 20
@@ -568,13 +603,14 @@
         {
             "total_time": 230, 
             "nutrition": [
-                "Calories: 143 kcal 7", 
-                "Fat: 2.2 g 3", 
-                "Carbs: 27.6g 9", 
-                "Protein: 4.1 g 8", 
-                "Cholesterol: 4 mg 1", 
-                "Sodium: 207 mg 8"
+                "Calories: 143 kcal 7 %", 
+                "Fat: 2.2 g 3 %", 
+                "Carbs: 27.6g 9 %", 
+                "Protein: 4.1 g 8 %", 
+                "Cholesterol: 4 mg 1 %", 
+                "Sodium: 207 mg 8 %"
             ], 
+            "rating": "4.83506155014038", 
             "name": "Simple Whole Wheat Bread", 
             "ingredients": [
                 "3 cups warm water (110 degrees F/45 degrees C) ", 
@@ -591,8 +627,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1012491.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 180, 
+            "prep_time": 20, 
+            "cal": 143, 
             "directions": "In a large bowl, mix warm water, yeast, and 1/3 cup honey. Add 5 cups white bread flour, and stir to combine. Let set for 30 minutes, or until big and bubbly. Mix in 3 tablespoons melted butter, 1/3 cup honey, and salt. Stir in 2 cups whole wheat flour. Flour a flat surface and knead with whole wheat flour until not real sticky - just pulling away from the counter, but still sticky to touch. This may take an additional 2 to 4 cups of whole wheat flour. Place in a greased bowl, turning once to coat the surface of the dough. Cover with a dishtowel. Let rise in a warm place until doubled. Punch down, and divide into 3 loaves. Place in greased 9 x 5 inch loaf pans, and allow to rise until dough has topped the pans by one inch. Bake at 350 degrees F (175 degrees C) for 25 to 30 minutes; do not overbake. Lightly brush the tops of loaves with 2 tablespoons melted butter or margarine when done to prevent crust from getting hard. Cool completely", 
             "id": 8424, 
             "cook_time": 30
@@ -600,13 +637,14 @@
         {
             "total_time": 990, 
             "nutrition": [
-                "Calories: 139 kcal 7", 
-                "Fat: 0.5 g < 1", 
-                "Carbs: 25.4g 8", 
-                "Protein: 8.5 g 17", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 785 mg 31"
+                "Calories: 139 kcal 7 %", 
+                "Fat: 0.5 g < 1 %", 
+                "Carbs: 25.4g 8 %", 
+                "Protein: 8.5 g 17 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 785 mg 31 %"
             ], 
+            "rating": "4.67404794692993", 
             "name": "Refried Beans Without the Refry", 
             "ingredients": [
                 "1 onion, peeled and halved ", 
@@ -622,8 +660,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/373926.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 495, 
+            "prep_time": 15, 
+            "cal": 139, 
             "directions": "Place the onion, rinsed beans, jalapeno, garlic, salt, pepper, and cumin into a slow cooker. Pour in the water and stir to combine. Cook on High for 8 hours, adding more water as needed. Note: if more than 1 cup of water has evaporated during cooking, then the temperature is too high. Once the beans have cooked, strain them, and reserve the liquid. Mash the beans with a potato masher, adding the reserved water as needed to attain desired consistency.", 
             "id": 8425, 
             "cook_time": 480
@@ -631,13 +670,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 572 kcal 29", 
-                "Fat: 19.3 g 30", 
-                "Carbs: 57.3g 18", 
-                "Protein: 41.9 g 84", 
-                "Cholesterol: 84 mg 28", 
-                "Sodium: 1707 mg 68"
+                "Calories: 572 kcal 29 %", 
+                "Fat: 19.3 g 30 %", 
+                "Carbs: 57.3g 18 %", 
+                "Protein: 41.9 g 84 %", 
+                "Cholesterol: 84 mg 28 %", 
+                "Sodium: 1707 mg 68 %"
             ], 
+            "rating": "4.54825067520142", 
             "name": "Pesto Chicken Florentine", 
             "ingredients": [
                 "2 tablespoons olive oil ", 
@@ -653,8 +693,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1061696.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 55, 
+            "prep_time": 20, 
+            "cal": 572, 
             "directions": "Heat oil in a large skillet over medium high heat. Add garlic, saute for 1 minute; then add chicken and cook for 7 to 8 minutes on each side. When chicken is close to being cooked through (no longer pink inside), add spinach and saute all together for 3 to 4 minutes. Meanwhile, prepare Alfredo sauce according to package directions. When finished, stir in 2 tablespoons pesto; set aside. In a large pot of salted boiling water, cook pasta for 8 to 10 minutes or until al dente. Rinse under cold water and drain. Add chicken/spinach mixture to pasta, then stir in pesto/Alfredo sauce. Mix well, top with cheese and serve.", 
             "id": 8426, 
             "cook_time": 35
@@ -662,13 +703,14 @@
         {
             "total_time": 54, 
             "nutrition": [
-                "Calories: 259 kcal 13", 
-                "Fat: 7 g 11", 
-                "Carbs: 16g 5", 
-                "Protein: 32.4 g 65", 
-                "Cholesterol: 124 mg 41", 
-                "Sodium: 830 mg 33"
+                "Calories: 259 kcal 13 %", 
+                "Fat: 7 g 11 %", 
+                "Carbs: 16g 5 %", 
+                "Protein: 32.4 g 65 %", 
+                "Cholesterol: 124 mg 41 %", 
+                "Sodium: 830 mg 33 %"
             ], 
+            "rating": "4.55918216705322", 
             "name": "Ginger Glazed Mahi Mahi", 
             "ingredients": [
                 "3 tablespoons honey ", 
@@ -685,8 +727,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/958722.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 37, 
+            "prep_time": 5, 
+            "cal": 259, 
             "directions": "In a shallow glass dish, stir together the honey, soy sauce, balsamic vinegar, ginger, garlic and olive oil. Season fish fillets with salt and pepper, and place them into the dish. If the fillets have skin on them, place them skin side down. Cover, and refrigerate for 20 minutes to marinate. Heat vegetable oil in a large skillet over medium-high heat. Remove fish from the dish, and reserve marinade. Fry fish for 4 to 6 minutes on each side, turning only once, until fish flakes easily with a fork. Remove fillets to a serving platter and keep warm. Pour reserved marinade into the skillet, and heat over medium heat until the mixture reduces to a glaze consistently. Spoon glaze over fish, and serve immediately.", 
             "id": 8427, 
             "cook_time": 12
@@ -694,13 +737,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 153 kcal 8", 
-                "Fat: 1.7 g 3", 
-                "Carbs: 27.8g 9", 
-                "Protein: 7.7 g 15", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 517 mg 21"
+                "Calories: 153 kcal 8 %", 
+                "Fat: 1.7 g 3 %", 
+                "Carbs: 27.8g 9 %", 
+                "Protein: 7.7 g 15 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 517 mg 21 %"
             ], 
+            "rating": "4.64573383331299", 
             "name": "Quinoa and Black Beans", 
             "ingredients": [
                 "1 teaspoon vegetable oil ", 
@@ -719,8 +763,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/357989.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 153, 
             "directions": "Heat oil in a saucepan over medium heat; cook and stir onion and garlic until lightly browned, about 10 minutes. Mix quinoa into onion mixture and cover with vegetable broth; season with cumin, cayenne pepper, salt, and pepper. Bring the mixture to a boil. Cover, reduce heat, and simmer until quinoa is tender and broth is absorbed, about 20 minutes. Stir frozen corn into the saucepan, and continue to simmer until heated through, about 5 minutes; mix in the black beans and cilantro.", 
             "id": 8428, 
             "cook_time": 35
@@ -728,13 +773,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 265 kcal 13", 
-                "Fat: 12.4 g 19", 
-                "Carbs: 14.1g 5", 
-                "Protein: 23.2 g 46", 
-                "Cholesterol: 67 mg 22", 
-                "Sodium: 633 mg 25"
+                "Calories: 265 kcal 13 %", 
+                "Fat: 12.4 g 19 %", 
+                "Carbs: 14.1g 5 %", 
+                "Protein: 23.2 g 46 %", 
+                "Cholesterol: 67 mg 22 %", 
+                "Sodium: 633 mg 25 %"
             ], 
+            "rating": "4.65684270858765", 
             "name": "Maple Salmon", 
             "ingredients": [
                 "1/4 cup maple syrup ", 
@@ -748,8 +794,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/862371.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 60, 
+            "prep_time": 10, 
+            "cal": 265, 
             "directions": "In a small bowl, mix the maple syrup, soy sauce, garlic, garlic salt, and pepper. Place salmon in a shallow glass baking dish, and coat with the maple syrup mixture. Cover the dish, and marinate salmon in the refrigerator 30 minutes, turning once. Preheat oven to 400 degrees F (200 degrees C). Place the baking dish in the preheated oven, and bake salmon uncovered 20 minutes, or until easily flaked with a fork.", 
             "id": 8429, 
             "cook_time": 20

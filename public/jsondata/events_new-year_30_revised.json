@@ -3,13 +3,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 94 kcal 5", 
-                "Fat: 4.4 g 7", 
-                "Carbs: 5g 2", 
-                "Protein: 7.6 g 15", 
-                "Cholesterol: 46 mg 15", 
-                "Sodium: 112 mg 4"
+                "Calories: 94 kcal 5 %", 
+                "Fat: 4.4 g 7 %", 
+                "Carbs: 5g 2 %", 
+                "Protein: 7.6 g 15 %", 
+                "Cholesterol: 46 mg 15 %", 
+                "Sodium: 112 mg 4 %"
             ], 
+            "rating": "5", 
             "name": "Chef John's Oysters Rockefeller", 
             "ingredients": [
                 "2 cups rock salt, or more as needed ", 
@@ -29,8 +30,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1060192.jpg", 
-            "prep_time": 40, 
             "ready_in_time": 55, 
+            "prep_time": 40, 
+            "cal": 94, 
             "directions": "Preheat an oven to 500 degrees F (260 degrees C). Pour rock salt into a large, shallow casserole dish. Combine watercress, butter, bread crumbs, green onions, celery, tarragon, Italian parsley, anise-flavored liqueur, salt, black pepper, and cayenne pepper in a food processor; blend until smooth. Place 8 to 12 shucked oysters on top of the rock salt. Spoon 1 to 2 teaspoons of watercress mixture a top each oyster. Bake in the preheated oven until oysters are firm and butter has melted, about 5 minutes. Repeat with remaining oysters.", 
             "id": 19301, 
             "cook_time": 15
@@ -38,13 +40,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 341 kcal 17", 
-                "Fat: 24.7 g 38", 
-                "Carbs: 8.7g 3", 
-                "Protein: 19.9 g 40", 
-                "Cholesterol: 177 mg 59", 
-                "Sodium: 764 mg 31"
+                "Calories: 341 kcal 17 %", 
+                "Fat: 24.7 g 38 %", 
+                "Carbs: 8.7g 3 %", 
+                "Protein: 19.9 g 40 %", 
+                "Cholesterol: 177 mg 59 %", 
+                "Sodium: 764 mg 31 %"
             ], 
+            "rating": "4.6130952835083", 
             "name": "Egg and Sausage Casserole", 
             "ingredients": [
                 "1 pound pork sausage ", 
@@ -58,8 +61,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/46338.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 50, 
+            "prep_time": 15, 
+            "cal": 341, 
             "directions": "Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside. Preheat oven to 325 degrees F (165 degrees C). Lightly grease a 9x13 inch baking dish. Line the bottom of the prepared baking dish with crescent roll dough, and sprinkle with crumbled sausage. In a large bowl, mix beaten eggs, mozzarella, and Cheddar. Season the mixture with oregano, and pour over the sausage and crescent rolls. Bake 25 to 30 minutes in the preheated oven, or until a knife inserted in the center comes out clean.", 
             "id": 19302, 
             "cook_time": 35
@@ -67,13 +71,14 @@
         {
             "total_time": 14, 
             "nutrition": [
-                "Calories: 310 kcal 15", 
-                "Fat: 8.7 g 13", 
-                "Carbs: 52.8g 17", 
-                "Protein: 9.3 g 19", 
-                "Cholesterol: 28 mg 9", 
-                "Sodium: 102 mg 4"
+                "Calories: 310 kcal 15 %", 
+                "Fat: 8.7 g 13 %", 
+                "Carbs: 52.8g 17 %", 
+                "Protein: 9.3 g 19 %", 
+                "Cholesterol: 28 mg 9 %", 
+                "Sodium: 102 mg 4 %"
             ], 
+            "rating": "4.5930233001709", 
             "name": "Creamy Hot Cocoa", 
             "ingredients": [
                 "1/3 cup unsweetened cocoa powder ", 
@@ -88,8 +93,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/509474.jpg", 
-            "prep_time": 2, 
             "ready_in_time": 7, 
+            "prep_time": 2, 
+            "cal": 310, 
             "directions": "Combine the cocoa, sugar and pinch of salt in a saucepan. Blend in the boiling water. Bring this mixture to an easy boil while you stir. Simmer and stir for about 2 minutes. Watch that it doesn't scorch. Stir in 3 1/2 cups of milk and heat until very hot, but do not boil! Remove from heat and add vanilla. Divide between 4 mugs. Add the cream to the mugs of cocoa to cool it to drinking temperature.", 
             "id": 19303, 
             "cook_time": 5
@@ -97,13 +103,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 142 kcal 7", 
-                "Fat: 6.7 g 10", 
-                "Carbs: 15.9g 5", 
-                "Protein: 3.3 g 7", 
-                "Cholesterol: 66 mg 22", 
-                "Sodium: 146 mg 6"
+                "Calories: 142 kcal 7 %", 
+                "Fat: 6.7 g 10 %", 
+                "Carbs: 15.9g 5 %", 
+                "Protein: 3.3 g 7 %", 
+                "Cholesterol: 66 mg 22 %", 
+                "Sodium: 146 mg 6 %"
             ], 
+            "rating": "4.66541814804077", 
             "name": "Vanilla Crepes", 
             "ingredients": [
                 "1 1/2 cups milk ", 
@@ -118,8 +125,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/696723.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 142, 
             "directions": "In a large bowl, mix together the milk, egg yolks and vanilla. Stir in the flour, sugar, salt and melted butter until well blended. Heat a crepe pan over medium heat until hot. Coat with vegetable oil or cooking spray. Pour about 1/4 cup of batter into the pan and tip to spread the batter to the edges. When bubbles form on the top and the edges are dry, flip over and cook until lightly browned on the other side and edges are golden. Repeat with remaining batter. Fill crepes with your favorite fruit, cream, caramel or even ice cream or cheese to serve.", 
             "id": 19304, 
             "cook_time": 20
@@ -127,13 +135,14 @@
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 47 kcal 2", 
-                "Fat: 2 g 3", 
-                "Carbs: 5.2g 2", 
-                "Protein: 2.8 g 6", 
-                "Cholesterol: 5 mg 2", 
-                "Sodium: 114 mg 5"
+                "Calories: 47 kcal 2 %", 
+                "Fat: 2 g 3 %", 
+                "Carbs: 5.2g 2 %", 
+                "Protein: 2.8 g 6 %", 
+                "Cholesterol: 5 mg 2 %", 
+                "Sodium: 114 mg 5 %"
             ], 
+            "rating": "4.59154939651489", 
             "name": "Fried Cabbage II", 
             "ingredients": [
                 "3 slices bacon, chopped ", 
@@ -148,8 +157,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/116544.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 45, 
+            "prep_time": 20, 
+            "cal": 47, 
             "directions": "Place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Remove bacon, and set aside. Cook onion in the hot bacon grease until tender. Add cabbage, and stir in water, sugar, salt, and pepper. Cook until cabbage wilts, about 15 minutes. Stir in bacon. Splash with vinegar before serving.", 
             "id": 19305, 
             "cook_time": 25
@@ -157,13 +167,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 79 kcal 4", 
-                "Fat: 2.8 g 4", 
-                "Carbs: 9.5g 3", 
-                "Protein: 3.7 g 7", 
-                "Cholesterol: 49 mg 16", 
-                "Sodium: 30 mg 1"
+                "Calories: 79 kcal 4 %", 
+                "Fat: 2.8 g 4 %", 
+                "Carbs: 9.5g 3 %", 
+                "Protein: 3.7 g 7 %", 
+                "Cholesterol: 49 mg 16 %", 
+                "Sodium: 30 mg 1 %"
             ], 
+            "rating": "4.7681450843811", 
             "name": "Crepes", 
             "ingredients": [
                 "2 eggs ", 
@@ -176,8 +187,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/949777.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 80, 
+            "prep_time": 5, 
+            "cal": 79, 
             "directions": "In a blender combine eggs, milk, flour, salt and oil. Process until smooth. Cover and refrigerate 1 hour. Heat a skillet over medium-high heat and brush with oil. Pour 1/4 cup of crepe batter into pan, tilting to completely coat the surface of the pan. Cook 2 to 5 minutes, turning once, until golden. Repeat with remaining batter.", 
             "id": 19306, 
             "cook_time": 15
@@ -185,13 +197,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 299 kcal 15", 
-                "Fat: 18 g 28", 
-                "Carbs: 25.1g 8", 
-                "Protein: 9.6 g 19", 
-                "Cholesterol: 40 mg 13", 
-                "Sodium: 721 mg 29"
+                "Calories: 299 kcal 15 %", 
+                "Fat: 18 g 28 %", 
+                "Carbs: 25.1g 8 %", 
+                "Protein: 9.6 g 19 %", 
+                "Cholesterol: 40 mg 13 %", 
+                "Sodium: 721 mg 29 %"
             ], 
+            "rating": "4.39518880844116", 
             "name": "King Crab Appetizers", 
             "ingredients": [
                 "2 (12 ounce) packages refrigerated biscuit dough ", 
@@ -208,8 +221,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2998578.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 299, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease 12 tartlet pans. Divide rolls in half and press into the prepared tartlet pans. Set aside. In a large bowl, combine cream cheese, crab, mayonnaise, Parmesan cheese, Cheddar cheese, green onions and Worcestershire sauce. Spoon 1 teaspoon of mixture into tarts and garnish with paprika. Bake at 375 degrees F (190 degrees C) for 15 to 20 minutes, or until light brown. These freeze wonderfully. Just reheat before serving.", 
             "id": 19307, 
             "cook_time": 20
@@ -217,13 +231,14 @@
         {
             "total_time": 150, 
             "nutrition": [
-                "Calories: 388 kcal 19", 
-                "Fat: 29.3 g 45", 
-                "Carbs: 10.8g 3", 
-                "Protein: 19.4 g 39", 
-                "Cholesterol: 168 mg 56", 
-                "Sodium: 901 mg 36"
+                "Calories: 388 kcal 19 %", 
+                "Fat: 29.3 g 45 %", 
+                "Carbs: 10.8g 3 %", 
+                "Protein: 19.4 g 39 %", 
+                "Cholesterol: 168 mg 56 %", 
+                "Sodium: 901 mg 36 %"
             ], 
+            "rating": "4.55017280578613", 
             "name": "Charleston Breakfast Casserole", 
             "ingredients": [
                 "12 slices bacon ", 
@@ -240,8 +255,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/5880.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 80, 
+            "prep_time": 20, 
+            "cal": 388, 
             "directions": "Place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside. Preheat oven to 325 degrees F (165 degrees C). Melt butter in the microwave, or in a small pan on the stove over low heat. Spray a 9x12 inch baking dish with vegetable spray. Place croutons in the bottom of the dish, and drizzle with melted butter. Sprinkle with grated Cheddar cheese. Crack the eggs into a bowl, whisking to break up the yolks. Add milk, peppers, mustard, salt, and pepper, and beat until well-combined. Pour over the croutons and cheese, and sprinkle with crumbled bacon. Bake in the preheated oven for 40 minutes. Remove from oven and allow to stand 10 minutes before serving.", 
             "id": 19309, 
             "cook_time": 50
@@ -249,13 +265,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 164 kcal 8", 
-                "Fat: 7.7 g 12", 
-                "Carbs: 17.2g 6", 
-                "Protein: 6.4 g 13", 
-                "Cholesterol: 111 mg 37", 
-                "Sodium: 235 mg 9"
+                "Calories: 164 kcal 8 %", 
+                "Fat: 7.7 g 12 %", 
+                "Carbs: 17.2g 6 %", 
+                "Protein: 6.4 g 13 %", 
+                "Cholesterol: 111 mg 37 %", 
+                "Sodium: 235 mg 9 %"
             ], 
+            "rating": "4.82118463516235", 
             "name": "Dessert Crepes", 
             "ingredients": [
                 "4 eggs, lightly beaten ", 
@@ -269,50 +286,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/827152.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 164, 
             "directions": "In large bowl, whisk together eggs, milk, melted butter, flour sugar and salt until smooth. Heat a medium-sized skillet or crepe pan over medium heat. Grease pan with a small amount of butter or oil applied with a brush or paper towel. Using a serving spoon or small ladle, spoon about 3 tablespoons crepe batter into hot pan, tilting the pan so that bottom surface is evenly coated. Cook over medium heat, 1 to 2 minutes on a side, or until golden brown. Serve immediately.", 
             "id": 19310, 
             "cook_time": 10
         }, 
         {
-            "total_time": 70, 
-            "nutrition": [
-                "Calories: 60 kcal 3", 
-                "Fat: 3.6 g 5", 
-                "Carbs: 4.5g 1", 
-                "Protein: 2.2 g 4", 
-                "Cholesterol: 7 mg 2", 
-                "Sodium: 116 mg 5"
-            ], 
-            "name": "Blue Cheese and Pear Tartlets", 
-            "ingredients": [
-                "4 ounces blue cheese, crumbled ", 
-                " 1 ripe pear - peeled, cored, and chopped ", 
-                " 2 tablespoons light cream ", 
-                " ground black pepper to taste ", 
-                " 1 (2.1 ounce) package mini phyllo tart shells ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/250x250/691320.jpg", 
-            "prep_time": 10, 
-            "ready_in_time": 35, 
-            "directions": "Pre-bake phyllo shells according to package directions. Set aside to cool. Mix together blue cheese, pear, and cream. Season to taste with pepper. Spoon mixture into cooled shells. Bake at 350 degrees F (175 degrees C) for 15 minutes. Serve warm.", 
-            "id": 19312, 
-            "cook_time": 25
-        }, 
-        {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 329 kcal 16", 
-                "Fat: 25.4 g 39", 
-                "Carbs: 11.1g 4", 
-                "Protein: 14.5 g 29", 
-                "Cholesterol: 112 mg 37", 
-                "Sodium: 381 mg 15"
+                "Calories: 329 kcal 16 %", 
+                "Fat: 25.4 g 39 %", 
+                "Carbs: 11.1g 4 %", 
+                "Protein: 14.5 g 29 %", 
+                "Cholesterol: 112 mg 37 %", 
+                "Sodium: 381 mg 15 %"
             ], 
+            "rating": "4.7142858505249", 
             "name": "Perfect Crab-Stuffed Mushrooms", 
             "ingredients": [
                 "2 tablespoons butter ", 
@@ -332,22 +323,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1220286.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 40, 
+            "prep_time": 20, 
+            "cal": 329, 
             "directions": "Preheat oven to 400 degrees F (200 degrees C). Melt 2 tablespoons butter in a skillet; cook and stir green onion until softened, about 2 minutes. Transfer green onion to a bowl. Stir in crabmeat, bread crumbs, 1/4 cup Monterey Jack cheese, egg, lemon juice, and dill weed until well mixed. Pour 1/2 cup melted butter in a 9x13-inch baking dish; turn mushroom caps in butter to coat. Fill mushroom caps with the crab mixture and sprinkle with remaining 1/2 cup Monterey Jack cheese. Pour white wine into baking dish. Bake in preheated oven until cheese is melted and lightly brown, 15 to 20 minutes.", 
-            "id": 19313, 
+            "id": 19312, 
             "cook_time": 20
         }, 
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 58 kcal 3", 
-                "Fat: 2.8 g 4", 
-                "Carbs: 7.6g 2", 
-                "Protein: 2.5 g 5", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 185 mg 7"
+                "Calories: 58 kcal 3 %", 
+                "Fat: 2.8 g 4 %", 
+                "Carbs: 7.6g 2 %", 
+                "Protein: 2.5 g 5 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 185 mg 7 %"
             ], 
+            "rating": "4.45976495742798", 
             "name": "Baked Kale Chips", 
             "ingredients": [
                 "1 bunch kale ", 
@@ -358,22 +351,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/490832.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 58, 
             "directions": "Preheat an oven to 350 degrees F (175 degrees C). Line a non insulated cookie sheet with parchment paper. With a knife or kitchen shears carefully remove the leaves from the thick stems and tear into bite size pieces. Wash and thoroughly dry kale with a salad spinner. Drizzle kale with olive oil and sprinkle with seasoning salt. Bake until the edges brown but are not burnt, 10 to 15 minutes.", 
-            "id": 19314, 
+            "id": 19313, 
             "cook_time": 10
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 88 kcal 4", 
-                "Fat: 8.2 g 13", 
-                "Carbs: 1.5g < 1", 
-                "Protein: 2.7 g 5", 
-                "Cholesterol: 22 mg 7", 
-                "Sodium: 82 mg 3"
+                "Calories: 88 kcal 4 %", 
+                "Fat: 8.2 g 13 %", 
+                "Carbs: 1.5g < 1 %", 
+                "Protein: 2.7 g 5 %", 
+                "Cholesterol: 22 mg 7 %", 
+                "Sodium: 82 mg 3 %"
             ], 
+            "rating": "4.61051464080811", 
             "name": "Mouth-Watering Stuffed Mushrooms", 
             "ingredients": [
                 "12 whole fresh mushrooms ", 
@@ -389,22 +384,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/414837.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 45, 
+            "prep_time": 25, 
+            "cal": 88, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Spray a baking sheet with cooking spray. Clean mushrooms with a damp paper towel. Carefully break off stems. Chop stems extremely fine, discarding tough end of stems. Heat oil in a large skillet over medium heat. Add garlic and chopped mushroom stems to the skillet. Fry until any moisture has disappeared, taking care not to burn garlic. Set aside to cool. When garlic and mushroom mixture is no longer hot, stir in cream cheese, Parmesan cheese, black pepper, onion powder and cayenne pepper. Mixture should be very thick. Using a little spoon, fill each mushroom cap with a generous amount of stuffing. Arrange the mushroom caps on prepared cookie sheet. Bake for 20 minutes in the preheated oven, or until the mushrooms are piping hot and liquid starts to form under caps.", 
-            "id": 19316, 
+            "id": 19315, 
             "cook_time": 20
         }, 
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 278 kcal 14", 
-                "Fat: 11.1 g 17", 
-                "Carbs: 35.7g 12", 
-                "Protein: 10 g 20", 
-                "Cholesterol: 11 mg 4", 
-                "Sodium: 593 mg 24"
+                "Calories: 278 kcal 14 %", 
+                "Fat: 11.1 g 17 %", 
+                "Carbs: 35.7g 12 %", 
+                "Protein: 10 g 20 %", 
+                "Cholesterol: 11 mg 4 %", 
+                "Sodium: 593 mg 24 %"
             ], 
+            "rating": "4.53298139572144", 
             "name": "Artichoke Bruschetta", 
             "ingredients": [
                 "1 (6.5 ounce) jar marinated artichoke hearts, drained and chopped ", 
@@ -417,22 +414,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/257843.jpg", 
-            "prep_time": 18, 
             "ready_in_time": 20, 
+            "prep_time": 18, 
+            "cal": 278, 
             "directions": "Preheat the broiler. In a medium bowl, mix marinated artichoke hearts, Romano cheese, red onion and mayonnaise. Top French baguette slices with equal amounts of the artichoke heart mixture. Arrange slices in a single layer on a large baking sheet. Broil in the preheated oven 2 minutes, or until toppings are bubbly and lightly browned.", 
-            "id": 19318, 
+            "id": 19317, 
             "cook_time": 2
         }, 
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 428 kcal 21", 
-                "Fat: 22.2 g 34", 
-                "Carbs: 54.1g 17", 
-                "Protein: 6.9 g 14", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 428 mg 17"
+                "Calories: 428 kcal 21 %", 
+                "Fat: 22.2 g 34 %", 
+                "Carbs: 54.1g 17 %", 
+                "Protein: 6.9 g 14 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 428 mg 17 %"
             ], 
+            "rating": "4.54036235809326", 
             "name": "Ethiopian Cabbage Dish", 
             "ingredients": [
                 "1/2 cup olive oil ", 
@@ -449,22 +448,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/391627.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 65, 
+            "prep_time": 25, 
+            "cal": 428, 
             "directions": "Heat the olive oil in a skillet over medium heat. Cook the carrots and onion in the hot oil about 5 minutes. Stir in the salt, pepper, cumin, turmeric, and cabbage and cook another 15 to 20 minutes. Add the potatoes; cover. Reduce heat to medium-low and cook until potatoes are soft, 20 to 30 minutes.", 
-            "id": 19319, 
+            "id": 19318, 
             "cook_time": 40
         }, 
         {
             "total_time": 205, 
             "nutrition": [
-                "Calories: 355 kcal 18", 
-                "Fat: 26.3 g 40", 
-                "Carbs: 7.9g 3", 
-                "Protein: 21.6 g 43", 
-                "Cholesterol: 188 mg 63", 
-                "Sodium: 755 mg 30"
+                "Calories: 355 kcal 18 %", 
+                "Fat: 26.3 g 40 %", 
+                "Carbs: 7.9g 3 %", 
+                "Protein: 21.6 g 43 %", 
+                "Cholesterol: 188 mg 63 %", 
+                "Sodium: 755 mg 30 %"
             ], 
+            "rating": "4.67941188812256", 
             "name": "Sausage Casserole", 
             "ingredients": [
                 "1 pound sage flavored breakfast sausage ", 
@@ -479,22 +480,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/776788.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 105, 
+            "prep_time": 25, 
+            "cal": 355, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch square baking dish. Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside. In the prepared baking dish, stir together the shredded potatoes and butter. Line the bottom and sides of the baking dish with the mixture. In a bowl, mix the sausage, Cheddar cheese, onion, cottage cheese, and eggs. Pour over the potato mixture. Bake 1 hour in the preheated oven, or until a toothpick inserted into center of the casserole comes out clean. Let cool for 5 minutes before serving.", 
-            "id": 19321, 
+            "id": 19320, 
             "cook_time": 75
         }, 
         {
             "total_time": 310, 
             "nutrition": [
-                "Calories: 72 kcal 4", 
-                "Fat: 0 g 0", 
-                "Carbs: 19.1g 6", 
-                "Protein: 0.1 g < 1", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 3 mg < 1"
+                "Calories: 72 kcal 4 %", 
+                "Fat: 0 g 0 %", 
+                "Carbs: 19.1g 6 %", 
+                "Protein: 0.1 g < 1 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 3 mg < 1 %"
             ], 
+            "rating": "4.7722373008728", 
             "name": "Best Lemonade Ever", 
             "ingredients": [
                 "1 3/4 cups white sugar ", 
@@ -505,22 +508,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/243447.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 275, 
+            "prep_time": 30, 
+            "cal": 72, 
             "directions": "In a small saucepan, combine sugar and 1 cup water. Bring to boil and stir to dissolve sugar. Allow to cool to room temperature, then cover and refrigerate until chilled. Remove seeds from lemon juice, but leave pulp. In pitcher, stir together chilled syrup, lemon juice and remaining 7 cups water.", 
-            "id": 19322, 
+            "id": 19321, 
             "cook_time": 5
         }, 
         {
             "total_time": 170, 
             "nutrition": [
-                "Calories: 381 kcal 19", 
-                "Fat: 19.2 g 29", 
-                "Carbs: 50.7g 16", 
-                "Protein: 3.8 g 8", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 201 mg 8"
+                "Calories: 381 kcal 19 %", 
+                "Fat: 19.2 g 29 %", 
+                "Carbs: 50.7g 16 %", 
+                "Protein: 3.8 g 8 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 201 mg 8 %"
             ], 
+            "rating": "4.79034376144409", 
             "name": "Gourmet Sweet Potato Classic", 
             "ingredients": [
                 "5 sweet potatoes ", 
@@ -540,22 +545,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/303240.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 85, 
+            "prep_time": 20, 
+            "cal": 381, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish. Bake sweet potatoes 35 minutes in the preheated oven, or until they begin to soften. Cool slightly, peel, and mash. In a large bowl, mix the mashed sweet potatoes, salt, 1/4 cup butter, eggs, vanilla extract, cinnamon, sugar, and heavy cream. Transfer to the prepared baking dish. In a medium bowl, combine 1/4 cup butter, flour, brown sugar, and chopped pecans. Mix with a pastry blender or your fingers to the consistency of course meal. Sprinkle over the sweet potato mixture. Bake 30 minutes in the preheated oven, until topping is crisp and lightly browned.", 
-            "id": 19323, 
+            "id": 19322, 
             "cook_time": 65
         }, 
         {
             "total_time": 680, 
             "nutrition": [
-                "Calories: 408 kcal 20", 
-                "Fat: 28.7 g 44", 
-                "Carbs: 12.4g 4", 
-                "Protein: 25.2 g 50", 
-                "Cholesterol: 224 mg 75", 
-                "Sodium: 1095 mg 44"
+                "Calories: 408 kcal 20 %", 
+                "Fat: 28.7 g 44 %", 
+                "Carbs: 12.4g 4 %", 
+                "Protein: 25.2 g 50 %", 
+                "Cholesterol: 224 mg 75 %", 
+                "Sodium: 1095 mg 44 %"
             ], 
+            "rating": "4.67049789428711", 
             "name": "Sausage Egg Casserole", 
             "ingredients": [
                 "3/4 pound ground pork sausage ", 
@@ -575,22 +582,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/50498.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 580, 
+            "prep_time": 20, 
+            "cal": 408, 
             "directions": "Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and set aside. Melt butter in skillet, and cook and stir the green onions and mushrooms until tender. In a large bowl, mix the eggs, cottage cheese, Monterey Jack cheese, and chiles. Stir in the sausage, green onions, and mushrooms. Cover, and refrigerate overnight. Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13 inch baking dish. In a bowl, sift together the flour, baking powder, and salt. Blend in the melted butter. Stir the flour mixture into the egg mixture. Pour into the prepared baking dish. Bake 40 to 50 minutes in the preheated oven, or until lightly brown. Let stand 10 minutes before serving.", 
-            "id": 19324, 
+            "id": 19323, 
             "cook_time": 80
         }, 
         {
             "total_time": 150, 
             "nutrition": [
-                "Calories: 415 kcal 21", 
-                "Fat: 27.2 g 42", 
-                "Carbs: 29.7g 10", 
-                "Protein: 14.4 g 29", 
-                "Cholesterol: 53 mg 18", 
-                "Sodium: 761 mg 30"
+                "Calories: 415 kcal 21 %", 
+                "Fat: 27.2 g 42 %", 
+                "Carbs: 29.7g 10 %", 
+                "Protein: 14.4 g 29 %", 
+                "Cholesterol: 53 mg 18 %", 
+                "Sodium: 761 mg 30 %"
             ], 
+            "rating": "4.52729654312134", 
             "name": "Cheesy Ham and Hash Brown Casserole", 
             "ingredients": [
                 "1 (32 ounce) package frozen hash brown potatoes ", 
@@ -604,22 +613,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/566024.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 75, 
+            "prep_time": 15, 
+            "cal": 415, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a 9x13 inch baking dish. In a large bowl, mix hash browns, ham, cream of potato soup, sour cream, and Cheddar cheese. Spread evenly into prepared dish. Sprinkle with Parmesan cheese. Bake 1 hour in the preheated oven, or until bubbly and lightly brown. Serve immediately.", 
-            "id": 19325, 
+            "id": 19324, 
             "cook_time": 60
         }, 
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 216 kcal 11", 
-                "Fat: 9.2 g 14", 
-                "Carbs: 25.5g 8", 
-                "Protein: 7.4 g 15", 
-                "Cholesterol: 111 mg 37", 
-                "Sodium: 235 mg 9"
+                "Calories: 216 kcal 11 %", 
+                "Fat: 9.2 g 14 %", 
+                "Carbs: 25.5g 8 %", 
+                "Protein: 7.4 g 15 %", 
+                "Cholesterol: 111 mg 37 %", 
+                "Sodium: 235 mg 9 %"
             ], 
+            "rating": "4.64266014099121", 
             "name": "Basic Crepes", 
             "ingredients": [
                 "1 cup all-purpose flour ", 
@@ -633,22 +644,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/400570.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 216, 
             "directions": "In a large mixing bowl, whisk together the flour and the eggs. Gradually add in the milk and water, stirring to combine. Add the salt and butter; beat until smooth. Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each crepe. Tilt the pan with a circular motion so that the batter coats the surface evenly. Cook the crepe for about 2 minutes, until the bottom is light brown. Loosen with a spatula, turn and cook the other side. Serve hot.", 
-            "id": 19326, 
+            "id": 19325, 
             "cook_time": 20
         }, 
         {
             "total_time": 970, 
             "nutrition": [
-                "Calories: 101 kcal 5", 
-                "Fat: 0.4 g < 1", 
-                "Carbs: 24.9g 8", 
-                "Protein: 0.5 g 1", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 8 mg < 1"
+                "Calories: 101 kcal 5 %", 
+                "Fat: 0.4 g < 1 %", 
+                "Carbs: 24.9g 8 %", 
+                "Protein: 0.5 g 1 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 8 mg < 1 %"
             ], 
+            "rating": "4.65605115890503", 
             "name": "Wassail Punch", 
             "ingredients": [
                 "2 quarts apple cider ", 
@@ -663,8 +676,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/929749.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 485, 
+            "prep_time": 5, 
+            "cal": 101, 
             "directions": "In a slow-cooker or a large pot over low heat, combine apple cider, orange juice and lemon juice. Season with cloves, ginger and nutmeg. Bring to a simmer. If using a slow cooker, allow to simmer all day. Serve hot.", 
             "id": 19327, 
             "cook_time": 480
@@ -672,13 +686,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 286 kcal 14", 
-                "Fat: 19.5 g 30", 
-                "Carbs: 19.1g 6", 
-                "Protein: 8.6 g 17", 
-                "Cholesterol: 28 mg 9", 
-                "Sodium: 264 mg 11"
+                "Calories: 286 kcal 14 %", 
+                "Fat: 19.5 g 30 %", 
+                "Carbs: 19.1g 6 %", 
+                "Protein: 8.6 g 17 %", 
+                "Cholesterol: 28 mg 9 %", 
+                "Sodium: 264 mg 11 %"
             ], 
+            "rating": "4.68292665481567", 
             "name": "Brie Cheese Appetizer", 
             "ingredients": [
                 "1 (8 ounce) wheel Brie cheese ", 
@@ -690,8 +705,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1870524.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 286, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a cookie sheet. Slice one wheel of Brie cheese in half so you have 2 circles of cheese. Spread apricot or peach preserves on (the cut side) half of one circle of brie. Make sandwich out of the two halves of Brie, so that the preserves are in the center of both halves. Wrap the entire wheel of Brie with one sheet of puffed pastry and flip the entire concoction onto the prepared cooking sheet so the seam is on bottom. Brush the puffed pastry with the egg white. Bake for 30 minutes, or until the pastry in golden brown. Serve immediately.", 
             "id": 19328, 
             "cook_time": 30
@@ -699,13 +715,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 123 kcal 6", 
-                "Fat: 4.7 g 7", 
-                "Carbs: 20g 6", 
-                "Protein: 2 g 4", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 13 mg < 1"
+                "Calories: 123 kcal 6 %", 
+                "Fat: 4.7 g 7 %", 
+                "Carbs: 20g 6 %", 
+                "Protein: 2 g 4 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 13 mg < 1 %"
             ], 
+            "rating": "4.61581325531006", 
             "name": "Roasted Vegetables", 
             "ingredients": [
                 "1 small butternut squash, cubed ", 
@@ -723,8 +740,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1486.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 55, 
+            "prep_time": 15, 
+            "cal": 123, 
             "directions": "Preheat oven to 475 degrees F (245 degrees C). In a large bowl, combine the squash, red bell peppers, sweet potato, and Yukon Gold potatoes. Separate the red onion quarters into pieces, and add them to the mixture. In a small bowl, stir together thyme, rosemary, olive oil, vinegar, salt, and pepper. Toss with vegetables until they are coated. Spread evenly on a large roasting pan. Roast for 35 to 40 minutes in the preheated oven, stirring every 10 minutes, or until vegetables are cooked through and browned.", 
             "id": 19329, 
             "cook_time": 40
@@ -732,13 +750,14 @@
         {
             "total_time": 30, 
             "nutrition": [
-                "Calories: 189 kcal 9", 
-                "Fat: 14.2 g 22", 
-                "Carbs: 13.6g 4", 
-                "Protein: 4.4 g 9", 
-                "Cholesterol: 5 mg 2", 
-                "Sodium: 528 mg 21"
+                "Calories: 189 kcal 9 %", 
+                "Fat: 14.2 g 22 %", 
+                "Carbs: 13.6g 4 %", 
+                "Protein: 4.4 g 9 %", 
+                "Cholesterol: 5 mg 2 %", 
+                "Sodium: 528 mg 21 %"
             ], 
+            "rating": "4.62829732894897", 
             "name": "Southern Fried Cabbage", 
             "ingredients": [
                 "3 slices bacon, cut into thirds ", 
@@ -753,8 +772,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/848416.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 15, 
+            "prep_time": 5, 
+            "cal": 189, 
             "directions": "Place the bacon and vegetable oil into a large pot over medium heat. Season with salt and pepper. Cook for about 5 minutes, or until bacon is crisp. Add cabbage, onion, and sugar to the pot; cook and stir continuously for 5 minutes, until tender.", 
             "id": 19330, 
             "cook_time": 10

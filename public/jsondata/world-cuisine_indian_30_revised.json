@@ -3,13 +3,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 427 kcal 21", 
-                "Fat: 24.3 g 37", 
-                "Carbs: 14.7g 5", 
-                "Protein: 38.1 g 76", 
-                "Cholesterol: 95 mg 32", 
-                "Sodium: 1370 mg 55"
+                "Calories: 427 kcal 21 %", 
+                "Fat: 24.3 g 37 %", 
+                "Carbs: 14.7g 5 %", 
+                "Protein: 38.1 g 76 %", 
+                "Cholesterol: 95 mg 32 %", 
+                "Sodium: 1370 mg 55 %"
             ], 
+            "rating": "4.72157430648804", 
             "name": "Indian Chicken Curry (Murgh Kari)", 
             "ingredients": [
                 "2 pounds skinless, boneless chicken breast halves ", 
@@ -37,8 +38,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3325822.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 60, 
+            "prep_time": 20, 
+            "cal": 427, 
             "directions": "Sprinkle the chicken breasts with 2 teaspoons salt. Heat the oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned. Transfer the browned chicken breasts to a plate and set aside. Reduce the heat under the skillet to medium-high; add the onion, garlic, and ginger to the oil remaining in the skillet and cook and stir until the onion turns translucent, about 8 minutes. Stir the curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Mix the tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt into the mixture. Return the chicken breast to the skillet along with any juices on the plate. Pour 1/2 cup water into the mixture; bring to a boil, turning the chicken to coat with the sauce. Sprinkle the garam masala and 1 tablespoon cilantro over the chicken. Cover the skillet and simmer until the chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Sprinkle with lemon juice to serve.", 
             "id": 23301, 
             "cook_time": 40
@@ -46,13 +48,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 404 kcal 20", 
-                "Fat: 28.9 g 44", 
-                "Carbs: 13.3g 4", 
-                "Protein: 24.6 g 49", 
-                "Cholesterol: 143 mg 48", 
-                "Sodium: 4499 mg 180"
+                "Calories: 404 kcal 20 %", 
+                "Fat: 28.9 g 44 %", 
+                "Carbs: 13.3g 4 %", 
+                "Protein: 24.6 g 49 %", 
+                "Cholesterol: 143 mg 48 %", 
+                "Sodium: 4499 mg 180 %"
             ], 
+            "rating": "4.38589859008789", 
             "name": "Chicken Tikka Masala", 
             "ingredients": [
                 "1 cup yogurt ", 
@@ -79,8 +82,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/39905.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 140, 
+            "prep_time": 30, 
+            "cal": 404, 
             "directions": "In a large bowl, combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and 4 teaspoons salt. Stir in chicken, cover, and refrigerate for 1 hour. Preheat a grill for high heat. Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill until juices run clear, about 5 minutes on each side. Melt butter in a large heavy skillet over medium heat. Saute garlic and jalapeno for 1 minute. Season with 2 teaspoons cumin, paprika, and 3 teaspoons salt. Stir in tomato sauce and cream. Simmer on low heat until sauce thickens, about 20 minutes. Add grilled chicken, and simmer for 10 minutes. Transfer to a serving platter, and garnish with fresh cilantro.", 
             "id": 23302, 
             "cook_time": 50
@@ -88,13 +92,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 216 kcal 11", 
-                "Fat: 5.4 g 8", 
-                "Carbs: 38.9g 13", 
-                "Protein: 3.9 g 8", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 394 mg 16"
+                "Calories: 216 kcal 11 %", 
+                "Fat: 5.4 g 8 %", 
+                "Carbs: 38.9g 13 %", 
+                "Protein: 3.9 g 8 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 394 mg 16 %"
             ], 
+            "rating": "4.48201417922974", 
             "name": "Indian Style Basmati Rice", 
             "ingredients": [
                 "1 1/2 cups basmati rice ", 
@@ -111,8 +116,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/244848.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 45, 
+            "prep_time": 10, 
+            "cal": 216, 
             "directions": "Place rice into a bowl with enough water to cover. Set aside to soak for 20 minutes. Heat the oil in a large pot or saucepan over medium heat. Add the cinnamon stick, cardamom pods, cloves, and cumin seed. Cook and stir for about a minute, then add the onion to the pot. Saute the onion until a rich golden brown, about 10 minutes. Drain the water from the rice, and stir into the pot. Cook and stir the rice for a few minutes, until lightly toasted. Add salt and water to the pot, and bring to a boil. Cover, and reduce heat to low. Simmer for about 15 minutes, or until all of the water has been absorbed. Let stand for 5 minutes, then fluff with a fork before serving.", 
             "id": 23304, 
             "cook_time": 25
@@ -120,13 +126,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 113 kcal 6", 
-                "Fat: 1.5 g 2", 
-                "Carbs: 25.7g 8", 
-                "Protein: 0.2 g < 1", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 3 mg < 1"
+                "Calories: 113 kcal 6 %", 
+                "Fat: 1.5 g 2 %", 
+                "Carbs: 25.7g 8 %", 
+                "Protein: 0.2 g < 1 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 3 mg < 1 %"
             ], 
+            "rating": "4.52941179275513", 
             "name": "Sweet Tamarind Chutney", 
             "ingredients": [
                 "1 tablespoon canola oil ", 
@@ -144,8 +151,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/252909.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 113, 
             "directions": "Heat the oil in a saucepan over medium heat. Add the cumin seeds, ginger, cayenne pepper, fennel seeds, asafoetida powder, and garam masala; cook and stir for about 2 minutes to release the flavors. Stir the water into the pan with the spices along with the sugar and tamarind paste. Bring to a boil, then simmer over low heat until the mixture turns a deep chocolaty brown and is thick enough to coat the back of a metal spoon. This should take 20 to 30 minutes. The sauce will be thin, but it will thicken upon cooling.", 
             "id": 23305, 
             "cook_time": 30
@@ -153,13 +161,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 126 kcal 6", 
-                "Fat: 8.9 g 14", 
-                "Carbs: 11.1g 4", 
-                "Protein: 2.8 g 6", 
-                "Cholesterol: 23 mg 8", 
-                "Sodium: 169 mg 7"
+                "Calories: 126 kcal 6 %", 
+                "Fat: 8.9 g 14 %", 
+                "Carbs: 11.1g 4 %", 
+                "Protein: 2.8 g 6 %", 
+                "Cholesterol: 23 mg 8 %", 
+                "Sodium: 169 mg 7 %"
             ], 
+            "rating": "4.30864191055298", 
             "name": "Easy Indian Style Okra", 
             "ingredients": [
                 "3 tablespoons butter ", 
@@ -175,56 +184,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/371190.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 126, 
             "directions": "Melt butter in a large skillet over medium heat. Add the onion, and cook until tender. Stir in the okra, and season with cumin, ginger, coriander, pepper and salt. Cook and stir for a few minutes, then reduce the heat to medium-low, and cover the pan. Cook for 20 minutes, stirring occasionally until okra is tender.", 
             "id": 23306, 
             "cook_time": 25
         }, 
         {
-            "total_time": 120, 
-            "nutrition": [
-                "Calories: 146 kcal 7", 
-                "Fat: 8 g 12", 
-                "Carbs: 15.2g 5", 
-                "Protein: 4 g 8", 
-                "Cholesterol: 2 mg < 1", 
-                "Sodium: 739 mg 30"
-            ], 
-            "name": "Baingan Bharta (Eggplant Curry)", 
-            "ingredients": [
-                "1 large eggplant ", 
-                " 2 tablespoons vegetable oil ", 
-                " 1 teaspoon cumin seeds ", 
-                " 1 medium onion, thinly sliced ", 
-                " 1 tablespoon ginger garlic paste ", 
-                " 1 tablespoon curry powder ", 
-                " 1 tomato, diced ", 
-                " 1/2 cup plain yogurt ", 
-                " 1 fresh jalapeno chile pepper, finely chopped ", 
-                " 1 teaspoon salt ", 
-                " 1/4 bunch cilantro, finely chopped ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/250x250/14597.jpg", 
-            "prep_time": 15, 
-            "ready_in_time": 60, 
-            "directions": "Preheat oven to 450 degrees F (230 degrees C). Place eggplant on a medium baking sheet. Bake 20 to 30 minutes in the preheated oven, until tender. Remove from heat, cool, peel, and chop. Heat oil in a medium saucepan over medium heat. Mix in cumin seeds and onion. Cook and stir until onion is tender. Mix ginger garlic paste, curry powder, and tomato into the saucepan, and cook about 1 minute. Stir in yogurt. Mix in eggplant and jalapeno pepper, and season with salt. Cover, and cook 10 minutes over high heat. Remove cover, reduce heat to low, and continue cooking about 5 minutes. Garnish with cilantro to serve.", 
-            "id": 23307, 
-            "cook_time": 45
-        }, 
-        {
             "total_time": 160, 
             "nutrition": [
-                "Calories: 328 kcal 16", 
-                "Fat: 23.4 g 36", 
-                "Carbs: 13.2g 4", 
-                "Protein: 17.9 g 36", 
-                "Cholesterol: 106 mg 35", 
-                "Sodium: 980 mg 39"
+                "Calories: 328 kcal 16 %", 
+                "Fat: 23.4 g 36 %", 
+                "Carbs: 13.2g 4 %", 
+                "Protein: 17.9 g 36 %", 
+                "Cholesterol: 106 mg 35 %", 
+                "Sodium: 980 mg 39 %"
             ], 
+            "rating": "4.91676712036133", 
             "name": "Curry Stand Chicken Tikka Masala Sauce", 
             "ingredients": [
                 "2 tablespoons ghee (clarified butter) ", 
@@ -250,22 +227,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3496286.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 80, 
+            "prep_time": 15, 
+            "cal": 328, 
             "directions": "Heat ghee in a large skillet over medium heat and cook and stir onion until translucent, about 5 minutes. Stir in garlic; cook and stir just until fragrant, about 1 minute. Stir cumin, 1 teaspoon salt, ginger, cayenne pepper, cinnamon, and turmeric into the onion mixture; fry until fragrant, about 2 minutes. Stir tomato sauce into the onion and spice mixture, bring to a boil, and reduce heat to low. Simmer sauce for 10 minutes, then mix in cream, paprika, and 1 tablespoon sugar. Bring sauce back to a simmer and cook, stirring often, until sauce is thickened, 10 to 15 minutes. Heat vegetable oil in a separate skillet over medium heat. Stir chicken into the hot oil, sprinkle with curry powder, and sear chicken until lightly browned but still pink inside, about 3 minutes; stir often. Transfer chicken and any pan juices into the sauce. Simmer chicken in sauce until no longer pink, about 30 minutes; adjust salt and sugar to taste.", 
-            "id": 23308, 
+            "id": 23307, 
             "cook_time": 65
         }, 
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 192 kcal 10", 
-                "Fat: 2.6 g 4", 
-                "Carbs: 32.5g 10", 
-                "Protein: 12.1 g 24", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 572 mg 23"
+                "Calories: 192 kcal 10 %", 
+                "Fat: 2.6 g 4 %", 
+                "Carbs: 32.5g 10 %", 
+                "Protein: 12.1 g 24 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 572 mg 23 %"
             ], 
+            "rating": "4.49733591079712", 
             "name": "Red Lentil Curry", 
             "ingredients": [
                 "2 cups red lentils ", 
@@ -286,22 +265,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 192, 
             "directions": "Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils.", 
-            "id": 23309, 
+            "id": 23308, 
             "cook_time": 30
         }, 
         {
             "total_time": 160, 
             "nutrition": [
-                "Calories: 223 kcal 11", 
-                "Fat: 15.8 g 24", 
-                "Carbs: 13.5g 4", 
-                "Protein: 6.9 g 14", 
-                "Cholesterol: 62 mg 21", 
-                "Sodium: 734 mg 29"
+                "Calories: 223 kcal 11 %", 
+                "Fat: 15.8 g 24 %", 
+                "Carbs: 13.5g 4 %", 
+                "Protein: 6.9 g 14 %", 
+                "Cholesterol: 62 mg 21 %", 
+                "Sodium: 734 mg 29 %"
             ], 
+            "rating": "4.78947353363037", 
             "name": "Mulligatawny Soup I", 
             "ingredients": [
                 "1/2 cup chopped onion ", 
@@ -323,22 +304,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1096121.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 80, 
+            "prep_time": 20, 
+            "cal": 223, 
             "directions": "Saute onions, celery, carrot, and butter in a large soup pot. Add flour and curry, and cook 5 more minutes. Add chicken stock, mix well, and bring to a boil. Simmer about 1/2 hour. Add apple, rice, chicken, salt, pepper, and thyme. Simmer 15-20 minutes, or until rice is done. When serving, add hot cream.", 
-            "id": 23310, 
+            "id": 23309, 
             "cook_time": 60
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 179 kcal 9", 
-                "Fat: 4.8 g 7", 
-                "Carbs: 30.1g 10", 
-                "Protein: 4 g 8", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 34 mg 1"
+                "Calories: 179 kcal 9 %", 
+                "Fat: 4.8 g 7 %", 
+                "Carbs: 30.1g 10 %", 
+                "Protein: 4 g 8 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 34 mg 1 %"
             ], 
+            "rating": "4.39317512512207", 
             "name": "Carrot Rice", 
             "ingredients": [
                 "1 cup basmati rice ", 
@@ -356,22 +339,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1013061.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 35, 
+            "prep_time": 15, 
+            "cal": 179, 
             "directions": "Combine rice and water in a medium saucepan. Bring to a boil over high heat. Reduce heat to low, cover with lid, and allow to steam until tender, about 20 minutes. While rice is cooking, grind peanuts in a blender and set aside. Heat the margarine in a skillet over medium heat. Stir in the onion; cook and stir until the onion has softened and turned golden brown about 10 minutes. Stir in ginger, carrots, and salt to taste. Reduce heat to low and cover to steam 5 minutes. Stir in cayenne pepper and peanuts. When rice is done, add it to skillet and stir gently to combine with other ingredients. Garnish with chopped cilantro.", 
-            "id": 23311, 
+            "id": 23310, 
             "cook_time": 20
         }, 
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 880 kcal 44", 
-                "Fat: 82.3 g 127", 
-                "Carbs: 12.8g 4", 
-                "Protein: 26.4 g 53", 
-                "Cholesterol: 303 mg 101", 
-                "Sodium: 1461 mg 58"
+                "Calories: 880 kcal 44 %", 
+                "Fat: 82.3 g 127 %", 
+                "Carbs: 12.8g 4 %", 
+                "Protein: 26.4 g 53 %", 
+                "Cholesterol: 303 mg 101 %", 
+                "Sodium: 1461 mg 58 %"
             ], 
+            "rating": "4.70514297485352", 
             "name": "Easy Indian Butter Chicken", 
             "ingredients": [
                 "1 cup butter, divided ", 
@@ -390,22 +375,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2180712.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 880, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Melt a few tablespoons of butter in a skillet over medium heat. Stir in onion and garlic, and cook slowly until the onion caramelizes to a dark brown, about 15 minutes. Meanwhile melt the remaining butter in a saucepan over medium-high heat along with the tomato sauce, heavy cream, salt, cayenne pepper, and garam masala. Bring to a simmer, then reduce heat to medium-low; cover, and simmer for 30 minutes, stirring occasionally. Then stir in caramelized onions. While the sauce is simmering, toss cubed chicken breast with vegetable oil until coated, then season with tandoori masala and spread out onto a baking sheet. Bake chicken in preheated oven until no longer pink in the center, about 12 minutes. Once done, add the chicken to the sauce and simmer for 5 minutes before serving.", 
-            "id": 23312, 
+            "id": 23311, 
             "cook_time": 45
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 135 kcal 7", 
-                "Fat: 4 g 6", 
-                "Carbs: 23.1g 7", 
-                "Protein: 4 g 8", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 331 mg 13"
+                "Calories: 135 kcal 7 %", 
+                "Fat: 4 g 6 %", 
+                "Carbs: 23.1g 7 %", 
+                "Protein: 4 g 8 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 331 mg 13 %"
             ], 
+            "rating": "4.04102563858032", 
             "name": "Gobi Aloo (Indian Style Cauliflower with Potatoes)", 
             "ingredients": [
                 "1 tablespoon vegetable oil ", 
@@ -425,22 +412,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/125180.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 35, 
+            "prep_time": 15, 
+            "cal": 135, 
             "directions": "Heat the oil in a medium skillet over medium heat. Stir in the cumin seeds, garlic, and ginger paste. Cook about 1 minute until garlic is lightly browned. Add the potatoes. Season with turmeric, paprika, cumin, garam masala, and salt. Cover and continue cooking 5 to 7 minutes stirring occasionally. Mix the cauliflower and cilantro into the saucepan. Reduce heat to low and cover. Stirring occasionally, continue cooking 10 minutes, or until potatoes and cauliflower are tender.", 
-            "id": 23313, 
+            "id": 23312, 
             "cook_time": 20
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 408 kcal 20", 
-                "Fat: 27.8 g 43", 
-                "Carbs: 15.6g 5", 
-                "Protein: 23.4 g 47", 
-                "Cholesterol: 107 mg 36", 
-                "Sodium: 523 mg 21"
+                "Calories: 408 kcal 20 %", 
+                "Fat: 27.8 g 43 %", 
+                "Carbs: 15.6g 5 %", 
+                "Protein: 23.4 g 47 %", 
+                "Cholesterol: 107 mg 36 %", 
+                "Sodium: 523 mg 21 %"
             ], 
+            "rating": "4.49310350418091", 
             "name": "Chicken Makhani (Indian Butter Chicken)", 
             "ingredients": [
                 "1 tablespoon peanut oil ", 
@@ -470,22 +459,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/63121.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 408, 
             "directions": "Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce. Mix together cornstarch and water, then stir into the sauce. Cook for 5 to 10 minutes, or until thickened.", 
-            "id": 23314, 
+            "id": 23313, 
             "cook_time": 25
         }, 
         {
             "total_time": 590, 
             "nutrition": [
-                "Calories: 349 kcal 17", 
-                "Fat: 20.5 g 32", 
-                "Carbs: 5.4g 2", 
-                "Protein: 34.2 g 68", 
-                "Cholesterol: 120 mg 40", 
-                "Sodium: 618 mg 25"
+                "Calories: 349 kcal 17 %", 
+                "Fat: 20.5 g 32 %", 
+                "Carbs: 5.4g 2 %", 
+                "Protein: 34.2 g 68 %", 
+                "Cholesterol: 120 mg 40 %", 
+                "Sodium: 618 mg 25 %"
             ], 
+            "rating": "4.40740728378296", 
             "name": "Grilled Chicken Thighs Tandoori", 
             "ingredients": [
                 "2 (6 ounce) containers plain yogurt ", 
@@ -505,22 +496,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/122209.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 535, 
+            "prep_time": 10, 
+            "cal": 349, 
             "directions": "In a medium bowl, stir together yogurt, salt, pepper, cloves, and ginger. Mix in garlic, paprika, cumin, cinnamon, and coriander. Set aside. Rinse chicken under cold water, and pat dry with paper towels. Place chicken in a large resealable plastic bag. Pour yogurt mixture over chicken, press air out of bag, and seal. Turn the bag over several times to distribute marinade. Place bag in a bowl, and refrigerate 8 hours, or overnight, turning bag occasionally. Preheat an outdoor grill for direct medium heat. Remove chicken from bag, and discard marinade. With paper towels, wipe off excess marinade. Spray chicken pieces with olive oil spray. Place chicken on the grill, and cook about 2 minutes. Turn, and cook 2 minutes more. Then arrange the chicken to receive indirect heat, and cook approximately 35 to 40 minutes, to an internal temperature of 180 degrees F.", 
-            "id": 23315, 
+            "id": 23314, 
             "cook_time": 45
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 400 kcal 20", 
-                "Fat: 18.6 g 29", 
-                "Carbs: 53.1g 17", 
-                "Protein: 9.3 g 19", 
-                "Cholesterol: 9 mg 3", 
-                "Sodium: 183 mg 7"
+                "Calories: 400 kcal 20 %", 
+                "Fat: 18.6 g 29 %", 
+                "Carbs: 53.1g 17 %", 
+                "Protein: 9.3 g 19 %", 
+                "Cholesterol: 9 mg 3 %", 
+                "Sodium: 183 mg 7 %"
             ], 
+            "rating": "4", 
             "name": "Potato Chapati Bread", 
             "ingredients": [
                 "1 cup mashed potatoes ", 
@@ -537,22 +530,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/813987.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 45, 
+            "prep_time": 30, 
+            "cal": 400, 
             "directions": "Combine the mashed potatoes, salt, cayenne, turmeric, cilantro, and 3 tablespoons vegetable oil in a bowl and mix well. Add the whole wheat flour a little at a time, kneading the mixture until it forms a stiff but pliable dough. (If the dough becomes too stiff, add a few drops of water.) Transfer the dough to an oiled bowl, turning to coat; cover with plastic and set aside for 10 minutes. Preheat a nonstick griddle to medium heat. Divide the dough into lemon-sized portions and roll them out on a lightly floured surface to 1/4-inch thickness. Fry the chapatis using up to 1 teaspoon of oil for each side. Cook until brown spots have started to form on the bread and the dough is cooked through. Brush with melted butter and serve hot.", 
-            "id": 23316, 
+            "id": 23315, 
             "cook_time": 15
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 313 kcal 16", 
-                "Fat: 21.7 g 33", 
-                "Carbs: 14g 5", 
-                "Protein: 19.1 g 38", 
-                "Cholesterol: 38 mg 13", 
-                "Sodium: 268 mg 11"
+                "Calories: 313 kcal 16 %", 
+                "Fat: 21.7 g 33 %", 
+                "Carbs: 14g 5 %", 
+                "Protein: 19.1 g 38 %", 
+                "Cholesterol: 38 mg 13 %", 
+                "Sodium: 268 mg 11 %"
             ], 
+            "rating": "4.26909732818604", 
             "name": "Indian Chicken Curry II", 
             "ingredients": [
                 "3 tablespoons olive oil ", 
@@ -576,22 +571,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/111308.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 45, 
+            "prep_time": 20, 
+            "cal": 313, 
             "directions": "Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes. Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes.", 
-            "id": 23317, 
+            "id": 23316, 
             "cook_time": 25
         }, 
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 240 kcal 12", 
-                "Fat: 9.9 g 15", 
-                "Carbs: 14.1g 5", 
-                "Protein: 24.6 g 49", 
-                "Cholesterol: 59 mg 20", 
-                "Sodium: 62 mg 2"
+                "Calories: 240 kcal 12 %", 
+                "Fat: 9.9 g 15 %", 
+                "Carbs: 14.1g 5 %", 
+                "Protein: 24.6 g 49 %", 
+                "Cholesterol: 59 mg 20 %", 
+                "Sodium: 62 mg 2 %"
             ], 
+            "rating": "4.07142877578735", 
             "name": "Maharaja Curry", 
             "ingredients": [
                 "2 tablespoons vegetable oil ", 
@@ -609,22 +606,62 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3779279.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 240, 
             "directions": "Heat oil in a large saucepan over medium heat. Stir in cumin seed and cook until they start to pop, 20 to 45 seconds. Stir in onion, and cook until golden brown, about 5 minutes. Season with turmeric, cayenne, garam masala, garlic, and ginger. Cook for 1 to 2 minutes until fragrant. Puree the mixture with the tomatoes in a blender until smooth. Return the puree to the saucepan, and add the chicken. Simmer gently until the chicken has cooked, about 20 minutes; add water as needed while cooking to maintain desired consistency.", 
+            "id": 23317, 
+            "cook_time": 30
+        }, 
+        {
+            "total_time": 100, 
+            "nutrition": [
+                "Calories: 284 kcal 14 %", 
+                "Fat: 13.8 g 21 %", 
+                "Carbs: 26.1g 8 %", 
+                "Protein: 15.1 g 30 %", 
+                "Cholesterol: 35 mg 12 %", 
+                "Sodium: 428 mg 17 %"
+            ], 
+            "rating": "4.16666650772095", 
+            "name": "Curried Chicken and Potatoes", 
+            "ingredients": [
+                "2 tablespoons olive oil ", 
+                " 1 teaspoon cumin seed ", 
+                " 1/2 teaspoon garam masala ", 
+                " 1/4 teaspoon ground cardamom ", 
+                " 1/4 teaspoon cayenne pepper ", 
+                " 1/2 teaspoon black mustard seed ", 
+                " 1/2 teaspoon salt ", 
+                " 2 cloves garlic, minced ", 
+                " 2 (4 ounce) chicken thighs, cut into bite size pieces ", 
+                " 2 medium potatoes, diced ", 
+                " 2 roma (plum) tomatoes, diced ", 
+                " 1/2 bunch Swiss chard, chopped ", 
+                " 1 (8 ounce) container plain yogurt ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/235503.jpg", 
+            "ready_in_time": 50, 
+            "prep_time": 20, 
+            "cal": 284, 
+            "directions": "In a large skillet, heat oil over medium heat. In hot oil, cook cumin seeds, garam masala, cardamom, cayenne pepper, mustard seeds, salt, and garlic. When seeds start to pop, stir in chicken and potatoes. Cook for 15 minutes, or until chicken is nearly done. Stir in tomatoes, chard, and yogurt. Cover, and cook 15 minutes more, or until potatoes are tender and chicken is cooked through.", 
             "id": 23318, 
             "cook_time": 30
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 232 kcal 12", 
-                "Fat: 6.5 g 10", 
-                "Carbs: 36.9g 12", 
-                "Protein: 7.9 g 16", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 542 mg 22"
+                "Calories: 232 kcal 12 %", 
+                "Fat: 6.5 g 10 %", 
+                "Carbs: 36.9g 12 %", 
+                "Protein: 7.9 g 16 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 542 mg 22 %"
             ], 
+            "rating": "4.5409836769104", 
             "name": "Indian Chickpeas", 
             "ingredients": [
                 "2 tablespoons vegetable oil ", 
@@ -642,8 +679,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/944234.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 45, 
+            "prep_time": 25, 
+            "cal": 232, 
             "directions": "Heat oil in a saucepan over medium-high heat. Stir in the garlic, onion, and ginger, and cook until browned. Stir in the garam masala, channa masala spice, tomato, water, and garbanzos; season to taste with salt. Bring to a simmer, the reduce heat to low, cover and simmer until garbanzos are very soft, about 20 minutes.", 
             "id": 23319, 
             "cook_time": 20
@@ -651,13 +689,14 @@
         {
             "total_time": 217, 
             "nutrition": [
-                "Calories: 211 kcal 11", 
-                "Fat: 4.5 g 7", 
-                "Carbs: 36g 12", 
-                "Protein: 6.1 g 12", 
-                "Cholesterol: 22 mg 7", 
-                "Sodium: 364 mg 15"
+                "Calories: 211 kcal 11 %", 
+                "Fat: 4.5 g 7 %", 
+                "Carbs: 36g 12 %", 
+                "Protein: 6.1 g 12 %", 
+                "Cholesterol: 22 mg 7 %", 
+                "Sodium: 364 mg 15 %"
             ], 
+            "rating": "4.70599269866943", 
             "name": "Naan", 
             "ingredients": [
                 "1 (.25 ounce) package active dry yeast ", 
@@ -674,8 +713,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/115386.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 180, 
+            "prep_time": 30, 
+            "cal": 211, 
             "directions": "In a large bowl, dissolve yeast in warm water. Let stand about 10 minutes, until frothy. Stir in sugar, milk, egg, salt, and enough flour to make a soft dough. Knead for 6 to 8 minutes on a lightly floured surface, or until smooth. Place dough in a well oiled bowl, cover with a damp cloth, and set aside to rise. Let it rise 1 hour, until the dough has doubled in volume. Punch down dough, and knead in garlic. Pinch off small handfuls of dough about the size of a golf ball. Roll into balls, and place on a tray. Cover with a towel, and allow to rise until doubled in size, about 30 minutes. During the second rising, preheat grill to high heat. At grill side, roll one ball of dough out into a thin circle. Lightly oil grill. Place dough on grill, and cook for 2 to 3 minutes, or until puffy and lightly browned. Brush uncooked side with butter, and turn over. Brush cooked side with butter, and cook until browned, another 2 to 4 minutes. Remove from grill, and continue the process until all the naan has been prepared.", 
             "id": 23320, 
             "cook_time": 7
@@ -683,13 +723,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 407 kcal 20", 
-                "Fat: 20.1 g 31", 
-                "Carbs: 50.6g 16", 
-                "Protein: 10.1 g 20", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 1176 mg 47"
+                "Calories: 407 kcal 20 %", 
+                "Fat: 20.1 g 31 %", 
+                "Carbs: 50.6g 16 %", 
+                "Protein: 10.1 g 20 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 1176 mg 47 %"
             ], 
+            "rating": "4.47788858413696", 
             "name": "Spicy Vegan Potato Curry", 
             "ingredients": [
                 "4 potatoes, peeled and cubed ", 
@@ -711,8 +752,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/285434.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 407, 
             "directions": "Place potatoes into a large pot and cover with salted water. Bring to a boil over high heat, then reduce heat to medium-low, cover, and simmer until just tender, about 15 minutes. Drain and allow to steam dry for a minute or two. Meanwhile, heat the vegetable oil in a large skillet over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Season with cumin, cayenne pepper, curry powder, garam masala, ginger, and salt; cook for 2 minutes more. Add the tomatoes, garbanzo beans, peas, and potatoes. Pour in the coconut milk, and bring to a simmer. Simmer 5 to 10 minutes before serving.", 
             "id": 23321, 
             "cook_time": 30
@@ -720,13 +762,14 @@
         {
             "total_time": 540, 
             "nutrition": [
-                "Calories: 480 kcal 24", 
-                "Fat: 33.3 g 51", 
-                "Carbs: 17.2g 6", 
-                "Protein: 30.6 g 61", 
-                "Cholesterol: 103 mg 34", 
-                "Sodium: 442 mg 18"
+                "Calories: 480 kcal 24 %", 
+                "Fat: 33.3 g 51 %", 
+                "Carbs: 17.2g 6 %", 
+                "Protein: 30.6 g 61 %", 
+                "Cholesterol: 103 mg 34 %", 
+                "Sodium: 442 mg 18 %"
             ], 
+            "rating": "4.45247936248779", 
             "name": "Slow Cooker Butter Chicken", 
             "ingredients": [
                 "2 tablespoons butter ", 
@@ -748,22 +791,60 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1119998.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 270, 
+            "prep_time": 15, 
+            "cal": 480, 
             "directions": "Melt the butter and vegetable oil in a large skillet over medium heat. Stir in the chicken, onion, and garlic. Cook and stir until the onion has softened and turned translucent, about 10 minutes. Stir in the curry powder, curry paste, tandoori masala, garam masala, and tomato paste until no lumps of tomato paste remain. Pour into a slow cooker, and stir in the cardamom pods, coconut milk, and yogurt. Season to taste with salt. Cook on High 4 to 6 hours, or on Low 6 to 8 hours until the chicken is tender and the sauce has reduced to your desired consistency. Remove and discard the cardamom pods before serving.", 
             "id": 23322, 
             "cook_time": 255
         }, 
         {
+            "total_time": 120, 
+            "nutrition": [
+                "Calories: 146 kcal 7 %", 
+                "Fat: 8 g 12 %", 
+                "Carbs: 15.2g 5 %", 
+                "Protein: 4 g 8 %", 
+                "Cholesterol: 2 mg < 1 %", 
+                "Sodium: 739 mg 30 %"
+            ], 
+            "rating": "4.3059868812561", 
+            "name": "Baingan Bharta (Eggplant Curry)", 
+            "ingredients": [
+                "1 large eggplant ", 
+                " 2 tablespoons vegetable oil ", 
+                " 1 teaspoon cumin seeds ", 
+                " 1 medium onion, thinly sliced ", 
+                " 1 tablespoon ginger garlic paste ", 
+                " 1 tablespoon curry powder ", 
+                " 1 tomato, diced ", 
+                " 1/2 cup plain yogurt ", 
+                " 1 fresh jalapeno chile pepper, finely chopped ", 
+                " 1 teaspoon salt ", 
+                " 1/4 bunch cilantro, finely chopped ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/14597.jpg", 
+            "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 146, 
+            "directions": "Preheat oven to 450 degrees F (230 degrees C). Place eggplant on a medium baking sheet. Bake 20 to 30 minutes in the preheated oven, until tender. Remove from heat, cool, peel, and chop. Heat oil in a medium saucepan over medium heat. Mix in cumin seeds and onion. Cook and stir until onion is tender. Mix ginger garlic paste, curry powder, and tomato into the saucepan, and cook about 1 minute. Stir in yogurt. Mix in eggplant and jalapeno pepper, and season with salt. Cover, and cook 10 minutes over high heat. Remove cover, reduce heat to low, and continue cooking about 5 minutes. Garnish with cilantro to serve.", 
+            "id": 23323, 
+            "cook_time": 45
+        }, 
+        {
             "total_time": 270, 
             "nutrition": [
-                "Calories: 134 kcal 7", 
-                "Fat: 5.4 g 8", 
-                "Carbs: 6.9g 2", 
-                "Protein: 14.7 g 29", 
-                "Cholesterol: 57 mg 19", 
-                "Sodium: 547 mg 22"
+                "Calories: 134 kcal 7 %", 
+                "Fat: 5.4 g 8 %", 
+                "Carbs: 6.9g 2 %", 
+                "Protein: 14.7 g 29 %", 
+                "Cholesterol: 57 mg 19 %", 
+                "Sodium: 547 mg 22 %"
             ], 
+            "rating": "4.53696489334106", 
             "name": "Indian Tomato Chicken", 
             "ingredients": [
                 "1 large onion, chopped ", 
@@ -786,8 +867,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/971717.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 135, 
+            "prep_time": 15, 
+            "cal": 134, 
             "directions": "Place onion, garlic and ginger in a food processor and process into a paste. Heat oil in a large skillet over medium heat, add onion paste and saute, stirring continuously, for about 10 minutes. Stir in the cumin, turmeric, salt, pepper, cardamom, cinnamon, cloves, bay leaves and nutmeg. Saute, stirring, for 1 to 2 minutes. Place chicken pieces in skillet and stir them around with the spice mixture until they are well coated. Saute for another 4 minutes, then pour in the tomatoes with liquid and stir. Reduce heat to low and simmer for 1 to 2 hours, or until the oil has separated from the liquid. Stir occasionally. (Note: If you simmer uncovered, the sauce will thicken; add water, or keep covered while simmering.)", 
             "id": 23324, 
             "cook_time": 120
@@ -795,13 +877,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 462 kcal 23", 
-                "Fat: 31.1 g 48", 
-                "Carbs: 41.3g 13", 
-                "Protein: 8.6 g 17", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 1434 mg 57"
+                "Calories: 462 kcal 23 %", 
+                "Fat: 31.1 g 48 %", 
+                "Carbs: 41.3g 13 %", 
+                "Protein: 8.6 g 17 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 1434 mg 57 %"
             ], 
+            "rating": "4.55674839019775", 
             "name": "Vegetarian Korma", 
             "ingredients": [
                 "1 1/2 tablespoons vegetable oil ", 
@@ -825,8 +908,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3787267.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 55, 
+            "prep_time": 25, 
+            "cal": 462, 
             "directions": "Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender. Mix in ginger and garlic, and continue cooking 1 minute. Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender. Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes. Garnish with cilantro to serve.", 
             "id": 23325, 
             "cook_time": 30
@@ -834,13 +918,14 @@
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 235 kcal 12", 
-                "Fat: 14.1 g 22", 
-                "Carbs: 25.7g 8", 
-                "Protein: 3.3 g 7", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 593 mg 24"
+                "Calories: 235 kcal 12 %", 
+                "Fat: 14.1 g 22 %", 
+                "Carbs: 25.7g 8 %", 
+                "Protein: 3.3 g 7 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 593 mg 24 %"
             ], 
+            "rating": "4.39810419082642", 
             "name": "Aloo Phujia", 
             "ingredients": [
                 "1 onion, chopped ", 
@@ -856,8 +941,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/695663.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 30, 
+            "prep_time": 10, 
+            "cal": 235, 
             "directions": "Lightly brown onion in oil in a medium size skillet. Stir in salt, cayenne, turmeric and cumin. Add potatoes and cook 10 minutes stirring occasionally. Add tomatoes, cover pan and cook until potatoes are soft, about 10 minutes.", 
             "id": 23326, 
             "cook_time": 20
@@ -865,13 +951,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 135 kcal 7", 
-                "Fat: 4.5 g 7", 
-                "Carbs: 20.5g 7", 
-                "Protein: 4.1 g 8", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 289 mg 12"
+                "Calories: 135 kcal 7 %", 
+                "Fat: 4.5 g 7 %", 
+                "Carbs: 20.5g 7 %", 
+                "Protein: 4.1 g 8 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 289 mg 12 %"
             ], 
+            "rating": "4.22315454483032", 
             "name": "Chickpea Curry", 
             "ingredients": [
                 "2 tablespoons vegetable oil ", 
@@ -892,8 +979,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/163375.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 135, 
             "directions": "Heat oil in a large frying pan over medium heat, and fry onions until tender. Stir in garlic, ginger, cloves, cinnamon, cumin, coriander, salt, cayenne, and turmeric. Cook for 1 minute over medium heat, stirring constantly. Mix in garbanzo beans and their liquid. Continue to cook and stir until all ingredients are well blended and heated through. Remove from heat. Stir in cilantro just before serving, reserving 1 tablespoon for garnish.", 
             "id": 23327, 
             "cook_time": 30
@@ -901,13 +989,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 513 kcal 26", 
-                "Fat: 33.4 g 51", 
-                "Carbs: 48.2g 16", 
-                "Protein: 11.3 g 23", 
-                "Cholesterol: 10 mg 3", 
-                "Sodium: 99 mg 4"
+                "Calories: 513 kcal 26 %", 
+                "Fat: 33.4 g 51 %", 
+                "Carbs: 48.2g 16 %", 
+                "Protein: 11.3 g 23 %", 
+                "Cholesterol: 10 mg 3 %", 
+                "Sodium: 99 mg 4 %"
             ], 
+            "rating": "4.44444465637207", 
             "name": "Kheer (Rice Pudding)", 
             "ingredients": [
                 "2 cups coconut milk ", 
@@ -924,8 +1013,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2237989.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 513, 
             "directions": "Bring the coconut milk, milk and sugar to a boil in a large saucepan. Add Basmati rice, and simmer over low heat until the mixture thickens and the rice is tender, about 20 minutes. Stir in the raisins, cardamom and rose water, and cook for a few more minutes. Ladle into serving bowls, and garnish with almonds and pistachios.", 
             "id": 23328, 
             "cook_time": 25
@@ -933,13 +1023,14 @@
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 398 kcal 20", 
-                "Fat: 20.4 g 31", 
-                "Carbs: 31.1g 10", 
-                "Protein: 26.5 g 53", 
-                "Cholesterol: 58 mg 19", 
-                "Sodium: 179 mg 7"
+                "Calories: 398 kcal 20 %", 
+                "Fat: 20.4 g 31 %", 
+                "Carbs: 31.1g 10 %", 
+                "Protein: 26.5 g 53 %", 
+                "Cholesterol: 58 mg 19 %", 
+                "Sodium: 179 mg 7 %"
             ], 
+            "rating": "4.26130676269531", 
             "name": "Spicy Indian Chicken and Mango Curry", 
             "ingredients": [
                 "2 medium mangoes, peeled and sliced, divided ", 
@@ -954,8 +1045,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/15532.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 35, 
+            "prep_time": 25, 
+            "cal": 398, 
             "directions": "Place half of the mango slices into the bowl of a blender with the coconut milk. Blend until smooth and reserve for later. Heat the oil in a large pot over medium-high heat. Stir in the curry paste, and cook until fragrant, about 1 minute. Add the chicken and shallot; cook until the chicken is done and the shallots have softened, about 5 minutes. Pour in the mango puree, and cook until heated through. To serve, stir in the remaining mango slices and cucumber.", 
             "id": 23329, 
             "cook_time": 10
@@ -963,13 +1055,14 @@
         {
             "total_time": 130, 
             "nutrition": [
-                "Calories: 235 kcal 12", 
-                "Fat: 17.1 g 26", 
-                "Carbs: 17.4g 6", 
-                "Protein: 7.8 g 16", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 1053 mg 42"
+                "Calories: 235 kcal 12 %", 
+                "Fat: 17.1 g 26 %", 
+                "Carbs: 17.4g 6 %", 
+                "Protein: 7.8 g 16 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 1053 mg 42 %"
             ], 
+            "rating": "4.29797983169556", 
             "name": "Coconut Tofu Keema", 
             "ingredients": [
                 "1/4 cup olive oil ", 
@@ -990,8 +1083,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/45671.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 65, 
+            "prep_time": 20, 
+            "cal": 235, 
             "directions": "Heat olive oil in a large saucepan over medium heat. Stir in garlic, onion, and tofu; cover, and cook, stirring occasionally for 5 to 10 minutes. Stir in coconut milk, cumin, curry powder, ginger, salt, and red pepper paste; bring to a simmer. Stir in tomato sauce, peas, and carrots; simmer, covered, about 30 minutes.", 
             "id": 23330, 
             "cook_time": 45

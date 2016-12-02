@@ -3,13 +3,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 192 kcal 10", 
-                "Fat: 2.6 g 4", 
-                "Carbs: 32.5g 10", 
-                "Protein: 12.1 g 24", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 572 mg 23"
+                "Calories: 192 kcal 10 %", 
+                "Fat: 2.6 g 4 %", 
+                "Carbs: 32.5g 10 %", 
+                "Protein: 12.1 g 24 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 572 mg 23 %"
             ], 
+            "rating": "4.49733591079712", 
             "name": "Red Lentil Curry", 
             "ingredients": [
                 "2 cups red lentils ", 
@@ -30,8 +31,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/490284.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 192, 
             "directions": "Wash the lentils in cold water until the water runs clear. Put lentils in a pot with enough water to cover; bring to a boil, place a cover on the pot, reduce heat to medium-low, and simmer, adding water during cooking as needed to keep covered, until tender, 15 to 20 minutes. Drain. Heat vegetable oil in a large skillet over medium heat; cook and stir onions in hot oil until caramelized, about 20 minutes. Mix curry paste, curry powder, turmeric, cumin, chili powder, salt, sugar, garlic, and ginger together in a large bowl; stir into the onions. Increase heat to high and cook, stirring constantly, until fragrant, 1 to 2 minutes. Stir in the tomato puree, remove from heat and stir into the lentils.", 
             "id": 22701, 
             "cook_time": 30
@@ -39,13 +41,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 404 kcal 20", 
-                "Fat: 28.9 g 44", 
-                "Carbs: 13.3g 4", 
-                "Protein: 24.6 g 49", 
-                "Cholesterol: 143 mg 48", 
-                "Sodium: 4499 mg 180"
+                "Calories: 404 kcal 20 %", 
+                "Fat: 28.9 g 44 %", 
+                "Carbs: 13.3g 4 %", 
+                "Protein: 24.6 g 49 %", 
+                "Cholesterol: 143 mg 48 %", 
+                "Sodium: 4499 mg 180 %"
             ], 
+            "rating": "4.38589859008789", 
             "name": "Chicken Tikka Masala", 
             "ingredients": [
                 "1 cup yogurt ", 
@@ -72,8 +75,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/39905.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 140, 
+            "prep_time": 30, 
+            "cal": 404, 
             "directions": "In a large bowl, combine yogurt, lemon juice, 2 teaspoons cumin, cinnamon, cayenne, black pepper, ginger, and 4 teaspoons salt. Stir in chicken, cover, and refrigerate for 1 hour. Preheat a grill for high heat. Lightly oil the grill grate. Thread chicken onto skewers, and discard marinade. Grill until juices run clear, about 5 minutes on each side. Melt butter in a large heavy skillet over medium heat. Saute garlic and jalapeno for 1 minute. Season with 2 teaspoons cumin, paprika, and 3 teaspoons salt. Stir in tomato sauce and cream. Simmer on low heat until sauce thickens, about 20 minutes. Add grilled chicken, and simmer for 10 minutes. Transfer to a serving platter, and garnish with fresh cilantro.", 
             "id": 22702, 
             "cook_time": 50
@@ -81,13 +85,14 @@
         {
             "total_time": 140, 
             "nutrition": [
-                "Calories: 375 kcal 19", 
-                "Fat: 20.9 g 32", 
-                "Carbs: 16.7g 5", 
-                "Protein: 32.2 g 64", 
-                "Cholesterol: 78 mg 26", 
-                "Sodium: 807 mg 32"
+                "Calories: 375 kcal 19 %", 
+                "Fat: 20.9 g 32 %", 
+                "Carbs: 16.7g 5 %", 
+                "Protein: 32.2 g 64 %", 
+                "Cholesterol: 78 mg 26 %", 
+                "Sodium: 807 mg 32 %"
             ], 
+            "rating": "4.49748134613037", 
             "name": "Curried Coconut Chicken", 
             "ingredients": [
                 "2 pounds boneless skinless chicken breasts, cut into 1/2-inch chunks ", 
@@ -104,9 +109,10 @@
                 " Add all ingredients to list May we suggest ", 
                 ""
             ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/2627058.jpg", 
-            "prep_time": 20, 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/3591067.jpg", 
             "ready_in_time": 70, 
+            "prep_time": 20, 
+            "cal": 375, 
             "directions": "Season chicken pieces with salt and pepper. Heat oil and curry powder in a large skillet over medium-high heat for two minutes. Stir in onions and garlic, and cook 1 minute more. Add chicken, tossing lightly to coat with curry oil. Reduce heat to medium, and cook for 7 to 10 minutes, or until chicken is no longer pink in center and juices run clear. Pour coconut milk, tomatoes, tomato sauce, and sugar into the pan, and stir to combine. Cover and simmer, stirring occasionally, approximately 30 to 40 minutes.", 
             "id": 22703, 
             "cook_time": 50
@@ -114,13 +120,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 187 kcal 9", 
-                "Fat: 14.2 g 22", 
-                "Carbs: 13.2g 4", 
-                "Protein: 5.1 g 10", 
-                "Cholesterol: 27 mg 9", 
-                "Sodium: 611 mg 24"
+                "Calories: 187 kcal 9 %", 
+                "Fat: 14.2 g 22 %", 
+                "Carbs: 13.2g 4 %", 
+                "Protein: 5.1 g 10 %", 
+                "Cholesterol: 27 mg 9 %", 
+                "Sodium: 611 mg 24 %"
             ], 
+            "rating": "4.57950019836426", 
             "name": "Broccoli with Garlic Butter and Cashews", 
             "ingredients": [
                 "1 1/2 pounds fresh broccoli, cut into bite size pieces ", 
@@ -136,8 +143,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/814892.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 187, 
             "directions": "Place the broccoli into a large pot with about 1 inch of water in the bottom. Bring to a boil, and cook for 7 minutes, or until tender but still crisp. Drain, and arrange broccoli on a serving platter. While the broccoli is cooking, melt the butter in a small skillet over medium heat. Mix in the brown sugar, soy sauce, vinegar, pepper and garlic. Bring to a boil, then remove from the heat. Mix in the cashews, and pour the sauce over the broccoli. Serve immediately.", 
             "id": 22704, 
             "cook_time": 10
@@ -145,13 +153,14 @@
         {
             "total_time": 150, 
             "nutrition": [
-                "Calories: 437 kcal 22", 
-                "Fat: 23.3 g 36", 
-                "Carbs: 25.3g 8", 
-                "Protein: 34.4 g 69", 
-                "Cholesterol: 66 mg 22", 
-                "Sodium: 596 mg 24"
+                "Calories: 437 kcal 22 %", 
+                "Fat: 23.3 g 36 %", 
+                "Carbs: 25.3g 8 %", 
+                "Protein: 34.4 g 69 %", 
+                "Cholesterol: 66 mg 22 %", 
+                "Sodium: 596 mg 24 %"
             ], 
+            "rating": "4.28345823287964", 
             "name": "Kung Pao Chicken", 
             "ingredients": [
                 "1 pound skinless, boneless chicken breast halves - cut into chunks ", 
@@ -171,8 +180,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/290890.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 90, 
+            "prep_time": 30, 
+            "cal": 437, 
             "directions": "To Make Marinade: Combine 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon oil and 1 tablespoon cornstarch/water mixture and mix together. Place chicken pieces in a glass dish or bowl and add marinade. Toss to coat. Cover dish and place in refrigerator for about 30 minutes. To Make Sauce: In a small bowl combine 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon oil, 1 tablespoon cornstarch/water mixture, chili paste, vinegar and sugar. Mix together and add green onion, garlic, water chestnuts and peanuts. In a medium skillet, heat sauce slowly until aromatic. Meanwhile, remove chicken from marinade and saute in a large skillet until meat is white and juices run clear. When sauce is aromatic, add sauteed chicken to it and let simmer together until sauce thickens.", 
             "id": 22705, 
             "cook_time": 30
@@ -180,13 +190,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 142 kcal 7", 
-                "Fat: 4.4 g 7", 
-                "Carbs: 6.7g 2", 
-                "Protein: 18.3 g 37", 
-                "Cholesterol: 164 mg 55", 
-                "Sodium: 500 mg 20"
+                "Calories: 142 kcal 7 %", 
+                "Fat: 4.4 g 7 %", 
+                "Carbs: 6.7g 2 %", 
+                "Protein: 18.3 g 37 %", 
+                "Cholesterol: 164 mg 55 %", 
+                "Sodium: 500 mg 20 %"
             ], 
+            "rating": "4.4175181388855", 
             "name": "Szechwan Shrimp", 
             "ingredients": [
                 "4 tablespoons water ", 
@@ -205,8 +216,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1052895.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 20, 
+            "prep_time": 10, 
+            "cal": 142, 
             "directions": "In a bowl, stir together water, ketchup, soy sauce, cornstarch, honey, crushed red pepper, and ground ginger. Set aside. Heat oil in a large skillet over medium-high heat. Stir in green onions and garlic; cook 30 seconds. Stir in shrimp, and toss to coat with oil. Stir in sauce. Cook and stir until sauce is bubbly and thickened.", 
             "id": 22706, 
             "cook_time": 10
@@ -214,13 +226,14 @@
         {
             "total_time": 30, 
             "nutrition": [
-                "Calories: 255 kcal 13", 
-                "Fat: 10.2 g 16", 
-                "Carbs: 25.9g 8", 
-                "Protein: 14.1 g 28", 
-                "Cholesterol: 83 mg 28", 
-                "Sodium: 516 mg 21"
+                "Calories: 255 kcal 13 %", 
+                "Fat: 10.2 g 16 %", 
+                "Carbs: 25.9g 8 %", 
+                "Protein: 14.1 g 28 %", 
+                "Cholesterol: 83 mg 28 %", 
+                "Sodium: 516 mg 21 %"
             ], 
+            "rating": "4.38619089126587", 
             "name": "Chinese Chicken Fried Rice II", 
             "ingredients": [
                 "1 egg ", 
@@ -237,8 +250,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/855246.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 15, 
+            "prep_time": 5, 
+            "cal": 255, 
             "directions": "In a small bowl, beat egg with water. Melt butter in a large skillet over medium low heat. Add egg and leave flat for 1 to 2 minutes. Remove from skillet and cut into shreds. Heat oil in same skillet; add onion and saute until soft. Then add rice, soy sauce, pepper and chicken. Stir fry together for about 5 minutes, then stir in egg. Serve hot.", 
             "id": 22707, 
             "cook_time": 10
@@ -246,13 +260,14 @@
         {
             "total_time": 30, 
             "nutrition": [
-                "Calories: 203 kcal 10", 
-                "Fat: 10 g 15", 
-                "Carbs: 9.7g 3", 
-                "Protein: 16 g 32", 
-                "Cholesterol: 39 mg 13", 
-                "Sodium: 711 mg 28"
+                "Calories: 203 kcal 10 %", 
+                "Fat: 10 g 15 %", 
+                "Carbs: 9.7g 3 %", 
+                "Protein: 16 g 32 %", 
+                "Cholesterol: 39 mg 13 %", 
+                "Sodium: 711 mg 28 %"
             ], 
+            "rating": "4.3052544593811", 
             "name": "Asian Beef with Snow Peas", 
             "ingredients": [
                 "3 tablespoons soy sauce ", 
@@ -269,8 +284,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/971360.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 15, 
+            "prep_time": 5, 
+            "cal": 203, 
             "directions": "In a small bowl, combine the soy sauce, rice wine, brown sugar and cornstarch. Set aside. Heat oil in a wok or skillet over medium high heat. Stir-fry ginger and garlic for 30 seconds. Add the steak and stir-fry for 2 minutes or until evenly browned. Add the snow peas and stir-fry for an additional 3 minutes. Add the soy sauce mixture, bring to a boil, stirring constantly. Lower heat and simmer until the sauce is thick and smooth. Serve immediately.", 
             "id": 22708, 
             "cook_time": 10
@@ -278,13 +294,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 304 kcal 15", 
-                "Fat: 19.7 g 30", 
-                "Carbs: 15g 5", 
-                "Protein: 17.8 g 36", 
-                "Cholesterol: 51 mg 17", 
-                "Sodium: 1405 mg 56"
+                "Calories: 304 kcal 15 %", 
+                "Fat: 19.7 g 30 %", 
+                "Carbs: 15g 5 %", 
+                "Protein: 17.8 g 36 %", 
+                "Cholesterol: 51 mg 17 %", 
+                "Sodium: 1405 mg 56 %"
             ], 
+            "rating": "4.5625", 
             "name": "Sinigang na Baka", 
             "ingredients": [
                 "2 tablespoons canola oil ", 
@@ -302,8 +319,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/176495.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 304, 
             "directions": "Heat oil in medium stock pot. Saute onion and garlic until tender. Add beef to pot, and saute until browned. Pour in water. Bring to a boil, reduce heat, and simmer 20 to 30 minutes. Place tomatoes and green beans in pot, and continue to simmer for 10 minutes. Stir in bok choy, broccoli and tamarind soup mix. Simmer for an additional 10 minutes.", 
             "id": 22709, 
             "cook_time": 45
@@ -311,13 +329,14 @@
         {
             "total_time": 160, 
             "nutrition": [
-                "Calories: 223 kcal 11", 
-                "Fat: 15.8 g 24", 
-                "Carbs: 13.5g 4", 
-                "Protein: 6.9 g 14", 
-                "Cholesterol: 62 mg 21", 
-                "Sodium: 734 mg 29"
+                "Calories: 223 kcal 11 %", 
+                "Fat: 15.8 g 24 %", 
+                "Carbs: 13.5g 4 %", 
+                "Protein: 6.9 g 14 %", 
+                "Cholesterol: 62 mg 21 %", 
+                "Sodium: 734 mg 29 %"
             ], 
+            "rating": "4.78947353363037", 
             "name": "Mulligatawny Soup I", 
             "ingredients": [
                 "1/2 cup chopped onion ", 
@@ -339,22 +358,54 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1096121.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 80, 
+            "prep_time": 20, 
+            "cal": 223, 
             "directions": "Saute onions, celery, carrot, and butter in a large soup pot. Add flour and curry, and cook 5 more minutes. Add chicken stock, mix well, and bring to a boil. Simmer about 1/2 hour. Add apple, rice, chicken, salt, pepper, and thyme. Simmer 15-20 minutes, or until rice is done. When serving, add hot cream.", 
             "id": 22710, 
             "cook_time": 60
         }, 
         {
+            "total_time": 115, 
+            "nutrition": [
+                "Calories: 1238 kcal 62 %", 
+                "Fat: 96.3 g 148 %", 
+                "Carbs: 3.8g 1 %", 
+                "Protein: 85.2 g 170 %", 
+                "Cholesterol: 340 mg 114 %", 
+                "Sodium: 430 mg 17 %"
+            ], 
+            "rating": "4.63265323638916", 
+            "name": "Simple Malaysian Fried Chicken", 
+            "ingredients": [
+                "1 (4 pound) whole chicken, cut into pieces ", 
+                " 6 cloves garlic, chopped ", 
+                " 4 tablespoons oyster sauce ", 
+                " 2 tablespoons curry powder ", 
+                " 1/2 cup vegetable oil ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/250x250/35849.jpg", 
+            "ready_in_time": 75, 
+            "prep_time": 15, 
+            "cal": 1238, 
+            "directions": "To Marinate: In a nonporous glass dish or bowl, combine the garlic, oyster sauce and curry powder. Mix together. Add chicken pieces and turn to coat. Cover dish or bowl and refrigerate to marinate for at least 1/2 hour. In a large skillet or wok, heat oil over medium high heat. Add marinated chicken (disposing of leftover marinade) and fry for 20 to 25 minutes or until chicken is crispy and brown and juices run clear.", 
+            "id": 22711, 
+            "cook_time": 25
+        }, 
+        {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 356 kcal 18", 
-                "Fat: 14.3 g 22", 
-                "Carbs: 34g 11", 
-                "Protein: 22.7 g 45", 
-                "Cholesterol: 43 mg 14", 
-                "Sodium: 1824 mg 73"
+                "Calories: 356 kcal 18 %", 
+                "Fat: 14.3 g 22 %", 
+                "Carbs: 34g 11 %", 
+                "Protein: 22.7 g 45 %", 
+                "Cholesterol: 43 mg 14 %", 
+                "Sodium: 1824 mg 73 %"
             ], 
+            "rating": "4.52173900604248", 
             "name": "Mie Goreng - Indonesian Fried Noodles", 
             "ingredients": [
                 "3 (3 ounce) packages ramen noodles (without flavor packets) ", 
@@ -379,22 +430,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/294621.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 35, 
+            "prep_time": 20, 
+            "cal": 356, 
             "directions": "Bring a pan of water to a boil, and cook the ramen until tender, about 3 minutes. Plunge the noodles into cold water to stop the cooking, drain in a colander set in the sink, and drizzle the noodles with 1 tablespoon of vegetable oil. Set aside. Place the chicken strips in a bowl, and toss with olive oil, garlic salt, and black pepper. Heat 1 tablespoon of oil in a wok over high heat, and cook and stir the chicken until it is no longer pink, about 5 minutes. Stir in the shallots and garlic, and cook and stir until they start to turn brown. Add the cabbage, carrots, broccoli, and mushrooms, and cook and stir until the vegetables are tender, about 5 minutes. Stir in the ramen noodles, soy sauce, sweet soy sauce, and oyster sauce, mixing the noodles and sauces into the vegetables and chicken. Bring the mixture to a simmer, sprinkle with salt and pepper, and serve hot.", 
-            "id": 22711, 
+            "id": 22712, 
             "cook_time": 15
         }, 
         {
             "total_time": 280, 
             "nutrition": [
-                "Calories: 445 kcal 22", 
-                "Fat: 11.2 g 17", 
-                "Carbs: 68.7g 22", 
-                "Protein: 17.8 g 36", 
-                "Cholesterol: 34 mg 11", 
-                "Sodium: 763 mg 31"
+                "Calories: 445 kcal 22 %", 
+                "Fat: 11.2 g 17 %", 
+                "Carbs: 68.7g 22 %", 
+                "Protein: 17.8 g 36 %", 
+                "Cholesterol: 34 mg 11 %", 
+                "Sodium: 763 mg 31 %"
             ], 
+            "rating": "4.45454549789429", 
             "name": "Asian Orange Chicken", 
             "ingredients": [
                 "Sauce: ", 
@@ -422,22 +475,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1207689.jpg", 
-            "prep_time": 40, 
             "ready_in_time": 200, 
+            "prep_time": 40, 
+            "cal": 445, 
             "directions": "Pour 1 1/2 cups water, orange juice, lemon juice, rice vinegar, and soy sauce into a saucepan and set over medium-high heat. Stir in the orange zest, brown sugar, ginger, garlic, chopped onion, and red pepper flakes. Bring to a boil. Remove from heat, and cool 10 to 15 minutes. Place the chicken pieces into a resealable plastic bag. When contents of saucepan have cooled, pour 1 cup of sauce into bag. Reserve the remaining sauce. Seal the bag, and refrigerate at least 2 hours. In another resealable plastic bag, mix the flour, salt, and pepper. Add the marinated chicken pieces, seal the bag, and shake to coat. Heat the olive oil in a large skillet over medium heat. Place chicken into the skillet, and brown on both sides. Drain on a plate lined with paper towels, and cover with aluminum foil. Wipe out the skillet, and add the sauce. Bring to a boil over medium-high heat. Mix together the cornstarch and 2 tablespoons water; stir into the sauce. Reduce heat to medium low, add the chicken pieces, and simmer, about 5 minutes, stirring occasionally.", 
-            "id": 22712, 
+            "id": 22713, 
             "cook_time": 40
         }, 
         {
             "total_time": 217, 
             "nutrition": [
-                "Calories: 211 kcal 11", 
-                "Fat: 4.5 g 7", 
-                "Carbs: 36g 12", 
-                "Protein: 6.1 g 12", 
-                "Cholesterol: 22 mg 7", 
-                "Sodium: 364 mg 15"
+                "Calories: 211 kcal 11 %", 
+                "Fat: 4.5 g 7 %", 
+                "Carbs: 36g 12 %", 
+                "Protein: 6.1 g 12 %", 
+                "Cholesterol: 22 mg 7 %", 
+                "Sodium: 364 mg 15 %"
             ], 
+            "rating": "4.70599269866943", 
             "name": "Naan", 
             "ingredients": [
                 "1 (.25 ounce) package active dry yeast ", 
@@ -454,22 +509,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/115386.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 180, 
+            "prep_time": 30, 
+            "cal": 211, 
             "directions": "In a large bowl, dissolve yeast in warm water. Let stand about 10 minutes, until frothy. Stir in sugar, milk, egg, salt, and enough flour to make a soft dough. Knead for 6 to 8 minutes on a lightly floured surface, or until smooth. Place dough in a well oiled bowl, cover with a damp cloth, and set aside to rise. Let it rise 1 hour, until the dough has doubled in volume. Punch down dough, and knead in garlic. Pinch off small handfuls of dough about the size of a golf ball. Roll into balls, and place on a tray. Cover with a towel, and allow to rise until doubled in size, about 30 minutes. During the second rising, preheat grill to high heat. At grill side, roll one ball of dough out into a thin circle. Lightly oil grill. Place dough on grill, and cook for 2 to 3 minutes, or until puffy and lightly browned. Brush uncooked side with butter, and turn over. Brush cooked side with butter, and cook until browned, another 2 to 4 minutes. Remove from grill, and continue the process until all the naan has been prepared.", 
-            "id": 22713, 
+            "id": 22714, 
             "cook_time": 7
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 408 kcal 20", 
-                "Fat: 27.8 g 43", 
-                "Carbs: 15.6g 5", 
-                "Protein: 23.4 g 47", 
-                "Cholesterol: 107 mg 36", 
-                "Sodium: 523 mg 21"
+                "Calories: 408 kcal 20 %", 
+                "Fat: 27.8 g 43 %", 
+                "Carbs: 15.6g 5 %", 
+                "Protein: 23.4 g 47 %", 
+                "Cholesterol: 107 mg 36 %", 
+                "Sodium: 523 mg 21 %"
             ], 
+            "rating": "4.49310350418091", 
             "name": "Chicken Makhani (Indian Butter Chicken)", 
             "ingredients": [
                 "1 tablespoon peanut oil ", 
@@ -499,22 +556,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/63121.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 35, 
+            "prep_time": 10, 
+            "cal": 408, 
             "directions": "Heat 1 tablespoon oil in a large saucepan over medium high heat. Saute shallot and onion until soft and translucent. Stir in butter, lemon juice, ginger-garlic paste, 1 teaspoon garam masala, chili powder, cumin and bay leaf. Cook, stirring, for 1 minute. Add tomato sauce, and cook for 2 minutes, stirring frequently. Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, stirring frequently. Season with salt pepper. Remove from heat and set aside. Heat 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes. Reduce heat, and season with 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Stir cooked chicken into sauce. Mix together cornstarch and water, then stir into the sauce. Cook for 5 to 10 minutes, or until thickened.", 
-            "id": 22714, 
+            "id": 22715, 
             "cook_time": 25
         }, 
         {
             "total_time": 70, 
             "nutrition": [
-                "Calories: 388 kcal 19", 
-                "Fat: 22.3 g 34", 
-                "Carbs: 24.3g 8", 
-                "Protein: 23.4 g 47", 
-                "Cholesterol: 69 mg 23", 
-                "Sodium: 580 mg 23"
+                "Calories: 388 kcal 19 %", 
+                "Fat: 22.3 g 34 %", 
+                "Carbs: 24.3g 8 %", 
+                "Protein: 23.4 g 47 %", 
+                "Cholesterol: 69 mg 23 %", 
+                "Sodium: 580 mg 23 %"
             ], 
+            "rating": "4.61916828155518", 
             "name": "Asian Lettuce Wraps", 
             "ingredients": [
                 "16 Boston Bibb or butter lettuce leaves ", 
@@ -535,22 +594,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2630776.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 35, 
+            "prep_time": 20, 
+            "cal": 388, 
             "directions": "Rinse whole lettuce leaves and pat dry, being careful not tear them. Set aside. Heat a large skillet over medium-high heat. Cook and stir beef and cooking oil in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease; transfer beef to a bowl. Cook and stir onion in the same skillet used for beef until slightly tender, 5 to 10 minutes. Stir hoisin sauce, garlic, soy sauce, vinegar, ginger, and chile pepper sauce into onions. Add water chestnuts, green onions, sesame oil, and cooked beef; cook and stir until the onions just begin to wilt, about 2 minutes. Arrange lettuce leaves around the outer edge of a large serving platter and pile meat mixture in the center.", 
-            "id": 22715, 
+            "id": 22716, 
             "cook_time": 15
         }, 
         {
             "total_time": 300, 
             "nutrition": [
-                "Calories: 367 kcal 18", 
-                "Fat: 25 g 39", 
-                "Carbs: 10.8g 3", 
-                "Protein: 24.4 g 49", 
-                "Cholesterol: 76 mg 25", 
-                "Sodium: 1866 mg 75"
+                "Calories: 367 kcal 18 %", 
+                "Fat: 25 g 39 %", 
+                "Carbs: 10.8g 3 %", 
+                "Protein: 24.4 g 49 %", 
+                "Cholesterol: 76 mg 25 %", 
+                "Sodium: 1866 mg 75 %"
             ], 
+            "rating": "4.54918050765991", 
             "name": "Beef Yakitori", 
             "ingredients": [
                 "1/2 cup soy sauce ", 
@@ -567,22 +628,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/236815.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 270, 
+            "prep_time": 15, 
+            "cal": 367, 
             "directions": "In a glass or plastic bowl, whisk together the soy sauce, oil, lemon juice, sesame seeds, sugar, green onions, garlic, and ginger. Thread the meat onto skewers. (If you are using wooden skewers, soak them 30 minutes first.) Place the skewers in a plastic or glass container just large enough to hold them, and pour the marinade over the meat, turning to coat well. Cover, and chill for a minimum of 4 hours. Preheat grill for high heat, and position grate 5 inches from coals. Brush grate with oil, and place skewers on grill. Grill for 10 to 15 minutes, occasionally turning kabobs to ensure even cooking.", 
-            "id": 22716, 
+            "id": 22717, 
             "cook_time": 15
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 261 kcal 13", 
-                "Fat: 8.4 g 13", 
-                "Carbs: 39.7g 13", 
-                "Protein: 5.8 g 12", 
-                "Cholesterol: 46 mg 16", 
-                "Sodium: 381 mg 15"
+                "Calories: 261 kcal 13 %", 
+                "Fat: 8.4 g 13 %", 
+                "Carbs: 39.7g 13 %", 
+                "Protein: 5.8 g 12 %", 
+                "Cholesterol: 46 mg 16 %", 
+                "Sodium: 381 mg 15 %"
             ], 
+            "rating": "4.32337427139282", 
             "name": "Fried Rice Restaurant Style", 
             "ingredients": [
                 "2 cups enriched white rice ", 
@@ -598,22 +661,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/431469.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 45, 
+            "prep_time": 15, 
+            "cal": 261, 
             "directions": "In a saucepan, combine rice and water. Bring to a boil. Reduce heat, cover, and simmer for 20 minutes. In a small saucepan, boil carrots in water about 3 to 5 minutes. Drop peas into boiling water, and drain. Heat wok over high heat. Pour in oil, then stir in carrots and peas; cook about 30 seconds. Crack in eggs, stirring quickly to scramble eggs with vegetables. Stir in cooked rice. Shake in soy sauce, and toss rice to coat. Drizzle with sesame oil, and toss again.", 
-            "id": 22717, 
+            "id": 22718, 
             "cook_time": 30
         }, 
         {
             "total_time": 60, 
             "nutrition": [
-                "Calories: 349 kcal 17", 
-                "Fat: 15.2 g 23", 
-                "Carbs: 38.3g 12", 
-                "Protein: 15.9 g 32", 
-                "Cholesterol: 24 mg 8", 
-                "Sodium: 308 mg 12"
+                "Calories: 349 kcal 17 %", 
+                "Fat: 15.2 g 23 %", 
+                "Carbs: 38.3g 12 %", 
+                "Protein: 15.9 g 32 %", 
+                "Cholesterol: 24 mg 8 %", 
+                "Sodium: 308 mg 12 %"
             ], 
+            "rating": "4.44816589355469", 
             "name": "Sesame Pasta Chicken Salad", 
             "ingredients": [
                 "1/4 cup sesame seeds ", 
@@ -633,22 +698,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/92940.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 30, 
+            "prep_time": 20, 
+            "cal": 349, 
             "directions": "Heat a skillet over medium-high heat. Add sesame seeds, and cook stirring frequently until lightly toasted. Remove from heat, and set aside. Bring a large pot of lightly salted water to a boil. Add pasta, and cook for 8 to 10 minutes, or until al dente. Drain pasta, and rinse under cold water until cool. Transfer to a large bowl. In a jar with a tight-fitting lid, combine vegetable oil, soy sauce, vinegar, sesame oil, sugar, sesame seeds, ginger, and pepper. Shake well. Pour sesame dressing over pasta, and toss to coat evenly. Gently mix in chicken, cilantro, and green onions.", 
-            "id": 22718, 
+            "id": 22719, 
             "cook_time": 10
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 184 kcal 9", 
-                "Fat: 8.5 g 13", 
-                "Carbs: 18.5g 6", 
-                "Protein: 7.9 g 16", 
-                "Cholesterol: 37 mg 12", 
-                "Sodium: 546 mg 22"
+                "Calories: 184 kcal 9 %", 
+                "Fat: 8.5 g 13 %", 
+                "Carbs: 18.5g 6 %", 
+                "Protein: 7.9 g 16 %", 
+                "Cholesterol: 37 mg 12 %", 
+                "Sodium: 546 mg 22 %"
             ], 
+            "rating": "4.4219651222229", 
             "name": "Gyoza", 
             "ingredients": [
                 "1 tablespoon sesame oil ", 
@@ -668,22 +735,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/345302.jpg", 
-            "prep_time": 40, 
             "ready_in_time": 45, 
+            "prep_time": 40, 
+            "cal": 184, 
             "directions": "Heat sesame oil in a large skillet over medium high heat. Mix in cabbage, onion, garlic and carrot. Cook and stir until cabbage is limp. Mix in ground pork and egg. Cook until pork is evenly brown and egg is no longer runny. Preheat vegetable oil in a large skillet over medium high heat. Place approximately 1 tablespoon of the cabbage and pork mixture in the center of each wrapper. Fold wrappers in half over filling, and seal edges with moistened fingers. In the preheated vegetable oil, cook gyoza approximately 1 minute per side, until lightly browned. Place water into skillet and reduce heat. Cover and allow gyoza to steam until the water is gone. In a small bowl, mix soy sauce and rice vinegar. Use the mixture as a dipping sauce for the finished wrappers.", 
-            "id": 22719, 
+            "id": 22720, 
             "cook_time": 5
         }, 
         {
             "total_time": 90, 
             "nutrition": [
-                "Calories: 313 kcal 16", 
-                "Fat: 21.7 g 33", 
-                "Carbs: 14g 5", 
-                "Protein: 19.1 g 38", 
-                "Cholesterol: 38 mg 13", 
-                "Sodium: 268 mg 11"
+                "Calories: 313 kcal 16 %", 
+                "Fat: 21.7 g 33 %", 
+                "Carbs: 14g 5 %", 
+                "Protein: 19.1 g 38 %", 
+                "Cholesterol: 38 mg 13 %", 
+                "Sodium: 268 mg 11 %"
             ], 
+            "rating": "4.26909732818604", 
             "name": "Indian Chicken Curry II", 
             "ingredients": [
                 "3 tablespoons olive oil ", 
@@ -707,22 +776,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/111308.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 45, 
+            "prep_time": 20, 
+            "cal": 313, 
             "directions": "Heat olive oil in a skillet over medium heat. Saute onion until lightly browned. Stir in garlic, curry powder, cinnamon, paprika, bay leaf, ginger, sugar and salt. Continue stirring for 2 minutes. Add chicken pieces, tomato paste, yogurt, and coconut milk. Bring to a boil, reduce heat, and simmer for 20 to 25 minutes. Remove bay leaf, and stir in lemon juice and cayenne pepper. Simmer 5 more minutes.", 
-            "id": 22720, 
+            "id": 22721, 
             "cook_time": 25
         }, 
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 675 kcal 34", 
-                "Fat: 44.3 g 68", 
-                "Carbs: 51.4g 17", 
-                "Protein: 18.9 g 38", 
-                "Cholesterol: 158 mg 53", 
-                "Sodium: 1112 mg 44"
+                "Calories: 675 kcal 34 %", 
+                "Fat: 44.3 g 68 %", 
+                "Carbs: 51.4g 17 %", 
+                "Protein: 18.9 g 38 %", 
+                "Cholesterol: 158 mg 53 %", 
+                "Sodium: 1112 mg 44 %"
             ], 
+            "rating": "4.68867921829224", 
             "name": "Japanese Chicken Wings", 
             "ingredients": [
                 "3 pounds chicken wings ", 
@@ -741,22 +812,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/39538.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 675, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Cut wings in half, dip in egg and coat with flour. Heat butter in a large, deep skillet over medium-high heat. Fry wings until deep brown. Place in a shallow roasting pan. In a small bowl combine soy sauce, water, sugar, vinegar, garlic powder and salt. Pour over wings. Bake in preheated oven for 30 to 45 minutes, basting wings with sauce often.", 
-            "id": 22721, 
+            "id": 22722, 
             "cook_time": 45
         }, 
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 491 kcal 25", 
-                "Fat: 9.9 g 15", 
-                "Carbs: 68.3g 22", 
-                "Protein: 30.2 g 60", 
-                "Cholesterol: 65 mg 22", 
-                "Sodium: 376 mg 15"
+                "Calories: 491 kcal 25 %", 
+                "Fat: 9.9 g 15 %", 
+                "Carbs: 68.3g 22 %", 
+                "Protein: 30.2 g 60 %", 
+                "Cholesterol: 65 mg 22 %", 
+                "Sodium: 376 mg 15 %"
             ], 
+            "rating": "4.69565200805664", 
             "name": "Thai Ginger Chicken (Gai Pad King)", 
             "ingredients": [
                 "1 1/2 cups uncooked jasmine rice ", 
@@ -780,22 +853,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/215482.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 50, 
+            "prep_time": 30, 
+            "cal": 491, 
             "directions": "Bring the rice and water to a boil in a saucepan. Reduce heat to medium-low; cover and simmer until the rice is tender and the liquid has been absorbed, 20 to 25 minutes. Meanwhile, heat a wok or large skillet over medium-high heat. Stir in the garlic and chicken; cook for 2 minutes. Add the fish sauce, oyster sauce, sugar, ginger, red pepper, mushrooms, and onions. Cook and stir until the chicken is no longer pink and the vegetables are nearly tender, about 3 minutes. Dissolve the chile paste in the chicken broth, then add to the chicken mixture. Season to taste with salt and pepper; sprinkle with cilantro leaves to garnish. Serve with the hot rice.", 
-            "id": 22723, 
+            "id": 22724, 
             "cook_time": 20
         }, 
         {
             "total_time": 50, 
             "nutrition": [
-                "Calories: 330 kcal 16", 
-                "Fat: 12 g 18", 
-                "Carbs: 46.8g 15", 
-                "Protein: 10.7 g 21", 
-                "Cholesterol: 0 mg 0", 
-                "Sodium: 1188 mg 48"
+                "Calories: 330 kcal 16 %", 
+                "Fat: 12 g 18 %", 
+                "Carbs: 46.8g 15 %", 
+                "Protein: 10.7 g 21 %", 
+                "Cholesterol: 0 mg 0 %", 
+                "Sodium: 1188 mg 48 %"
             ], 
+            "rating": "4.46016502380371", 
             "name": "Peanut Butter Noodles", 
             "ingredients": [
                 "1/2 cup chicken broth ", 
@@ -813,22 +888,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/422062.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 25, 
+            "prep_time": 15, 
+            "cal": 330, 
             "directions": "Bring a large pot of water to a boil. Add noodles and cook until tender according to package directions. Drain. Meanwhile, combine chicken broth, ginger, soy sauce, peanut butter, honey, chili paste, and garlic in a small saucepan. Cook over medium heat until peanut butter melts and is heated through. Add noodles, and toss to coat. Garnish with green onions and peanuts.", 
-            "id": 22724, 
+            "id": 22725, 
             "cook_time": 10
         }, 
         {
             "total_time": 240, 
             "nutrition": [
-                "Calories: 1096 kcal 55", 
-                "Fat: 85.6 g 132", 
-                "Carbs: 44.9g 14", 
-                "Protein: 35.9 g 72", 
-                "Cholesterol: 172 mg 57", 
-                "Sodium: 2831 mg 113"
+                "Calories: 1096 kcal 55 %", 
+                "Fat: 85.6 g 132 %", 
+                "Carbs: 44.9g 14 %", 
+                "Protein: 35.9 g 72 %", 
+                "Cholesterol: 172 mg 57 %", 
+                "Sodium: 2831 mg 113 %"
             ], 
+            "rating": "4.75862073898315", 
             "name": "Kalbi (Korean BBQ Short Ribs)", 
             "ingredients": [
                 "3/4 cup soy sauce ", 
@@ -843,22 +920,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/716493.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 210, 
+            "prep_time": 15, 
+            "cal": 1096, 
             "directions": "In a bowl, stir together the soy sauce, brown sugar, water, garlic, green onions, and sesame oil until the sugar has dissolved. Place the ribs in a large plastic zipper bag. Pour the marinade over the ribs, squeeze out all the air, and refrigerate the bag for 3 hours to overnight. Preheat an outdoor grill for medium-high heat, and lightly oil the grate. Remove the ribs from the bag, shake off the excess marinade, and discard the marinade. Grill the ribs on the preheated grill until the meat is still pink but not bloody nearest the bone, 5 to 7 minutes per side.", 
-            "id": 22725, 
+            "id": 22726, 
             "cook_time": 15
         }, 
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 639 kcal 32", 
-                "Fat: 18.4 g 28", 
-                "Carbs: 56.2g 18", 
-                "Protein: 59.2 g 118", 
-                "Cholesterol: 160 mg 53", 
-                "Sodium: 759 mg 30"
+                "Calories: 639 kcal 32 %", 
+                "Fat: 18.4 g 28 %", 
+                "Carbs: 56.2g 18 %", 
+                "Protein: 59.2 g 118 %", 
+                "Cholesterol: 160 mg 53 %", 
+                "Sodium: 759 mg 30 %"
             ], 
+            "rating": "4.51301097869873", 
             "name": "Sweet and Sour Chicken I", 
             "ingredients": [
                 "1 (8 ounce) can pineapple chunks, drained (juice reserved) ", 
@@ -882,22 +961,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1660326.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 639, 
             "directions": "In a saucepan, combine 1 1/2 cups water, sugar, vinegar, reserved pineapple juice, and orange food coloring. Heat to boiling. Turn off heat. Combine 1/4 cup cornstarch and 1/4 cup water; slowly stir into saucepan. Continue stirring until mixture thickens. Combine flour, 2 tablespoons oil, 2 tablespoons cornstarch, salt, white pepper, and egg. Add 1 1/2 cups water gradually to make a thick batter. Stir to blend thoroughly. Add chicken pieces, and stir until chicken is well coated. Heat oil in skillet or wok to 360 degrees F (180 degrees C). Fry chicken pieces in hot oil 10 minutes, or until golden. Remove chicken, and drain on paper towels. When ready to serve, layer green peppers, pineapple chunks, and cooked chicken pieces on a platter. Pour hot sweet and sour sauce over top.", 
-            "id": 22726, 
+            "id": 22727, 
             "cook_time": 20
         }, 
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 462 kcal 23", 
-                "Fat: 31.1 g 48", 
-                "Carbs: 41.3g 13", 
-                "Protein: 8.6 g 17", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 1434 mg 57"
+                "Calories: 462 kcal 23 %", 
+                "Fat: 31.1 g 48 %", 
+                "Carbs: 41.3g 13 %", 
+                "Protein: 8.6 g 17 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 1434 mg 57 %"
             ], 
+            "rating": "4.55674839019775", 
             "name": "Vegetarian Korma", 
             "ingredients": [
                 "1 1/2 tablespoons vegetable oil ", 
@@ -921,22 +1002,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3787267.jpg", 
-            "prep_time": 25, 
             "ready_in_time": 55, 
+            "prep_time": 25, 
+            "cal": 462, 
             "directions": "Heat the oil in a skillet over medium heat. Stir in the onion, and cook until tender. Mix in ginger and garlic, and continue cooking 1 minute. Mix potatoes, carrots, jalapeno, cashews, and tomato sauce. Season with salt and curry powder. Cook and stir 10 minutes, or until potatoes are tender. Stir peas, green bell pepper, red bell pepper, and cream into the skillet. Reduce heat to low, cover, and simmer 10 minutes. Garnish with cilantro to serve.", 
-            "id": 22727, 
+            "id": 22728, 
             "cook_time": 30
         }, 
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 347 kcal 17", 
-                "Fat: 8.4 g 13", 
-                "Carbs: 38g 12", 
-                "Protein: 28.3 g 57", 
-                "Cholesterol: 69 mg 23", 
-                "Sodium: 424 mg 17"
+                "Calories: 347 kcal 17 %", 
+                "Fat: 8.4 g 13 %", 
+                "Carbs: 38g 12 %", 
+                "Protein: 28.3 g 57 %", 
+                "Cholesterol: 69 mg 23 %", 
+                "Sodium: 424 mg 17 %"
             ], 
+            "rating": "4.49670314788818", 
             "name": "Mama's Asian Chicken and Rice", 
             "ingredients": [
                 "1/3 cup warm water ", 
@@ -961,40 +1044,12 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/562877.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 60, 
+            "prep_time": 15, 
+            "cal": 347, 
             "directions": "In a bowl, stir together warm water, brown sugar, orange juice, soy sauce, ketchup, white vinegar, garlic, red pepper flakes, five-spice powder, and orange peel until the sugar has dissolved and the mixture is well combined. Heat the olive oil in a large skillet or wok over medium heat, and cook and stir the chicken until the outside is golden brown and the inside is no longer pink, 10 to 12 minutes. Pour the sauce mixture over the chicken, bring to a boil, reduce heat to medium-low, and cover the skillet. Simmer for 30 minutes, stirring occasionally. While the chicken and sauce are simmering, bring the rice and water to a boil in a saucepan over high heat. Reduce heat to medium-low, cover, and simmer until the rice is tender, and the liquid has been absorbed, 20 to 25 minutes. Set the rice aside and keep warm. Whisk the cornstarch and 2 tablespoons of cold water in a small bowl until smooth, and stir into the chicken and sauce, a few teaspoons at a time. Let the chicken and sauce cook for about 2 minutes to thicken, then serve over hot cooked rice, sprinkled with green onion.", 
-            "id": 22728, 
+            "id": 22729, 
             "cook_time": 45
-        }, 
-        {
-            "total_time": 40, 
-            "nutrition": [
-                "Calories: 297 kcal 15", 
-                "Fat: 11.4 g 18", 
-                "Carbs: 22.2g 7", 
-                "Protein: 31.2 g 62", 
-                "Cholesterol: 118 mg 39", 
-                "Sodium: 251 mg 10"
-            ], 
-            "name": "Chicken Katsu", 
-            "ingredients": [
-                "4 skinless, boneless chicken breast halves - pounded to 1/2 inch thickness ", 
-                " salt and pepper to taste ", 
-                " 2 tablespoons all-purpose flour ", 
-                " 1 egg, beaten ", 
-                " 1 cup panko bread crumbs ", 
-                " 1 cup oil for frying, or as needed ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/653617.jpg", 
-            "prep_time": 10, 
-            "ready_in_time": 20, 
-            "directions": "Season the chicken breasts on both sides with salt and pepper. Place the flour, egg and panko crumbs into separate shallow dishes. Coat the chicken breasts in flour, shaking off any excess. Dip them into the egg, and then press into the panko crumbs until well coated on both sides. Heat 1/4 inch of oil in a large skillet over medium-high heat. Place chicken in the hot oil, and cook 3 or 4 minutes per side, or until golden brown.", 
-            "id": 22730, 
-            "cook_time": 10
         }
     ]
 }
