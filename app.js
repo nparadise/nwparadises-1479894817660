@@ -52,7 +52,8 @@ var text_to_speech = watson.text_to_speech({
 var tone_analyzer = watson.tone_analyzer({
   username: '5d6812dc-d371-492f-a265-1d9f1f5bcc45',
   password: 'LQpaYHcJyqXM',
-  version_date: '2016-05-19'
+  version: 'v3',
+  version_date: '2016-05-19'	
 });
 
 // replace with the context obtained from the initial request
