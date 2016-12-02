@@ -105,8 +105,7 @@ app.post("/test", function(req, res){
 			}
 
 			tone_analyzer.tone({ 
-				'text': input_sentence,
-				'content-type': 'text/plain'
+				text: {'text': input_sentence},
 			}, function(err, tone) {
 			    if (err)
 			      console.log(err);
