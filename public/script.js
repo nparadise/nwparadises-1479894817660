@@ -110,6 +110,7 @@ $(document).ready(function(){
 		var j, singleFood;
 		nowShowing = [];
 		$('#food_detail').html("");
+		$('<div class="msg_a"><div class="msg_ina">').insertBefore('.msg_push');
 		if (foods.length === 0) return;
 		for (j = 0; j < 4; iterator++, j++) {
 			if (iterator === 30) {
@@ -143,10 +144,11 @@ $(document).ready(function(){
 				htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + singleFood.nutrition.calories + " kcal</div>";
 			}
 			// print food list
-			$('<div class="msg_a"><div class="msg_ina"><div class="menu">' + htmlString + '</div></div></div>').insertBefore('.msg_push');
+			$('<div class="menu">' + htmlString + '</div>').insertBefore('.msg_push');
 			/*$('<div class="menu">' + htmlString + '</div>').insertBefore('.msg_push');
 			$("#food_" + j).html(htmlString);*/
 		}
+		$('</div></div>').insertBefore('.msg_push');
 	}
 
 	// get data based on entities and category
