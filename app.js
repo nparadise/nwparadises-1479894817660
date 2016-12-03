@@ -61,82 +61,89 @@ var tone_analyzer = watson.tone_analyzer({
 // replace with the context obtained from the initial request
 var allFoodList = [];
 var intent2check = ['Next_foods', 'Events', 'Time', 'Health'];
+var prev_intent = '';
+var current_intent = '';
 
 app.post("/test", function(req, res) {
     console.log(req.body);
     var input_sentence = req.body.input_sentence;
     var context = JSON.parse(req.body.cur_context);
-    var prev_intent = req.body.prev_intent;
     console.log(input_sentence);
     //console.log(context);
 
-    tone_analyzer.tone({
-        text: input_sentence
-    }, function(err, tone) {
+    conversation.message({
+        workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
+        input: {
+            'text': input_sentence
+        },
+        context: context
+    }, function(err, response) {
         if (err)
-            console.log(err);
+            console.log('error:', err);
         else {
-        	var save_anger = false;
-        	if (intent2check.indexOf(prev_intent) > -1) {
-	            var emotion_obj1 = JSON.stringify(tone, null, 2);
-	            var emotion_obj2 = JSON.parse(emotion_obj1);
-	            var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
-	            var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
-	            var agreeableness = emotion_obj2.document_tone.tone_categories[2].tones[3].score;
-	            var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
-	            if (anger >= 0.5 || disgust >= 0.5 || agreeableness <= 0.5 || sadness >= 0.5) {
-	                console.log("I think you are very disappointed with my suggestions.");
-	                save_anger = true;
-	                input_sentence = "Any more foods?";
-	            } else {
-	                save_anger = false;
-	            }
-        	}
-
-            conversation.message({
-                workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
-                input: {
-                    'text': input_sentence
-                },
-                context: context
-            }, function(err, response) {
-                if (err)
-                    console.log('error:', err);
-                else {
-                    console.log(response);
-                    if (!context.hasOwnProperty('allFoods')) {
-                        // read json files containing foods
-                        var fs = require('fs');
-                        var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
-                        for (var j in target) {
-                            if (!target[j].hasOwnProperty('nutrition')) continue;
-                            var initialNut = target[j].nutrition,
-                                calories = initialNut[0].split(" "),
-                                fat = initialNut[1].split(" "),
-                                carbohydrate = initialNut[2].split(" "),
-                                protein = initialNut[3].split(" "),
-                                cholesterol = initialNut[4].split(" "),
-                                sodium = initialNut[5].split(" ");
-                            var nutritionObj = {
-                                'calories': calories[1],
-                                'fat': fat[1],
-                                'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
-                                'protein': protein[1],
-                                'cholesterol': cholesterol[1],
-                                'sodium': sodium[1]
-                            };
-                            target[j].nutrition = nutritionObj;
-                        }
-                        response.context.angry = save_anger;
-                        response.context.allFoods = target;
-                        //console.log(target.length);
-                    }
-                    res.json(response);
-                    //console.log(JSON.stringify(response, null, 2));
+            console.log(response);
+            if (!context.hasOwnProperty('allFoods')) {
+                // read json files containing foods
+                var fs = require('fs');
+                var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
+                for (var j in target) {
+                    if (!target[j].hasOwnProperty('nutrition')) continue;
+                    var initialNut = target[j].nutrition,
+                        calories = initialNut[0].split(" "),
+                        fat = initialNut[1].split(" "),
+                        carbohydrate = initialNut[2].split(" "),
+                        protein = initialNut[3].split(" "),
+                        cholesterol = initialNut[4].split(" "),
+                        sodium = initialNut[5].split(" ");
+                    var nutritionObj = {
+                        'calories': calories[1],
+                        'fat': fat[1],
+                        'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
+                        'protein': protein[1],
+                        'cholesterol': cholesterol[1],
+                        'sodium': sodium[1]
+                    };
+                    target[j].nutrition = nutritionObj;
                 }
+                response.context.allFoods = target;
+                if (response.intents.length > 0)
+                    current_intent = response.intents[0].intent;
+                //console.log(target.length);
+            }
+
+            tone_analyzer.tone({
+                text: input_sentence
+            }, function(err, tone) {
+                if (err)
+                    console.log(err);
+                else {
+                    var save_anger = false;
+                    if (intent2check.indexOf(prev_intent) > -1) {
+                        var emotion_obj1 = JSON.stringify(tone, null, 2);
+                        var emotion_obj2 = JSON.parse(emotion_obj1);
+                        var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
+                        var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
+                        var agreeableness = emotion_obj2.document_tone.tone_categories[2].tones[3].score;
+                        var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
+                        if (anger >= 0.5 || disgust >= 0.5 || agreeableness <= 0.5) {
+                            console.log("I think you are very disappointed with my suggestions.");
+                            save_anger = true;
+                            response.context.next = true;
+                        } else {
+                            save_anger = false;
+                        }
+                    }
+                }
+                response.context.anger = save_anger;
+                prev_intent = current_intent;
+                console.log(prev_intent);
+                res.json(response);
+                //console.log(JSON.stringify(response, null, 2));
             });
         }
     });
+
+    
 });
 
 var TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');

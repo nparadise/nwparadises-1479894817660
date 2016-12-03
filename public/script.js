@@ -8,8 +8,7 @@ $(document).ready(function(){
 		iterator = 0,		// iterator for print examples
 		allFoods = [],		// where all foods will be stored
 		exception = [],		// where ingredients to except will be stored
-		nowShowing = [],	// foods now showing
-		intent = "";		// save intent status
+		nowShowing = [];	// foods now showing
 
 	$('.chat_head').click(function(){
 		$('.chat_body').slideToggle('slow');
@@ -45,7 +44,6 @@ $(document).ready(function(){
 				data: {
 					input_sentence: msg,
 					cur_context: JSON.stringify(context),
-					prev_intent: intent
 				},
 				success: function (data) {
 					var parsedData = JSON.parse(data);
@@ -55,10 +53,11 @@ $(document).ready(function(){
 					console.log(context.angry);
 					context.allFoods = true;				// to notify server that we already have information about every foods
 					output = parsedData.output.text[0];		// watson answer
-					if (parsedData.intents.length > 0) {
-						intent = parsedData.intents[0].intent;
-						console.log('previous intent: ' + intent);
-					}
+
+					// if (parsedData.intents.length > 0) {
+					// 	intent = parsedData.intents[0].intent;
+					// 	console.log('previous intent: ' + intent);
+					// }
 					if (context.hasOwnProperty('except')) {
 						exception.push(context.except);		// add ingredients to except
 						delete context.except;
@@ -97,6 +96,7 @@ $(document).ready(function(){
 						if (!checkAppear) {
 							$('<div class="msg_a"><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
 						}
+						delete context.foodnames;
 					} else {
 						afterGetContext();
 					}
@@ -108,7 +108,6 @@ $(document).ready(function(){
 	// function prints 4 examples of foods
 	var printExamples = function() {
 		var j, singleFood, inDiv = "";
-		nowShowing = [];
 		$('#food_detail').html("");
 		if (foods.length === 0) return;
 		for (j = 0; j < 4; iterator++, j++) {
@@ -190,6 +189,7 @@ $(document).ready(function(){
 	var afterGetContext = function() {
 		iterator = 0;
 		foods = [];
+		nowShowing = [];
 		if (context.hasOwnProperty('health')) {
 			console.log(context['health'] + ' is came for input.');
 			category = context.health;
