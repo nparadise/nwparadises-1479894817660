@@ -38,7 +38,7 @@ $(document).ready(function(){
 			$('<div class="msg_b"><div class="msg_inb">'+msg+'</div></div>').insertBefore('.msg_push');
 			$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 			$.ajax({
-				url: "http://nwparadises.mybluemix.net/test",
+				url: "/test",
 				type: "post",
 				contentType: "application/x-www-form-urlencoded",
 				dataType: "text",
