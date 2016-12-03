@@ -128,10 +128,10 @@ app.post("/test", function(req, res) {
                             target[j].nutrition = nutritionObj;
                         }
                         response.context.allFoods = target;
-                        console.log(target.length);
+                        //console.log(target.length);
                     }
                     res.json(response);
-                    console.log(JSON.stringify(response, null, 2));
+                    //console.log(JSON.stringify(response, null, 2));
                 }
             });
         }
