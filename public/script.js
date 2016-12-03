@@ -134,7 +134,7 @@ $(document).ready(function(){
 			inDiv = "";		// variable to store codes for showing prints
 		if (foods.length === 0) return;		// if no foods are loaded, stop executing the function
 		for (j = 0; j < 4; iterator++, j++) {
-			if (iterator === 30) {			// if iterator reach end of food list, stop the function
+			if (iterator === 100) {			// if iterator reach end of food list, stop the function
 				alert('no more foods');
 				break;
 			} // when reach last food, stop iterating and printing
@@ -178,7 +178,7 @@ $(document).ready(function(){
 		$.ajax({
 			dataType: "json",
 			async: false,
-			url: "/jsondata/" + entity + "_" + category + "_30_revised.json",
+			url: "/jsondata/100/" + entity + "_" + category + "_100_revised.json",
 			success: function(data) {
 				console.log(data);
 				target = data.foods;

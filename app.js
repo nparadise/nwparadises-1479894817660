@@ -86,7 +86,7 @@ app.post("/test", function(req, res) {
             if (!context.hasOwnProperty('allFoods')) {
                 // read json files containing foods
                 var fs = require('fs');
-                var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
+                var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/100/foods.json", 'utf8')).foods;
                 for (var j in target) {
                     if (!target[j].hasOwnProperty('nutrition')) continue;
                     // fix the nutrition information
