@@ -3,13 +3,14 @@
         {
             "total_time": 820, 
             "nutrition": [
-                "Calories: 777 kcal 39", 
-                "Fat: 57.3 g 88", 
-                "Carbs: 7.5g 2", 
-                "Protein: 54.5 g 109", 
-                "Cholesterol: 198 mg 66", 
-                "Sodium: 539 mg 22"
+                "Calories: 777 kcal 39 %", 
+                "Fat: 57.3 g 88 %", 
+                "Carbs: 7.5g 2 %", 
+                "Protein: 54.5 g 109 %", 
+                "Cholesterol: 198 mg 66 %", 
+                "Sodium: 539 mg 22 %"
             ], 
+            "rating": "4.7193717956543", 
             "name": "Slow Cooker Beef Pot Roast", 
             "ingredients": [
                 "1 (5 pound) bone-in beef pot roast ", 
@@ -32,8 +33,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3536308.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 410, 
+            "prep_time": 20, 
+            "cal": 777, 
             "directions": "Generously season both sides of roast with salt and pepper. Sprinkle flour over the top until well coated, and pat it into the meat. Shake off any excess. Heat vegetable oil in a large skillet over medium-high heat until hot. Sear the roast on both sides for 5-6 minutes each, until well browned. Remove from the skillet and set aside. Reduce the heat to medium and stir in mushrooms and butter; cook for 3-4 minutes. Stir in onion; cook for 5 minutes, until onions are translucent and begin to brown. Add garlic, stir for about a minute. Stir in 1 1/2 tablespoons flour; cook and stir for about 1 minute. Add tomato paste, and cook for another minute. Slowly add chicken stock, stir to combine, and return to a simmer. Remove skillet from the heat. Place carrots and celery in the slow cooker. Place roast over the vegetables and pour in any accumulated juices. Add rosemary and thyme. Pour onion and mushroom mixture over the top of the roast. Cover slow cooker, turn to high and cook the roast for 5-6 hours, until the meat is fork tender. Skim off any fat from the surface and remove the bones. Season with salt and pepper to taste.", 
             "id": 20001, 
             "cook_time": 390
@@ -41,13 +43,14 @@
         {
             "total_time": 980, 
             "nutrition": [
-                "Calories: 426 kcal 21", 
-                "Fat: 23.7 g 36", 
-                "Carbs: 4.9g 2", 
-                "Protein: 45.6 g 91", 
-                "Cholesterol: 127 mg 42", 
-                "Sodium: 639 mg 26"
+                "Calories: 426 kcal 21 %", 
+                "Fat: 23.7 g 36 %", 
+                "Carbs: 4.9g 2 %", 
+                "Protein: 45.6 g 91 %", 
+                "Cholesterol: 127 mg 42 %", 
+                "Sodium: 639 mg 26 %"
             ], 
+            "rating": "4.6404447555542", 
             "name": "Awesome Slow Cooker Pot Roast", 
             "ingredients": [
                 "2 (10.75 ounce) cans condensed cream of mushroom soup ", 
@@ -59,8 +62,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/2505121.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 490, 
+            "prep_time": 10, 
+            "cal": 426, 
             "directions": "In a slow cooker, mix cream of mushroom soup, dry onion soup mix and water. Place pot roast in slow cooker and coat with soup mixture. Cook on High setting for 3 to 4 hours, or on Low setting for 8 to 9 hours.", 
             "id": 20002, 
             "cook_time": 480
@@ -68,13 +72,14 @@
         {
             "total_time": 220, 
             "nutrition": [
-                "Calories: 310 kcal 16", 
-                "Fat: 20.4 g 31", 
-                "Carbs: 17.2g 6", 
-                "Protein: 13.7 g 27", 
-                "Cholesterol: 54 mg 18", 
-                "Sodium: 511 mg 20"
+                "Calories: 310 kcal 16 %", 
+                "Fat: 20.4 g 31 %", 
+                "Carbs: 17.2g 6 %", 
+                "Protein: 13.7 g 27 %", 
+                "Cholesterol: 54 mg 18 %", 
+                "Sodium: 511 mg 20 %"
             ], 
+            "rating": "4.63085412979126", 
             "name": "Bolognese Stuffed Bell Peppers", 
             "ingredients": [
                 "1/2 cup cooked rice ", 
@@ -94,8 +99,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/455589.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 110, 
+            "prep_time": 30, 
+            "cal": 310, 
             "directions": "Preheat oven to 375 degrees F (190 degrees C). Heat 1 tablespoon olive oil in a skillet over medium heat. Stir in the carrots and celery; cook and stir until the vegetables are tender, about 5 minutes. Stir in ground beef and pancetta, and cook until browned and crumbled; drain off any excess liquid, and return to heat. Add marinara sauce, wine, and red pepper flakes, and simmer for 10 minutes. Stir in cream, half of the Parmesan cheese, and rice. Simmer 5 minutes more, or until most liquid has absorbed. Place peppers in a shallow baking dish, and fill with beef mixture. Drizzle with remaining olive oil and top with remaining Parmesan cheese. Bake, uncovered, for 30 minutes in the preheated oven. Serve hot.", 
             "id": 20003, 
             "cook_time": 80
@@ -103,13 +109,14 @@
         {
             "total_time": 300, 
             "nutrition": [
-                "Calories: 600 kcal 30", 
-                "Fat: 30.1 g 46", 
-                "Carbs: 55.3g 18", 
-                "Protein: 30.8 g 62", 
-                "Cholesterol: 70 mg 23", 
-                "Sodium: 2092 mg 84"
+                "Calories: 600 kcal 30 %", 
+                "Fat: 30.1 g 46 %", 
+                "Carbs: 55.3g 18 %", 
+                "Protein: 30.8 g 62 %", 
+                "Cholesterol: 70 mg 23 %", 
+                "Sodium: 2092 mg 84 %"
             ], 
+            "rating": "4.80292320251465", 
             "name": "Boilermaker Tailgate Chili", 
             "ingredients": [
                 "2 pounds ground beef chuck ", 
@@ -145,8 +152,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/890638.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 150, 
+            "prep_time": 30, 
+            "cal": 600, 
             "directions": "Heat a large stock pot over medium-high heat. Crumble the ground chuck and sausage into the hot pan, and cook until evenly browned. Drain off excess grease. Pour in the chili beans, spicy chili beans, diced tomatoes and tomato paste. Add the onion, celery, green and red bell peppers, chile peppers, bacon bits, bouillon, and beer. Season with chili powder, Worcestershire sauce, garlic, oregano, cumin, hot pepper sauce, basil, salt, pepper, cayenne, paprika, and sugar. Stir to blend, then cover and simmer over low heat for at least 2 hours, stirring occasionally. After 2 hours, taste, and adjust salt, pepper, and chili powder if necessary. The longer the chili simmers, the better it will taste. Remove from heat and serve, or refrigerate, and serve the next day. To serve, ladle into bowls, and top with corn chips and shredded Cheddar cheese.", 
             "id": 20004, 
             "cook_time": 120
@@ -154,13 +162,14 @@
         {
             "total_time": 230, 
             "nutrition": [
-                "Calories: 305 kcal 15", 
-                "Fat: 13.7 g 21", 
-                "Carbs: 25.5g 8", 
-                "Protein: 22.3 g 45", 
-                "Cholesterol: 55 mg 18", 
-                "Sodium: 1267 mg 51"
+                "Calories: 305 kcal 15 %", 
+                "Fat: 13.7 g 21 %", 
+                "Carbs: 25.5g 8 %", 
+                "Protein: 22.3 g 45 %", 
+                "Cholesterol: 55 mg 18 %", 
+                "Sodium: 1267 mg 51 %"
             ], 
+            "rating": "4.64448261260986", 
             "name": "It's Chili by George!!", 
             "ingredients": [
                 "2 pounds lean ground beef ", 
@@ -182,8 +191,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/779750.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 115, 
+            "prep_time": 10, 
+            "cal": 305, 
             "directions": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, and crumble. In a large pot over high heat combine the ground beef, tomato juice, tomato sauce, kidney beans, pinto beans, onions, bell pepper, cayenne pepper, sugar, oregano, ground black pepper, salt, cumin and chili powder. Bring to a boil, then reduce heat to low. Simmer for 1 1/2 hours. (Note: If using a slow cooker, set on low, add ingredients, and cook for 8 to 10 hours.)", 
             "id": 20005, 
             "cook_time": 105
@@ -191,13 +201,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 452 kcal 23", 
-                "Fat: 17 g 26", 
-                "Carbs: 52.5g 17", 
-                "Protein: 23.1 g 46", 
-                "Cholesterol: 65 mg 22", 
-                "Sodium: 295 mg 12"
+                "Calories: 452 kcal 23 %", 
+                "Fat: 17 g 26 %", 
+                "Carbs: 52.5g 17 %", 
+                "Protein: 23.1 g 46 %", 
+                "Cholesterol: 65 mg 22 %", 
+                "Sodium: 295 mg 12 %"
             ], 
+            "rating": "4.45753526687622", 
             "name": "Shepherd's Pie VI", 
             "ingredients": [
                 "4 large potatoes, peeled and cubed ", 
@@ -218,8 +229,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/98983.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 50, 
+            "prep_time": 30, 
+            "cal": 452, 
             "directions": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and mash. Mix in butter, finely chopped onion and 1/4 cup shredded cheese. Season with salt and pepper to taste; set aside. Bring a large pot of salted water to a boil. Add carrots and cook until tender but still firm, about 15 minutes. Drain, mash and set aside. Preheat oven to 375 degrees F (190 degrees C.) Heat oil in a large frying pan. Add onion and cook until clear. Add ground beef and cook until well browned. Pour off excess fat, then stir in flour and cook 1 minute. Add ketchup and beef broth. Bring to a boil, reduce heat and simmer for 5 minutes. Spread the ground beef in an even layer on the bottom of a 2 quart casserole dish. Next, spread a layer of mashed carrots. Top with the mashed potato mixture and sprinkle with remaining shredded cheese. Bake in the preheated oven for 20 minutes, or until golden brown.", 
             "id": 20006, 
             "cook_time": 20
@@ -227,13 +239,14 @@
         {
             "total_time": 980, 
             "nutrition": [
-                "Calories: 376 kcal 19", 
-                "Fat: 27.3 g 42", 
-                "Carbs: 9.5g 3", 
-                "Protein: 22 g 44", 
-                "Cholesterol: 97 mg 32", 
-                "Sodium: 711 mg 28"
+                "Calories: 376 kcal 19 %", 
+                "Fat: 27.3 g 42 %", 
+                "Carbs: 9.5g 3 %", 
+                "Protein: 22 g 44 %", 
+                "Cholesterol: 97 mg 32 %", 
+                "Sodium: 711 mg 28 %"
             ], 
+            "rating": "4.37231636047363", 
             "name": "Slow Cooker Beef Stroganoff I", 
             "ingredients": [
                 "1 pound cubed beef stew meat ", 
@@ -247,8 +260,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1328848.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 490, 
+            "prep_time": 10, 
+            "cal": 376, 
             "directions": "In a slow cooker, combine the meat, soup, onion, Worcestershire sauce and water. Cook on Low setting for 8 hours, or on High setting for about 5 hours. Stir in cream cheese just before serving.", 
             "id": 20007, 
             "cook_time": 480
@@ -256,13 +270,14 @@
         {
             "total_time": 860, 
             "nutrition": [
-                "Calories: 413 kcal 21", 
-                "Fat: 18.1 g 28", 
-                "Carbs: 19.6g 6", 
-                "Protein: 39.1 g 78", 
-                "Cholesterol: 96 mg 32", 
-                "Sodium: 661 mg 26"
+                "Calories: 413 kcal 21 %", 
+                "Fat: 18.1 g 28 %", 
+                "Carbs: 19.6g 6 %", 
+                "Protein: 39.1 g 78 %", 
+                "Cholesterol: 96 mg 32 %", 
+                "Sodium: 661 mg 26 %"
             ], 
+            "rating": "4.50805187225342", 
             "name": "Easy Slow Cooker French Dip", 
             "ingredients": [
                 "4 pounds rump roast ", 
@@ -276,8 +291,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/10316.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 430, 
+            "prep_time": 10, 
+            "cal": 413, 
             "directions": "Trim excess fat from the rump roast, and place in a slow cooker. Add the beef broth, onion soup and beer. Cook on Low setting for 7 hours. Preheat oven to 350 degrees F (175 degrees C). Split French rolls, and spread with butter. Bake 10 minutes, or until heated through. Slice the meat on the diagonal, and place on the rolls. Serve the sauce for dipping.", 
             "id": 20008, 
             "cook_time": 420
@@ -285,13 +301,14 @@
         {
             "total_time": 280, 
             "nutrition": [
-                "Calories: 401 kcal 20", 
-                "Fat: 21.2 g 33", 
-                "Carbs: 24.9g 8", 
-                "Protein: 27.2 g 54", 
-                "Cholesterol: 79 mg 26", 
-                "Sodium: 436 mg 17"
+                "Calories: 401 kcal 20 %", 
+                "Fat: 21.2 g 33 %", 
+                "Carbs: 24.9g 8 %", 
+                "Protein: 27.2 g 54 %", 
+                "Cholesterol: 79 mg 26 %", 
+                "Sodium: 436 mg 17 %"
             ], 
+            "rating": "4.59812355041504", 
             "name": "Beef Stew VI", 
             "ingredients": [
                 "2 pounds cubed beef stew meat ", 
@@ -312,22 +329,58 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/729310.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 140, 
+            "prep_time": 20, 
+            "cal": 401, 
             "directions": "In a large pot or dutch oven, cook beef in oil over medium heat until brown. Dissolve bouillon in water and pour into pot. Stir in rosemary, parsley and pepper. Bring to a boil, then reduce heat, cover and simmer 1 hour. Stir potatoes, carrots, celery, and onion into the pot. Dissolve cornstarch in 2 teaspoons cold water and stir into stew. Cover and simmer 1 hour more.", 
             "id": 20009, 
             "cook_time": 120
         }, 
         {
+            "total_time": 120, 
+            "nutrition": [
+                "Calories: 361 kcal 18 %", 
+                "Fat: 14.4 g 22 %", 
+                "Carbs: 32.6g 11 %", 
+                "Protein: 24.7 g 49 %", 
+                "Cholesterol: 69 mg 23 %", 
+                "Sodium: 970 mg 39 %"
+            ], 
+            "rating": "4.53389835357666", 
+            "name": "Unstuffed Cabbage Dinner", 
+            "ingredients": [
+                "1 pound ground beef ", 
+                " 3/4 teaspoon garlic powder ", 
+                " 1 teaspoon ground black pepper ", 
+                " 1 (14.5 ounce) can low-sodium beef broth ", 
+                " 1 (1 ounce) envelope dry onion soup mix ", 
+                " 1/2 small onion, chopped ", 
+                " 1 cup instant white rice ", 
+                " 2 cups coarsely shredded green cabbage ", 
+                " 1 1/2 cups tomato-vegetable juice cocktail ", 
+                " Add all ingredients to list ", 
+                " Add all ingredients to list May we suggest ", 
+                ""
+            ], 
+            "image": "http://images.media-allrecipes.com/userphotos/560x315/2487162.jpg", 
+            "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 361, 
+            "directions": "Crumble the ground beef into a skillet over medium-high heat. Add the onion, an d season with garlic powder and pepper; cook and stir until the beef is evenly browned. Drain off the excess grease. Pour the beef broth and onion soup mix into the skillet with the beef, and stir to blend. Bring to a boil, then add the rice, cabbage and vegetable juice cocktail. Stir together, then cover and simmer over low heat for 30 minutes, or until the rice is tender and the liquid is absorbed.", 
+            "id": 20010, 
+            "cook_time": 30
+        }, 
+        {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 319 kcal 16", 
-                "Fat: 18.5 g 29", 
-                "Carbs: 13.5g 4", 
-                "Protein: 23.1 g 46", 
-                "Cholesterol: 115 mg 38", 
-                "Sodium: 597 mg 24"
+                "Calories: 319 kcal 16 %", 
+                "Fat: 18.5 g 29 %", 
+                "Carbs: 13.5g 4 %", 
+                "Protein: 23.1 g 46 %", 
+                "Cholesterol: 115 mg 38 %", 
+                "Sodium: 597 mg 24 %"
             ], 
+            "rating": "4.58131074905396", 
             "name": "Hamburger Steak with Onions and Gravy", 
             "ingredients": [
                 "1 pound ground beef ", 
@@ -349,22 +402,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/927031.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 40, 
+            "prep_time": 15, 
+            "cal": 319, 
             "directions": "In a large bowl, mix together the ground beef, egg, bread crumbs, pepper, salt, onion powder, garlic powder, and Worcestershire sauce. Form into 8 balls, and flatten into patties. Heat the oil in a large skillet over medium heat. Fry the patties and onion in the oil until patties are nicely browned, about 4 minutes per side. Remove the beef patties to a plate, and keep warm. Sprinkle flour over the onions and drippings in the skillet. Stir in flour with a fork, scraping bits of beef off of the bottom as you stir. Gradually mix in the beef broth and sherry. Season with seasoned salt. Simmer and stir over medium-low heat for about 5 minutes, until the gravy thickens. Turn heat to low, return patties to the gravy, cover, and simmer for another 15 minutes.", 
-            "id": 20010, 
+            "id": 20011, 
             "cook_time": 25
         }, 
         {
             "total_time": 375, 
             "nutrition": [
-                "Calories: 448 kcal 22", 
-                "Fat: 21.3 g 33", 
-                "Carbs: 36.5g 12", 
-                "Protein: 29.7 g 59", 
-                "Cholesterol: 82 mg 27", 
-                "Sodium: 1788 mg 72"
+                "Calories: 448 kcal 22 %", 
+                "Fat: 21.3 g 33 %", 
+                "Carbs: 36.5g 12 %", 
+                "Protein: 29.7 g 59 %", 
+                "Cholesterol: 82 mg 27 %", 
+                "Sodium: 1788 mg 72 %"
             ], 
+            "rating": "4.78551244735718", 
             "name": "World's Best Lasagna", 
             "ingredients": [
                 "1 pound sweet Italian sausage ", 
@@ -393,22 +448,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/3359675.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 195, 
+            "prep_time": 30, 
+            "cal": 448, 
             "directions": "In a Dutch oven, cook sausage, ground beef, onion, and garlic over medium heat until well browned. Stir in crushed tomatoes, tomato paste, tomato sauce, and water. Season with sugar, basil, fennel seeds, Italian seasoning, 1 tablespoon salt, pepper, and 2 tablespoons parsley. Simmer, covered, for about 1 1/2 hours, stirring occasionally. Bring a large pot of lightly salted water to a boil. Cook lasagna noodles in boiling water for 8 to 10 minutes. Drain noodles, and rinse with cold water. In a mixing bowl, combine ricotta cheese with egg, remaining parsley, and 1/2 teaspoon salt. Preheat oven to 375 degrees F (190 degrees C). To assemble, spread 1 1/2 cups of meat sauce in the bottom of a 9x13 inch baking dish. Arrange 6 noodles lengthwise over meat sauce. Spread with one half of the ricotta cheese mixture. Top with a third of mozzarella cheese slices. Spoon 1 1/2 cups meat sauce over mozzarella, and sprinkle with 1/4 cup Parmesan cheese. Repeat layers, and top with remaining mozzarella and Parmesan cheese. Cover with foil: to prevent sticking, either spray foil with cooking spray, or make sure the foil does not touch the cheese. Bake in preheated oven for 25 minutes. Remove foil, and bake an additional 25 minutes. Cool for 15 minutes before serving.", 
-            "id": 20011, 
+            "id": 20012, 
             "cook_time": 150
         }, 
         {
             "total_time": 280, 
             "nutrition": [
-                "Calories: 349 kcal 17", 
-                "Fat: 21.2 g 33", 
-                "Carbs: 23.7g 8", 
-                "Protein: 18.9 g 38", 
-                "Cholesterol: 77 mg 26", 
-                "Sodium: 1492 mg 60"
+                "Calories: 349 kcal 17 %", 
+                "Fat: 21.2 g 33 %", 
+                "Carbs: 23.7g 8 %", 
+                "Protein: 18.9 g 38 %", 
+                "Cholesterol: 77 mg 26 %", 
+                "Sodium: 1492 mg 60 %"
             ], 
+            "rating": "4.51265001296997", 
             "name": "Italian Spaghetti Sauce with Meatballs", 
             "ingredients": [
                 "MEATBALLS ", 
@@ -435,22 +492,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/38075.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 140, 
+            "prep_time": 20, 
+            "cal": 349, 
             "directions": "In a large bowl, combine ground beef, bread crumbs, parsley, Parmesan, 1/4 teaspoon black pepper, garlic powder and beaten egg. Mix well and form into 12 balls. Store, covered, in refrigerator until needed. In a large saucepan over medium heat, saute onion and garlic in olive oil until onion is translucent. Stir in tomatoes, salt, sugar and bay leaf. Cover, reduce heat to low, and simmer 90 minutes. Stir in tomato paste, basil, 1/2 teaspoon pepper and meatballs and simmer 30 minutes more. Serve.", 
-            "id": 20012, 
+            "id": 20013, 
             "cook_time": 120
         }, 
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 578 kcal 29", 
-                "Fat: 25.3 g 39", 
-                "Carbs: 58.4g 19", 
-                "Protein: 27.9 g 56", 
-                "Cholesterol: 71 mg 24", 
-                "Sodium: 914 mg 37"
+                "Calories: 578 kcal 29 %", 
+                "Fat: 25.3 g 39 %", 
+                "Carbs: 58.4g 19 %", 
+                "Protein: 27.9 g 56 %", 
+                "Cholesterol: 71 mg 24 %", 
+                "Sodium: 914 mg 37 %"
             ], 
+            "rating": "4.69987916946411", 
             "name": "Baked Ziti I", 
             "ingredients": [
                 "1 pound dry ziti pasta ", 
@@ -466,22 +525,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/14573.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 55, 
+            "prep_time": 20, 
+            "cal": 578, 
             "directions": "Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain. In a large skillet, brown onion and ground beef over medium heat. Add spaghetti sauce, and simmer 15 minutes. Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Layer as follows: 1/2 of the ziti, Provolone cheese, sour cream, 1/2 sauce mixture, remaining ziti, mozzarella cheese and remaining sauce mixture. Top with grated Parmesan cheese. Bake for 30 minutes in the preheated oven, or until cheeses are melted.", 
-            "id": 20013, 
+            "id": 20014, 
             "cook_time": 35
         }, 
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 440 kcal 22", 
-                "Fat: 32.3 g 50", 
-                "Carbs: 14.1g 5", 
-                "Protein: 23 g 46", 
-                "Cholesterol: 127 mg 42", 
-                "Sodium: 818 mg 33"
+                "Calories: 440 kcal 22 %", 
+                "Fat: 32.3 g 50 %", 
+                "Carbs: 14.1g 5 %", 
+                "Protein: 23 g 46 %", 
+                "Cholesterol: 127 mg 42 %", 
+                "Sodium: 818 mg 33 %"
             ], 
+            "rating": "4.40187931060791", 
             "name": "Salisbury Steak", 
             "ingredients": [
                 "1 (10.5 ounce) can condensed French onion soup ", 
@@ -500,61 +561,24 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/376047.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 40, 
+            "prep_time": 20, 
+            "cal": 440, 
             "directions": "In a large bowl, mix together 1/3 cup condensed French onion soup with ground beef, bread crumbs, egg, salt and black pepper. Shape into 6 oval patties. In a large skillet over medium-high heat, brown both sides of patties. Pour off excess fat. In a small bowl, blend flour and remaining soup until smooth. Mix in ketchup, water, Worcestershire sauce and mustard powder. Pour over meat in skillet. Cover, and cook for 20 minutes, stirring occasionally.", 
-            "id": 20014, 
-            "cook_time": 20
-        }, 
-        {
-            "total_time": 260, 
-            "nutrition": [
-                "Calories: 353 kcal 18", 
-                "Fat: 17.2 g 27", 
-                "Carbs: 29.4g 9", 
-                "Protein: 19.5 g 39", 
-                "Cholesterol: 57 mg 19", 
-                "Sodium: 498 mg 20"
-            ], 
-            "name": "Cuban Beef Stew", 
-            "ingredients": [
-                "2 tablespoons olive oil ", 
-                " 1 onion, chopped ", 
-                " 4 cloves garlic, minced ", 
-                " 1 red bell pepper, chopped ", 
-                " 1 1/2 pounds sirloin tips, cubed ", 
-                " 2 bay leaves ", 
-                " 1/2 teaspoon ground cumin ", 
-                " 1 teaspoon dried oregano ", 
-                " 1/2 cup dry sherry ", 
-                " 1 (8 ounce) can tomato sauce ", 
-                " 2 tablespoons red wine vinegar ", 
-                " 1/4 cup pimento-stuffed green olives ", 
-                " 1/4 cup raisins ", 
-                " 2 tablespoons capers ", 
-                " 4 potatoes, peeled and quartered ", 
-                " salt and pepper to taste ", 
-                " Add all ingredients to list ", 
-                " Add all ingredients to list May we suggest ", 
-                ""
-            ], 
-            "image": "http://images.media-allrecipes.com/userphotos/560x315/1110415.jpg", 
-            "prep_time": 10, 
-            "ready_in_time": 130, 
-            "directions": "In a large saute pan, heat oil over medium heat. Cook onion and garlic in oil, stirring frequently, until transparent. Stir in cubed meat, and cook until browned. Stir in red bell pepper, bay leaf, cumin, and oregano; cook for 2 to 3 minutes. Stir in sherry, tomato sauce, vinegar, olives, raisins, and capers. Pour in enough water to just cover meat. Bring to boil, reduce heat to low, and cover. Simmer until fork tender, about 1 1/2 hours. Add more water if the stew becomes too thick. Stir potatoes into the stew. Season with salt and pepper to taste. Cook, covered, until potatoes are almost tender. Uncover, and cook until done.", 
             "id": 20015, 
-            "cook_time": 120
+            "cook_time": 20
         }, 
         {
             "total_time": 1480, 
             "nutrition": [
-                "Calories: 516 kcal 26", 
-                "Fat: 29.6 g 46", 
-                "Carbs: 29.8g 10", 
-                "Protein: 31.8 g 64", 
-                "Cholesterol: 101 mg 34", 
-                "Sodium: 531 mg 21"
+                "Calories: 516 kcal 26 %", 
+                "Fat: 29.6 g 46 %", 
+                "Carbs: 29.8g 10 %", 
+                "Protein: 31.8 g 64 %", 
+                "Cholesterol: 101 mg 34 %", 
+                "Sodium: 531 mg 21 %"
             ], 
+            "rating": "4.41508483886719", 
             "name": "Slow Cooker Beef Stew I", 
             "ingredients": [
                 "2 pounds beef stew meat, cut into 1 inch cubes ", 
@@ -575,8 +599,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/276397.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 740, 
+            "prep_time": 20, 
+            "cal": 516, 
             "directions": "Place meat in slow cooker. In a small bowl mix together the flour, salt, and pepper; pour over meat, and stir to coat meat with flour mixture. Stir in the garlic, bay leaf, paprika, Worcestershire sauce, onion, beef broth, potatoes, carrots, and celery. Cover, and cook on Low setting for 10 to 12 hours, or on High setting for 4 to 6 hours.", 
             "id": 20016, 
             "cook_time": 720
@@ -584,13 +609,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 463 kcal 23", 
-                "Fat: 24.3 g 37", 
-                "Carbs: 35.5g 11", 
-                "Protein: 27.2 g 54", 
-                "Cholesterol: 89 mg 30", 
-                "Sodium: 971 mg 39"
+                "Calories: 463 kcal 23 %", 
+                "Fat: 24.3 g 37 %", 
+                "Carbs: 35.5g 11 %", 
+                "Protein: 27.2 g 54 %", 
+                "Cholesterol: 89 mg 30 %", 
+                "Sodium: 971 mg 39 %"
             ], 
+            "rating": "4.51814651489258", 
             "name": "Stuffed Green Peppers I", 
             "ingredients": [
                 "6 green bell peppers ", 
@@ -610,8 +636,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/452169.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 463, 
             "directions": "Bring a large pot of salted water to a boil. Cut the tops off the peppers, and remove the seeds. Cook peppers in boiling water for 5 minutes; drain. Sprinkle salt inside each pepper, and set aside. In a large skillet, saute beef and onions for 5 minutes, or until beef is browned. Drain off excess fat, and season with salt and pepper. Stir in the tomatoes, rice, 1/2 cup water and Worcestershire sauce. Cover, and simmer for 15 minutes, or until rice is tender. Remove from heat, and stir in the cheese. Preheat the oven to 350 degrees F. (175 degrees C). Stuff each pepper with the beef and rice mixture, and place peppers open side up in a baking dish. In a medium bowl, combine tomato soup with just enough water to make the soup a gravy consistency. Pour over the peppers. Bake covered for 25 to 35 minutes, until heated through and cheese is melted and bubbly.", 
             "id": 20017, 
             "cook_time": 30
@@ -619,13 +646,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 343 kcal 17", 
-                "Fat: 16.8 g 26", 
-                "Carbs: 15.3g 5", 
-                "Protein: 31 g 62", 
-                "Cholesterol: 95 mg 32", 
-                "Sodium: 940 mg 38"
+                "Calories: 343 kcal 17 %", 
+                "Fat: 16.8 g 26 %", 
+                "Carbs: 15.3g 5 %", 
+                "Protein: 31 g 62 %", 
+                "Cholesterol: 95 mg 32 %", 
+                "Sodium: 940 mg 38 %"
             ], 
+            "rating": "4.61519289016724", 
             "name": "Meatball Nirvana", 
             "ingredients": [
                 "1 pound extra lean ground beef ", 
@@ -645,8 +673,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/397070.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 40, 
+            "prep_time": 20, 
+            "cal": 343, 
             "directions": "Preheat an oven to 400 degrees F (200 degrees C). Place the beef into a mixing bowl, and season with salt, onion, garlic salt, Italian seasoning, oregano, red pepper flakes, hot pepper sauce, and Worcestershire sauce; mix well. Add the milk, Parmesan cheese, and bread crumbs. Mix until evenly blended, then form into 1 1/2-inch meatballs, and place onto a baking sheet. Bake in the preheated oven until no longer pink in the center, 20 to 25 minutes.", 
             "id": 20018, 
             "cook_time": 20
@@ -654,13 +683,14 @@
         {
             "total_time": 100, 
             "nutrition": [
-                "Calories: 507 kcal 25", 
-                "Fat: 18.7 g 29", 
-                "Carbs: 59.2g 19", 
-                "Protein: 27.4 g 55", 
-                "Cholesterol: 61 mg 20", 
-                "Sodium: 649 mg 26"
+                "Calories: 507 kcal 25 %", 
+                "Fat: 18.7 g 29 %", 
+                "Carbs: 59.2g 19 %", 
+                "Protein: 27.4 g 55 %", 
+                "Cholesterol: 61 mg 20 %", 
+                "Sodium: 649 mg 26 %"
             ], 
+            "rating": "4.47280788421631", 
             "name": "Crispy Orange Beef", 
             "ingredients": [
                 "1 1/2 pounds beef top sirloin, thinly sliced ", 
@@ -682,8 +712,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1132315.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 65, 
+            "prep_time": 20, 
+            "cal": 507, 
             "directions": "Lay beef strips out in a single layer on a baking sheet lined with paper towels. Allow to dry in the refrigerator for 30 minutes. In a small bowl, mix together the sugar, rice vinegar, orange juice concentrate, salt and soy sauce. Set aside. Meanwhile, combine rice and water in a medium saucepan. Bring to a boil, then reduce heat to medium-low and simmer for 20 minutes, or until rice is tender. Add more water at the end if necessary. Heat oil in a wok over medium-high heat. Toss dried beef in cornstarch to coat. Fry in the hot oil in small batches until crispy and golden brown; set aside. Drain all of the oil from the wok except about 1 tablespoon. Add orange zest, ginger and garlic to the remaining oil, and cook briefly until fragrant. Add the soy sauce mixture to the wok, bring to a boil, and cook until thick and syrupy, about 5 minutes. Add beef, and heat through, stirring to coat. Serve immediately over steamed rice, and garnish with broccoli.", 
             "id": 20019, 
             "cook_time": 15
@@ -691,13 +722,14 @@
         {
             "total_time": 140, 
             "nutrition": [
-                "Calories: 480 kcal 24", 
-                "Fat: 31.1 g 48", 
-                "Carbs: 24.9g 8", 
-                "Protein: 26.7 g 53", 
-                "Cholesterol: 96 mg 32", 
-                "Sodium: 1366 mg 55"
+                "Calories: 480 kcal 24 %", 
+                "Fat: 31.1 g 48 %", 
+                "Carbs: 24.9g 8 %", 
+                "Protein: 26.7 g 53 %", 
+                "Cholesterol: 96 mg 32 %", 
+                "Sodium: 1366 mg 55 %"
             ], 
+            "rating": "4.75676584243774", 
             "name": "Debdoozie's Blue Ribbon Chili", 
             "ingredients": [
                 "2 pounds ground beef ", 
@@ -714,8 +746,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/593156.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 70, 
+            "prep_time": 10, 
+            "cal": 480, 
             "directions": "In a large saucepan over medium heat, combine the ground beef and the onion and saute for 10 minutes, or until meat is browned and onion is tender. Drain grease, if desired. Add the ground black pepper, garlic salt, tomato sauce, salsa, chili seasoning mix and kidney beans. Mix well, reduce heat to low and simmer for at least an hour.", 
             "id": 20020, 
             "cook_time": 60
@@ -723,13 +756,14 @@
         {
             "total_time": 80, 
             "nutrition": [
-                "Calories: 189 kcal 9", 
-                "Fat: 9.4 g 14", 
-                "Carbs: 11.2g 4", 
-                "Protein: 15.1 g 30", 
-                "Cholesterol: 50 mg 17", 
-                "Sodium: 416 mg 17"
+                "Calories: 189 kcal 9 %", 
+                "Fat: 9.4 g 14 %", 
+                "Carbs: 11.2g 4 %", 
+                "Protein: 15.1 g 30 %", 
+                "Cholesterol: 50 mg 17 %", 
+                "Sodium: 416 mg 17 %"
             ], 
+            "rating": "4.65451908111572", 
             "name": "Sloppy Joes II", 
             "ingredients": [
                 "1 pound lean ground beef ", 
@@ -746,8 +780,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/747244.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 40, 
+            "prep_time": 10, 
+            "cal": 189, 
             "directions": "In a medium skillet over medium heat, brown the ground beef, onion, and green pepper; drain off liquids. Stir in the garlic powder, mustard, ketchup, and brown sugar; mix thoroughly. Reduce heat, and simmer for 30 minutes. Season with salt and pepper.", 
             "id": 20021, 
             "cook_time": 30
@@ -755,13 +790,14 @@
         {
             "total_time": 170, 
             "nutrition": [
-                "Calories: 353 kcal 18", 
-                "Fat: 20.1 g 31", 
-                "Carbs: 24.1g 8", 
-                "Protein: 18.4 g 37", 
-                "Cholesterol: 112 mg 37", 
-                "Sodium: 763 mg 31"
+                "Calories: 353 kcal 18 %", 
+                "Fat: 20.1 g 31 %", 
+                "Carbs: 24.1g 8 %", 
+                "Protein: 18.4 g 37 %", 
+                "Cholesterol: 112 mg 37 %", 
+                "Sodium: 763 mg 31 %"
             ], 
+            "rating": "4.57353115081787", 
             "name": "Brown Sugar Meatloaf", 
             "ingredients": [
                 "1/2 cup packed brown sugar ", 
@@ -779,8 +815,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/1069261.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 90, 
+            "prep_time": 20, 
+            "cal": 353, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 5x9 inch loaf pan. Press the brown sugar in the bottom of the prepared loaf pan and spread the ketchup over the sugar. In a mixing bowl, mix thoroughly all remaining ingredients and shape into a loaf. Place on top of the ketchup. Bake in preheated oven for 1 hour or until juices are clear.", 
             "id": 20022, 
             "cook_time": 60
@@ -788,13 +825,14 @@
         {
             "total_time": 540, 
             "nutrition": [
-                "Calories: 301 kcal 15", 
-                "Fat: 15.8 g 24", 
-                "Carbs: 11.7g 4", 
-                "Protein: 28.2 g 56", 
-                "Cholesterol: 65 mg 22", 
-                "Sodium: 1189 mg 48"
+                "Calories: 301 kcal 15 %", 
+                "Fat: 15.8 g 24 %", 
+                "Carbs: 11.7g 4 %", 
+                "Protein: 28.2 g 56 %", 
+                "Cholesterol: 65 mg 22 %", 
+                "Sodium: 1189 mg 48 %"
             ], 
+            "rating": "4.42940998077393", 
             "name": "Slow-Cooker Pepper Steak", 
             "ingredients": [
                 "2 pounds beef sirloin, cut into 2 inch strips ", 
@@ -814,8 +852,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/496244.jpg", 
-            "prep_time": 20, 
             "ready_in_time": 270, 
+            "prep_time": 20, 
+            "cal": 301, 
             "directions": "Sprinkle strips of sirloin with garlic powder to taste. In a large skillet over medium heat, heat the vegetable oil and brown the seasoned beef strips. Transfer to a slow cooker. Mix bouillon cube with hot water until dissolved, then mix in cornstarch until dissolved. Pour into the slow cooker with meat. Stir in onion, green peppers, stewed tomatoes, soy sauce, sugar, and salt. Cover, and cook on High for 3 to 4 hours, or on Low for 6 to 8 hours.", 
             "id": 20023, 
             "cook_time": 250
@@ -823,13 +862,14 @@
         {
             "total_time": 140, 
             "nutrition": [
-                "Calories: 372 kcal 19", 
-                "Fat: 24.7 g 38", 
-                "Carbs: 18.5g 6", 
-                "Protein: 18.2 g 36", 
-                "Cholesterol: 98 mg 33", 
-                "Sodium: 335 mg 13"
+                "Calories: 372 kcal 19 %", 
+                "Fat: 24.7 g 38 %", 
+                "Carbs: 18.5g 6 %", 
+                "Protein: 18.2 g 36 %", 
+                "Cholesterol: 98 mg 33 %", 
+                "Sodium: 335 mg 13 %"
             ], 
+            "rating": "4.54324340820313", 
             "name": "Easy Meatloaf", 
             "ingredients": [
                 "1 1/2 pounds ground beef ", 
@@ -846,8 +886,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/682282.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 70, 
+            "prep_time": 10, 
+            "cal": 372, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). In a large bowl, combine the beef, egg, onion, milk and bread OR cracker crumbs. Season with salt and pepper to taste and place in a lightly greased 5x9 inch loaf pan, OR form into a loaf and place in a lightly greased 9x13 inch baking dish. In a separate small bowl, combine the brown sugar, mustard and ketchup. Mix well and pour over the meatloaf. Bake at 350 degrees F (175 degrees C) for 1 hour.", 
             "id": 20024, 
             "cook_time": 60
@@ -855,13 +896,14 @@
         {
             "total_time": 210, 
             "nutrition": [
-                "Calories: 307 kcal 15", 
-                "Fat: 24.5 g 38", 
-                "Carbs: 4.1g 1", 
-                "Protein: 15.8 g 32", 
-                "Cholesterol: 86 mg 29", 
-                "Sodium: 288 mg 12"
+                "Calories: 307 kcal 15 %", 
+                "Fat: 24.5 g 38 %", 
+                "Carbs: 4.1g 1 %", 
+                "Protein: 15.8 g 32 %", 
+                "Cholesterol: 86 mg 29 %", 
+                "Sodium: 288 mg 12 %"
             ], 
+            "rating": "4.75080919265747", 
             "name": "Chef John's Classic Beef Stroganoff", 
             "ingredients": [
                 "1 tablespoon vegetable oil ", 
@@ -882,8 +924,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/810499.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 105, 
+            "prep_time": 15, 
+            "cal": 307, 
             "directions": "Season beef generously with salt and pepper. Heat oil in a large skillet over high heat until nearly smoking. Stir in beef; cook, stirring constantly, for 6-7 minutes, until liquid evaporates and meat browns. Remove meat from the pan and set aside. Stir butter, mushrooms and onions into the pan; cook and stir over medium heat until the vegetables are lightly browned. Add garlic and stir for 30 seconds. Stir in flour; cook for 1-2 minutes until incorporated. Stir in wine and 1 cup of stock, scraping the bottom of the pan to release any browned bits. Bring to a simmer, cook for 3-4 minutes, until the sauce thickens. Return beef to the pan. Stir in remaining cup of stock; bring to a simmer and cook on low heat for about 1 hour with the lid on, until the beef is tender and the sauce is thick. Stir every 20 minutes. Stir in creme fraiche. Stir in chives. Season with salt and pepper to taste.", 
             "id": 20025, 
             "cook_time": 90
@@ -891,13 +934,14 @@
         {
             "total_time": 40, 
             "nutrition": [
-                "Calories: 367 kcal 18", 
-                "Fat: 26.2 g 40", 
-                "Carbs: 5.7g 2", 
-                "Protein: 20.3 g 41", 
-                "Cholesterol: 81 mg 27", 
-                "Sodium: 64 mg 3"
+                "Calories: 367 kcal 18 %", 
+                "Fat: 26.2 g 40 %", 
+                "Carbs: 5.7g 2 %", 
+                "Protein: 20.3 g 41 %", 
+                "Cholesterol: 81 mg 27 %", 
+                "Sodium: 64 mg 3 %"
             ], 
+            "rating": "4.42364120483398", 
             "name": "Filet Mignon with Rich Balsamic Glaze", 
             "ingredients": [
                 "2 (4 ounce) filet mignon steaks ", 
@@ -910,8 +954,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/468582.jpg", 
-            "prep_time": 5, 
             "ready_in_time": 20, 
+            "prep_time": 5, 
+            "cal": 367, 
             "directions": "Sprinkle freshly ground pepper over both sides of each steak, and sprinkle with salt to taste. Heat a nonstick skillet over medium-high heat. Place steaks in hot pan, and cook for 1 minute on each side, or until browned. Reduce heat to medium-low, and add balsamic vinegar and red wine. Cover, and cook for 4 minutes on each side, basting with sauce when you turn the meat over. Remove steaks to two warmed plates, spoon one tablespoon of glaze over each, and serve immediately.", 
             "id": 20026, 
             "cook_time": 15
@@ -919,13 +964,14 @@
         {
             "total_time": 110, 
             "nutrition": [
-                "Calories: 360 kcal 18", 
-                "Fat: 23.5 g 36", 
-                "Carbs: 9.5g 3", 
-                "Protein: 26.8 g 54", 
-                "Cholesterol: 143 mg 48", 
-                "Sodium: 803 mg 32"
+                "Calories: 360 kcal 18 %", 
+                "Fat: 23.5 g 36 %", 
+                "Carbs: 9.5g 3 %", 
+                "Protein: 26.8 g 54 %", 
+                "Cholesterol: 143 mg 48 %", 
+                "Sodium: 803 mg 32 %"
             ], 
+            "rating": "4.54269790649414", 
             "name": "Rempel Family Meatloaf", 
             "ingredients": [
                 "1 1/2 pounds lean ground beef ", 
@@ -940,8 +986,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/32473.jpg", 
-            "prep_time": 10, 
             "ready_in_time": 55, 
+            "prep_time": 10, 
+            "cal": 360, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). Stir the ground beef, crushed crackers, Cheddar cheese, and onion soup mix in a large bowl until well combined. Whisk the eggs, ketchup, and steak sauce in a separate bowl until smooth. Mix the eggs into the meat until evenly combined, if the mixture seems too dry, add a little water. Press into a 9x5 inch loaf pan. Bake in preheated oven until the meatloaf reaches 160 degrees F (71 degrees C) and is no longer pink in the center, 45 to 60 minutes.", 
             "id": 20027, 
             "cook_time": 45
@@ -949,13 +996,14 @@
         {
             "total_time": 120, 
             "nutrition": [
-                "Calories: 432 kcal 22", 
-                "Fat: 23.9 g 37", 
-                "Carbs: 33.3g 11", 
-                "Protein: 19.8 g 40", 
-                "Cholesterol: 68 mg 23", 
-                "Sodium: 847 mg 34"
+                "Calories: 432 kcal 22 %", 
+                "Fat: 23.9 g 37 %", 
+                "Carbs: 33.3g 11 %", 
+                "Protein: 19.8 g 40 %", 
+                "Cholesterol: 68 mg 23 %", 
+                "Sodium: 847 mg 34 %"
             ], 
+            "rating": "4.56004238128662", 
             "name": "Burrito Pie", 
             "ingredients": [
                 "2 pounds ground beef ", 
@@ -973,8 +1021,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/392583.jpg", 
-            "prep_time": 30, 
             "ready_in_time": 60, 
+            "prep_time": 30, 
+            "cal": 432, 
             "directions": "Preheat oven to 350 degrees F (175 degrees C). In a large skillet over medium heat, saute the ground beef for 5 minutes. Add the onion and garlic, and saute for 5 more minutes. Drain any excess fat, if desired. Mix in the olives, green chile peppers, tomatoes with green chile peppers, taco sauce and refried beans. Stir mixture thoroughly, reduce heat to low, and let simmer for 15 to 20 minutes. Spread a thin layer of the meat mixture in the bottom of a 4 quart casserole dish. Cover with a layer of tortillas followed by more meat mixture, then a layer of cheese. Repeat tortilla, meat, cheese pattern until all the tortillas are used, topping off with a layer of meat mixture and cheese. Bake for 20 to 30 minutes in the preheated oven, or until cheese is slightly brown and bubbly.", 
             "id": 20028, 
             "cook_time": 30
@@ -982,13 +1031,14 @@
         {
             "total_time": 1470, 
             "nutrition": [
-                "Calories: 318 kcal 16", 
-                "Fat: 15.8 g 24", 
-                "Carbs: 1.6g < 1", 
-                "Protein: 39.4 g 79", 
-                "Cholesterol: 100 mg 33", 
-                "Sodium: 819 mg 33"
+                "Calories: 318 kcal 16 %", 
+                "Fat: 15.8 g 24 %", 
+                "Carbs: 1.6g < 1 %", 
+                "Protein: 39.4 g 79 %", 
+                "Cholesterol: 100 mg 33 %", 
+                "Sodium: 819 mg 33 %"
             ], 
+            "rating": "4.62961339950562", 
             "name": "Slow Cooker Italian Beef for Sandwiches", 
             "ingredients": [
                 "3 cups water ", 
@@ -1007,8 +1057,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/560x315/178087.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 735, 
+            "prep_time": 15, 
+            "cal": 318, 
             "directions": "Combine water with salt, ground black pepper, oregano, basil, onion salt, parsley, garlic powder, bay leaf, and salad dressing mix in a saucepan. Stir well, and bring to a boil. Place roast in slow cooker, and pour salad dressing mixture over the meat. Cover, and cook on Low for 10 to 12 hours, or on High for 4 to 5 hours. When done, remove bay leaf, and shred meat with a fork.", 
             "id": 20029, 
             "cook_time": 720
@@ -1016,13 +1067,14 @@
         {
             "total_time": 630, 
             "nutrition": [
-                "Calories: 388 kcal 19", 
-                "Fat: 24 g 37", 
-                "Carbs: 18g 6", 
-                "Protein: 23.5 g 47", 
-                "Cholesterol: 75 mg 25", 
-                "Sodium: 1378 mg 55"
+                "Calories: 388 kcal 19 %", 
+                "Fat: 24 g 37 %", 
+                "Carbs: 18g 6 %", 
+                "Protein: 23.5 g 47 %", 
+                "Cholesterol: 75 mg 25 %", 
+                "Sodium: 1378 mg 55 %"
             ], 
+            "rating": "4.51863670349121", 
             "name": "Slow Cooker Salisbury Steak", 
             "ingredients": [
                 "2 pounds lean ground beef ", 
@@ -1039,8 +1091,9 @@
                 ""
             ], 
             "image": "http://images.media-allrecipes.com/userphotos/250x250/783784.jpg", 
-            "prep_time": 15, 
             "ready_in_time": 315, 
+            "prep_time": 15, 
+            "cal": 388, 
             "directions": "In a large bowl, mix together the ground beef, onion soup mix, bread crumbs, and milk using your hands. Shape into 8 patties. Heat the oil in a large skillet over medium-high heat. Dredge the patties in flour just to coat, and quickly brown on both sides in the hot skillet. Place browned patties into the slow cooker stacking alternately like a pyramid. In a medium bowl, mix together the cream of chicken soup, au jus mix, and water. Pour over the meat. Cook on the Low setting for 4 or 5 hours, until ground beef is well done.", 
             "id": 20030, 
             "cook_time": 300
