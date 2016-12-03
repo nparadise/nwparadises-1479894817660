@@ -66,7 +66,7 @@ $(document).ready(function(){
 					}
 					if (!context.hasOwnProperty('foodnames')) {
 						$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
-						$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+						$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 						$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 					}
 
@@ -88,7 +88,7 @@ $(document).ready(function(){
 								checkAppear = true;	
 
 								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
-								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
+								$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
 
 								//
 								//nowshowing.ingredients 3개 제거 필요;;
@@ -115,7 +115,7 @@ $(document).ready(function(){
 							}
 						}
 						if (!checkAppear) { // if food does not appear, show message
-							$('<div class="msg_a"><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
+							$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
 							$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 						}
 						delete context.foodnames;
@@ -168,7 +168,7 @@ $(document).ready(function(){
 			// print food list
 			inDiv += '<div class="menu">' + htmlString + '</div>';
 		}
-		$('<div class="msg_a"><div class="msg_ina">' + inDiv + '</div></div>').insertBefore('.msg_push');
+		$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">' + inDiv + '</div></div>').insertBefore('.msg_push');
 		$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 	}
 
