@@ -144,7 +144,7 @@ $(document).ready(function(){
 			}
 
 			// print food list
-			$('<div class="menu">' + htmlString + '</div>').insertBefore('msg_push');
+			$('<div class="menu">' + htmlString + '</div>').insertBefore('.msg_push');
 			/*$("#food_" + j).html(htmlString);*/
 		}
 	}
