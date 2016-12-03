@@ -15,6 +15,7 @@ var cfenv = require('cfenv');
 // create a new express server
 var app = express();
 
+// base directory of this file
 var directory = __dirname;
 // serve the files out of ./public as our main files
 app.use(express.static(__dirname + '/public'));
@@ -88,6 +89,7 @@ app.post("/test", function(req, res) {
                 var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/foods.json", 'utf8')).foods;
                 for (var j in target) {
                     if (!target[j].hasOwnProperty('nutrition')) continue;
+                    // fix the nutrition information
                     var initialNut = target[j].nutrition,
                         calories = initialNut[0].split(" "),
                         fat = initialNut[1].split(" "),
@@ -118,6 +120,7 @@ app.post("/test", function(req, res) {
                     console.log(err);
                 else {
                     var save_anger = false;
+                    // check only when previous intent is about specific food category: health, time, cuisine, and events
                     if (intent2check.indexOf(prev_intent) > -1) {
                         var emotion_obj1 = JSON.stringify(tone, null, 2);
                         var emotion_obj2 = JSON.parse(emotion_obj1);
