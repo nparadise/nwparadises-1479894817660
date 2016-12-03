@@ -70,7 +70,7 @@ app.post("/test", function(req, res) {
     var prev_intent = req.body.prev_intent;
     var prev_entity = req.body.prev_entity;
     console.log(input_sentence);
-    console.log(context);
+    //console.log(context);
 
     tone_analyzer.tone({
         text: input_sentence
@@ -104,6 +104,7 @@ app.post("/test", function(req, res) {
                 if (err)
                     console.log('error:', err);
                 else {
+                    console.log(response);
                     if (!context.hasOwnProperty('allFoods')) {
                         // read json files containing foods
                         var fs = require('fs');
