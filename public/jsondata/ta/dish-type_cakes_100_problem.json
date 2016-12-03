@@ -1,0 +1,743 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "654", 
+                "time": 120, 
+                "score": "4.66284990310669", 
+                "cal": 735
+            }, 
+            "name": "German Chocolate Cake III", 
+            "key": 27601
+        }, 
+        {
+            "values": {
+                "reviews": "1863", 
+                "time": 260, 
+                "score": "4.25844669342041", 
+                "cal": 124
+            }, 
+            "name": "Cake Balls", 
+            "key": 27602
+        }, 
+        {
+            "values": {
+                "reviews": "1960", 
+                "time": 180, 
+                "score": "4.77150869369507", 
+                "cal": 374
+            }, 
+            "name": "Sam's Famous Carrot Cake", 
+            "key": 27605
+        }, 
+        {
+            "values": {
+                "reviews": "1296", 
+                "time": 145, 
+                "score": "4.7618203163147", 
+                "cal": 465
+            }, 
+            "name": "Tiramisu Layer Cake", 
+            "key": 27607
+        }, 
+        {
+            "values": {
+                "reviews": "72", 
+                "time": 180, 
+                "score": "4.19277095794678", 
+                "cal": 735
+            }, 
+            "name": "Ultimate Cranberry Pudding Cake", 
+            "key": 27608
+        }, 
+        {
+            "values": {
+                "reviews": "283", 
+                "time": 160, 
+                "score": "4.5345344543457", 
+                "cal": 774
+            }, 
+            "name": "Incredibly Delicious Italian Cream Cake", 
+            "key": 27609
+        }, 
+        {
+            "values": {
+                "reviews": "1301", 
+                "time": 140, 
+                "score": "4.58259201049805", 
+                "cal": 427
+            }, 
+            "name": "Dark Chocolate Cake I", 
+            "key": 27611
+        }, 
+        {
+            "values": {
+                "reviews": "1712", 
+                "time": 130, 
+                "score": "4.6806206703186", 
+                "cal": 655
+            }, 
+            "name": "Extreme Chocolate Cake", 
+            "key": 27612
+        }, 
+        {
+            "values": {
+                "reviews": "300", 
+                "time": 170, 
+                "score": "4.63775491714478", 
+                "cal": 277
+            }, 
+            "name": "Eggnog Cheesecake III", 
+            "key": 27613
+        }, 
+        {
+            "values": {
+                "reviews": "2272", 
+                "time": 320, 
+                "score": "4.77476644515991", 
+                "cal": 426
+            }, 
+            "name": "Double Layer Pumpkin Cheesecake", 
+            "key": 27614
+        }, 
+        {
+            "values": {
+                "reviews": "4967", 
+                "time": 540, 
+                "score": "4.71426296234131", 
+                "cal": 533
+            }, 
+            "name": "Chantal's New York Cheesecake", 
+            "key": 27615
+        }, 
+        {
+            "values": {
+                "reviews": "1250", 
+                "time": 210, 
+                "score": "4.74756669998169", 
+                "cal": 528
+            }, 
+            "name": "Chocolate Cavity Maker Cake", 
+            "key": 27617
+        }, 
+        {
+            "values": {
+                "reviews": "1805", 
+                "time": 240, 
+                "score": "4.75558662414551", 
+                "cal": 453
+            }, 
+            "name": "Banana Cake VI", 
+            "key": 27619
+        }, 
+        {
+            "values": {
+                "reviews": "2188", 
+                "time": 110, 
+                "score": "4.70662117004395", 
+                "cal": 157
+            }, 
+            "name": "One Bowl Chocolate Cake III", 
+            "key": 27620
+        }, 
+        {
+            "values": {
+                "reviews": "1081", 
+                "time": 36, 
+                "score": "4.78743982315063", 
+                "cal": 243
+            }, 
+            "name": "Satiny Chocolate Glaze", 
+            "key": 27621
+        }, 
+        {
+            "values": {
+                "reviews": "1949", 
+                "time": 110, 
+                "score": "4.76694393157959", 
+                "cal": 155
+            }, 
+            "name": "Black Magic Cake", 
+            "key": 27622
+        }, 
+        {
+            "values": {
+                "reviews": "1423", 
+                "time": 240, 
+                "score": "4.76870393753052", 
+                "cal": 481
+            }, 
+            "name": "Sopapilla Cheesecake Pie", 
+            "key": 27623
+        }, 
+        {
+            "values": {
+                "reviews": "2631", 
+                "time": 100, 
+                "score": "4.19264888763428", 
+                "cal": 209
+            }, 
+            "name": "Simple White Cake", 
+            "key": 27624
+        }, 
+        {
+            "values": {
+                "reviews": "736", 
+                "time": 190, 
+                "score": "4.30010938644409", 
+                "cal": 375
+            }, 
+            "name": "Favorite Old Fashioned Gingerbread", 
+            "key": 27625
+        }, 
+        {
+            "values": {
+                "reviews": "4762", 
+                "time": 210, 
+                "score": "4.71600723266602", 
+                "cal": 575
+            }, 
+            "name": "Carrot Cake III", 
+            "key": 27626
+        }, 
+        {
+            "values": {
+                "reviews": "75", 
+                "time": 790, 
+                "score": "4.80722904205322", 
+                "cal": 369
+            }, 
+            "name": "White Fruit Cake", 
+            "key": 27627
+        }, 
+        {
+            "values": {
+                "reviews": "1148", 
+                "time": 180, 
+                "score": "4.77777767181396", 
+                "cal": 562
+            }, 
+            "name": "Golden Rum Cake", 
+            "key": 27628
+        }, 
+        {
+            "values": {
+                "reviews": "894", 
+                "time": 180, 
+                "score": "4.65106010437012", 
+                "cal": 525
+            }, 
+            "name": "Cream Cheese Pound Cake III", 
+            "key": 27630
+        }, 
+        {
+            "values": {
+                "reviews": "905", 
+                "time": 170, 
+                "score": "4.53584575653076", 
+                "cal": 430
+            }, 
+            "name": "Awesome Carrot Cake with Cream Cheese Frosting", 
+            "key": 27631
+        }, 
+        {
+            "values": {
+                "reviews": "947", 
+                "time": 60, 
+                "score": "3.98944592475891", 
+                "cal": 158
+            }, 
+            "name": "Chocolate Cupcakes", 
+            "key": 27632
+        }, 
+        {
+            "values": {
+                "reviews": "925", 
+                "time": 180, 
+                "score": "4.63841819763184", 
+                "cal": 193
+            }, 
+            "name": "Better Than Sex Cake II", 
+            "key": 27634
+        }, 
+        {
+            "values": {
+                "reviews": "816", 
+                "time": 195, 
+                "score": "4.60140562057495", 
+                "cal": 251
+            }, 
+            "name": "Honey Bun Cake I", 
+            "key": 27636
+        }, 
+        {
+            "values": {
+                "reviews": "820", 
+                "time": 210, 
+                "score": "4.68163681030273", 
+                "cal": 604
+            }, 
+            "name": "Chocolate Lovers' Favorite Cake", 
+            "key": 27637
+        }, 
+        {
+            "values": {
+                "reviews": "756", 
+                "time": 40, 
+                "score": "4.81281280517578", 
+                "cal": 142
+            }, 
+            "name": "Chocolate Ganache", 
+            "key": 27638
+        }, 
+        {
+            "values": {
+                "reviews": "1032", 
+                "time": 200, 
+                "score": "4.52426481246948", 
+                "cal": 256
+            }, 
+            "name": "Chocolate Chip Cookie Dough + Cupcake = The BEST Cupcake. Ever.", 
+            "key": 27639
+        }, 
+        {
+            "values": {
+                "reviews": "1183", 
+                "time": 100, 
+                "score": "4.43502807617188", 
+                "cal": 360
+            }, 
+            "name": "David's Yellow Cake", 
+            "key": 27641
+        }, 
+        {
+            "values": {
+                "reviews": "864", 
+                "time": 80, 
+                "score": "4.1990385055542", 
+                "cal": 393
+            }, 
+            "name": "Strawberry Cake from Scratch", 
+            "key": 27643
+        }, 
+        {
+            "values": {
+                "reviews": "916", 
+                "time": 90, 
+                "score": "4.68578767776489", 
+                "cal": 316
+            }, 
+            "name": "Granny Kat's Pumpkin Roll", 
+            "key": 27644
+        }, 
+        {
+            "values": {
+                "reviews": "946", 
+                "time": 80, 
+                "score": "4.41979265213013", 
+                "cal": 276
+            }, 
+            "name": "Red Velvet Cupcakes", 
+            "key": 27645
+        }, 
+        {
+            "values": {
+                "reviews": "819", 
+                "time": 90, 
+                "score": "4.67649841308594", 
+                "cal": 95
+            }, 
+            "name": "Mini Cheesecakes I", 
+            "key": 27646
+        }, 
+        {
+            "values": {
+                "reviews": "851", 
+                "time": 165, 
+                "score": "4.77568340301514", 
+                "cal": 590
+            }, 
+            "name": "Irish Cream Bundt Cake", 
+            "key": 27647
+        }, 
+        {
+            "values": {
+                "reviews": "654", 
+                "time": 120, 
+                "score": "4.66284990310669", 
+                "cal": 735
+            }, 
+            "name": "German Chocolate Cake III", 
+            "key": 27650
+        }, 
+        {
+            "values": {
+                "reviews": "717", 
+                "time": 120, 
+                "score": "4.71736526489258", 
+                "cal": 346
+            }, 
+            "name": "A-Number-1 Banana Cake", 
+            "key": 27651
+        }, 
+        {
+            "values": {
+                "reviews": "714", 
+                "time": 340, 
+                "score": "4.72797346115112", 
+                "cal": 341
+            }, 
+            "name": "Autumn Cheesecake", 
+            "key": 27654
+        }, 
+        {
+            "values": {
+                "reviews": "610", 
+                "time": 120, 
+                "score": "4.45408821105957", 
+                "cal": 171
+            }, 
+            "name": "Black Bottom Cupcakes I", 
+            "key": 27655
+        }, 
+        {
+            "values": {
+                "reviews": "610", 
+                "time": 90, 
+                "score": "4.44000005722046", 
+                "cal": 235
+            }, 
+            "name": "Aunt Anne's Coffee Cake", 
+            "key": 27657
+        }, 
+        {
+            "values": {
+                "reviews": "736", 
+                "time": 190, 
+                "score": "4.30010938644409", 
+                "cal": 375
+            }, 
+            "name": "Favorite Old Fashioned Gingerbread", 
+            "key": 27658
+        }, 
+        {
+            "values": {
+                "reviews": "696", 
+                "time": 120, 
+                "score": "4.76251459121704", 
+                "cal": 438
+            }, 
+            "name": "Pumpkin Cake III", 
+            "key": 27659
+        }, 
+        {
+            "values": {
+                "reviews": "822", 
+                "time": 210, 
+                "score": "4.61785364151001", 
+                "cal": 508
+            }, 
+            "name": "Kentucky Butter Cake", 
+            "key": 27660
+        }, 
+        {
+            "values": {
+                "reviews": "714", 
+                "time": 180, 
+                "score": "4.19030714035034", 
+                "cal": 336
+            }, 
+            "name": "Heavenly White Cake", 
+            "key": 27661
+        }, 
+        {
+            "values": {
+                "reviews": "699", 
+                "time": 125, 
+                "score": "4.60744285583496", 
+                "cal": 229
+            }, 
+            "name": "Garbanzo Bean Chocolate Cake (Gluten Free!)", 
+            "key": 27662
+        }, 
+        {
+            "values": {
+                "reviews": "813", 
+                "time": 160, 
+                "score": "4.65051555633545", 
+                "cal": 459
+            }, 
+            "name": "Blueberry Sour Cream Coffee Cake", 
+            "key": 27663
+        }, 
+        {
+            "values": {
+                "reviews": "637", 
+                "time": 210, 
+                "score": "4.59096765518188", 
+                "cal": 410
+            }, 
+            "name": "Orange Cake", 
+            "key": 27664
+        }, 
+        {
+            "values": {
+                "reviews": "696", 
+                "time": 210, 
+                "score": "4.6448826789856", 
+                "cal": 304
+            }, 
+            "name": "Coconut Poke Cake", 
+            "key": 27665
+        }, 
+        {
+            "values": {
+                "reviews": "629", 
+                "time": 130, 
+                "score": "4.67958641052246", 
+                "cal": 360
+            }, 
+            "name": "Pineapple Upside-Down Cake VII", 
+            "key": 27667
+        }, 
+        {
+            "values": {
+                "reviews": "570", 
+                "time": 560, 
+                "score": "4.61111116409302", 
+                "cal": 350
+            }, 
+            "name": "Marbled Pumpkin Cheesecake", 
+            "key": 27668
+        }, 
+        {
+            "values": {
+                "reviews": "639", 
+                "time": 130, 
+                "score": "4.8390941619873", 
+                "cal": 211
+            }, 
+            "name": "Pumpkin Ginger Cupcakes", 
+            "key": 27669
+        }, 
+        {
+            "values": {
+                "reviews": "600", 
+                "time": 145, 
+                "score": "4.24475526809692", 
+                "cal": 290
+            }, 
+            "name": "Fresh Strawberry Upside Down Cake", 
+            "key": 27670
+        }, 
+        {
+            "values": {
+                "reviews": "511", 
+                "time": 210, 
+                "score": "4.51833343505859", 
+                "cal": 489
+            }, 
+            "name": "Buttermilk Pound Cake II", 
+            "key": 27671
+        }, 
+        {
+            "values": {
+                "reviews": "527", 
+                "time": 200, 
+                "score": "4.60221862792969", 
+                "cal": 610
+            }, 
+            "name": "Cheesecake Supreme", 
+            "key": 27674
+        }, 
+        {
+            "values": {
+                "reviews": "555", 
+                "time": 100, 
+                "score": "4.70437383651733", 
+                "cal": 485
+            }, 
+            "name": "Amazing Pecan Coffee Cake", 
+            "key": 27676
+        }, 
+        {
+            "values": {
+                "reviews": "580", 
+                "time": 100, 
+                "score": "4.70752096176147", 
+                "cal": 211
+            }, 
+            "name": "White Almond Wedding Cake", 
+            "key": 27677
+        }, 
+        {
+            "values": {
+                "reviews": "598", 
+                "time": 110, 
+                "score": "4.48550701141357", 
+                "cal": 155
+            }, 
+            "name": "Peach Cobbler Dump Cake I", 
+            "key": 27678
+        }, 
+        {
+            "values": {
+                "reviews": "591", 
+                "time": 110, 
+                "score": "4.47398042678833", 
+                "cal": 306
+            }, 
+            "name": "Sour Cream Coffee Cake III", 
+            "key": 27682
+        }, 
+        {
+            "values": {
+                "reviews": "621", 
+                "time": 120, 
+                "score": "4.6557822227478", 
+                "cal": 275
+            }, 
+            "name": "Vegan Chocolate Cake", 
+            "key": 27683
+        }, 
+        {
+            "values": {
+                "reviews": "570", 
+                "time": 130, 
+                "score": "4.70948886871338", 
+                "cal": 269
+            }, 
+            "name": "Chocolate Zucchini Cake III", 
+            "key": 27685
+        }, 
+        {
+            "values": {
+                "reviews": "636", 
+                "time": 110, 
+                "score": "4.12043285369873", 
+                "cal": 142
+            }, 
+            "name": "Cake Mixes from Scratch and Variations", 
+            "key": 27686
+        }, 
+        {
+            "values": {
+                "reviews": "488", 
+                "time": 240, 
+                "score": "4.8006534576416", 
+                "cal": 553
+            }, 
+            "name": "Sopapilla Cheesecake Dessert", 
+            "key": 27688
+        }, 
+        {
+            "values": {
+                "reviews": "412", 
+                "time": 660, 
+                "score": "4.66415071487427", 
+                "cal": 457
+            }, 
+            "name": "Irish Cream Chocolate Cheesecake", 
+            "key": 27692
+        }, 
+        {
+            "values": {
+                "reviews": "484", 
+                "time": 160, 
+                "score": "4.56418895721436", 
+                "cal": 285
+            }, 
+            "name": "Flourless Chocolate Cake II", 
+            "key": 27693
+        }, 
+        {
+            "values": {
+                "reviews": "426", 
+                "time": 210, 
+                "score": "4.62934350967407", 
+                "cal": 337
+            }, 
+            "name": "Mandarin Orange Cake I", 
+            "key": 27694
+        }, 
+        {
+            "values": {
+                "reviews": "457", 
+                "time": 160, 
+                "score": "4.5240740776062", 
+                "cal": 401
+            }, 
+            "name": "Blueberry Coffee Cake I", 
+            "key": 27696
+        }, 
+        {
+            "values": {
+                "reviews": "464", 
+                "time": 60, 
+                "score": "4.74093246459961", 
+                "cal": 256
+            }, 
+            "name": "Texas Sheet Cake V", 
+            "key": 27697
+        }, 
+        {
+            "values": {
+                "reviews": "459", 
+                "time": 110, 
+                "score": "4.66233777999878", 
+                "cal": 320
+            }, 
+            "name": "Dark Chocolate Cake II", 
+            "key": 27699
+        }, 
+        {
+            "values": {
+                "reviews": "403", 
+                "time": 120, 
+                "score": "4.55449342727661", 
+                "cal": 322
+            }, 
+            "name": "Pineapple Upside-Down Cake V", 
+            "key": 27700
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

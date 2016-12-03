@@ -1,0 +1,793 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "2", 
+                "time": 110, 
+                "score": "5", 
+                "cal": 94
+            }, 
+            "name": "Chef John's Oysters Rockefeller", 
+            "key": 19301
+        }, 
+        {
+            "values": {
+                "reviews": "637", 
+                "time": 100, 
+                "score": "4.6130952835083", 
+                "cal": 341
+            }, 
+            "name": "Egg and Sausage Casserole", 
+            "key": 19302
+        }, 
+        {
+            "values": {
+                "reviews": "932", 
+                "time": 14, 
+                "score": "4.59369802474976", 
+                "cal": 310
+            }, 
+            "name": "Creamy Hot Cocoa", 
+            "key": 19303
+        }, 
+        {
+            "values": {
+                "reviews": "565", 
+                "time": 60, 
+                "score": "4.66541814804077", 
+                "cal": 142
+            }, 
+            "name": "Vanilla Crepes", 
+            "key": 19304
+        }, 
+        {
+            "values": {
+                "reviews": "532", 
+                "time": 90, 
+                "score": "4.59154939651489", 
+                "cal": 47
+            }, 
+            "name": "Fried Cabbage II", 
+            "key": 19305
+        }, 
+        {
+            "values": {
+                "reviews": "702", 
+                "time": 100, 
+                "score": "4.7681450843811", 
+                "cal": 79
+            }, 
+            "name": "Crepes", 
+            "key": 19306
+        }, 
+        {
+            "values": {
+                "reviews": "225", 
+                "time": 60, 
+                "score": "4.39518880844116", 
+                "cal": 299
+            }, 
+            "name": "King Crab Appetizers", 
+            "key": 19307
+        }, 
+        {
+            "values": {
+                "reviews": "451", 
+                "time": 150, 
+                "score": "4.55017280578613", 
+                "cal": 388
+            }, 
+            "name": "Charleston Breakfast Casserole", 
+            "key": 19309
+        }, 
+        {
+            "values": {
+                "reviews": "644", 
+                "time": 40, 
+                "score": "4.82118463516235", 
+                "cal": 164
+            }, 
+            "name": "Dessert Crepes", 
+            "key": 19310
+        }, 
+        {
+            "values": {
+                "reviews": "19", 
+                "time": 80, 
+                "score": "4.7142858505249", 
+                "cal": 329
+            }, 
+            "name": "Perfect Crab-Stuffed Mushrooms", 
+            "key": 19312
+        }, 
+        {
+            "values": {
+                "reviews": "1716", 
+                "time": 40, 
+                "score": "4.45976495742798", 
+                "cal": 58
+            }, 
+            "name": "Baked Kale Chips", 
+            "key": 19313
+        }, 
+        {
+            "values": {
+                "reviews": "2607", 
+                "time": 90, 
+                "score": "4.61051464080811", 
+                "cal": 88
+            }, 
+            "name": "Mouth-Watering Stuffed Mushrooms", 
+            "key": 19315
+        }, 
+        {
+            "values": {
+                "reviews": "289", 
+                "time": 40, 
+                "score": "4.53298139572144", 
+                "cal": 278
+            }, 
+            "name": "Artichoke Bruschetta", 
+            "key": 19317
+        }, 
+        {
+            "values": {
+                "reviews": "465", 
+                "time": 130, 
+                "score": "4.54036235809326", 
+                "cal": 428
+            }, 
+            "name": "Ethiopian Cabbage Dish", 
+            "key": 19318
+        }, 
+        {
+            "values": {
+                "reviews": "761", 
+                "time": 205, 
+                "score": "4.67941188812256", 
+                "cal": 355
+            }, 
+            "name": "Sausage Casserole", 
+            "key": 19320
+        }, 
+        {
+            "values": {
+                "reviews": "1664", 
+                "time": 310, 
+                "score": "4.7722373008728", 
+                "cal": 72
+            }, 
+            "name": "Best Lemonade Ever", 
+            "key": 19321
+        }, 
+        {
+            "values": {
+                "reviews": "1676", 
+                "time": 170, 
+                "score": "4.79034376144409", 
+                "cal": 381
+            }, 
+            "name": "Gourmet Sweet Potato Classic", 
+            "key": 19322
+        }, 
+        {
+            "values": {
+                "reviews": "412", 
+                "time": 680, 
+                "score": "4.67049789428711", 
+                "cal": 408
+            }, 
+            "name": "Sausage Egg Casserole", 
+            "key": 19323
+        }, 
+        {
+            "values": {
+                "reviews": "1706", 
+                "time": 150, 
+                "score": "4.52750110626221", 
+                "cal": 415
+            }, 
+            "name": "Cheesy Ham and Hash Brown Casserole", 
+            "key": 19324
+        }, 
+        {
+            "values": {
+                "reviews": "2125", 
+                "time": 60, 
+                "score": "4.64256191253662", 
+                "cal": 216
+            }, 
+            "name": "Basic Crepes", 
+            "key": 19326
+        }, 
+        {
+            "values": {
+                "reviews": "111", 
+                "time": 970, 
+                "score": "4.65605115890503", 
+                "cal": 101
+            }, 
+            "name": "Wassail Punch", 
+            "key": 19327
+        }, 
+        {
+            "values": {
+                "reviews": "242", 
+                "time": 80, 
+                "score": "4.68292665481567", 
+                "cal": 286
+            }, 
+            "name": "Brie Cheese Appetizer", 
+            "key": 19328
+        }, 
+        {
+            "values": {
+                "reviews": "1351", 
+                "time": 110, 
+                "score": "4.61581325531006", 
+                "cal": 123
+            }, 
+            "name": "Roasted Vegetables", 
+            "key": 19329
+        }, 
+        {
+            "values": {
+                "reviews": "339", 
+                "time": 30, 
+                "score": "4.62829732894897", 
+                "cal": 189
+            }, 
+            "name": "Southern Fried Cabbage", 
+            "key": 19330
+        }, 
+        {
+            "values": {
+                "reviews": "250", 
+                "time": 120, 
+                "score": "4.59752321243286", 
+                "cal": 78
+            }, 
+            "name": "Bacon Wrapped Dates Stuffed with Blue Cheese", 
+            "key": 19331
+        }, 
+        {
+            "values": {
+                "reviews": "389", 
+                "time": 140, 
+                "score": "4.58403348922729", 
+                "cal": 493
+            }, 
+            "name": "Country Breakfast Casserole", 
+            "key": 19332
+        }, 
+        {
+            "values": {
+                "reviews": "237", 
+                "time": 100, 
+                "score": "4.48113203048706", 
+                "cal": 66
+            }, 
+            "name": "Fabulous Fried Cabbage", 
+            "key": 19333
+        }, 
+        {
+            "values": {
+                "reviews": "402", 
+                "time": 150, 
+                "score": "4.65199995040894", 
+                "cal": 320
+            }, 
+            "name": "Butternut Squash Casserole", 
+            "key": 19334
+        }, 
+        {
+            "values": {
+                "reviews": "318", 
+                "time": 120, 
+                "score": "4.48617506027222", 
+                "cal": 502
+            }, 
+            "name": "Moroccan-Style Stuffed Acorn Squash", 
+            "key": 19335
+        }, 
+        {
+            "values": {
+                "reviews": "326", 
+                "time": 140, 
+                "score": "4.58057403564453", 
+                "cal": 204
+            }, 
+            "name": "Roasted Beets and Sauteed Beet Greens", 
+            "key": 19336
+        }, 
+        {
+            "values": {
+                "reviews": "334", 
+                "time": 110, 
+                "score": "4.50210094451904", 
+                "cal": 342
+            }, 
+            "name": "Butternut Squash Risotto", 
+            "key": 19337
+        }, 
+        {
+            "values": {
+                "reviews": "284", 
+                "time": 90, 
+                "score": "4.6811146736145", 
+                "cal": 305
+            }, 
+            "name": "Charline's Sweet Potato Casserole", 
+            "key": 19338
+        }, 
+        {
+            "values": {
+                "reviews": "231", 
+                "time": 190, 
+                "score": "4.69009590148926", 
+                "cal": 246
+            }, 
+            "name": "Spanakopita II", 
+            "key": 19340
+        }, 
+        {
+            "values": {
+                "reviews": "289", 
+                "time": 40, 
+                "score": "4.53298139572144", 
+                "cal": 278
+            }, 
+            "name": "Artichoke Bruschetta", 
+            "key": 19341
+        }, 
+        {
+            "values": {
+                "reviews": "405", 
+                "time": 140, 
+                "score": "4.42942333221436", 
+                "cal": 272
+            }, 
+            "name": "Black-Eyed Pea Gumbo", 
+            "key": 19343
+        }, 
+        {
+            "values": {
+                "reviews": "282", 
+                "time": 70, 
+                "score": "4.79310321807861", 
+                "cal": 208
+            }, 
+            "name": "Baked Ham and Cheese Party Sandwiches", 
+            "key": 19344
+        }, 
+        {
+            "values": {
+                "reviews": "286", 
+                "time": 65, 
+                "score": "4.79764699935913", 
+                "cal": 551
+            }, 
+            "name": "Four Cheese Margherita Pizza", 
+            "key": 19345
+        }, 
+        {
+            "values": {
+                "reviews": "223", 
+                "time": 60, 
+                "score": "4.32398748397827", 
+                "cal": 711
+            }, 
+            "name": "Easy, Cheesy Tortellini Bake", 
+            "key": 19346
+        }, 
+        {
+            "values": {
+                "reviews": "282", 
+                "time": 140, 
+                "score": "4.43958854675293", 
+                "cal": 229
+            }, 
+            "name": "Cajun Style Baked Sweet Potato", 
+            "key": 19348
+        }, 
+        {
+            "values": {
+                "reviews": "242", 
+                "time": 80, 
+                "score": "4.68292665481567", 
+                "cal": 286
+            }, 
+            "name": "Brie Cheese Appetizer", 
+            "key": 19349
+        }, 
+        {
+            "values": {
+                "reviews": "195", 
+                "time": 60, 
+                "score": "4.56097555160522", 
+                "cal": 203
+            }, 
+            "name": "Shrimpcargot", 
+            "key": 19350
+        }, 
+        {
+            "values": {
+                "reviews": "251", 
+                "time": 140, 
+                "score": "4.68686866760254", 
+                "cal": 262
+            }, 
+            "name": "Caramel Snack Mix", 
+            "key": 19352
+        }, 
+        {
+            "values": {
+                "reviews": "243", 
+                "time": 220, 
+                "score": "4.6120400428772", 
+                "cal": 148
+            }, 
+            "name": "Grandma Jeanette's Amazing German Red Cabbage", 
+            "key": 19353
+        }, 
+        {
+            "values": {
+                "reviews": "200", 
+                "time": 110, 
+                "score": "4.47470808029175", 
+                "cal": 413
+            }, 
+            "name": "Cheesy Acorn Squash", 
+            "key": 19354
+        }, 
+        {
+            "values": {
+                "reviews": "177", 
+                "time": 140, 
+                "score": "4.88034200668335", 
+                "cal": 117
+            }, 
+            "name": "Pecan Snack", 
+            "key": 19356
+        }, 
+        {
+            "values": {
+                "reviews": "142", 
+                "time": 200, 
+                "score": "4.61885261535645", 
+                "cal": 191
+            }, 
+            "name": "Roasted Vegetable Medley", 
+            "key": 19357
+        }, 
+        {
+            "values": {
+                "reviews": "181", 
+                "time": 115, 
+                "score": "4.65020561218262", 
+                "cal": 274
+            }, 
+            "name": "Roasted Yam and Kale Salad", 
+            "key": 19358
+        }, 
+        {
+            "values": {
+                "reviews": "211", 
+                "time": 70, 
+                "score": "4.64661645889282", 
+                "cal": 560
+            }, 
+            "name": "Bacon and Date Appetizer", 
+            "key": 19360
+        }, 
+        {
+            "values": {
+                "reviews": "214", 
+                "time": 70, 
+                "score": "4.47079038619995", 
+                "cal": 98
+            }, 
+            "name": "Acorn Squash with Apple", 
+            "key": 19361
+        }, 
+        {
+            "values": {
+                "reviews": "187", 
+                "time": 430, 
+                "score": "4.42489290237427", 
+                "cal": 236
+            }, 
+            "name": "Real Homemade Tamales", 
+            "key": 19362
+        }, 
+        {
+            "values": {
+                "reviews": "251", 
+                "time": 370, 
+                "score": "4.55128192901611", 
+                "cal": 528
+            }, 
+            "name": "Tiramisu Cheesecake", 
+            "key": 19363
+        }, 
+        {
+            "values": {
+                "reviews": "236", 
+                "time": 60, 
+                "score": "4.58139514923096", 
+                "cal": 389
+            }, 
+            "name": "Sausage Brunch Casserole", 
+            "key": 19364
+        }, 
+        {
+            "values": {
+                "reviews": "233", 
+                "time": 40, 
+                "score": "4.62300300598145", 
+                "cal": 518
+            }, 
+            "name": "Banana Crepes", 
+            "key": 19365
+        }, 
+        {
+            "values": {
+                "reviews": "216", 
+                "time": 110, 
+                "score": "4.49275350570679", 
+                "cal": 200
+            }, 
+            "name": "Stewed Cabbage", 
+            "key": 19366
+        }, 
+        {
+            "values": {
+                "reviews": "203", 
+                "time": 130, 
+                "score": "4.62692308425903", 
+                "cal": 269
+            }, 
+            "name": "Vintage Lemonade", 
+            "key": 19367
+        }, 
+        {
+            "values": {
+                "reviews": "231", 
+                "time": 160, 
+                "score": "4.56774187088013", 
+                "cal": 419
+            }, 
+            "name": "Make Ahead Breakfast Casserole", 
+            "key": 19368
+        }, 
+        {
+            "values": {
+                "reviews": "221", 
+                "time": 170, 
+                "score": "4.72664356231689", 
+                "cal": 386
+            }, 
+            "name": "Southern Candied Sweet Potatoes", 
+            "key": 19369
+        }, 
+        {
+            "values": {
+                "reviews": "173", 
+                "time": 670, 
+                "score": "4.6834864616394", 
+                "cal": 416
+            }, 
+            "name": "Zippy Egg Casserole", 
+            "key": 19370
+        }, 
+        {
+            "values": {
+                "reviews": "145", 
+                "time": 770, 
+                "score": "4.52406406402588", 
+                "cal": 229
+            }, 
+            "name": "Pork Roast with Sauerkraut and Kielbasa", 
+            "key": 19372
+        }, 
+        {
+            "values": {
+                "reviews": "174", 
+                "time": 390, 
+                "score": "4.355140209198", 
+                "cal": 120
+            }, 
+            "name": "New Year's Day Black-Eyed Peas", 
+            "key": 19374
+        }, 
+        {
+            "values": {
+                "reviews": "140", 
+                "time": 150, 
+                "score": "4.53488349914551", 
+                "cal": 286
+            }, 
+            "name": "Broccoli and Cheese Brunch Casserole", 
+            "key": 19375
+        }, 
+        {
+            "values": {
+                "reviews": "175", 
+                "time": 760, 
+                "score": "4.4330358505249", 
+                "cal": 245
+            }, 
+            "name": "Slow Cooker Lancaster County Pork and Sauerkraut", 
+            "key": 19376
+        }, 
+        {
+            "values": {
+                "reviews": "171", 
+                "time": 270, 
+                "score": "4.25116300582886", 
+                "cal": 475
+            }, 
+            "name": "Hoppin' John", 
+            "key": 19377
+        }, 
+        {
+            "values": {
+                "reviews": "134", 
+                "time": 70, 
+                "score": "4.07303380966187", 
+                "cal": 60
+            }, 
+            "name": "Blue Cheese and Pear Tartlets", 
+            "key": 19380
+        }, 
+        {
+            "values": {
+                "reviews": "174", 
+                "time": 150, 
+                "score": "4.58986186981201", 
+                "cal": 503
+            }, 
+            "name": "Costas French Market Doughnuts (Beignets)", 
+            "key": 19382
+        }, 
+        {
+            "values": {
+                "reviews": "180", 
+                "time": 70, 
+                "score": "4.68493127822876", 
+                "cal": 307
+            }, 
+            "name": "Quick Hoppin' John Soup", 
+            "key": 19383
+        }, 
+        {
+            "values": {
+                "reviews": "137", 
+                "time": 76, 
+                "score": "4.61016941070557", 
+                "cal": 348
+            }, 
+            "name": "Blue Bacon Stuffed Mushrooms", 
+            "key": 19385
+        }, 
+        {
+            "values": {
+                "reviews": "144", 
+                "time": 120, 
+                "score": "4.75568199157715", 
+                "cal": 577
+            }, 
+            "name": "Eggless Sweet Potato Casserole", 
+            "key": 19389
+        }, 
+        {
+            "values": {
+                "reviews": "112", 
+                "time": 66, 
+                "score": "4.40259742736816", 
+                "cal": 292
+            }, 
+            "name": "Dawn's Easy Red Velvet Sandwich Cookies", 
+            "key": 19390
+        }, 
+        {
+            "values": {
+                "reviews": "134", 
+                "time": 54, 
+                "score": "4.77070045471191", 
+                "cal": 219
+            }, 
+            "name": "Sweet, Salty, Spicy Party Nuts", 
+            "key": 19391
+        }, 
+        {
+            "values": {
+                "reviews": "99", 
+                "time": 140, 
+                "score": "4.42957735061646", 
+                "cal": 320
+            }, 
+            "name": "Baked Acorn Squash", 
+            "key": 19392
+        }, 
+        {
+            "values": {
+                "reviews": "141", 
+                "time": 20, 
+                "score": "4.6369047164917", 
+                "cal": 187
+            }, 
+            "name": "Movie Star Popcorn", 
+            "key": 19395
+        }, 
+        {
+            "values": {
+                "reviews": "117", 
+                "time": 150, 
+                "score": "4.59872627258301", 
+                "cal": 239
+            }, 
+            "name": "Sweet Potato and Apple Casserole", 
+            "key": 19396
+        }, 
+        {
+            "values": {
+                "reviews": "123", 
+                "time": 450, 
+                "score": "4.53521108627319", 
+                "cal": 111
+            }, 
+            "name": "Pear Honey", 
+            "key": 19399
+        }, 
+        {
+            "values": {
+                "reviews": "125", 
+                "time": 470, 
+                "score": "4.7724552154541", 
+                "cal": 417
+            }, 
+            "name": "Irish Cream Creme Brulee", 
+            "key": 19400
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

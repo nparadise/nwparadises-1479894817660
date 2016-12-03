@@ -1,0 +1,963 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "1753", 
+                "time": 50, 
+                "score": "4.76516723632813", 
+                "cal": 462
+            }, 
+            "name": "Creamy Chicken and Wild Rice Soup", 
+            "key": 9401
+        }, 
+        {
+            "values": {
+                "reviews": "10", 
+                "time": 1680, 
+                "score": "3.91666674613953", 
+                "cal": 464
+            }, 
+            "name": "Funky Cholent", 
+            "key": 9402
+        }, 
+        {
+            "values": {
+                "reviews": "2095", 
+                "time": 230, 
+                "score": "4.64448261260986", 
+                "cal": 305
+            }, 
+            "name": "It's Chili by George!!", 
+            "key": 9403
+        }, 
+        {
+            "values": {
+                "reviews": "1941", 
+                "time": 80, 
+                "score": "4.62357091903687", 
+                "cal": 265
+            }, 
+            "name": "Broccoli Cheese Soup", 
+            "key": 9404
+        }, 
+        {
+            "values": {
+                "reviews": "1607", 
+                "time": 170, 
+                "score": "4.80142498016357", 
+                "cal": 554
+            }, 
+            "name": "Super-Delicious Zuppa Toscana", 
+            "key": 9405
+        }, 
+        {
+            "values": {
+                "reviews": "125", 
+                "time": 220, 
+                "score": "4.72955989837646", 
+                "cal": 374
+            }, 
+            "name": "Ham and Split Pea Soup Recipe - A Great Soup", 
+            "key": 9406
+        }, 
+        {
+            "values": {
+                "reviews": "958", 
+                "time": 150, 
+                "score": "4.7302074432373", 
+                "cal": 618
+            }, 
+            "name": "French Onion Soup Gratinee", 
+            "key": 9407
+        }, 
+        {
+            "values": {
+                "reviews": "6449", 
+                "time": 740, 
+                "score": "4.35985946655273", 
+                "cal": 385
+            }, 
+            "name": "Slow Cooker Chicken and Dumplings", 
+            "key": 9408
+        }, 
+        {
+            "values": {
+                "reviews": "1561", 
+                "time": 90, 
+                "score": "4.75", 
+                "cal": 473
+            }, 
+            "name": "Catherine's Spicy Chicken Soup", 
+            "key": 9409
+        }, 
+        {
+            "values": {
+                "reviews": "4188", 
+                "time": 300, 
+                "score": "4.80295658111572", 
+                "cal": 600
+            }, 
+            "name": "Boilermaker Tailgate Chili", 
+            "key": 9410
+        }, 
+        {
+            "values": {
+                "reviews": "1587", 
+                "time": 1000, 
+                "score": "4.4199366569519", 
+                "cal": 235
+            }, 
+            "name": "Colleen's Slow Cooker Jambalaya", 
+            "key": 9411
+        }, 
+        {
+            "values": {
+                "reviews": "390", 
+                "time": 390, 
+                "score": "4.6365385055542", 
+                "cal": 353
+            }, 
+            "name": "Lentil and Sausage Soup", 
+            "key": 9412
+        }, 
+        {
+            "values": {
+                "reviews": "63", 
+                "time": 220, 
+                "score": "4.60493850708008", 
+                "cal": 448
+            }, 
+            "name": "Chef John's Turkey Chili", 
+            "key": 9413
+        }, 
+        {
+            "values": {
+                "reviews": "2027", 
+                "time": 100, 
+                "score": "4.80604076385498", 
+                "cal": 385
+            }, 
+            "name": "Italian Sausage Soup", 
+            "key": 9414
+        }, 
+        {
+            "values": {
+                "reviews": "1516", 
+                "time": 190, 
+                "score": "4.81438493728638", 
+                "cal": 324
+            }, 
+            "name": "Italian Sausage Soup with Tortellini", 
+            "key": 9415
+        }, 
+        {
+            "values": {
+                "reviews": "3596", 
+                "time": 1020, 
+                "score": "4.66966962814331", 
+                "cal": 262
+            }, 
+            "name": "Slow-Cooker Chicken Tortilla Soup", 
+            "key": 9416
+        }, 
+        {
+            "values": {
+                "reviews": "2817", 
+                "time": 1480, 
+                "score": "4.41508483886719", 
+                "cal": 516
+            }, 
+            "name": "Slow Cooker Beef Stew I", 
+            "key": 9417
+        }, 
+        {
+            "values": {
+                "reviews": "85", 
+                "time": 360, 
+                "score": "4.86324787139893", 
+                "cal": 336
+            }, 
+            "name": "Ken's Kickin' Posole", 
+            "key": 9418
+        }, 
+        {
+            "values": {
+                "reviews": "1801", 
+                "time": 60, 
+                "score": "4.70436811447144", 
+                "cal": 161
+            }, 
+            "name": "Quick and Easy Chicken Noodle Soup", 
+            "key": 9419
+        }, 
+        {
+            "values": {
+                "reviews": "205", 
+                "time": 290, 
+                "score": "4.60384607315063", 
+                "cal": 425
+            }, 
+            "name": "Baked Beef Stew", 
+            "key": 9420
+        }, 
+        {
+            "values": {
+                "reviews": "2139", 
+                "time": 140, 
+                "score": "4.75676584243774", 
+                "cal": 480
+            }, 
+            "name": "Debdoozie's Blue Ribbon Chili", 
+            "key": 9421
+        }, 
+        {
+            "values": {
+                "reviews": "87", 
+                "time": 200, 
+                "score": "4.5", 
+                "cal": 219
+            }, 
+            "name": "Roasted Butternut Squash Soup with Apples and Bacon", 
+            "key": 9422
+        }, 
+        {
+            "values": {
+                "reviews": "1588", 
+                "time": 170, 
+                "score": "4.72381401062012", 
+                "cal": 227
+            }, 
+            "name": "Jamie's Minestrone", 
+            "key": 9423
+        }, 
+        {
+            "values": {
+                "reviews": "1677", 
+                "time": 60, 
+                "score": "4.6701979637146", 
+                "cal": 684
+            }, 
+            "name": "Cha Cha's White Chicken Chili", 
+            "key": 9424
+        }, 
+        {
+            "values": {
+                "reviews": "9297", 
+                "time": 90, 
+                "score": "4.83584451675415", 
+                "cal": 195
+            }, 
+            "name": "Delicious Ham and Potato Soup", 
+            "key": 9425
+        }, 
+        {
+            "values": {
+                "reviews": "2260", 
+                "time": 120, 
+                "score": "4.58157253265381", 
+                "cal": 397
+            }, 
+            "name": "Butternut Squash Soup", 
+            "key": 9426
+        }, 
+        {
+            "values": {
+                "reviews": "1800", 
+                "time": 280, 
+                "score": "4.59788990020752", 
+                "cal": 401
+            }, 
+            "name": "Beef Stew VI", 
+            "key": 9427
+        }, 
+        {
+            "values": {
+                "reviews": "331", 
+                "time": 90, 
+                "score": "4.64302062988281", 
+                "cal": 508
+            }, 
+            "name": "Brazilian Black Bean Stew", 
+            "key": 9428
+        }, 
+        {
+            "values": {
+                "reviews": "4641", 
+                "time": 870, 
+                "score": "4.67293548583984", 
+                "cal": 434
+            }, 
+            "name": "Slow Cooker Chicken Taco Soup", 
+            "key": 9429
+        }, 
+        {
+            "values": {
+                "reviews": "1411", 
+                "time": 80, 
+                "score": "4.65555572509766", 
+                "cal": 748
+            }, 
+            "name": "Baked Potato Soup I", 
+            "key": 9430
+        }, 
+        {
+            "values": {
+                "reviews": "1472", 
+                "time": 100, 
+                "score": "4.60844326019287", 
+                "cal": 501
+            }, 
+            "name": "My Best Clam Chowder", 
+            "key": 9431
+        }, 
+        {
+            "values": {
+                "reviews": "1195", 
+                "time": 80, 
+                "score": "4.69562530517578", 
+                "cal": 377
+            }, 
+            "name": "Chicken Tortilla Soup I", 
+            "key": 9432
+        }, 
+        {
+            "values": {
+                "reviews": "1519", 
+                "time": 210, 
+                "score": "4.72867059707642", 
+                "cal": 347
+            }, 
+            "name": "Flatlander Chili", 
+            "key": 9433
+        }, 
+        {
+            "values": {
+                "reviews": "1554", 
+                "time": 100, 
+                "score": "4.65059661865234", 
+                "cal": 594
+            }, 
+            "name": "Absolutely Ultimate Potato Soup", 
+            "key": 9434
+        }, 
+        {
+            "values": {
+                "reviews": "1340", 
+                "time": 40, 
+                "score": "4.64212226867676", 
+                "cal": 240
+            }, 
+            "name": "Black Bean and Salsa Soup", 
+            "key": 9435
+        }, 
+        {
+            "values": {
+                "reviews": "1556", 
+                "time": 40, 
+                "score": "4.5342812538147", 
+                "cal": 214
+            }, 
+            "name": "Six Can Chicken Tortilla Soup", 
+            "key": 9436
+        }, 
+        {
+            "values": {
+                "reviews": "1420", 
+                "time": 980, 
+                "score": "4.60576438903809", 
+                "cal": 362
+            }, 
+            "name": "Slow Cooker Taco Soup", 
+            "key": 9437
+        }, 
+        {
+            "values": {
+                "reviews": "953", 
+                "time": 160, 
+                "score": "4.78980398178101", 
+                "cal": 223
+            }, 
+            "name": "Mulligatawny Soup I", 
+            "key": 9438
+        }, 
+        {
+            "values": {
+                "reviews": "1074", 
+                "time": 90, 
+                "score": "4.55757141113281", 
+                "cal": 147
+            }, 
+            "name": "Grandma's Chicken Noodle Soup", 
+            "key": 9439
+        }, 
+        {
+            "values": {
+                "reviews": "958", 
+                "time": 150, 
+                "score": "4.7302074432373", 
+                "cal": 618
+            }, 
+            "name": "French Onion Soup Gratinee", 
+            "key": 9440
+        }, 
+        {
+            "values": {
+                "reviews": "960", 
+                "time": 100, 
+                "score": "4.47289848327637", 
+                "cal": 411
+            }, 
+            "name": "Cheeseburger Soup I", 
+            "key": 9441
+        }, 
+        {
+            "values": {
+                "reviews": "953", 
+                "time": 90, 
+                "score": "4.58339881896973", 
+                "cal": 473
+            }, 
+            "name": "Rich and Creamy Tomato Basil Soup", 
+            "key": 9443
+        }, 
+        {
+            "values": {
+                "reviews": "1272", 
+                "time": 280, 
+                "score": "4.64326000213623", 
+                "cal": 532
+            }, 
+            "name": "Chili I", 
+            "key": 9444
+        }, 
+        {
+            "values": {
+                "reviews": "1379", 
+                "time": 140, 
+                "score": "4.61101627349854", 
+                "cal": 305
+            }, 
+            "name": "Butternut Squash Soup II", 
+            "key": 9445
+        }, 
+        {
+            "values": {
+                "reviews": "1371", 
+                "time": 120, 
+                "score": "4.56547927856445", 
+                "cal": 185
+            }, 
+            "name": "Simple Turkey Chili", 
+            "key": 9447
+        }, 
+        {
+            "values": {
+                "reviews": "1231", 
+                "time": 100, 
+                "score": "4.72716045379639", 
+                "cal": 201
+            }, 
+            "name": "Hungarian Mushroom Soup", 
+            "key": 9448
+        }, 
+        {
+            "values": {
+                "reviews": "1155", 
+                "time": 150, 
+                "score": "4.68900442123413", 
+                "cal": 391
+            }, 
+            "name": "The Best Vegetarian Chili in the World", 
+            "key": 9449
+        }, 
+        {
+            "values": {
+                "reviews": "926", 
+                "time": 70, 
+                "score": "4.56969690322876", 
+                "cal": 80
+            }, 
+            "name": "Garden Fresh Tomato Soup", 
+            "key": 9450
+        }, 
+        {
+            "values": {
+                "reviews": "872", 
+                "time": 510, 
+                "score": "4.63801240921021", 
+                "cal": 276
+            }, 
+            "name": "Laura's Quick Slow Cooker Turkey Chili", 
+            "key": 9451
+        }, 
+        {
+            "values": {
+                "reviews": "773", 
+                "time": 100, 
+                "score": "4.7125129699707", 
+                "cal": 148
+            }, 
+            "name": "Cream of Mushroom Soup I", 
+            "key": 9452
+        }, 
+        {
+            "values": {
+                "reviews": "801", 
+                "time": 130, 
+                "score": "4.59680461883545", 
+                "cal": 585
+            }, 
+            "name": "Rich and Simple French Onion Soup", 
+            "key": 9453
+        }, 
+        {
+            "values": {
+                "reviews": "726", 
+                "time": 765, 
+                "score": "4.66766166687012", 
+                "cal": 310
+            }, 
+            "name": "Split Pea Soup", 
+            "key": 9454
+        }, 
+        {
+            "values": {
+                "reviews": "915", 
+                "time": 870, 
+                "score": "4.56810903549194", 
+                "cal": 492
+            }, 
+            "name": "Slow Cooker Beef Stew IV", 
+            "key": 9455
+        }, 
+        {
+            "values": {
+                "reviews": "841", 
+                "time": 90, 
+                "score": "4.3725118637085", 
+                "cal": 396
+            }, 
+            "name": "White Chili with Ground Turkey", 
+            "key": 9456
+        }, 
+        {
+            "values": {
+                "reviews": "927", 
+                "time": 90, 
+                "score": "4.41252136230469", 
+                "cal": 90
+            }, 
+            "name": "Cabbage Fat-Burning Soup", 
+            "key": 9457
+        }, 
+        {
+            "values": {
+                "reviews": "672", 
+                "time": 140, 
+                "score": "4.72049713134766", 
+                "cal": 322
+            }, 
+            "name": "Sweet Potato, Carrot, Apple, and Red Lentil Soup", 
+            "key": 9458
+        }, 
+        {
+            "values": {
+                "reviews": "754", 
+                "time": 120, 
+                "score": "4.744140625", 
+                "cal": 167
+            }, 
+            "name": "Russian Mushroom and Potato Soup", 
+            "key": 9460
+        }, 
+        {
+            "values": {
+                "reviews": "984", 
+                "time": 70, 
+                "score": "4.47672557830811", 
+                "cal": 207
+            }, 
+            "name": "Best Cream Of Broccoli Soup", 
+            "key": 9461
+        }, 
+        {
+            "values": {
+                "reviews": "788", 
+                "time": 60, 
+                "score": "4.28409099578857", 
+                "cal": 285
+            }, 
+            "name": "Pumpkin Turkey Chili", 
+            "key": 9462
+        }, 
+        {
+            "values": {
+                "reviews": "847", 
+                "time": 70, 
+                "score": "4.6914701461792", 
+                "cal": 220
+            }, 
+            "name": "White Bean Chicken Chili", 
+            "key": 9463
+        }, 
+        {
+            "values": {
+                "reviews": "936", 
+                "time": 160, 
+                "score": "4.41659879684448", 
+                "cal": 386
+            }, 
+            "name": "Classic Goulash", 
+            "key": 9464
+        }, 
+        {
+            "values": {
+                "reviews": "762", 
+                "time": 150, 
+                "score": "4.62928342819214", 
+                "cal": 82
+            }, 
+            "name": "Healing Cabbage Soup", 
+            "key": 9466
+        }, 
+        {
+            "values": {
+                "reviews": "881", 
+                "time": 100, 
+                "score": "4.55703592300415", 
+                "cal": 164
+            }, 
+            "name": "Black Bean Vegetable Soup", 
+            "key": 9467
+        }, 
+        {
+            "values": {
+                "reviews": "903", 
+                "time": 90, 
+                "score": "4.56618976593018", 
+                "cal": 376
+            }, 
+            "name": "Chicken and Dumplings III", 
+            "key": 9468
+        }, 
+        {
+            "values": {
+                "reviews": "807", 
+                "time": 700, 
+                "score": "4.63324308395386", 
+                "cal": 321
+            }, 
+            "name": "Beef Barley Vegetable Soup", 
+            "key": 9469
+        }, 
+        {
+            "values": {
+                "reviews": "618", 
+                "time": 120, 
+                "score": "4.61254596710205", 
+                "cal": 248
+            }, 
+            "name": "Butternut Squash Bisque", 
+            "key": 9470
+        }, 
+        {
+            "values": {
+                "reviews": "571", 
+                "time": 990, 
+                "score": "4.25226402282715", 
+                "cal": 273
+            }, 
+            "name": "Slow Cooker Chili II", 
+            "key": 9471
+        }, 
+        {
+            "values": {
+                "reviews": "678", 
+                "time": 760, 
+                "score": "4.03389835357666", 
+                "cal": 263
+            }, 
+            "name": "Slow Cooker Chicken Pot Pie Stew", 
+            "key": 9473
+        }, 
+        {
+            "values": {
+                "reviews": "732", 
+                "time": 150, 
+                "score": "4.7325701713562", 
+                "cal": 299
+            }, 
+            "name": "Golden Potato Soup", 
+            "key": 9474
+        }, 
+        {
+            "values": {
+                "reviews": "656", 
+                "time": 40, 
+                "score": "4.53464221954346", 
+                "cal": 76
+            }, 
+            "name": "Restaurant Style Egg Drop Soup", 
+            "key": 9475
+        }, 
+        {
+            "values": {
+                "reviews": "685", 
+                "time": 100, 
+                "score": "4.67753219604492", 
+                "cal": 558
+            }, 
+            "name": "Tuscan Soup", 
+            "key": 9476
+        }, 
+        {
+            "values": {
+                "reviews": "588", 
+                "time": 130, 
+                "score": "4.68844223022461", 
+                "cal": 348
+            }, 
+            "name": "Bubba's Jambalaya", 
+            "key": 9477
+        }, 
+        {
+            "values": {
+                "reviews": "570", 
+                "time": 80, 
+                "score": "4.66711235046387", 
+                "cal": 398
+            }, 
+            "name": "Chicken and Gnocchi Soup", 
+            "key": 9478
+        }, 
+        {
+            "values": {
+                "reviews": "713", 
+                "time": 110, 
+                "score": "4.72874069213867", 
+                "cal": 289
+            }, 
+            "name": "Cheesy Potato and Corn Chowder", 
+            "key": 9479
+        }, 
+        {
+            "values": {
+                "reviews": "660", 
+                "time": 210, 
+                "score": "4.60071516036987", 
+                "cal": 188
+            }, 
+            "name": "Beaker's Vegetable Barley Soup", 
+            "key": 9480
+        }, 
+        {
+            "values": {
+                "reviews": "678", 
+                "time": 360, 
+                "score": "4.53139019012451", 
+                "cal": 257
+            }, 
+            "name": "Basic Ham and Bean Soup", 
+            "key": 9481
+        }, 
+        {
+            "values": {
+                "reviews": "627", 
+                "time": 150, 
+                "score": "4.65960121154785", 
+                "cal": 488
+            }, 
+            "name": "Potato Leek Soup III", 
+            "key": 9483
+        }, 
+        {
+            "values": {
+                "reviews": "634", 
+                "time": 100, 
+                "score": "4.61002445220947", 
+                "cal": 416
+            }, 
+            "name": "Italian Wedding Soup I", 
+            "key": 9484
+        }, 
+        {
+            "values": {
+                "reviews": "656", 
+                "time": 150, 
+                "score": "4.64534902572632", 
+                "cal": 440
+            }, 
+            "name": "Baked Potato Soup V", 
+            "key": 9485
+        }, 
+        {
+            "values": {
+                "reviews": "726", 
+                "time": 190, 
+                "score": "4.49221181869507", 
+                "cal": 366
+            }, 
+            "name": "Fantastic Black Bean Chili", 
+            "key": 9486
+        }, 
+        {
+            "values": {
+                "reviews": "579", 
+                "time": 260, 
+                "score": "4.38780498504639", 
+                "cal": 260
+            }, 
+            "name": "Grandma's Slow Cooker Vegetarian Chili", 
+            "key": 9488
+        }, 
+        {
+            "values": {
+                "reviews": "643", 
+                "time": 140, 
+                "score": "4.77246856689453", 
+                "cal": 506
+            }, 
+            "name": "Terrific Turkey Chili", 
+            "key": 9489
+        }, 
+        {
+            "values": {
+                "reviews": "490", 
+                "time": 110, 
+                "score": "4.63694286346436", 
+                "cal": 367
+            }, 
+            "name": "Mexican Chicken Corn Chowder", 
+            "key": 9490
+        }, 
+        {
+            "values": {
+                "reviews": "539", 
+                "time": 1470, 
+                "score": "4.52132034301758", 
+                "cal": 188
+            }, 
+            "name": "Chicken and Corn Chili", 
+            "key": 9491
+        }, 
+        {
+            "values": {
+                "reviews": "497", 
+                "time": 90, 
+                "score": "4.48421049118042", 
+                "cal": 488
+            }, 
+            "name": "Easy Cajun Jambalaya", 
+            "key": 9492
+        }, 
+        {
+            "values": {
+                "reviews": "461", 
+                "time": 130, 
+                "score": "4.70429229736328", 
+                "cal": 380
+            }, 
+            "name": "Restaurant-Style Zuppa Toscana", 
+            "key": 9493
+        }, 
+        {
+            "values": {
+                "reviews": "562", 
+                "time": 90, 
+                "score": "4.63022947311401", 
+                "cal": 410
+            }, 
+            "name": "Vegan Black Bean Soup", 
+            "key": 9494
+        }, 
+        {
+            "values": {
+                "reviews": "528", 
+                "time": 90, 
+                "score": "4.64564561843872", 
+                "cal": 169
+            }, 
+            "name": "Mama's Italian Wedding Soup", 
+            "key": 9495
+        }, 
+        {
+            "values": {
+                "reviews": "463", 
+                "time": 60, 
+                "score": "4.59773826599121", 
+                "cal": 167
+            }, 
+            "name": "Fresh Asparagus Soup", 
+            "key": 9496
+        }, 
+        {
+            "values": {
+                "reviews": "551", 
+                "time": 290, 
+                "score": "4.69387769699097", 
+                "cal": 529
+            }, 
+            "name": "Chicken Wild Rice Soup I", 
+            "key": 9497
+        }, 
+        {
+            "values": {
+                "reviews": "521", 
+                "time": 100, 
+                "score": "4.42511367797852", 
+                "cal": 229
+            }, 
+            "name": "Peanut Butter Vegetable Chicken Soup", 
+            "key": 9498
+        }, 
+        {
+            "values": {
+                "reviews": "537", 
+                "time": 200, 
+                "score": "4.44642877578735", 
+                "cal": 403
+            }, 
+            "name": "Andrea's Pasta Fagioli", 
+            "key": 9499
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

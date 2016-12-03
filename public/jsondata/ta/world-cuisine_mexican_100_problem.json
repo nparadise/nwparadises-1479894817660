@@ -1,0 +1,853 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "1757", 
+                "time": 210, 
+                "score": "4.71995210647583", 
+                "cal": 709
+            }, 
+            "name": "Angela's Awesome Enchiladas", 
+            "key": 72802
+        }, 
+        {
+            "values": {
+                "reviews": "1850", 
+                "time": 150, 
+                "score": "4.486496925354", 
+                "cal": 498
+            }, 
+            "name": "Chicken Enchiladas I", 
+            "key": 72803
+        }, 
+        {
+            "values": {
+                "reviews": "1753", 
+                "time": 120, 
+                "score": "4.70325899124146", 
+                "cal": 409
+            }, 
+            "name": "Fish Tacos", 
+            "key": 72804
+        }, 
+        {
+            "values": {
+                "reviews": "1951", 
+                "time": 60, 
+                "score": "4.47117900848389", 
+                "cal": 291
+            }, 
+            "name": "Mexican Rice II", 
+            "key": 72805
+        }, 
+        {
+            "values": {
+                "reviews": "122", 
+                "time": 120, 
+                "score": "4.63354015350342", 
+                "cal": 284
+            }, 
+            "name": "Enchiladas Verdes", 
+            "key": 72806
+        }, 
+        {
+            "values": {
+                "reviews": "165", 
+                "time": 100, 
+                "score": "4.24186038970947", 
+                "cal": 199
+            }, 
+            "name": "Mexican Rice", 
+            "key": 72808
+        }, 
+        {
+            "values": {
+                "reviews": "1561", 
+                "time": 90, 
+                "score": "4.75", 
+                "cal": 473
+            }, 
+            "name": "Catherine's Spicy Chicken Soup", 
+            "key": 72809
+        }, 
+        {
+            "values": {
+                "reviews": "1784", 
+                "time": 80, 
+                "score": "4.25594091415405", 
+                "cal": 505
+            }, 
+            "name": "Addictive Sweet Potato Burritos", 
+            "key": 72811
+        }, 
+        {
+            "values": {
+                "reviews": "3218", 
+                "time": 70, 
+                "score": "4.77724361419678", 
+                "cal": 312
+            }, 
+            "name": "Annie's Fruit Salsa and Cinnamon Chips", 
+            "key": 72812
+        }, 
+        {
+            "values": {
+                "reviews": "21", 
+                "time": 370, 
+                "score": "4.62962961196899", 
+                "cal": 196
+            }, 
+            "name": "Frijoles de Olla", 
+            "key": 72813
+        }, 
+        {
+            "values": {
+                "reviews": "3037", 
+                "time": 90, 
+                "score": "4.5637264251709", 
+                "cal": 619
+            }, 
+            "name": "Chicken Enchiladas II", 
+            "key": 72814
+        }, 
+        {
+            "values": {
+                "reviews": "6", 
+                "time": 890, 
+                "score": "4.42857122421265", 
+                "cal": 137
+            }, 
+            "name": "Avocado Paletas", 
+            "key": 72815
+        }, 
+        {
+            "values": {
+                "reviews": "3596", 
+                "time": 1020, 
+                "score": "4.66966962814331", 
+                "cal": 262
+            }, 
+            "name": "Slow-Cooker Chicken Tortilla Soup", 
+            "key": 72817
+        }, 
+        {
+            "values": {
+                "reviews": "2939", 
+                "time": 90, 
+                "score": "4.62419462203979", 
+                "cal": 287
+            }, 
+            "name": "Salsa Chicken", 
+            "key": 72818
+        }, 
+        {
+            "values": {
+                "reviews": "1678", 
+                "time": 100, 
+                "score": "4.4313645362854", 
+                "cal": 204
+            }, 
+            "name": "Lime Chicken Soft Tacos", 
+            "key": 72819
+        }, 
+        {
+            "values": {
+                "reviews": "204", 
+                "time": 300, 
+                "score": "4.61089515686035", 
+                "cal": 188
+            }, 
+            "name": "Simple Carnitas", 
+            "key": 72821
+        }, 
+        {
+            "values": {
+                "reviews": "1356", 
+                "time": 50, 
+                "score": "4.45176124572754", 
+                "cal": 692
+            }, 
+            "name": "Delicious Black Bean Burritos", 
+            "key": 72822
+        }, 
+        {
+            "values": {
+                "reviews": "63", 
+                "time": 100, 
+                "score": "4.56626510620117", 
+                "cal": 121
+            }, 
+            "name": "Calabacitas con Elote (Zucchini with Corn)", 
+            "key": 72824
+        }, 
+        {
+            "values": {
+                "reviews": "1715", 
+                "time": 990, 
+                "score": "4.67404794692993", 
+                "cal": 139
+            }, 
+            "name": "Refried Beans Without the Refry", 
+            "key": 72825
+        }, 
+        {
+            "values": {
+                "reviews": "582", 
+                "time": 70, 
+                "score": "4.46035480499268", 
+                "cal": 107
+            }, 
+            "name": "Salsa Chicken Burrito Filling", 
+            "key": 72827
+        }, 
+        {
+            "values": {
+                "reviews": "2679", 
+                "time": 120, 
+                "score": "4.56004238128662", 
+                "cal": 432
+            }, 
+            "name": "Burrito Pie", 
+            "key": 72828
+        }, 
+        {
+            "values": {
+                "reviews": "4641", 
+                "time": 870, 
+                "score": "4.67293548583984", 
+                "cal": 434
+            }, 
+            "name": "Slow Cooker Chicken Taco Soup", 
+            "key": 72829
+        }, 
+        {
+            "values": {
+                "reviews": "810", 
+                "time": 80, 
+                "score": "4.43894100189209", 
+                "cal": 210
+            }, 
+            "name": "Pollo Fajitas", 
+            "key": 72830
+        }, 
+        {
+            "values": {
+                "reviews": "917", 
+                "time": 50, 
+                "score": "4.43152475357056", 
+                "cal": 116
+            }, 
+            "name": "Ten Minute Enchilada Sauce", 
+            "key": 72831
+        }, 
+        {
+            "values": {
+                "reviews": "1331", 
+                "time": 100, 
+                "score": "4.37407398223877", 
+                "cal": 632
+            }, 
+            "name": "Easy Mexican Casserole", 
+            "key": 72832
+        }, 
+        {
+            "values": {
+                "reviews": "1195", 
+                "time": 80, 
+                "score": "4.69562530517578", 
+                "cal": 377
+            }, 
+            "name": "Chicken Tortilla Soup I", 
+            "key": 72833
+        }, 
+        {
+            "values": {
+                "reviews": "1273", 
+                "time": 80, 
+                "score": "4.46697568893433", 
+                "cal": 270
+            }, 
+            "name": "Spanish Rice II", 
+            "key": 72834
+        }, 
+        {
+            "values": {
+                "reviews": "1003", 
+                "time": 90, 
+                "score": "4.55201864242554", 
+                "cal": 352
+            }, 
+            "name": "Chicken Enchiladas V", 
+            "key": 72835
+        }, 
+        {
+            "values": {
+                "reviews": "1340", 
+                "time": 40, 
+                "score": "4.64212226867676", 
+                "cal": 240
+            }, 
+            "name": "Black Bean and Salsa Soup", 
+            "key": 72837
+        }, 
+        {
+            "values": {
+                "reviews": "1423", 
+                "time": 240, 
+                "score": "4.76870393753052", 
+                "cal": 481
+            }, 
+            "name": "Sopapilla Cheesecake Pie", 
+            "key": 72838
+        }, 
+        {
+            "values": {
+                "reviews": "1420", 
+                "time": 980, 
+                "score": "4.60576438903809", 
+                "cal": 362
+            }, 
+            "name": "Slow Cooker Taco Soup", 
+            "key": 72839
+        }, 
+        {
+            "values": {
+                "reviews": "1104", 
+                "time": 304, 
+                "score": "4.83333349227905", 
+                "cal": 419
+            }, 
+            "name": "Southwestern Egg Rolls", 
+            "key": 72840
+        }, 
+        {
+            "values": {
+                "reviews": "1058", 
+                "time": 120, 
+                "score": "4.5910062789917", 
+                "cal": 548
+            }, 
+            "name": "Cottage Cheese Chicken Enchiladas", 
+            "key": 72841
+        }, 
+        {
+            "values": {
+                "reviews": "1136", 
+                "time": 1220, 
+                "score": "4.58653831481934", 
+                "cal": 223
+            }, 
+            "name": "Slow Cooker Carnitas", 
+            "key": 72842
+        }, 
+        {
+            "values": {
+                "reviews": "882", 
+                "time": 90, 
+                "score": "4.50252103805542", 
+                "cal": 916
+            }, 
+            "name": "Fabulous Wet Burritos", 
+            "key": 72843
+        }, 
+        {
+            "values": {
+                "reviews": "880", 
+                "time": 500, 
+                "score": "4.57002258300781", 
+                "cal": 272
+            }, 
+            "name": "Slow Cooker Cilantro Lime Chicken", 
+            "key": 72845
+        }, 
+        {
+            "values": {
+                "reviews": "1059", 
+                "time": 160, 
+                "score": "4.33763599395752", 
+                "cal": 477
+            }, 
+            "name": "Salsa Chicken Rice Casserole", 
+            "key": 72846
+        }, 
+        {
+            "values": {
+                "reviews": "961", 
+                "time": 150, 
+                "score": "4.55030107498169", 
+                "cal": 743
+            }, 
+            "name": "Absolute Mexican Cornbread", 
+            "key": 72847
+        }, 
+        {
+            "values": {
+                "reviews": "1041", 
+                "time": 80, 
+                "score": "4.61298370361328", 
+                "cal": 363
+            }, 
+            "name": "Black Bean and Corn Quesadillas", 
+            "key": 72848
+        }, 
+        {
+            "values": {
+                "reviews": "988", 
+                "time": 410, 
+                "score": "4.63157892227173", 
+                "cal": 275
+            }, 
+            "name": "Marinated Flank Steak", 
+            "key": 72849
+        }, 
+        {
+            "values": {
+                "reviews": "669", 
+                "time": 90, 
+                "score": "4.35032558441162", 
+                "cal": 448
+            }, 
+            "name": "Beef Enchiladas II", 
+            "key": 72851
+        }, 
+        {
+            "values": {
+                "reviews": "721", 
+                "time": 448, 
+                "score": "4.50498008728027", 
+                "cal": 416
+            }, 
+            "name": "Grilled Fish Tacos with Chipotle-Lime Dressing", 
+            "key": 72852
+        }, 
+        {
+            "values": {
+                "reviews": "681", 
+                "time": 240, 
+                "score": "4.40829706192017", 
+                "cal": 488
+            }, 
+            "name": "Quick and Easy Green Chile Chicken Enchilada Casserole", 
+            "key": 72853
+        }, 
+        {
+            "values": {
+                "reviews": "807", 
+                "time": 70, 
+                "score": "4.54472255706787", 
+                "cal": 183
+            }, 
+            "name": "Chipotle Crusted Pork Tenderloin", 
+            "key": 72854
+        }, 
+        {
+            "values": {
+                "reviews": "808", 
+                "time": 120, 
+                "score": "4.56788921356201", 
+                "cal": 86
+            }, 
+            "name": "Homemade Flour Tortillas", 
+            "key": 72855
+        }, 
+        {
+            "values": {
+                "reviews": "648", 
+                "time": 110, 
+                "score": "4.70378398895264", 
+                "cal": 673
+            }, 
+            "name": "Pico de Gallo Chicken Quesadillas", 
+            "key": 72857
+        }, 
+        {
+            "values": {
+                "reviews": "675", 
+                "time": 60, 
+                "score": "4.39572715759277", 
+                "cal": 384
+            }, 
+            "name": "Mexican Casserole", 
+            "key": 72858
+        }, 
+        {
+            "values": {
+                "reviews": "743", 
+                "time": 60, 
+                "score": "4.61100196838379", 
+                "cal": 158
+            }, 
+            "name": "Mexican Rice III", 
+            "key": 72859
+        }, 
+        {
+            "values": {
+                "reviews": "816", 
+                "time": 130, 
+                "score": "4.66726303100586", 
+                "cal": 369
+            }, 
+            "name": "Taqueria Style Tacos - Carne Asada", 
+            "key": 72860
+        }, 
+        {
+            "values": {
+                "reviews": "618", 
+                "time": 110, 
+                "score": "4.60545635223389", 
+                "cal": 244
+            }, 
+            "name": "Chicken Quesadillas", 
+            "key": 72861
+        }, 
+        {
+            "values": {
+                "reviews": "721", 
+                "time": 60, 
+                "score": "4.45538473129272", 
+                "cal": 311
+            }, 
+            "name": "Mexican Baked Fish", 
+            "key": 72862
+        }, 
+        {
+            "values": {
+                "reviews": "661", 
+                "time": 80, 
+                "score": "4.30944967269897", 
+                "cal": 578
+            }, 
+            "name": "Spinach Enchiladas", 
+            "key": 72864
+        }, 
+        {
+            "values": {
+                "reviews": "768", 
+                "time": 100, 
+                "score": "4.50452280044556", 
+                "cal": 565
+            }, 
+            "name": "Easy Chicken Enchiladas", 
+            "key": 72865
+        }, 
+        {
+            "values": {
+                "reviews": "812", 
+                "time": 90, 
+                "score": "4.50131464004517", 
+                "cal": 821
+            }, 
+            "name": "Beef and Bean Chimichangas", 
+            "key": 72867
+        }, 
+        {
+            "values": {
+                "reviews": "643", 
+                "time": 140, 
+                "score": "4.77246856689453", 
+                "cal": 506
+            }, 
+            "name": "Terrific Turkey Chili", 
+            "key": 72868
+        }, 
+        {
+            "values": {
+                "reviews": "826", 
+                "time": 1040, 
+                "score": "4.59190845489502", 
+                "cal": 260
+            }, 
+            "name": "Charley's Slow Cooker Mexican Style Meat", 
+            "key": 72869
+        }, 
+        {
+            "values": {
+                "reviews": "507", 
+                "time": 120, 
+                "score": "4.39454793930054", 
+                "cal": 537
+            }, 
+            "name": "Chicken Enchilada Casserole II", 
+            "key": 72871
+        }, 
+        {
+            "values": {
+                "reviews": "523", 
+                "time": 80, 
+                "score": "4.51192140579224", 
+                "cal": 264
+            }, 
+            "name": "Quick and Easy Mexican Chicken", 
+            "key": 72872
+        }, 
+        {
+            "values": {
+                "reviews": "656", 
+                "time": 40, 
+                "score": "4.50592422485352", 
+                "cal": 27
+            }, 
+            "name": "Red Enchilada Sauce", 
+            "key": 72873
+        }, 
+        {
+            "values": {
+                "reviews": "615", 
+                "time": 70, 
+                "score": "4.54114723205566", 
+                "cal": 484
+            }, 
+            "name": "Apple Enchilada Dessert", 
+            "key": 72874
+        }, 
+        {
+            "values": {
+                "reviews": "603", 
+                "time": 110, 
+                "score": "4.47036552429199", 
+                "cal": 556
+            }, 
+            "name": "Ground Beef Enchiladas", 
+            "key": 72875
+        }, 
+        {
+            "values": {
+                "reviews": "567", 
+                "time": 80, 
+                "score": "4.51481485366821", 
+                "cal": 351
+            }, 
+            "name": "Fiery Fish Tacos with Crunchy Corn Salsa", 
+            "key": 72876
+        }, 
+        {
+            "values": {
+                "reviews": "540", 
+                "time": 110, 
+                "score": "4.37651348114014", 
+                "cal": 405
+            }, 
+            "name": "Seven Layer Tortilla Pie", 
+            "key": 72877
+        }, 
+        {
+            "values": {
+                "reviews": "502", 
+                "time": 110, 
+                "score": "4.61183261871338", 
+                "cal": 315
+            }, 
+            "name": "Vegetarian Tortilla Soup", 
+            "key": 72879
+        }, 
+        {
+            "values": {
+                "reviews": "647", 
+                "time": 70, 
+                "score": "4.29769134521484", 
+                "cal": 497
+            }, 
+            "name": "Beef Nacho Casserole", 
+            "key": 72880
+        }, 
+        {
+            "values": {
+                "reviews": "582", 
+                "time": 70, 
+                "score": "4.46035480499268", 
+                "cal": 107
+            }, 
+            "name": "Salsa Chicken Burrito Filling", 
+            "key": 72881
+        }, 
+        {
+            "values": {
+                "reviews": "470", 
+                "time": 130, 
+                "score": "4.43538475036621", 
+                "cal": 557
+            }, 
+            "name": "Make Ahead Lunch Wraps", 
+            "key": 72882
+        }, 
+        {
+            "values": {
+                "reviews": "468", 
+                "time": 30, 
+                "score": "4.44346570968628", 
+                "cal": 112
+            }, 
+            "name": "Best Black Beans", 
+            "key": 72883
+        }, 
+        {
+            "values": {
+                "reviews": "524", 
+                "time": 150, 
+                "score": "4.73837232589722", 
+                "cal": 273
+            }, 
+            "name": "Sweet Corn Cake", 
+            "key": 72884
+        }, 
+        {
+            "values": {
+                "reviews": "604", 
+                "time": 130, 
+                "score": "4.24111652374268", 
+                "cal": 712
+            }, 
+            "name": "Slow Cooker Enchiladas", 
+            "key": 72885
+        }, 
+        {
+            "values": {
+                "reviews": "590", 
+                "time": 140, 
+                "score": "4.44569301605225", 
+                "cal": 366
+            }, 
+            "name": "Layered Chicken and Black Bean Enchilada Casserole", 
+            "key": 72887
+        }, 
+        {
+            "values": {
+                "reviews": "642", 
+                "time": 120, 
+                "score": "4.31878805160522", 
+                "cal": 387
+            }, 
+            "name": "Chili Rellenos Casserole", 
+            "key": 72889
+        }, 
+        {
+            "values": {
+                "reviews": "490", 
+                "time": 110, 
+                "score": "4.63694286346436", 
+                "cal": 367
+            }, 
+            "name": "Mexican Chicken Corn Chowder", 
+            "key": 72890
+        }, 
+        {
+            "values": {
+                "reviews": "390", 
+                "time": 60, 
+                "score": "4.38394403457642", 
+                "cal": 84
+            }, 
+            "name": "Lime Cilantro Rice", 
+            "key": 72892
+        }, 
+        {
+            "values": {
+                "reviews": "486", 
+                "time": 100, 
+                "score": "4.4372992515564", 
+                "cal": 265
+            }, 
+            "name": "Sour Cream Chicken Enchiladas", 
+            "key": 72893
+        }, 
+        {
+            "values": {
+                "reviews": "440", 
+                "time": 160, 
+                "score": "4.69821405410767", 
+                "cal": 559
+            }, 
+            "name": "Authentic Enchiladas Verdes", 
+            "key": 72894
+        }, 
+        {
+            "values": {
+                "reviews": "445", 
+                "time": 40, 
+                "score": "4.31793975830078", 
+                "cal": 691
+            }, 
+            "name": "Churros", 
+            "key": 72895
+        }, 
+        {
+            "values": {
+                "reviews": "443", 
+                "time": 200, 
+                "score": "4.68864488601685", 
+                "cal": 718
+            }, 
+            "name": "Gerry's Chicken Enchiladas", 
+            "key": 72896
+        }, 
+        {
+            "values": {
+                "reviews": "485", 
+                "time": 120, 
+                "score": "4.64991903305054", 
+                "cal": 706
+            }, 
+            "name": "Whit's Chicken Enchiladas", 
+            "key": 72897
+        }, 
+        {
+            "values": {
+                "reviews": "409", 
+                "time": 90, 
+                "score": "4.58645296096802", 
+                "cal": 370
+            }, 
+            "name": "Jimmy's Mexican Pizza", 
+            "key": 72899
+        }, 
+        {
+            "values": {
+                "reviews": "429", 
+                "time": 80, 
+                "score": "4.64521169662476", 
+                "cal": 311
+            }, 
+            "name": "Chicken Fiesta Salad", 
+            "key": 72900
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

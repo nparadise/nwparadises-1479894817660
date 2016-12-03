@@ -1,0 +1,953 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "901", 
+                "time": 90, 
+                "score": "4.30316734313965", 
+                "cal": 184
+            }, 
+            "name": "Key West Chicken", 
+            "key": 1587601
+        }, 
+        {
+            "values": {
+                "reviews": "679", 
+                "time": 900, 
+                "score": "4.45031690597534", 
+                "cal": 630
+            }, 
+            "name": "Authentic Louisiana Red Beans and Rice", 
+            "key": 1587602
+        }, 
+        {
+            "values": {
+                "reviews": "2296", 
+                "time": 180, 
+                "score": "4.79457235336304", 
+                "cal": 192
+            }, 
+            "name": "Sweet Dinner Rolls", 
+            "key": 1587603
+        }, 
+        {
+            "values": {
+                "reviews": "894", 
+                "time": 70, 
+                "score": "4.55983257293701", 
+                "cal": 391
+            }, 
+            "name": "Garlic Chicken Fried Chicken", 
+            "key": 1587604
+        }, 
+        {
+            "values": {
+                "reviews": "701", 
+                "time": 40, 
+                "score": "4.80578517913818", 
+                "cal": 534
+            }, 
+            "name": "Bananas Foster II", 
+            "key": 1587605
+        }, 
+        {
+            "values": {
+                "reviews": "655", 
+                "time": 60, 
+                "score": "4.61603879928589", 
+                "cal": 154
+            }, 
+            "name": "Kentucky Biscuits", 
+            "key": 1587606
+        }, 
+        {
+            "values": {
+                "reviews": "1587", 
+                "time": 1000, 
+                "score": "4.4199366569519", 
+                "cal": 235
+            }, 
+            "name": "Colleen's Slow Cooker Jambalaya", 
+            "key": 1587608
+        }, 
+        {
+            "values": {
+                "reviews": "588", 
+                "time": 130, 
+                "score": "4.68844223022461", 
+                "cal": 348
+            }, 
+            "name": "Bubba's Jambalaya", 
+            "key": 1587609
+        }, 
+        {
+            "values": {
+                "reviews": "822", 
+                "time": 210, 
+                "score": "4.61785364151001", 
+                "cal": 508
+            }, 
+            "name": "Kentucky Butter Cake", 
+            "key": 1587610
+        }, 
+        {
+            "values": {
+                "reviews": "708", 
+                "time": 90, 
+                "score": "4.73719358444214", 
+                "cal": 318
+            }, 
+            "name": "Blackberry Cobbler II", 
+            "key": 1587611
+        }, 
+        {
+            "values": {
+                "reviews": "2312", 
+                "time": 120, 
+                "score": "4.70086336135864", 
+                "cal": 562
+            }, 
+            "name": "Fresh Southern Peach Cobbler", 
+            "key": 1587612
+        }, 
+        {
+            "values": {
+                "reviews": "738", 
+                "time": 80, 
+                "score": "4.49023628234863", 
+                "cal": 791
+            }, 
+            "name": "The Best Chicken Fried Steak", 
+            "key": 1587613
+        }, 
+        {
+            "values": {
+                "reviews": "1948", 
+                "time": 280, 
+                "score": "4.78427410125732", 
+                "cal": 389
+            }, 
+            "name": "Sweet Potato Pie I", 
+            "key": 1587614
+        }, 
+        {
+            "values": {
+                "reviews": "555", 
+                "time": 360, 
+                "score": "4.72834634780884", 
+                "cal": 511
+            }, 
+            "name": "Tangy Honey Glazed Ham", 
+            "key": 1587615
+        }, 
+        {
+            "values": {
+                "reviews": "975", 
+                "time": 220, 
+                "score": "4.81104183197021", 
+                "cal": 73
+            }, 
+            "name": "Smooth Sweet Tea", 
+            "key": 1587616
+        }, 
+        {
+            "values": {
+                "reviews": "884", 
+                "time": 140, 
+                "score": "4.72601556777954", 
+                "cal": 127
+            }, 
+            "name": "Kickin' Collard Greens", 
+            "key": 1587617
+        }, 
+        {
+            "values": {
+                "reviews": "920", 
+                "time": 360, 
+                "score": "4.82089567184448", 
+                "cal": 1043
+            }, 
+            "name": "Scott Hibb's Amazing Whisky Grilled Baby Back Ribs", 
+            "key": 1587618
+        }, 
+        {
+            "values": {
+                "reviews": "12", 
+                "time": 95, 
+                "score": "4.41666650772095", 
+                "cal": 282
+            }, 
+            "name": "Blue Cheese and Bacon Potato Salad", 
+            "key": 1587619
+        }, 
+        {
+            "values": {
+                "reviews": "555", 
+                "time": 40, 
+                "score": "4.62049055099487", 
+                "cal": 510
+            }, 
+            "name": "Best Fried Green Tomatoes", 
+            "key": 1587620
+        }, 
+        {
+            "values": {
+                "reviews": "4522", 
+                "time": 110, 
+                "score": "4.81049060821533", 
+                "cal": 284
+            }, 
+            "name": "Grandmother's Buttermilk Cornbread", 
+            "key": 1587621
+        }, 
+        {
+            "values": {
+                "reviews": "497", 
+                "time": 90, 
+                "score": "4.48421049118042", 
+                "cal": 488
+            }, 
+            "name": "Easy Cajun Jambalaya", 
+            "key": 1587622
+        }, 
+        {
+            "values": {
+                "reviews": "430", 
+                "time": 44, 
+                "score": "4.39641427993774", 
+                "cal": 133
+            }, 
+            "name": "Mayonnaise Biscuits", 
+            "key": 1587623
+        }, 
+        {
+            "values": {
+                "reviews": "365", 
+                "time": 90, 
+                "score": "4.47165536880493", 
+                "cal": 299
+            }, 
+            "name": "Peach Cobbler VI", 
+            "key": 1587624
+        }, 
+        {
+            "values": {
+                "reviews": "450", 
+                "time": 500, 
+                "score": "4.5", 
+                "cal": 192
+            }, 
+            "name": "Slow Cooker Creamed Corn", 
+            "key": 1587625
+        }, 
+        {
+            "values": {
+                "reviews": "380", 
+                "time": 780, 
+                "score": "4.61176490783691", 
+                "cal": 178
+            }, 
+            "name": "Southern Pulled Pork", 
+            "key": 1587627
+        }, 
+        {
+            "values": {
+                "reviews": "375", 
+                "time": 150, 
+                "score": "4.86283206939697", 
+                "cal": 620
+            }, 
+            "name": "Old Charleston Style Shrimp and Grits", 
+            "key": 1587628
+        }, 
+        {
+            "values": {
+                "reviews": "325", 
+                "time": 40, 
+                "score": "4.72831058502197", 
+                "cal": 65
+            }, 
+            "name": "Roasted Okra", 
+            "key": 1587629
+        }, 
+        {
+            "values": {
+                "reviews": "358", 
+                "time": 100, 
+                "score": "4.37313413619995", 
+                "cal": 368
+            }, 
+            "name": "Barlow's Blackened Catfish", 
+            "key": 1587630
+        }, 
+        {
+            "values": {
+                "reviews": "464", 
+                "time": 60, 
+                "score": "4.74093246459961", 
+                "cal": 256
+            }, 
+            "name": "Texas Sheet Cake V", 
+            "key": 1587632
+        }, 
+        {
+            "values": {
+                "reviews": "340", 
+                "time": 1470, 
+                "score": "4.62837839126587", 
+                "cal": 293
+            }, 
+            "name": "Slow Cooker Carolina BBQ", 
+            "key": 1587633
+        }, 
+        {
+            "values": {
+                "reviews": "379", 
+                "time": 140, 
+                "score": "4.78496885299683", 
+                "cal": 264
+            }, 
+            "name": "Cajun Crawfish and Shrimp Etouffe", 
+            "key": 1587634
+        }, 
+        {
+            "values": {
+                "reviews": "404", 
+                "time": 80, 
+                "score": "4.7490348815918", 
+                "cal": 499
+            }, 
+            "name": "Frogmore Stew", 
+            "key": 1587635
+        }, 
+        {
+            "values": {
+                "reviews": "408", 
+                "time": 135, 
+                "score": "4.72545433044434", 
+                "cal": 284
+            }, 
+            "name": "Cindy's Jambalaya", 
+            "key": 1587636
+        }, 
+        {
+            "values": {
+                "reviews": "478", 
+                "time": 80, 
+                "score": "4.31681394577026", 
+                "cal": 277
+            }, 
+            "name": "Vicki's Hush Puppies", 
+            "key": 1587637
+        }, 
+        {
+            "values": {
+                "reviews": "365", 
+                "time": 140, 
+                "score": "4.7006368637085", 
+                "cal": 882
+            }, 
+            "name": "Simple Country Ribs", 
+            "key": 1587638
+        }, 
+        {
+            "values": {
+                "reviews": "475", 
+                "time": 130, 
+                "score": "4.72283458709717", 
+                "cal": 465
+            }, 
+            "name": "Jambalaya", 
+            "key": 1587639
+        }, 
+        {
+            "values": {
+                "reviews": "529", 
+                "time": 70, 
+                "score": "4.72644376754761", 
+                "cal": 143
+            }, 
+            "name": "Chef John's Buttermilk Biscuits", 
+            "key": 1587640
+        }, 
+        {
+            "values": {
+                "reviews": "490", 
+                "time": 200, 
+                "score": "4.64390230178833", 
+                "cal": 452
+            }, 
+            "name": "Irresistible Pecan Pie", 
+            "key": 1587641
+        }, 
+        {
+            "values": {
+                "reviews": "339", 
+                "time": 30, 
+                "score": "4.62829732894897", 
+                "cal": 189
+            }, 
+            "name": "Southern Fried Cabbage", 
+            "key": 1587642
+        }, 
+        {
+            "values": {
+                "reviews": "355", 
+                "time": 135, 
+                "score": "4.2805757522583", 
+                "cal": 672
+            }, 
+            "name": "Peach Cobbler II", 
+            "key": 1587643
+        }, 
+        {
+            "values": {
+                "reviews": "250", 
+                "time": 90, 
+                "score": "4.46483182907104", 
+                "cal": 193
+            }, 
+            "name": "Louisiana Shrimp Creole II", 
+            "key": 1587644
+        }, 
+        {
+            "values": {
+                "reviews": "332", 
+                "time": 60, 
+                "score": "4.64386796951294", 
+                "cal": 344
+            }, 
+            "name": "Sausage Gravy I", 
+            "key": 1587645
+        }, 
+        {
+            "values": {
+                "reviews": "321", 
+                "time": 115, 
+                "score": "4.50800895690918", 
+                "cal": 390
+            }, 
+            "name": "Beer and Brown Sugar Steak Marinade", 
+            "key": 1587646
+        }, 
+        {
+            "values": {
+                "reviews": "278", 
+                "time": 310, 
+                "score": "4.38616704940796", 
+                "cal": 355
+            }, 
+            "name": "Country-Style Steak", 
+            "key": 1587647
+        }, 
+        {
+            "values": {
+                "reviews": "314", 
+                "time": 120, 
+                "score": "4.60249996185303", 
+                "cal": 353
+            }, 
+            "name": "Texas Ranch Potato Salad", 
+            "key": 1587649
+        }, 
+        {
+            "values": {
+                "reviews": "276", 
+                "time": 90, 
+                "score": "3.98866844177246", 
+                "cal": 248
+            }, 
+            "name": "Baked Chicken with Peaches", 
+            "key": 1587650
+        }, 
+        {
+            "values": {
+                "reviews": "277", 
+                "time": 70, 
+                "score": "4.32544374465942", 
+                "cal": 215
+            }, 
+            "name": "Louisiana Sweet Potato Pancakes", 
+            "key": 1587651
+        }, 
+        {
+            "values": {
+                "reviews": "318", 
+                "time": 80, 
+                "score": "4.37176465988159", 
+                "cal": 289
+            }, 
+            "name": "Easy Red Beans and Rice", 
+            "key": 1587652
+        }, 
+        {
+            "values": {
+                "reviews": "290", 
+                "time": 160, 
+                "score": "4.77044868469238", 
+                "cal": 397
+            }, 
+            "name": "Southern Candied Sweet Potatoes", 
+            "key": 1587653
+        }, 
+        {
+            "values": {
+                "reviews": "335", 
+                "time": 420, 
+                "score": "4.62211990356445", 
+                "cal": 380
+            }, 
+            "name": "Get a Husband Brunswick Stew", 
+            "key": 1587654
+        }, 
+        {
+            "values": {
+                "reviews": "292", 
+                "time": 120, 
+                "score": "4.68181800842285", 
+                "cal": 449
+            }, 
+            "name": "Sweet Potato Pie II", 
+            "key": 1587655
+        }, 
+        {
+            "values": {
+                "reviews": "319", 
+                "time": 120, 
+                "score": "4.79236268997192", 
+                "cal": 722
+            }, 
+            "name": "Dave's Low Country Boil", 
+            "key": 1587656
+        }, 
+        {
+            "values": {
+                "reviews": "365", 
+                "time": 180, 
+                "score": "4.59310340881348", 
+                "cal": 307
+            }, 
+            "name": "GA Peach Pound Cake", 
+            "key": 1587657
+        }, 
+        {
+            "values": {
+                "reviews": "311", 
+                "time": 120, 
+                "score": "4.55733966827393", 
+                "cal": 188
+            }, 
+            "name": "Ratatouille Bake", 
+            "key": 1587658
+        }, 
+        {
+            "values": {
+                "reviews": "307", 
+                "time": 390, 
+                "score": "4.66391181945801", 
+                "cal": 478
+            }, 
+            "name": "Cajun Chicken and Sausage Gumbo", 
+            "key": 1587659
+        }, 
+        {
+            "values": {
+                "reviews": "308", 
+                "time": 330, 
+                "score": "4.563636302948", 
+                "cal": 540
+            }, 
+            "name": "Oven Baked Jambalaya", 
+            "key": 1587660
+        }, 
+        {
+            "values": {
+                "reviews": "349", 
+                "time": 140, 
+                "score": "4.66435194015503", 
+                "cal": 512
+            }, 
+            "name": "Pecan Pie", 
+            "key": 1587661
+        }, 
+        {
+            "values": {
+                "reviews": "237", 
+                "time": 60, 
+                "score": "4.27062702178955", 
+                "cal": 394
+            }, 
+            "name": "Fried Okra", 
+            "key": 1587662
+        }, 
+        {
+            "values": {
+                "reviews": "237", 
+                "time": 110, 
+                "score": "4.68438529968262", 
+                "cal": 146
+            }, 
+            "name": "Arkansas Green Beans", 
+            "key": 1587663
+        }, 
+        {
+            "values": {
+                "reviews": "221", 
+                "time": 30, 
+                "score": "4.49300718307495", 
+                "cal": 282
+            }, 
+            "name": "Monte Cristo Sandwich - the Real One", 
+            "key": 1587664
+        }, 
+        {
+            "values": {
+                "reviews": "206", 
+                "time": 150, 
+                "score": "4.68705034255981", 
+                "cal": 165
+            }, 
+            "name": "Southern as You Can Get Collard Greens", 
+            "key": 1587665
+        }, 
+        {
+            "values": {
+                "reviews": "190", 
+                "time": 80, 
+                "score": "4.67605638504028", 
+                "cal": 188
+            }, 
+            "name": "Southern Green Beans", 
+            "key": 1587666
+        }, 
+        {
+            "values": {
+                "reviews": "215", 
+                "time": 90, 
+                "score": "4.83271360397339", 
+                "cal": 395
+            }, 
+            "name": "Crawfish Chowder", 
+            "key": 1587667
+        }, 
+        {
+            "values": {
+                "reviews": "247", 
+                "time": 160, 
+                "score": "4.84536075592041", 
+                "cal": 546
+            }, 
+            "name": "Best Bread Pudding with Vanilla Sauce", 
+            "key": 1587668
+        }, 
+        {
+            "values": {
+                "reviews": "198", 
+                "time": 1005, 
+                "score": "4.45318365097046", 
+                "cal": 231
+            }, 
+            "name": "Elaine's Sweet and Tangy Loose Beef BBQ", 
+            "key": 1587670
+        }, 
+        {
+            "values": {
+                "reviews": "240", 
+                "time": 115, 
+                "score": "4.34027767181396", 
+                "cal": 306
+            }, 
+            "name": "Southern Peach Cobbler", 
+            "key": 1587671
+        }, 
+        {
+            "values": {
+                "reviews": "212", 
+                "time": 130, 
+                "score": "4.37269353866577", 
+                "cal": 549
+            }, 
+            "name": "Cabbage Jambalaya", 
+            "key": 1587672
+        }, 
+        {
+            "values": {
+                "reviews": "240", 
+                "time": 90, 
+                "score": "4.62745094299316", 
+                "cal": 195
+            }, 
+            "name": "Shrimp Etouffee II", 
+            "key": 1587673
+        }, 
+        {
+            "values": {
+                "reviews": "215", 
+                "time": 130, 
+                "score": "4.64684009552002", 
+                "cal": 129
+            }, 
+            "name": "Grilled Buffalo Wings", 
+            "key": 1587674
+        }, 
+        {
+            "values": {
+                "reviews": "221", 
+                "time": 90, 
+                "score": "4.52702713012695", 
+                "cal": 152
+            }, 
+            "name": "Delicious Apple Sauce", 
+            "key": 1587675
+        }, 
+        {
+            "values": {
+                "reviews": "224", 
+                "time": 80, 
+                "score": "4.67870044708252", 
+                "cal": 163
+            }, 
+            "name": "Big Ed's Cajun Shrimp Soup", 
+            "key": 1587676
+        }, 
+        {
+            "values": {
+                "reviews": "195", 
+                "time": 50, 
+                "score": "4.2921347618103", 
+                "cal": 207
+            }, 
+            "name": "Oven-Fried Catfish", 
+            "key": 1587677
+        }, 
+        {
+            "values": {
+                "reviews": "186", 
+                "time": 152, 
+                "score": "4.69140625", 
+                "cal": 519
+            }, 
+            "name": "Simple Grilled Lamb Chops", 
+            "key": 1587679
+        }, 
+        {
+            "values": {
+                "reviews": "214", 
+                "time": 260, 
+                "score": "4.6607141494751", 
+                "cal": 848
+            }, 
+            "name": "Honey Crunch Pecan Pie", 
+            "key": 1587680
+        }, 
+        {
+            "values": {
+                "reviews": "225", 
+                "time": 70, 
+                "score": "4.53710269927979", 
+                "cal": 491
+            }, 
+            "name": "Southern Fried Chicken", 
+            "key": 1587681
+        }, 
+        {
+            "values": {
+                "reviews": "178", 
+                "time": 176, 
+                "score": "4.54751110076904", 
+                "cal": 258
+            }, 
+            "name": "Oklahoma Cheese Grits", 
+            "key": 1587682
+        }, 
+        {
+            "values": {
+                "reviews": "186", 
+                "time": 275, 
+                "score": "4.57446813583374", 
+                "cal": 205
+            }, 
+            "name": "Ann's Shrimp Etouffee", 
+            "key": 1587683
+        }, 
+        {
+            "values": {
+                "reviews": "212", 
+                "time": 220, 
+                "score": "4.61440658569336", 
+                "cal": 409
+            }, 
+            "name": "Sweet Potato Pound Cake", 
+            "key": 1587685
+        }, 
+        {
+            "values": {
+                "reviews": "174", 
+                "time": 390, 
+                "score": "4.355140209198", 
+                "cal": 120
+            }, 
+            "name": "New Year's Day Black-Eyed Peas", 
+            "key": 1587686
+        }, 
+        {
+            "values": {
+                "reviews": "156", 
+                "time": 110, 
+                "score": "4.02392339706421", 
+                "cal": 842
+            }, 
+            "name": "Chicken Casserole Mississippi", 
+            "key": 1587688
+        }, 
+        {
+            "values": {
+                "reviews": "176", 
+                "time": 150, 
+                "score": "4.59447002410889", 
+                "cal": 523
+            }, 
+            "name": "Kentucky Pecan Pie", 
+            "key": 1587690
+        }, 
+        {
+            "values": {
+                "reviews": "174", 
+                "time": 150, 
+                "score": "4.58986186981201", 
+                "cal": 503
+            }, 
+            "name": "Costas French Market Doughnuts (Beignets)", 
+            "key": 1587691
+        }, 
+        {
+            "values": {
+                "reviews": "174", 
+                "time": 90, 
+                "score": "4.44933938980103", 
+                "cal": 481
+            }, 
+            "name": "Catfish Cakes", 
+            "key": 1587692
+        }, 
+        {
+            "values": {
+                "reviews": "169", 
+                "time": 40, 
+                "score": "4.54502391815186", 
+                "cal": 310
+            }, 
+            "name": "Fried Green Tomatoes", 
+            "key": 1587693
+        }, 
+        {
+            "values": {
+                "reviews": "171", 
+                "time": 90, 
+                "score": "4.66666650772095", 
+                "cal": 420
+            }, 
+            "name": "Cajun Crab Soup", 
+            "key": 1587694
+        }, 
+        {
+            "values": {
+                "reviews": "176", 
+                "time": 60, 
+                "score": "4.10747671127319", 
+                "cal": 168
+            }, 
+            "name": "Florida Strawberry Muffins", 
+            "key": 1587695
+        }, 
+        {
+            "values": {
+                "reviews": "212", 
+                "time": 90, 
+                "score": "4.52631568908691", 
+                "cal": 351
+            }, 
+            "name": "Deep South Fried Chicken", 
+            "key": 1587696
+        }, 
+        {
+            "values": {
+                "reviews": "181", 
+                "time": 240, 
+                "score": "4.70562791824341", 
+                "cal": 543
+            }, 
+            "name": "Beignets", 
+            "key": 1587697
+        }, 
+        {
+            "values": {
+                "reviews": "189", 
+                "time": 220, 
+                "score": "4.76954746246338", 
+                "cal": 519
+            }, 
+            "name": "Southern Grilled Barbecued Ribs", 
+            "key": 1587698
+        }, 
+        {
+            "values": {
+                "reviews": "159", 
+                "time": 70, 
+                "score": "4.36744165420532", 
+                "cal": 406
+            }, 
+            "name": "Spicy Garlic and Pepper Shrimp", 
+            "key": 1587699
+        }, 
+        {
+            "values": {
+                "reviews": "159", 
+                "time": 320, 
+                "score": "4.57920789718628", 
+                "cal": 485
+            }, 
+            "name": "Maple Glazed Ribs", 
+            "key": 1587700
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

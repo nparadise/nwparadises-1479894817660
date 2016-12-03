@@ -37,31 +37,6 @@
       total_time: 준비 시간을 전부 포함한 총 조리 시간
       cal: 음식의 칼로리 (단위 kcal)
       rating: 음식의 별점 (0~5)
-
-== 테마별로 나눠져 있는 json 파일(revised 아닌 거) title, content의 text가 순서대로 다음과 같음 ==
-
-   recipe
-   null
-
-   Image
-   이미지 링크 (src 속성에 넣어서 이미지 태그로 만들면 웹에서 이미지로 쓸 수 있음)
-
-   음식 이름
-   레시피 만든 사람의 간략 코멘트
-
-   Ingredients
-   요약정보와 분량 지시 사항
-
-   Nutrition
-   영양정보
-
-   [Nutrition Information
-   영양에 대한 설명]
-
-   Ingredients List
-   ADVERTISEMENT로 나뉘어진 재료들 리스트
-
-   Directions
-   지시사항들
-
-
+      reviews: 리뷰 개수
+      comment: 레시피 만든 사람 한 마디
+      

@@ -1,0 +1,1003 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "692", 
+                "time": 820, 
+                "score": "4.7193717956543", 
+                "cal": 777
+            }, 
+            "name": "Slow Cooker Beef Pot Roast", 
+            "key": 20001
+        }, 
+        {
+            "values": {
+                "reviews": "6671", 
+                "time": 980, 
+                "score": "4.6404447555542", 
+                "cal": 426
+            }, 
+            "name": "Awesome Slow Cooker Pot Roast", 
+            "key": 20002
+        }, 
+        {
+            "values": {
+                "reviews": "243", 
+                "time": 220, 
+                "score": "4.63085412979126", 
+                "cal": 310
+            }, 
+            "name": "Bolognese Stuffed Bell Peppers", 
+            "key": 20003
+        }, 
+        {
+            "values": {
+                "reviews": "4188", 
+                "time": 300, 
+                "score": "4.80295658111572", 
+                "cal": 600
+            }, 
+            "name": "Boilermaker Tailgate Chili", 
+            "key": 20004
+        }, 
+        {
+            "values": {
+                "reviews": "2095", 
+                "time": 230, 
+                "score": "4.64448261260986", 
+                "cal": 305
+            }, 
+            "name": "It's Chili by George!!", 
+            "key": 20005
+        }, 
+        {
+            "values": {
+                "reviews": "1902", 
+                "time": 100, 
+                "score": "4.45753526687622", 
+                "cal": 452
+            }, 
+            "name": "Shepherd's Pie VI", 
+            "key": 20006
+        }, 
+        {
+            "values": {
+                "reviews": "2770", 
+                "time": 980, 
+                "score": "4.37231636047363", 
+                "cal": 376
+            }, 
+            "name": "Slow Cooker Beef Stroganoff I", 
+            "key": 20007
+        }, 
+        {
+            "values": {
+                "reviews": "2695", 
+                "time": 860, 
+                "score": "4.50857162475586", 
+                "cal": 413
+            }, 
+            "name": "Easy Slow Cooker French Dip", 
+            "key": 20008
+        }, 
+        {
+            "values": {
+                "reviews": "184", 
+                "time": 240, 
+                "score": "4.53051662445068", 
+                "cal": 556
+            }, 
+            "name": "Slovak Stuffed Cabbage", 
+            "key": 20009
+        }, 
+        {
+            "values": {
+                "reviews": "1902", 
+                "time": 80, 
+                "score": "4.58148002624512", 
+                "cal": 319
+            }, 
+            "name": "Hamburger Steak with Onions and Gravy", 
+            "key": 20010
+        }, 
+        {
+            "values": {
+                "reviews": "10212", 
+                "time": 375, 
+                "score": "4.7854471206665", 
+                "cal": 448
+            }, 
+            "name": "World's Best Lasagna", 
+            "key": 20011
+        }, 
+        {
+            "values": {
+                "reviews": "2324", 
+                "time": 280, 
+                "score": "4.51265001296997", 
+                "cal": 349
+            }, 
+            "name": "Italian Spaghetti Sauce with Meatballs", 
+            "key": 20012
+        }, 
+        {
+            "values": {
+                "reviews": "5287", 
+                "time": 110, 
+                "score": "4.69987916946411", 
+                "cal": 578
+            }, 
+            "name": "Baked Ziti I", 
+            "key": 20013
+        }, 
+        {
+            "values": {
+                "reviews": "2822", 
+                "time": 80, 
+                "score": "4.40187931060791", 
+                "cal": 440
+            }, 
+            "name": "Salisbury Steak", 
+            "key": 20014
+        }, 
+        {
+            "values": {
+                "reviews": "2817", 
+                "time": 1480, 
+                "score": "4.41508483886719", 
+                "cal": 516
+            }, 
+            "name": "Slow Cooker Beef Stew I", 
+            "key": 20015
+        }, 
+        {
+            "values": {
+                "reviews": "1806", 
+                "time": 120, 
+                "score": "4.51833248138428", 
+                "cal": 463
+            }, 
+            "name": "Stuffed Green Peppers I", 
+            "key": 20016
+        }, 
+        {
+            "values": {
+                "reviews": "2248", 
+                "time": 80, 
+                "score": "4.61531257629395", 
+                "cal": 343
+            }, 
+            "name": "Meatball Nirvana", 
+            "key": 20017
+        }, 
+        {
+            "values": {
+                "reviews": "659", 
+                "time": 100, 
+                "score": "4.47280788421631", 
+                "cal": 507
+            }, 
+            "name": "Crispy Orange Beef", 
+            "key": 20018
+        }, 
+        {
+            "values": {
+                "reviews": "2139", 
+                "time": 140, 
+                "score": "4.75676584243774", 
+                "cal": 480
+            }, 
+            "name": "Debdoozie's Blue Ribbon Chili", 
+            "key": 20019
+        }, 
+        {
+            "values": {
+                "reviews": "826", 
+                "time": 40, 
+                "score": "4.42364120483398", 
+                "cal": 367
+            }, 
+            "name": "Filet Mignon with Rich Balsamic Glaze", 
+            "key": 20020
+        }, 
+        {
+            "values": {
+                "reviews": "6079", 
+                "time": 170, 
+                "score": "4.57296180725098", 
+                "cal": 353
+            }, 
+            "name": "Brown Sugar Meatloaf", 
+            "key": 20021
+        }, 
+        {
+            "values": {
+                "reviews": "2096", 
+                "time": 540, 
+                "score": "4.42940998077393", 
+                "cal": 301
+            }, 
+            "name": "Slow-Cooker Pepper Steak", 
+            "key": 20022
+        }, 
+        {
+            "values": {
+                "reviews": "3953", 
+                "time": 140, 
+                "score": "4.54333162307739", 
+                "cal": 372
+            }, 
+            "name": "Easy Meatloaf", 
+            "key": 20023
+        }, 
+        {
+            "values": {
+                "reviews": "221", 
+                "time": 210, 
+                "score": "4.75080919265747", 
+                "cal": 307
+            }, 
+            "name": "Chef John's Classic Beef Stroganoff", 
+            "key": 20024
+        }, 
+        {
+            "values": {
+                "reviews": "1800", 
+                "time": 280, 
+                "score": "4.59788990020752", 
+                "cal": 401
+            }, 
+            "name": "Beef Stew VI", 
+            "key": 20025
+        }, 
+        {
+            "values": {
+                "reviews": "2160", 
+                "time": 110, 
+                "score": "4.54269790649414", 
+                "cal": 360
+            }, 
+            "name": "Rempel Family Meatloaf", 
+            "key": 20026
+        }, 
+        {
+            "values": {
+                "reviews": "2679", 
+                "time": 120, 
+                "score": "4.56004238128662", 
+                "cal": 432
+            }, 
+            "name": "Burrito Pie", 
+            "key": 20027
+        }, 
+        {
+            "values": {
+                "reviews": "4527", 
+                "time": 80, 
+                "score": "4.65463066101074", 
+                "cal": 189
+            }, 
+            "name": "Sloppy Joes II", 
+            "key": 20028
+        }, 
+        {
+            "values": {
+                "reviews": "1650", 
+                "time": 1470, 
+                "score": "4.62977409362793", 
+                "cal": 318
+            }, 
+            "name": "Slow Cooker Italian Beef for Sandwiches", 
+            "key": 20029
+        }, 
+        {
+            "values": {
+                "reviews": "1468", 
+                "time": 630, 
+                "score": "4.51863670349121", 
+                "cal": 388
+            }, 
+            "name": "Slow Cooker Salisbury Steak", 
+            "key": 20030
+        }, 
+        {
+            "values": {
+                "reviews": "1519", 
+                "time": 210, 
+                "score": "4.72867059707642", 
+                "cal": 347
+            }, 
+            "name": "Flatlander Chili", 
+            "key": 20031
+        }, 
+        {
+            "values": {
+                "reviews": "1420", 
+                "time": 980, 
+                "score": "4.60576438903809", 
+                "cal": 362
+            }, 
+            "name": "Slow Cooker Taco Soup", 
+            "key": 20032
+        }, 
+        {
+            "values": {
+                "reviews": "1362", 
+                "time": 1160, 
+                "score": "4.57640314102173", 
+                "cal": 540
+            }, 
+            "name": "Marie's Easy Slow Cooker Pot Roast", 
+            "key": 20033
+        }, 
+        {
+            "values": {
+                "reviews": "1902", 
+                "time": 80, 
+                "score": "4.58148002624512", 
+                "cal": 319
+            }, 
+            "name": "Hamburger Steak with Onions and Gravy", 
+            "key": 20034
+        }, 
+        {
+            "values": {
+                "reviews": "1395", 
+                "time": 70, 
+                "score": "4.61936140060425", 
+                "cal": 388
+            }, 
+            "name": "Asian Lettuce Wraps", 
+            "key": 20035
+        }, 
+        {
+            "values": {
+                "reviews": "1412", 
+                "time": 120, 
+                "score": "4.33670997619629", 
+                "cal": 386
+            }, 
+            "name": "Pizza Casserole", 
+            "key": 20036
+        }, 
+        {
+            "values": {
+                "reviews": "1022", 
+                "time": 160, 
+                "score": "4.27932214736938", 
+                "cal": 248
+            }, 
+            "name": "Stuffed Peppers", 
+            "key": 20037
+        }, 
+        {
+            "values": {
+                "reviews": "1596", 
+                "time": 370, 
+                "score": "4.45058441162109", 
+                "cal": 227
+            }, 
+            "name": "High Temperature Eye-of-Round Roast", 
+            "key": 20038
+        }, 
+        {
+            "values": {
+                "reviews": "1762", 
+                "time": 240, 
+                "score": "4.67935228347778", 
+                "cal": 664
+            }, 
+            "name": "American Lasagna", 
+            "key": 20039
+        }, 
+        {
+            "values": {
+                "reviews": "1800", 
+                "time": 280, 
+                "score": "4.59788990020752", 
+                "cal": 401
+            }, 
+            "name": "Beef Stew VI", 
+            "key": 20040
+        }, 
+        {
+            "values": {
+                "reviews": "1789", 
+                "time": 120, 
+                "score": "4.59836435317993", 
+                "cal": 255
+            }, 
+            "name": "Mini Meatloaves", 
+            "key": 20041
+        }, 
+        {
+            "values": {
+                "reviews": "1331", 
+                "time": 100, 
+                "score": "4.37407398223877", 
+                "cal": 632
+            }, 
+            "name": "Easy Mexican Casserole", 
+            "key": 20042
+        }, 
+        {
+            "values": {
+                "reviews": "1275", 
+                "time": 60, 
+                "score": "4.37045574188232", 
+                "cal": 687
+            }, 
+            "name": "Taco Pie", 
+            "key": 20043
+        }, 
+        {
+            "values": {
+                "reviews": "1259", 
+                "time": 610, 
+                "score": "4.77353525161743", 
+                "cal": 576
+            }, 
+            "name": "Foolproof Rib Roast", 
+            "key": 20044
+        }, 
+        {
+            "values": {
+                "reviews": "1272", 
+                "time": 280, 
+                "score": "4.64326000213623", 
+                "cal": 532
+            }, 
+            "name": "Chili I", 
+            "key": 20045
+        }, 
+        {
+            "values": {
+                "reviews": "1683", 
+                "time": 190, 
+                "score": "4.57743453979492", 
+                "cal": 304
+            }, 
+            "name": "Beef Stroganoff III", 
+            "key": 20046
+        }, 
+        {
+            "values": {
+                "reviews": "1311", 
+                "time": 200, 
+                "score": "4.81893682479858", 
+                "cal": 562
+            }, 
+            "name": "Garlic Prime Rib", 
+            "key": 20047
+        }, 
+        {
+            "values": {
+                "reviews": "1229", 
+                "time": 210, 
+                "score": "4.45390892028809", 
+                "cal": 193
+            }, 
+            "name": "Cocktail Meatballs", 
+            "key": 20048
+        }, 
+        {
+            "values": {
+                "reviews": "870", 
+                "time": 1110, 
+                "score": "4.5744309425354", 
+                "cal": 472
+            }, 
+            "name": "Slow-Cooker Corned Beef and Cabbage", 
+            "key": 20049
+        }, 
+        {
+            "values": {
+                "reviews": "1133", 
+                "time": 200, 
+                "score": "4.24335670471191", 
+                "cal": 352
+            }, 
+            "name": "Cabbage Roll Casserole", 
+            "key": 20050
+        }, 
+        {
+            "values": {
+                "reviews": "1023", 
+                "time": 300, 
+                "score": "4.72581815719604", 
+                "cal": 494
+            }, 
+            "name": "Linda's Lasagna", 
+            "key": 20051
+        }, 
+        {
+            "values": {
+                "reviews": "1005", 
+                "time": 1240, 
+                "score": "4.66183948516846", 
+                "cal": 276
+            }, 
+            "name": "Barbecued Beef", 
+            "key": 20052
+        }, 
+        {
+            "values": {
+                "reviews": "973", 
+                "time": 1140, 
+                "score": "4.30745601654053", 
+                "cal": 246
+            }, 
+            "name": "Cabbage Rolls II", 
+            "key": 20053
+        }, 
+        {
+            "values": {
+                "reviews": "915", 
+                "time": 870, 
+                "score": "4.56810903549194", 
+                "cal": 492
+            }, 
+            "name": "Slow Cooker Beef Stew IV", 
+            "key": 20054
+        }, 
+        {
+            "values": {
+                "reviews": "902", 
+                "time": 210, 
+                "score": "4.83246994018555", 
+                "cal": 653
+            }, 
+            "name": "Beef Tenderloin With Roasted Shallots", 
+            "key": 20055
+        }, 
+        {
+            "values": {
+                "reviews": "868", 
+                "time": 120, 
+                "score": "4.32633399963379", 
+                "cal": 223
+            }, 
+            "name": "Stuffed Cabbage Rolls", 
+            "key": 20056
+        }, 
+        {
+            "values": {
+                "reviews": "826", 
+                "time": 40, 
+                "score": "4.42364120483398", 
+                "cal": 367
+            }, 
+            "name": "Filet Mignon with Rich Balsamic Glaze", 
+            "key": 20057
+        }, 
+        {
+            "values": {
+                "reviews": "882", 
+                "time": 90, 
+                "score": "4.50252103805542", 
+                "cal": 916
+            }, 
+            "name": "Fabulous Wet Burritos", 
+            "key": 20058
+        }, 
+        {
+            "values": {
+                "reviews": "920", 
+                "time": 160, 
+                "score": "4.63149070739746", 
+                "cal": 589
+            }, 
+            "name": "Glazed Meatloaf I", 
+            "key": 20059
+        }, 
+        {
+            "values": {
+                "reviews": "862", 
+                "time": 120, 
+                "score": "4.34979438781738", 
+                "cal": 350
+            }, 
+            "name": "Spanish Rice Bake", 
+            "key": 20060
+        }, 
+        {
+            "values": {
+                "reviews": "960", 
+                "time": 100, 
+                "score": "4.47289848327637", 
+                "cal": 411
+            }, 
+            "name": "Cheeseburger Soup I", 
+            "key": 20061
+        }, 
+        {
+            "values": {
+                "reviews": "936", 
+                "time": 160, 
+                "score": "4.41659879684448", 
+                "cal": 386
+            }, 
+            "name": "Classic Goulash", 
+            "key": 20062
+        }, 
+        {
+            "values": {
+                "reviews": "1129", 
+                "time": 180, 
+                "score": "4.59587621688843", 
+                "cal": 394
+            }, 
+            "name": "Herb Rubbed Sirloin Tip Roast", 
+            "key": 20063
+        }, 
+        {
+            "values": {
+                "reviews": "814", 
+                "time": 30, 
+                "score": "4.3052544593811", 
+                "cal": 203
+            }, 
+            "name": "Asian Beef with Snow Peas", 
+            "key": 20064
+        }, 
+        {
+            "values": {
+                "reviews": "961", 
+                "time": 145, 
+                "score": "4.31563186645508", 
+                "cal": 314
+            }, 
+            "name": "Beef Tips and Noodles", 
+            "key": 20065
+        }, 
+        {
+            "values": {
+                "reviews": "988", 
+                "time": 410, 
+                "score": "4.63157892227173", 
+                "cal": 275
+            }, 
+            "name": "Marinated Flank Steak", 
+            "key": 20066
+        }, 
+        {
+            "values": {
+                "reviews": "839", 
+                "time": 180, 
+                "score": "4.71676826477051", 
+                "cal": 489
+            }, 
+            "name": "Baked Ziti IV", 
+            "key": 20068
+        }, 
+        {
+            "values": {
+                "reviews": "732", 
+                "time": 80, 
+                "score": "4.53250455856323", 
+                "cal": 781
+            }, 
+            "name": "Meatball Sandwich", 
+            "key": 20069
+        }, 
+        {
+            "values": {
+                "reviews": "784", 
+                "time": 100, 
+                "score": "4.48643207550049", 
+                "cal": 407
+            }, 
+            "name": "Neat Sloppy Joes", 
+            "key": 20070
+        }, 
+        {
+            "values": {
+                "reviews": "779", 
+                "time": 990, 
+                "score": "4.68154764175415", 
+                "cal": 385
+            }, 
+            "name": "Slow Cooker Pot Roast", 
+            "key": 20071
+        }, 
+        {
+            "values": {
+                "reviews": "819", 
+                "time": 990, 
+                "score": "4.56805276870728", 
+                "cal": 998
+            }, 
+            "name": "Pepperoncini Beef", 
+            "key": 20072
+        }, 
+        {
+            "values": {
+                "reviews": "835", 
+                "time": 100, 
+                "score": "4.71609401702881", 
+                "cal": 761
+            }, 
+            "name": "Baked Ziti III", 
+            "key": 20073
+        }, 
+        {
+            "values": {
+                "reviews": "749", 
+                "time": 630, 
+                "score": "4.54489803314209", 
+                "cal": 423
+            }, 
+            "name": "Cola Pot Roast II", 
+            "key": 20074
+        }, 
+        {
+            "values": {
+                "reviews": "814", 
+                "time": 220, 
+                "score": "4.78365850448608", 
+                "cal": 377
+            }, 
+            "name": "Chef John's Stuffed Peppers", 
+            "key": 20075
+        }, 
+        {
+            "values": {
+                "reviews": "755", 
+                "time": 390, 
+                "score": "4.57085037231445", 
+                "cal": 396
+            }, 
+            "name": "London Broil II", 
+            "key": 20076
+        }, 
+        {
+            "values": {
+                "reviews": "816", 
+                "time": 130, 
+                "score": "4.66726303100586", 
+                "cal": 369
+            }, 
+            "name": "Taqueria Style Tacos - Carne Asada", 
+            "key": 20077
+        }, 
+        {
+            "values": {
+                "reviews": "738", 
+                "time": 80, 
+                "score": "4.49023628234863", 
+                "cal": 791
+            }, 
+            "name": "The Best Chicken Fried Steak", 
+            "key": 20079
+        }, 
+        {
+            "values": {
+                "reviews": "874", 
+                "time": 100, 
+                "score": "4.62819385528564", 
+                "cal": 613
+            }, 
+            "name": "The Best Meatballs", 
+            "key": 20080
+        }, 
+        {
+            "values": {
+                "reviews": "729", 
+                "time": 60, 
+                "score": "4.15392446517944", 
+                "cal": 178
+            }, 
+            "name": "Broccoli Beef I", 
+            "key": 20081
+        }, 
+        {
+            "values": {
+                "reviews": "862", 
+                "time": 340, 
+                "score": "4.40633726119995", 
+                "cal": 277
+            }, 
+            "name": "Guinness\u00ae Corned Beef", 
+            "key": 20082
+        }, 
+        {
+            "values": {
+                "reviews": "765", 
+                "time": 150, 
+                "score": "4.53761291503906", 
+                "cal": 286
+            }, 
+            "name": "The Best Meatloaf", 
+            "key": 20083
+        }, 
+        {
+            "values": {
+                "reviews": "812", 
+                "time": 90, 
+                "score": "4.50131464004517", 
+                "cal": 821
+            }, 
+            "name": "Beef and Bean Chimichangas", 
+            "key": 20085
+        }, 
+        {
+            "values": {
+                "reviews": "716", 
+                "time": 60, 
+                "score": "4.36020421981812", 
+                "cal": 288
+            }, 
+            "name": "Juiciest Hamburgers Ever", 
+            "key": 20086
+        }, 
+        {
+            "values": {
+                "reviews": "807", 
+                "time": 700, 
+                "score": "4.63324308395386", 
+                "cal": 321
+            }, 
+            "name": "Beef Barley Vegetable Soup", 
+            "key": 20087
+        }, 
+        {
+            "values": {
+                "reviews": "826", 
+                "time": 1040, 
+                "score": "4.59190845489502", 
+                "cal": 260
+            }, 
+            "name": "Charley's Slow Cooker Mexican Style Meat", 
+            "key": 20088
+        }, 
+        {
+            "values": {
+                "reviews": "692", 
+                "time": 820, 
+                "score": "4.7193717956543", 
+                "cal": 777
+            }, 
+            "name": "Slow Cooker Beef Pot Roast", 
+            "key": 20089
+        }, 
+        {
+            "values": {
+                "reviews": "669", 
+                "time": 90, 
+                "score": "4.35032558441162", 
+                "cal": 448
+            }, 
+            "name": "Beef Enchiladas II", 
+            "key": 20090
+        }, 
+        {
+            "values": {
+                "reviews": "738", 
+                "time": 1220, 
+                "score": "4.23615455627441", 
+                "cal": 198
+            }, 
+            "name": "Slow Cooker London Broil", 
+            "key": 20092
+        }, 
+        {
+            "values": {
+                "reviews": "633", 
+                "time": 1460, 
+                "score": "4.53113985061646", 
+                "cal": 372
+            }, 
+            "name": "French Dip Sandwiches", 
+            "key": 20093
+        }, 
+        {
+            "values": {
+                "reviews": "637", 
+                "time": 180, 
+                "score": "4.6269006729126", 
+                "cal": 335
+            }, 
+            "name": "Bob's Awesome Lasagna", 
+            "key": 20094
+        }, 
+        {
+            "values": {
+                "reviews": "686", 
+                "time": 990, 
+                "score": "4.29760646820068", 
+                "cal": 403
+            }, 
+            "name": "Daria's Slow Cooker Beef Stroganoff", 
+            "key": 20095
+        }, 
+        {
+            "values": {
+                "reviews": "659", 
+                "time": 100, 
+                "score": "4.47280788421631", 
+                "cal": 507
+            }, 
+            "name": "Crispy Orange Beef", 
+            "key": 20096
+        }, 
+        {
+            "values": {
+                "reviews": "700", 
+                "time": 160, 
+                "score": "4.60750865936279", 
+                "cal": 318
+            }, 
+            "name": "Glazed Meatloaf II", 
+            "key": 20097
+        }, 
+        {
+            "values": {
+                "reviews": "672", 
+                "time": 30, 
+                "score": "4.619957447052", 
+                "cal": 548
+            }, 
+            "name": "Easy French Dip Sandwiches", 
+            "key": 20098
+        }, 
+        {
+            "values": {
+                "reviews": "679", 
+                "time": 120, 
+                "score": "4.30621004104614", 
+                "cal": 334
+            }, 
+            "name": "Taco Casserole", 
+            "key": 20099
+        }, 
+        {
+            "values": {
+                "reviews": "654", 
+                "time": 60, 
+                "score": "4.52359533309937", 
+                "cal": 354
+            }, 
+            "name": "Sesame Beef", 
+            "key": 20100
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

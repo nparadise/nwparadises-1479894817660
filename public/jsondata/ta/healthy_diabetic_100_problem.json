@@ -1,0 +1,793 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "314", 
+                "time": 120, 
+                "score": "4.42789602279663", 
+                "cal": 265
+            }, 
+            "name": "Moroccan Tagine", 
+            "key": 73901
+        }, 
+        {
+            "values": {
+                "reviews": "322", 
+                "time": 530, 
+                "score": "4.18886184692383", 
+                "cal": 290
+            }, 
+            "name": "Slow Cooker Chicken Marrakesh", 
+            "key": 73902
+        }, 
+        {
+            "values": {
+                "reviews": "428", 
+                "time": 40, 
+                "score": "4.33572721481323", 
+                "cal": 83
+            }, 
+            "name": "Whole Wheat and Honey Pizza Dough", 
+            "key": 73904
+        }, 
+        {
+            "values": {
+                "reviews": "793", 
+                "time": 80, 
+                "score": "4.49689435958862", 
+                "cal": 192
+            }, 
+            "name": "Red Lentil Curry", 
+            "key": 73905
+        }, 
+        {
+            "values": {
+                "reviews": "319", 
+                "time": 110, 
+                "score": "4.33991241455078", 
+                "cal": 132
+            }, 
+            "name": "Baked Sweet Potato Sticks", 
+            "key": 73908
+        }, 
+        {
+            "values": {
+                "reviews": "66", 
+                "time": 180, 
+                "score": "4.46315813064575", 
+                "cal": 143
+            }, 
+            "name": "Roasted Sweet Potato Corn Chowder", 
+            "key": 73909
+        }, 
+        {
+            "values": {
+                "reviews": "413", 
+                "time": 110, 
+                "score": "4.48399257659912", 
+                "cal": 155
+            }, 
+            "name": "Insanely Easy Vegetarian Chili", 
+            "key": 73911
+        }, 
+        {
+            "values": {
+                "reviews": "2", 
+                "time": 44, 
+                "score": "4", 
+                "cal": 209
+            }, 
+            "name": "White Wine Fruit Cocktail", 
+            "key": 73912
+        }, 
+        {
+            "values": {
+                "reviews": "351", 
+                "time": 10, 
+                "score": "4.55472660064697", 
+                "cal": 137
+            }, 
+            "name": "Microwave Popcorn", 
+            "key": 73913
+        }, 
+        {
+            "values": {
+                "reviews": "54", 
+                "time": 60, 
+                "score": "4.04477596282959", 
+                "cal": 161
+            }, 
+            "name": "All-Star Veggie Burger", 
+            "key": 73914
+        }, 
+        {
+            "values": {
+                "reviews": "23", 
+                "time": 62, 
+                "score": "4.35294103622437", 
+                "cal": 139
+            }, 
+            "name": "Shredded Potato Salmon Cakes", 
+            "key": 73915
+        }, 
+        {
+            "values": {
+                "reviews": "342", 
+                "time": 50, 
+                "score": "4.23162603378296", 
+                "cal": 179
+            }, 
+            "name": "Spinach and Leek White Bean Soup", 
+            "key": 73916
+        }, 
+        {
+            "values": {
+                "reviews": "429", 
+                "time": 80, 
+                "score": "4.64521169662476", 
+                "cal": 311
+            }, 
+            "name": "Chicken Fiesta Salad", 
+            "key": 73917
+        }, 
+        {
+            "values": {
+                "reviews": "307", 
+                "time": 180, 
+                "score": "4.54196643829346", 
+                "cal": 176
+            }, 
+            "name": "Cranberry and Cilantro Quinoa Salad", 
+            "key": 73918
+        }, 
+        {
+            "values": {
+                "reviews": "10", 
+                "time": 40, 
+                "score": "4.14285707473755", 
+                "cal": 190
+            }, 
+            "name": "Peach and Berry Salad", 
+            "key": 73919
+        }, 
+        {
+            "values": {
+                "reviews": "404", 
+                "time": 140, 
+                "score": "4.05975389480591", 
+                "cal": 169
+            }, 
+            "name": "Spicy Baked Sweet Potato Fries", 
+            "key": 73920
+        }, 
+        {
+            "values": {
+                "reviews": "401", 
+                "time": 60, 
+                "score": "4.30508470535278", 
+                "cal": 173
+            }, 
+            "name": "Spicy Chicken Breasts", 
+            "key": 73921
+        }, 
+        {
+            "values": {
+                "reviews": "63", 
+                "time": 90, 
+                "score": "4.11827945709229", 
+                "cal": 94
+            }, 
+            "name": "Zucchini Saute", 
+            "key": 73922
+        }, 
+        {
+            "values": {
+                "reviews": "319", 
+                "time": 60, 
+                "score": "4.30909109115601", 
+                "cal": 295
+            }, 
+            "name": "Yakisoba Chicken", 
+            "key": 73923
+        }, 
+        {
+            "values": {
+                "reviews": "2264", 
+                "time": 70, 
+                "score": "4.36050271987915", 
+                "cal": 198
+            }, 
+            "name": "Homemade Black Bean Veggie Burgers", 
+            "key": 73925
+        }, 
+        {
+            "values": {
+                "reviews": "760", 
+                "time": 60, 
+                "score": "4.31434011459351", 
+                "cal": 140
+            }, 
+            "name": "Black Beans and Rice", 
+            "key": 73927
+        }, 
+        {
+            "values": {
+                "reviews": "316", 
+                "time": 50, 
+                "score": "4.32142877578735", 
+                "cal": 147
+            }, 
+            "name": "Baked Tortilla Chips", 
+            "key": 73928
+        }, 
+        {
+            "values": {
+                "reviews": "439", 
+                "time": 80, 
+                "score": "4.22315454483032", 
+                "cal": 135
+            }, 
+            "name": "Chickpea Curry", 
+            "key": 73929
+        }, 
+        {
+            "values": {
+                "reviews": "189", 
+                "time": 100, 
+                "score": "4.41908693313599", 
+                "cal": 150
+            }, 
+            "name": "Spinach Lentil Soup", 
+            "key": 73930
+        }, 
+        {
+            "values": {
+                "reviews": "225", 
+                "time": 70, 
+                "score": "4.12828969955444", 
+                "cal": 102
+            }, 
+            "name": "Butternut Squash Fries", 
+            "key": 73932
+        }, 
+        {
+            "values": {
+                "reviews": "195", 
+                "time": 1470, 
+                "score": "4.03162050247192", 
+                "cal": 213
+            }, 
+            "name": "Mushroom Lentil Barley Stew", 
+            "key": 73933
+        }, 
+        {
+            "values": {
+                "reviews": "162", 
+                "time": 120, 
+                "score": "4.31555557250977", 
+                "cal": 206
+            }, 
+            "name": "Tomato-Curry Lentil Stew", 
+            "key": 73934
+        }, 
+        {
+            "values": {
+                "reviews": "204", 
+                "time": 50, 
+                "score": "4.45614051818848", 
+                "cal": 91
+            }, 
+            "name": "Mediterranean Kale", 
+            "key": 73935
+        }, 
+        {
+            "values": {
+                "reviews": "202", 
+                "time": 60, 
+                "score": "4.14715719223022", 
+                "cal": 204
+            }, 
+            "name": "Unsloppy Joes", 
+            "key": 73936
+        }, 
+        {
+            "values": {
+                "reviews": "268", 
+                "time": 130, 
+                "score": "4.27296590805054", 
+                "cal": 165
+            }, 
+            "name": "Lentils And Spinach", 
+            "key": 73937
+        }, 
+        {
+            "values": {
+                "reviews": "266", 
+                "time": 80, 
+                "score": "4.3273811340332", 
+                "cal": 64
+            }, 
+            "name": "Broccoli Soup", 
+            "key": 73939
+        }, 
+        {
+            "values": {
+                "reviews": "189", 
+                "time": 70, 
+                "score": "4.35968399047852", 
+                "cal": 156
+            }, 
+            "name": "Lentil Soup III", 
+            "key": 73940
+        }, 
+        {
+            "values": {
+                "reviews": "235", 
+                "time": 85, 
+                "score": "4.29411745071411", 
+                "cal": 286
+            }, 
+            "name": "Moroccan Chicken", 
+            "key": 73941
+        }, 
+        {
+            "values": {
+                "reviews": "313", 
+                "time": 130, 
+                "score": "4.40970373153687", 
+                "cal": 70
+            }, 
+            "name": "Gingerbread Biscotti", 
+            "key": 73942
+        }, 
+        {
+            "values": {
+                "reviews": "255", 
+                "time": 60, 
+                "score": "4.5325779914856", 
+                "cal": 142
+            }, 
+            "name": "Vegan Bean Taco Filling", 
+            "key": 73943
+        }, 
+        {
+            "values": {
+                "reviews": "238", 
+                "time": 30, 
+                "score": "4.65317916870117", 
+                "cal": 32
+            }, 
+            "name": "Superfast Asparagus", 
+            "key": 73944
+        }, 
+        {
+            "values": {
+                "reviews": "179", 
+                "time": 240, 
+                "score": "4.59274196624756", 
+                "cal": 155
+            }, 
+            "name": "Perfect Summer Fruit Salad", 
+            "key": 73945
+        }, 
+        {
+            "values": {
+                "reviews": "214", 
+                "time": 110, 
+                "score": "4.5422534942627", 
+                "cal": 98
+            }, 
+            "name": "Veggie Vegetarian Chili", 
+            "key": 73946
+        }, 
+        {
+            "values": {
+                "reviews": "253", 
+                "time": 90, 
+                "score": "4.36772489547729", 
+                "cal": 145
+            }, 
+            "name": "Baked French Fries II", 
+            "key": 73947
+        }, 
+        {
+            "values": {
+                "reviews": "241", 
+                "time": 1460, 
+                "score": "4.16265058517456", 
+                "cal": 189
+            }, 
+            "name": "Slow Cooker Chicken Creole", 
+            "key": 73948
+        }, 
+        {
+            "values": {
+                "reviews": "191", 
+                "time": 186, 
+                "score": "4.59398508071899", 
+                "cal": 128
+            }, 
+            "name": "Baked Potato", 
+            "key": 73949
+        }, 
+        {
+            "values": {
+                "reviews": "124", 
+                "time": 120, 
+                "score": "4.18134737014771", 
+                "cal": 258
+            }, 
+            "name": "Cuban Beans and Rice", 
+            "key": 73951
+        }, 
+        {
+            "values": {
+                "reviews": "129", 
+                "time": 330, 
+                "score": "4.60493850708008", 
+                "cal": 133
+            }, 
+            "name": "Turkey Carcass Soup", 
+            "key": 73954
+        }, 
+        {
+            "values": {
+                "reviews": "175", 
+                "time": 40, 
+                "score": "4.36818170547485", 
+                "cal": 140
+            }, 
+            "name": "Lemon-Orange Orange Roughy", 
+            "key": 73955
+        }, 
+        {
+            "values": {
+                "reviews": "160", 
+                "time": 50, 
+                "score": "4.24413156509399", 
+                "cal": 147
+            }, 
+            "name": "Lemony Quinoa", 
+            "key": 73956
+        }, 
+        {
+            "values": {
+                "reviews": "112", 
+                "time": 30, 
+                "score": "4.77272748947144", 
+                "cal": 94
+            }, 
+            "name": "Jamie's Sweet and Easy Corn on the Cob", 
+            "key": 73957
+        }, 
+        {
+            "values": {
+                "reviews": "116", 
+                "time": 90, 
+                "score": "4.39102554321289", 
+                "cal": 84
+            }, 
+            "name": "Easy Lima Beans", 
+            "key": 73958
+        }, 
+        {
+            "values": {
+                "reviews": "138", 
+                "time": 1020, 
+                "score": "4", 
+                "cal": 311
+            }, 
+            "name": "Slow Cooker Chicken and Noodles", 
+            "key": 73959
+        }, 
+        {
+            "values": {
+                "reviews": "119", 
+                "time": 70, 
+                "score": "4.23636341094971", 
+                "cal": 75
+            }, 
+            "name": "Mexican Cucumber Salad", 
+            "key": 73960
+        }, 
+        {
+            "values": {
+                "reviews": "109", 
+                "time": 30, 
+                "score": "4.2993631362915", 
+                "cal": 45
+            }, 
+            "name": "Quick Sesame Green Beans", 
+            "key": 73961
+        }, 
+        {
+            "values": {
+                "reviews": "146", 
+                "time": 180, 
+                "score": "4.59195423126221", 
+                "cal": 101
+            }, 
+            "name": "Friendship Soup Mix in a Jar", 
+            "key": 73962
+        }, 
+        {
+            "values": {
+                "reviews": "176", 
+                "time": 200, 
+                "score": "4.21126747131348", 
+                "cal": 142
+            }, 
+            "name": "Roasted and Curried Butternut Squash Soup", 
+            "key": 73963
+        }, 
+        {
+            "values": {
+                "reviews": "150", 
+                "time": 70, 
+                "score": "4.04102563858032", 
+                "cal": 135
+            }, 
+            "name": "Gobi Aloo (Indian Style Cauliflower with Potatoes)", 
+            "key": 73964
+        }, 
+        {
+            "values": {
+                "reviews": "138", 
+                "time": 80, 
+                "score": "3.81528663635254", 
+                "cal": 64
+            }, 
+            "name": "Can't Tell They're Low-fat Brownies", 
+            "key": 73966
+        }, 
+        {
+            "values": {
+                "reviews": "105", 
+                "time": 100, 
+                "score": "4.14925384521484", 
+                "cal": 142
+            }, 
+            "name": "Couscous and Cucumber Salad", 
+            "key": 73971
+        }, 
+        {
+            "values": {
+                "reviews": "112", 
+                "time": 50, 
+                "score": "4.39583349227905", 
+                "cal": 257
+            }, 
+            "name": "Pasta with Fresh Tomato Sauce", 
+            "key": 73972
+        }, 
+        {
+            "values": {
+                "reviews": "95", 
+                "time": 90, 
+                "score": "4.34959363937378", 
+                "cal": 111
+            }, 
+            "name": "Harvested Chicken Stew", 
+            "key": 73973
+        }, 
+        {
+            "values": {
+                "reviews": "111", 
+                "time": 120, 
+                "score": "4.19718313217163", 
+                "cal": 107
+            }, 
+            "name": "Zucchini with Chickpea and Mushroom Stuffing", 
+            "key": 73974
+        }, 
+        {
+            "values": {
+                "reviews": "86", 
+                "time": 220, 
+                "score": "4.25", 
+                "cal": 161
+            }, 
+            "name": "Twice Baked Sweet Potatoes with Ricotta Cheese", 
+            "key": 73975
+        }, 
+        {
+            "values": {
+                "reviews": "98", 
+                "time": 160, 
+                "score": "3.85496187210083", 
+                "cal": 155
+            }, 
+            "name": "Vegetarian Meatloaf", 
+            "key": 73977
+        }, 
+        {
+            "values": {
+                "reviews": "117", 
+                "time": 20, 
+                "score": "4.63333320617676", 
+                "cal": 88
+            }, 
+            "name": "Frozen Vegetable Stir-Fry", 
+            "key": 73978
+        }, 
+        {
+            "values": {
+                "reviews": "101", 
+                "time": 120, 
+                "score": "4.64462804794312", 
+                "cal": 160
+            }, 
+            "name": "Chicken Chili Soup", 
+            "key": 73980
+        }, 
+        {
+            "values": {
+                "reviews": "109", 
+                "time": 85, 
+                "score": "4.38356161117554", 
+                "cal": 168
+            }, 
+            "name": "BBQ Chicken Salad", 
+            "key": 73983
+        }, 
+        {
+            "values": {
+                "reviews": "77", 
+                "time": 80, 
+                "score": "4.27272748947144", 
+                "cal": 43
+            }, 
+            "name": "Zesty Zucchini and Squash", 
+            "key": 73985
+        }, 
+        {
+            "values": {
+                "reviews": "95", 
+                "time": 150, 
+                "score": "4.21666669845581", 
+                "cal": 241
+            }, 
+            "name": "Curried Chicken and Brown Rice Casserole", 
+            "key": 73986
+        }, 
+        {
+            "values": {
+                "reviews": "106", 
+                "time": 190, 
+                "score": "4.12686586380005", 
+                "cal": 336
+            }, 
+            "name": "Sweet Potato-Turkey Meatloaf", 
+            "key": 73987
+        }, 
+        {
+            "values": {
+                "reviews": "94", 
+                "time": 1260, 
+                "score": "3.66400003433228", 
+                "cal": 122
+            }, 
+            "name": "Slow Cooker Mediterranean Stew", 
+            "key": 73988
+        }, 
+        {
+            "values": {
+                "reviews": "111", 
+                "time": 90, 
+                "score": "4.43046379089355", 
+                "cal": 275
+            }, 
+            "name": "Thai Chicken Cabbage Soup", 
+            "key": 73989
+        }, 
+        {
+            "values": {
+                "reviews": "81", 
+                "time": 170, 
+                "score": "4.38181829452515", 
+                "cal": 208
+            }, 
+            "name": "Vegetarian Bean Curry", 
+            "key": 73990
+        }, 
+        {
+            "values": {
+                "reviews": "78", 
+                "time": 90, 
+                "score": "4.21782159805298", 
+                "cal": 185
+            }, 
+            "name": "Chicken Pasta I", 
+            "key": 73991
+        }, 
+        {
+            "values": {
+                "reviews": "68", 
+                "time": 130, 
+                "score": "4.63265323638916", 
+                "cal": 136
+            }, 
+            "name": "Rosemary Roasted Butternut Squash", 
+            "key": 73992
+        }, 
+        {
+            "values": {
+                "reviews": "87", 
+                "time": 180, 
+                "score": "4.44247770309448", 
+                "cal": 120
+            }, 
+            "name": "Green Velvet Soup", 
+            "key": 73995
+        }, 
+        {
+            "values": {
+                "reviews": "84", 
+                "time": 150, 
+                "score": "4.46956539154053", 
+                "cal": 143
+            }, 
+            "name": "Savory Roasted Root Vegetables", 
+            "key": 73997
+        }, 
+        {
+            "values": {
+                "reviews": "83", 
+                "time": 80, 
+                "score": "4.00925922393799", 
+                "cal": 224
+            }, 
+            "name": "Quinoa Chard Pilaf", 
+            "key": 73999
+        }, 
+        {
+            "values": {
+                "reviews": "77", 
+                "time": 40, 
+                "score": "4.51428556442261", 
+                "cal": 136
+            }, 
+            "name": "Puerto Rican Tostones (Fried Plantains)", 
+            "key": 74000
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

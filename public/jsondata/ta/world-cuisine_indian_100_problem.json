@@ -1,0 +1,893 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "540", 
+                "time": 120, 
+                "score": "4.72157430648804", 
+                "cal": 427
+            }, 
+            "name": "Indian Chicken Curry (Murgh Kari)", 
+            "key": 23301
+        }, 
+        {
+            "values": {
+                "reviews": "2026", 
+                "time": 220, 
+                "score": "4.38589859008789", 
+                "cal": 404
+            }, 
+            "name": "Chicken Tikka Masala", 
+            "key": 23302
+        }, 
+        {
+            "values": {
+                "reviews": "177", 
+                "time": 80, 
+                "score": "4.48201417922974", 
+                "cal": 216
+            }, 
+            "name": "Indian Style Basmati Rice", 
+            "key": 23304
+        }, 
+        {
+            "values": {
+                "reviews": "28", 
+                "time": 80, 
+                "score": "4.52941179275513", 
+                "cal": 113
+            }, 
+            "name": "Sweet Tamarind Chutney", 
+            "key": 23305
+        }, 
+        {
+            "values": {
+                "reviews": "129", 
+                "time": 70, 
+                "score": "4.30864191055298", 
+                "cal": 126
+            }, 
+            "name": "Easy Indian Style Okra", 
+            "key": 23306
+        }, 
+        {
+            "values": {
+                "reviews": "624", 
+                "time": 160, 
+                "score": "4.91576433181763", 
+                "cal": 328
+            }, 
+            "name": "Curry Stand Chicken Tikka Masala Sauce", 
+            "key": 23307
+        }, 
+        {
+            "values": {
+                "reviews": "793", 
+                "time": 80, 
+                "score": "4.49689435958862", 
+                "cal": 192
+            }, 
+            "name": "Red Lentil Curry", 
+            "key": 23308
+        }, 
+        {
+            "values": {
+                "reviews": "953", 
+                "time": 160, 
+                "score": "4.78980398178101", 
+                "cal": 223
+            }, 
+            "name": "Mulligatawny Soup I", 
+            "key": 23309
+        }, 
+        {
+            "values": {
+                "reviews": "469", 
+                "time": 70, 
+                "score": "4.39317512512207", 
+                "cal": 179
+            }, 
+            "name": "Carrot Rice", 
+            "key": 23310
+        }, 
+        {
+            "values": {
+                "reviews": "654", 
+                "time": 120, 
+                "score": "4.70514297485352", 
+                "cal": 880
+            }, 
+            "name": "Easy Indian Butter Chicken", 
+            "key": 23311
+        }, 
+        {
+            "values": {
+                "reviews": "150", 
+                "time": 70, 
+                "score": "4.04102563858032", 
+                "cal": 135
+            }, 
+            "name": "Gobi Aloo (Indian Style Cauliflower with Potatoes)", 
+            "key": 23312
+        }, 
+        {
+            "values": {
+                "reviews": "841", 
+                "time": 70, 
+                "score": "4.49310350418091", 
+                "cal": 408
+            }, 
+            "name": "Chicken Makhani (Indian Butter Chicken)", 
+            "key": 23313
+        }, 
+        {
+            "values": {
+                "reviews": "212", 
+                "time": 590, 
+                "score": "4.40740728378296", 
+                "cal": 349
+            }, 
+            "name": "Grilled Chicken Thighs Tandoori", 
+            "key": 23314
+        }, 
+        {
+            "values": {
+                "reviews": "3", 
+                "time": 90, 
+                "score": "4", 
+                "cal": 400
+            }, 
+            "name": "Potato Chapati Bread", 
+            "key": 23315
+        }, 
+        {
+            "values": {
+                "reviews": "871", 
+                "time": 90, 
+                "score": "4.26909732818604", 
+                "cal": 313
+            }, 
+            "name": "Indian Chicken Curry II", 
+            "key": 23316
+        }, 
+        {
+            "values": {
+                "reviews": "39", 
+                "time": 120, 
+                "score": "4.07142877578735", 
+                "cal": 240
+            }, 
+            "name": "Maharaja Curry", 
+            "key": 23317
+        }, 
+        {
+            "values": {
+                "reviews": "41", 
+                "time": 90, 
+                "score": "4.5409836769104", 
+                "cal": 232
+            }, 
+            "name": "Indian Chickpeas", 
+            "key": 23318
+        }, 
+        {
+            "values": {
+                "reviews": "1614", 
+                "time": 217, 
+                "score": "4.70599269866943", 
+                "cal": 211
+            }, 
+            "name": "Naan", 
+            "key": 23319
+        }, 
+        {
+            "values": {
+                "reviews": "514", 
+                "time": 120, 
+                "score": "4.47159099578857", 
+                "cal": 407
+            }, 
+            "name": "Spicy Vegan Potato Curry", 
+            "key": 23320
+        }, 
+        {
+            "values": {
+                "reviews": "342", 
+                "time": 540, 
+                "score": "4.45360803604126", 
+                "cal": 480
+            }, 
+            "name": "Slow Cooker Butter Chicken", 
+            "key": 23321
+        }, 
+        {
+            "values": {
+                "reviews": "309", 
+                "time": 120, 
+                "score": "4.3059868812561", 
+                "cal": 146
+            }, 
+            "name": "Baingan Bharta (Eggplant Curry)", 
+            "key": 23322
+        }, 
+        {
+            "values": {
+                "reviews": "185", 
+                "time": 270, 
+                "score": "4.53696489334106", 
+                "cal": 134
+            }, 
+            "name": "Indian Tomato Chicken", 
+            "key": 23323
+        }, 
+        {
+            "values": {
+                "reviews": "886", 
+                "time": 110, 
+                "score": "4.55674839019775", 
+                "cal": 462
+            }, 
+            "name": "Vegetarian Korma", 
+            "key": 23324
+        }, 
+        {
+            "values": {
+                "reviews": "290", 
+                "time": 60, 
+                "score": "4.39810419082642", 
+                "cal": 235
+            }, 
+            "name": "Aloo Phujia", 
+            "key": 23325
+        }, 
+        {
+            "values": {
+                "reviews": "439", 
+                "time": 80, 
+                "score": "4.22315454483032", 
+                "cal": 135
+            }, 
+            "name": "Chickpea Curry", 
+            "key": 23326
+        }, 
+        {
+            "values": {
+                "reviews": "132", 
+                "time": 70, 
+                "score": "4.44444465637207", 
+                "cal": 513
+            }, 
+            "name": "Kheer (Rice Pudding)", 
+            "key": 23327
+        }, 
+        {
+            "values": {
+                "reviews": "143", 
+                "time": 70, 
+                "score": "4.26130676269531", 
+                "cal": 398
+            }, 
+            "name": "Spicy Indian Chicken and Mango Curry", 
+            "key": 23328
+        }, 
+        {
+            "values": {
+                "reviews": "145", 
+                "time": 130, 
+                "score": "4.29797983169556", 
+                "cal": 235
+            }, 
+            "name": "Coconut Tofu Keema", 
+            "key": 23329
+        }, 
+        {
+            "values": {
+                "reviews": "131", 
+                "time": 60, 
+                "score": "4.47239255905151", 
+                "cal": 416
+            }, 
+            "name": "Indian Shrimp Curry", 
+            "key": 23332
+        }, 
+        {
+            "values": {
+                "reviews": "153", 
+                "time": 80, 
+                "score": "4.16289615631104", 
+                "cal": 362
+            }, 
+            "name": "Indian Dahl with Spinach", 
+            "key": 23333
+        }, 
+        {
+            "values": {
+                "reviews": "132", 
+                "time": 180, 
+                "score": "4.4210524559021", 
+                "cal": 622
+            }, 
+            "name": "Alicia's Aloo Gobi", 
+            "key": 23334
+        }, 
+        {
+            "values": {
+                "reviews": "129", 
+                "time": 70, 
+                "score": "4.30864191055298", 
+                "cal": 126
+            }, 
+            "name": "Easy Indian Style Okra", 
+            "key": 23335
+        }, 
+        {
+            "values": {
+                "reviews": "149", 
+                "time": 70, 
+                "score": "4.36057710647583", 
+                "cal": 185
+            }, 
+            "name": "Easy Masoor Daal", 
+            "key": 23336
+        }, 
+        {
+            "values": {
+                "reviews": "169", 
+                "time": 80, 
+                "score": "4.50691223144531", 
+                "cal": 258
+            }, 
+            "name": "Beef Samosas", 
+            "key": 23337
+        }, 
+        {
+            "values": {
+                "reviews": "133", 
+                "time": 60, 
+                "score": "4.62569808959961", 
+                "cal": 110
+            }, 
+            "name": "Indian Chapati Bread", 
+            "key": 23338
+        }, 
+        {
+            "values": {
+                "reviews": "134", 
+                "time": 130, 
+                "score": "4.47777795791626", 
+                "cal": 119
+            }, 
+            "name": "Indian Eggplant - Bhurtha", 
+            "key": 23339
+        }, 
+        {
+            "values": {
+                "reviews": "165", 
+                "time": 410, 
+                "score": "4.2836537361145", 
+                "cal": 635
+            }, 
+            "name": "Keon's Slow Cooker Curry Chicken", 
+            "key": 23342
+        }, 
+        {
+            "values": {
+                "reviews": "150", 
+                "time": 70, 
+                "score": "4.04102563858032", 
+                "cal": 135
+            }, 
+            "name": "Gobi Aloo (Indian Style Cauliflower with Potatoes)", 
+            "key": 23343
+        }, 
+        {
+            "values": {
+                "reviews": "173", 
+                "time": 90, 
+                "score": "3.91031384468079", 
+                "cal": 483
+            }, 
+            "name": "Absolutely Perfect Palak Paneer", 
+            "key": 23344
+        }, 
+        {
+            "values": {
+                "reviews": "194", 
+                "time": 120, 
+                "score": "4.3203125", 
+                "cal": 398
+            }, 
+            "name": "Chicken Korma II", 
+            "key": 23345
+        }, 
+        {
+            "values": {
+                "reviews": "149", 
+                "time": 90, 
+                "score": "4.46842098236084", 
+                "cal": 305
+            }, 
+            "name": "Indian Chicken Curry I", 
+            "key": 23346
+        }, 
+        {
+            "values": {
+                "reviews": "91", 
+                "time": 170, 
+                "score": "4.59090900421143", 
+                "cal": 304
+            }, 
+            "name": "Indian Style Sheekh Kabab", 
+            "key": 23347
+        }, 
+        {
+            "values": {
+                "reviews": "82", 
+                "time": 310, 
+                "score": "4.7476634979248", 
+                "cal": 38
+            }, 
+            "name": "Indian Relish", 
+            "key": 23349
+        }, 
+        {
+            "values": {
+                "reviews": "85", 
+                "time": 100, 
+                "score": "4.36190462112427", 
+                "cal": 423
+            }, 
+            "name": "Easy Chicken Korma", 
+            "key": 23350
+        }, 
+        {
+            "values": {
+                "reviews": "88", 
+                "time": 70, 
+                "score": "4.52845525741577", 
+                "cal": 378
+            }, 
+            "name": "Navratan Korma", 
+            "key": 23351
+        }, 
+        {
+            "values": {
+                "reviews": "85", 
+                "time": 80, 
+                "score": "4.18965530395508", 
+                "cal": 264
+            }, 
+            "name": "Tandoori Chicken II", 
+            "key": 23352
+        }, 
+        {
+            "values": {
+                "reviews": "104", 
+                "time": 120, 
+                "score": "4.50400018692017", 
+                "cal": 348
+            }, 
+            "name": "Tim Perry's Soup (Creamy Curry Cauliflower and Broccoli Soup)", 
+            "key": 23353
+        }, 
+        {
+            "values": {
+                "reviews": "104", 
+                "time": 190, 
+                "score": "4.49264717102051", 
+                "cal": 237
+            }, 
+            "name": "Indian Naan II", 
+            "key": 23354
+        }, 
+        {
+            "values": {
+                "reviews": "82", 
+                "time": 90, 
+                "score": "4.18644046783447", 
+                "cal": 487
+            }, 
+            "name": "Aloo Matar", 
+            "key": 23355
+        }, 
+        {
+            "values": {
+                "reviews": "100", 
+                "time": 50, 
+                "score": "4.38345861434937", 
+                "cal": 154
+            }, 
+            "name": "Indian Saffron Rice", 
+            "key": 23356
+        }, 
+        {
+            "values": {
+                "reviews": "90", 
+                "time": 140, 
+                "score": "4.78333330154419", 
+                "cal": 627
+            }, 
+            "name": "Chef John's Chicken Tikka Masala", 
+            "key": 23359
+        }, 
+        {
+            "values": {
+                "reviews": "81", 
+                "time": 120, 
+                "score": "4.19999980926514", 
+                "cal": 396
+            }, 
+            "name": "Potato Curry", 
+            "key": 23361
+        }, 
+        {
+            "values": {
+                "reviews": "115", 
+                "time": 140, 
+                "score": "4.56756734848022", 
+                "cal": 338
+            }, 
+            "name": "Indian Fish Curry", 
+            "key": 23363
+        }, 
+        {
+            "values": {
+                "reviews": "90", 
+                "time": 50, 
+                "score": "4.28181838989258", 
+                "cal": 513
+            }, 
+            "name": "Keema (Indian-Style Ground Meat)", 
+            "key": 23364
+        }, 
+        {
+            "values": {
+                "reviews": "95", 
+                "time": 150, 
+                "score": "4.21666669845581", 
+                "cal": 241
+            }, 
+            "name": "Curried Chicken and Brown Rice Casserole", 
+            "key": 23365
+        }, 
+        {
+            "values": {
+                "reviews": "103", 
+                "time": 270, 
+                "score": "4.62142848968506", 
+                "cal": 403
+            }, 
+            "name": "Authentic Chicken Tikka Masala", 
+            "key": 23366
+        }, 
+        {
+            "values": {
+                "reviews": "64", 
+                "time": 140, 
+                "score": "4.48387098312378", 
+                "cal": 227
+            }, 
+            "name": "Cod Curry", 
+            "key": 23367
+        }, 
+        {
+            "values": {
+                "reviews": "64", 
+                "time": 150, 
+                "score": "3.91358017921448", 
+                "cal": 248
+            }, 
+            "name": "Spicy Indian Chicken Curry Yummy", 
+            "key": 23368
+        }, 
+        {
+            "values": {
+                "reviews": "71", 
+                "time": 60, 
+                "score": "4.45454549789429", 
+                "cal": 338
+            }, 
+            "name": "Indian Stir-Fried Shrimp in Cream Sauce (Bhagari Jhinga)", 
+            "key": 23369
+        }, 
+        {
+            "values": {
+                "reviews": "70", 
+                "time": 80, 
+                "score": "4.49494934082031", 
+                "cal": 426
+            }, 
+            "name": "Evin's Indian Apricot Chicken", 
+            "key": 23370
+        }, 
+        {
+            "values": {
+                "reviews": "79", 
+                "time": 150, 
+                "score": "3.75555562973022", 
+                "cal": 247
+            }, 
+            "name": "Easy Chicken Curry", 
+            "key": 23371
+        }, 
+        {
+            "values": {
+                "reviews": "73", 
+                "time": 160, 
+                "score": "4.73076915740967", 
+                "cal": 312
+            }, 
+            "name": "Coconut Curry Chili", 
+            "key": 23372
+        }, 
+        {
+            "values": {
+                "reviews": "67", 
+                "time": 250, 
+                "score": "4.54838705062866", 
+                "cal": 226
+            }, 
+            "name": "Vegetarian Chickpea Curry with Turnips", 
+            "key": 23373
+        }, 
+        {
+            "values": {
+                "reviews": "58", 
+                "time": 60, 
+                "score": "4.17073154449463", 
+                "cal": 167
+            }, 
+            "name": "Vegetable Masala", 
+            "key": 23374
+        }, 
+        {
+            "values": {
+                "reviews": "64", 
+                "time": 100, 
+                "score": "4.07499980926514", 
+                "cal": 168
+            }, 
+            "name": "Indian Cauliflower", 
+            "key": 23375
+        }, 
+        {
+            "values": {
+                "reviews": "61", 
+                "time": 110, 
+                "score": "4.375", 
+                "cal": 139
+            }, 
+            "name": "Easy Curried Cauliflower", 
+            "key": 23376
+        }, 
+        {
+            "values": {
+                "reviews": "69", 
+                "time": 110, 
+                "score": "4.36263751983643", 
+                "cal": 404
+            }, 
+            "name": "Indian Curried Barley Pilaf", 
+            "key": 23378
+        }, 
+        {
+            "values": {
+                "reviews": "62", 
+                "time": 70, 
+                "score": "4.03488349914551", 
+                "cal": 128
+            }, 
+            "name": "Curried Cumin Potatoes", 
+            "key": 23379
+        }, 
+        {
+            "values": {
+                "reviews": "82", 
+                "time": 54, 
+                "score": "4.59999990463257", 
+                "cal": 462
+            }, 
+            "name": "Indian-Style Rice with Cashews, Raisins and Turmeric", 
+            "key": 23381
+        }, 
+        {
+            "values": {
+                "reviews": "65", 
+                "time": 80, 
+                "score": "4.05882358551025", 
+                "cal": 340
+            }, 
+            "name": "Tofu Keema", 
+            "key": 23382
+        }, 
+        {
+            "values": {
+                "reviews": "60", 
+                "time": 150, 
+                "score": "4.11904764175415", 
+                "cal": 127
+            }, 
+            "name": "Moong Dal", 
+            "key": 23383
+        }, 
+        {
+            "values": {
+                "reviews": "73", 
+                "time": 50, 
+                "score": "4.54081630706787", 
+                "cal": 217
+            }, 
+            "name": "Crispy Vegetable Pakoras", 
+            "key": 23384
+        }, 
+        {
+            "values": {
+                "reviews": "75", 
+                "time": 70, 
+                "score": "4.38383817672729", 
+                "cal": 261
+            }, 
+            "name": "Curried Mango Chicken", 
+            "key": 23385
+        }, 
+        {
+            "values": {
+                "reviews": "81", 
+                "time": 70, 
+                "score": "3.66000008583069", 
+                "cal": 256
+            }, 
+            "name": "Coconut Rice", 
+            "key": 23386
+        }, 
+        {
+            "values": {
+                "reviews": "68", 
+                "time": 120, 
+                "score": "4.12820529937744", 
+                "cal": 259
+            }, 
+            "name": "Saffron Rice", 
+            "key": 23387
+        }, 
+        {
+            "values": {
+                "reviews": "55", 
+                "time": 90, 
+                "score": "4.01333332061768", 
+                "cal": 248
+            }, 
+            "name": "Cholay (Curried Chickpeas)", 
+            "key": 23388
+        }, 
+        {
+            "values": {
+                "reviews": "56", 
+                "time": 120, 
+                "score": "4.46478891372681", 
+                "cal": 321
+            }, 
+            "name": "Butter Lamb Gravy", 
+            "key": 23389
+        }, 
+        {
+            "values": {
+                "reviews": "67", 
+                "time": 90, 
+                "score": "3.82894730567932", 
+                "cal": 504
+            }, 
+            "name": "Indian Peanut Stew", 
+            "key": 23392
+        }, 
+        {
+            "values": {
+                "reviews": "60", 
+                "time": 100, 
+                "score": "3.93333339691162", 
+                "cal": 182
+            }, 
+            "name": "Indian Saag", 
+            "key": 23393
+        }, 
+        {
+            "values": {
+                "reviews": "48", 
+                "time": 630, 
+                "score": "4.27536249160767", 
+                "cal": 216
+            }, 
+            "name": "Paleo Slow Cooker Pork Loin", 
+            "key": 23394
+        }, 
+        {
+            "values": {
+                "reviews": "61", 
+                "time": 160, 
+                "score": "4.09722232818604", 
+                "cal": 521
+            }, 
+            "name": "Bombay Chicken and Rice", 
+            "key": 23396
+        }, 
+        {
+            "values": {
+                "reviews": "57", 
+                "time": 160, 
+                "score": "4.84210538864136", 
+                "cal": 474
+            }, 
+            "name": "Murgh Makhani (Indian Butter Chicken)", 
+            "key": 23397
+        }, 
+        {
+            "values": {
+                "reviews": "49", 
+                "time": 120, 
+                "score": "4.44927549362183", 
+                "cal": 413
+            }, 
+            "name": "Tofu Vindaloo", 
+            "key": 23398
+        }, 
+        {
+            "values": {
+                "reviews": "62", 
+                "time": 60, 
+                "score": "4", 
+                "cal": 353
+            }, 
+            "name": "Coconut Curry Fish", 
+            "key": 23399
+        }, 
+        {
+            "values": {
+                "reviews": "52", 
+                "time": 60, 
+                "score": "4.43939399719238", 
+                "cal": 171
+            }, 
+            "name": "Spicy Indian (Gujarati) Green Beans", 
+            "key": 23400
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}

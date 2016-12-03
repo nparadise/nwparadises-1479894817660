@@ -1,0 +1,863 @@
+{
+    "options": [
+        {
+            "values": {
+                "reviews": "1022", 
+                "time": 160, 
+                "score": "4.27932214736938", 
+                "cal": 248
+            }, 
+            "name": "Stuffed Peppers", 
+            "key": 74101
+        }, 
+        {
+            "values": {
+                "reviews": "1096", 
+                "time": 40, 
+                "score": "4.78877878189087", 
+                "cal": 143
+            }, 
+            "name": "Sauteed Apples", 
+            "key": 74102
+        }, 
+        {
+            "values": {
+                "reviews": "699", 
+                "time": 125, 
+                "score": "4.60744285583496", 
+                "cal": 229
+            }, 
+            "name": "Garbanzo Bean Chocolate Cake (Gluten Free!)", 
+            "key": 74104
+        }, 
+        {
+            "values": {
+                "reviews": "2448", 
+                "time": 570, 
+                "score": "4.7885537147522", 
+                "cal": 355
+            }, 
+            "name": "BBQ Pork for Sandwiches", 
+            "key": 74106
+        }, 
+        {
+            "values": {
+                "reviews": "1005", 
+                "time": 1240, 
+                "score": "4.66183948516846", 
+                "cal": 276
+            }, 
+            "name": "Barbecued Beef", 
+            "key": 74108
+        }, 
+        {
+            "values": {
+                "reviews": "962", 
+                "time": 65, 
+                "score": "4.74787950515747", 
+                "cal": 257
+            }, 
+            "name": "Lamb Chops with Balsamic Reduction", 
+            "key": 74109
+        }, 
+        {
+            "values": {
+                "reviews": "1039", 
+                "time": 200, 
+                "score": "4.80633544921875", 
+                "cal": 447
+            }, 
+            "name": "Grilled Marinated Shrimp", 
+            "key": 74110
+        }, 
+        {
+            "values": {
+                "reviews": "1716", 
+                "time": 40, 
+                "score": "4.45976495742798", 
+                "cal": 58
+            }, 
+            "name": "Baked Kale Chips", 
+            "key": 74111
+        }, 
+        {
+            "values": {
+                "reviews": "2368", 
+                "time": 120, 
+                "score": "4.57208299636841", 
+                "cal": 104
+            }, 
+            "name": "Roasted Brussels Sprouts", 
+            "key": 74112
+        }, 
+        {
+            "values": {
+                "reviews": "222", 
+                "time": 70, 
+                "score": "4.6693549156189", 
+                "cal": 147
+            }, 
+            "name": "Delicious Gluten-Free Pancakes", 
+            "key": 74113
+        }, 
+        {
+            "values": {
+                "reviews": "973", 
+                "time": 1140, 
+                "score": "4.30745601654053", 
+                "cal": 246
+            }, 
+            "name": "Cabbage Rolls II", 
+            "key": 74114
+        }, 
+        {
+            "values": {
+                "reviews": "2059", 
+                "time": 185, 
+                "score": "4.71908044815063", 
+                "cal": 423
+            }, 
+            "name": "Juicy Roasted Chicken", 
+            "key": 74117
+        }, 
+        {
+            "values": {
+                "reviews": "225", 
+                "time": 94, 
+                "score": "4.52573537826538", 
+                "cal": 513
+            }, 
+            "name": "Gluten-Free Peanut Butter Cookies", 
+            "key": 74118
+        }, 
+        {
+            "values": {
+                "reviews": "1133", 
+                "time": 200, 
+                "score": "4.24335670471191", 
+                "cal": 352
+            }, 
+            "name": "Cabbage Roll Casserole", 
+            "key": 74119
+        }, 
+        {
+            "values": {
+                "reviews": "27", 
+                "time": 90, 
+                "score": "4.53333330154419", 
+                "cal": 79
+            }, 
+            "name": "Gluten-Free Cheese and Herb Pizza Crust", 
+            "key": 74120
+        }, 
+        {
+            "values": {
+                "reviews": "1896", 
+                "time": 60, 
+                "score": "4.79306316375732", 
+                "cal": 121
+            }, 
+            "name": "Sarah's Applesauce", 
+            "key": 74121
+        }, 
+        {
+            "values": {
+                "reviews": "1715", 
+                "time": 990, 
+                "score": "4.67404794692993", 
+                "cal": 139
+            }, 
+            "name": "Refried Beans Without the Refry", 
+            "key": 74122
+        }, 
+        {
+            "values": {
+                "reviews": "1561", 
+                "time": 90, 
+                "score": "4.44046545028687", 
+                "cal": 262
+            }, 
+            "name": "Caramel Apple Pork Chops", 
+            "key": 74123
+        }, 
+        {
+            "values": {
+                "reviews": "1342", 
+                "time": 1240, 
+                "score": "4.2518105506897", 
+                "cal": 408
+            }, 
+            "name": "Baked Slow Cooker Chicken", 
+            "key": 74125
+        }, 
+        {
+            "values": {
+                "reviews": "3629", 
+                "time": 100, 
+                "score": "4.64580154418945", 
+                "cal": 153
+            }, 
+            "name": "Quinoa and Black Beans", 
+            "key": 74126
+        }, 
+        {
+            "values": {
+                "reviews": "1259", 
+                "time": 610, 
+                "score": "4.77353525161743", 
+                "cal": 576
+            }, 
+            "name": "Foolproof Rib Roast", 
+            "key": 74127
+        }, 
+        {
+            "values": {
+                "reviews": "1", 
+                "time": 510, 
+                "score": "4.5", 
+                "cal": 201
+            }, 
+            "name": "Tykvenitsa Millet Breakfast Cereal", 
+            "key": 74128
+        }, 
+        {
+            "values": {
+                "reviews": "17", 
+                "time": 70, 
+                "score": "4.68421030044556", 
+                "cal": 247
+            }, 
+            "name": "Gluten Free Sausage Gravy", 
+            "key": 74129
+        }, 
+        {
+            "values": {
+                "reviews": "673", 
+                "time": 80, 
+                "score": "4.1204662322998", 
+                "cal": 126
+            }, 
+            "name": "Black Bean Brownies", 
+            "key": 74130
+        }, 
+        {
+            "values": {
+                "reviews": "707", 
+                "time": 120, 
+                "score": "4.59008073806763", 
+                "cal": 206
+            }, 
+            "name": "Basil Shrimp", 
+            "key": 74131
+        }, 
+        {
+            "values": {
+                "reviews": "759", 
+                "time": 140, 
+                "score": "4.5004677772522", 
+                "cal": 90
+            }, 
+            "name": "Spiced Pumpkin Seeds", 
+            "key": 74132
+        }, 
+        {
+            "values": {
+                "reviews": "590", 
+                "time": 40, 
+                "score": "4.62544584274292", 
+                "cal": 122
+            }, 
+            "name": "Green Beans with Cherry Tomatoes", 
+            "key": 74133
+        }, 
+        {
+            "values": {
+                "reviews": "547", 
+                "time": 36, 
+                "score": "4.69371747970581", 
+                "cal": 53
+            }, 
+            "name": "Grilled Asparagus", 
+            "key": 74134
+        }, 
+        {
+            "values": {
+                "reviews": "628", 
+                "time": 60, 
+                "score": "4.42144393920898", 
+                "cal": 453
+            }, 
+            "name": "Sirloin Steak with Garlic Butter", 
+            "key": 74135
+        }, 
+        {
+            "values": {
+                "reviews": "828", 
+                "time": 40, 
+                "score": "4.52804660797119", 
+                "cal": 181
+            }, 
+            "name": "BLT Dip", 
+            "key": 74136
+        }, 
+        {
+            "values": {
+                "reviews": "790", 
+                "time": 570, 
+                "score": "4.55752229690552", 
+                "cal": 382
+            }, 
+            "name": "Boston Baked Beans", 
+            "key": 74137
+        }, 
+        {
+            "values": {
+                "reviews": "699", 
+                "time": 125, 
+                "score": "4.60744285583496", 
+                "cal": 229
+            }, 
+            "name": "Garbanzo Bean Chocolate Cake (Gluten Free!)", 
+            "key": 74139
+        }, 
+        {
+            "values": {
+                "reviews": "679", 
+                "time": 40, 
+                "score": "4.36950159072876", 
+                "cal": 135
+            }, 
+            "name": "Blackened Chicken", 
+            "key": 74140
+        }, 
+        {
+            "values": {
+                "reviews": "869", 
+                "time": 50, 
+                "score": "4.42191314697266", 
+                "cal": 157
+            }, 
+            "name": "Garlic Green Beans", 
+            "key": 74143
+        }, 
+        {
+            "values": {
+                "reviews": "856", 
+                "time": 70, 
+                "score": "4.73026895523071", 
+                "cal": 194
+            }, 
+            "name": "Florentine Artichoke Dip", 
+            "key": 74144
+        }, 
+        {
+            "values": {
+                "reviews": "706", 
+                "time": 160, 
+                "score": "4.49240112304688", 
+                "cal": 814
+            }, 
+            "name": "Cornish Game Hens with Garlic and Rosemary", 
+            "key": 74145
+        }, 
+        {
+            "values": {
+                "reviews": "673", 
+                "time": 120, 
+                "score": "4.49835729598999", 
+                "cal": 227
+            }, 
+            "name": "Chili-Lime Chicken Kabobs", 
+            "key": 74148
+        }, 
+        {
+            "values": {
+                "reviews": "826", 
+                "time": 1040, 
+                "score": "4.59190845489502", 
+                "cal": 260
+            }, 
+            "name": "Charley's Slow Cooker Mexican Style Meat", 
+            "key": 74149
+        }, 
+        {
+            "values": {
+                "reviews": "502", 
+                "time": 210, 
+                "score": "4.5577507019043", 
+                "cal": 405
+            }, 
+            "name": "Roasted Lemon Herb Chicken", 
+            "key": 74152
+        }, 
+        {
+            "values": {
+                "reviews": "458", 
+                "time": 90, 
+                "score": "4.46974515914917", 
+                "cal": 82
+            }, 
+            "name": "Hot Artichoke Spinach Dip", 
+            "key": 74153
+        }, 
+        {
+            "values": {
+                "reviews": "420", 
+                "time": 70, 
+                "score": "4.28843116760254", 
+                "cal": 207
+            }, 
+            "name": "Quinoa Side Dish", 
+            "key": 74154
+        }, 
+        {
+            "values": {
+                "reviews": "469", 
+                "time": 70, 
+                "score": "4.39317512512207", 
+                "cal": 179
+            }, 
+            "name": "Carrot Rice", 
+            "key": 74155
+        }, 
+        {
+            "values": {
+                "reviews": "520", 
+                "time": 565, 
+                "score": "4.61254024505615", 
+                "cal": 228
+            }, 
+            "name": "Creamiest Rice Pudding", 
+            "key": 74156
+        }, 
+        {
+            "values": {
+                "reviews": "484", 
+                "time": 160, 
+                "score": "4.56418895721436", 
+                "cal": 285
+            }, 
+            "name": "Flourless Chocolate Cake II", 
+            "key": 74157
+        }, 
+        {
+            "values": {
+                "reviews": "531", 
+                "time": 70, 
+                "score": "4.46374607086182", 
+                "cal": 331
+            }, 
+            "name": "Buckeyes I", 
+            "key": 74158
+        }, 
+        {
+            "values": {
+                "reviews": "455", 
+                "time": 280, 
+                "score": "4.51211071014404", 
+                "cal": 551
+            }, 
+            "name": "Beef Pot Roast", 
+            "key": 74159
+        }, 
+        {
+            "values": {
+                "reviews": "443", 
+                "time": 26, 
+                "score": "4.30670928955078", 
+                "cal": 273
+            }, 
+            "name": "Broiled Scallops", 
+            "key": 74160
+        }, 
+        {
+            "values": {
+                "reviews": "566", 
+                "time": 500, 
+                "score": "4.24825668334961", 
+                "cal": 374
+            }, 
+            "name": "Slow Cooker Cranberry Pork", 
+            "key": 74161
+        }, 
+        {
+            "values": {
+                "reviews": "498", 
+                "time": 50, 
+                "score": "4.41013813018799", 
+                "cal": 230
+            }, 
+            "name": "Fish Fillets Italiano", 
+            "key": 74162
+        }, 
+        {
+            "values": {
+                "reviews": "413", 
+                "time": 150, 
+                "score": "4.41894054412842", 
+                "cal": 251
+            }, 
+            "name": "Roasted Garlic Mashed Potatoes", 
+            "key": 74163
+        }, 
+        {
+            "values": {
+                "reviews": "439", 
+                "time": 80, 
+                "score": "4.22315454483032", 
+                "cal": 135
+            }, 
+            "name": "Chickpea Curry", 
+            "key": 74165
+        }, 
+        {
+            "values": {
+                "reviews": "465", 
+                "time": 130, 
+                "score": "4.54036235809326", 
+                "cal": 428
+            }, 
+            "name": "Ethiopian Cabbage Dish", 
+            "key": 74166
+        }, 
+        {
+            "values": {
+                "reviews": "537", 
+                "time": 72, 
+                "score": "4.61760854721069", 
+                "cal": 173
+            }, 
+            "name": "Grilled Shrimp Scampi", 
+            "key": 74167
+        }, 
+        {
+            "values": {
+                "reviews": "416", 
+                "time": 60, 
+                "score": "4.40188360214233", 
+                "cal": 78
+            }, 
+            "name": "Sesame Green Beans", 
+            "key": 74168
+        }, 
+        {
+            "values": {
+                "reviews": "515", 
+                "time": 1100, 
+                "score": "4.58321475982666", 
+                "cal": 343
+            }, 
+            "name": "Slow Cooker Barbeque", 
+            "key": 74169
+        }, 
+        {
+            "values": {
+                "reviews": "271", 
+                "time": 300, 
+                "score": "4.71270704269409", 
+                "cal": 481
+            }, 
+            "name": "Rosemary Braised Lamb Shanks", 
+            "key": 74170
+        }, 
+        {
+            "values": {
+                "reviews": "292", 
+                "time": 160, 
+                "score": "4.63383817672729", 
+                "cal": 245
+            }, 
+            "name": "Make-Ahead Mashed Potatoes", 
+            "key": 74172
+        }, 
+        {
+            "values": {
+                "reviews": "280", 
+                "time": 100, 
+                "score": "4.78904104232788", 
+                "cal": 192
+            }, 
+            "name": "Scott Ure's Clams And Garlic", 
+            "key": 74173
+        }, 
+        {
+            "values": {
+                "reviews": "450", 
+                "time": 500, 
+                "score": "4.5", 
+                "cal": 192
+            }, 
+            "name": "Slow Cooker Creamed Corn", 
+            "key": 74174
+        }, 
+        {
+            "values": {
+                "reviews": "337", 
+                "time": 190, 
+                "score": "4.5652174949646", 
+                "cal": 72
+            }, 
+            "name": "Divine Hard-Boiled Eggs", 
+            "key": 74175
+        }, 
+        {
+            "values": {
+                "reviews": "268", 
+                "time": 130, 
+                "score": "4.27296590805054", 
+                "cal": 165
+            }, 
+            "name": "Lentils And Spinach", 
+            "key": 74176
+        }, 
+        {
+            "values": {
+                "reviews": "337", 
+                "time": 990, 
+                "score": "4.6102089881897", 
+                "cal": 279
+            }, 
+            "name": "Barbeque Pork Two Ways", 
+            "key": 74177
+        }, 
+        {
+            "values": {
+                "reviews": "327", 
+                "time": 140, 
+                "score": "4.18229150772095", 
+                "cal": 140
+            }, 
+            "name": "Oven Brown Rice", 
+            "key": 74178
+        }, 
+        {
+            "values": {
+                "reviews": "390", 
+                "time": 540, 
+                "score": "4.3793773651123", 
+                "cal": 288
+            }, 
+            "name": "Maple-Garlic Marinated Pork Tenderloin", 
+            "key": 74179
+        }, 
+        {
+            "values": {
+                "reviews": "300", 
+                "time": 54, 
+                "score": "4.74384260177612", 
+                "cal": 742
+            }, 
+            "name": "Grilled Rock Lobster Tails", 
+            "key": 74180
+        }, 
+        {
+            "values": {
+                "reviews": "364", 
+                "time": 180, 
+                "score": "4.176842212677", 
+                "cal": 275
+            }, 
+            "name": "Porcupines", 
+            "key": 74181
+        }, 
+        {
+            "values": {
+                "reviews": "351", 
+                "time": 63, 
+                "score": "4.39746856689453", 
+                "cal": 66
+            }, 
+            "name": "Quick Peanut Butter Cookies", 
+            "key": 74182
+        }, 
+        {
+            "values": {
+                "reviews": "433", 
+                "time": 190, 
+                "score": "4.64889717102051", 
+                "cal": 441
+            }, 
+            "name": "Prize Winning Baby Back Ribs", 
+            "key": 74184
+        }, 
+        {
+            "values": {
+                "reviews": "334", 
+                "time": 80, 
+                "score": "4.29111099243164", 
+                "cal": 141
+            }, 
+            "name": "Onion Rice", 
+            "key": 74185
+        }, 
+        {
+            "values": {
+                "reviews": "299", 
+                "time": 50, 
+                "score": "4.65803098678589", 
+                "cal": 256
+            }, 
+            "name": "Buffalo Chicken Wings I", 
+            "key": 74186
+        }, 
+        {
+            "values": {
+                "reviews": "470", 
+                "time": 50, 
+                "score": "4.65916967391968", 
+                "cal": 409
+            }, 
+            "name": "Breakfast Sausage", 
+            "key": 74187
+        }, 
+        {
+            "values": {
+                "reviews": "277", 
+                "time": 100, 
+                "score": "4.39195966720581", 
+                "cal": 217
+            }, 
+            "name": "Grilled Portobello Mushrooms", 
+            "key": 74188
+        }, 
+        {
+            "values": {
+                "reviews": "347", 
+                "time": 900, 
+                "score": "4.72997713088989", 
+                "cal": 588
+            }, 
+            "name": "Barbequed Ribs", 
+            "key": 74189
+        }, 
+        {
+            "values": {
+                "reviews": "238", 
+                "time": 120, 
+                "score": "4.62857151031494", 
+                "cal": 487
+            }, 
+            "name": "\"Pantry Raid\" Chicken Enchilada Casserole", 
+            "key": 74190
+        }, 
+        {
+            "values": {
+                "reviews": "243", 
+                "time": 220, 
+                "score": "4.6120400428772", 
+                "cal": 148
+            }, 
+            "name": "Grandma Jeanette's Amazing German Red Cabbage", 
+            "key": 74191
+        }, 
+        {
+            "values": {
+                "reviews": "256", 
+                "time": 870, 
+                "score": "4.0029411315918", 
+                "cal": 339
+            }, 
+            "name": "Slow Cooker Pineapple Pork Roast", 
+            "key": 74194
+        }, 
+        {
+            "values": {
+                "reviews": "270", 
+                "time": 80, 
+                "score": "4.69669675827026", 
+                "cal": 232
+            }, 
+            "name": "Grilled Sea Bass", 
+            "key": 74195
+        }, 
+        {
+            "values": {
+                "reviews": "231", 
+                "time": 40, 
+                "score": "4.44411754608154", 
+                "cal": 381
+            }, 
+            "name": "The Best Mashed Potatoes", 
+            "key": 74196
+        }, 
+        {
+            "values": {
+                "reviews": "219", 
+                "time": 132, 
+                "score": "4.64918041229248", 
+                "cal": 434
+            }, 
+            "name": "Honey Grilled Shrimp", 
+            "key": 74197
+        }, 
+        {
+            "values": {
+                "reviews": "233", 
+                "time": 210, 
+                "score": "4.57731962203979", 
+                "cal": 278
+            }, 
+            "name": "Harvest Rice Dish", 
+            "key": 74198
+        }, 
+        {
+            "values": {
+                "reviews": "255", 
+                "time": 60, 
+                "score": "4.5325779914856", 
+                "cal": 142
+            }, 
+            "name": "Vegan Bean Taco Filling", 
+            "key": 74199
+        }, 
+        {
+            "values": {
+                "reviews": "276", 
+                "time": 50, 
+                "score": "4.53462600708008", 
+                "cal": 559
+            }, 
+            "name": "Spinach and Artichoke Dip", 
+            "key": 74200
+        }
+    ], 
+    "columns": [
+        {
+            "key": "cal", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:2", 
+            "full_name": "Calories of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "time", 
+            "is_objective": true, 
+            "goal": "min", 
+            "format": "number:0", 
+            "full_name": "Total Making time", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "score", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0.0", 
+            "range": {
+                "high": 5, 
+                "low": 0
+            }, 
+            "full_name": "Mean score of food", 
+            "type": "numeric"
+        }, 
+        {
+            "key": "reviews", 
+            "is_objective": true, 
+            "goal": "max", 
+            "format": "number:0", 
+            "full_name": "Number of reivews about the food", 
+            "type": "numeric"
+        }
+    ], 
+    "subject": "foods"
+}
