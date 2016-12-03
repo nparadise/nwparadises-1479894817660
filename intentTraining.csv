@@ -1,0 +1,125 @@
+Aren't you hungry?,Cooking
+I have to eat.,Cooking
+"I'm hungry, Watson.",Cooking
+I should eat something.,Cooking
+Let's eat something.,Cooking
+@events is tomorrow. What should I make?,Events
+I need special foods for @events.,Events
+I should make some foods for @events.,Events
+Today is christmas!,Events
+Tomorrow is @events.,Events
+What food will be good for @events?,Events
+good afternoon,Greetings
+good evening,Greetings
+Good morning,Greetings
+Hello.,Greetings
+Hello Watson,Greetings
+Hi,Greetings
+Hi!,Greetings
+Nice to meet you,Greetings
+Yo bro~,Greetings
+I am diabetic,Health
+I have @health,Health
+I need some @health foods.,Health
+I want @health food.,Health
+Would you recommend me some @health foods?,Health
+except apples please,IngredientException
+except apples plz,IngredientException
+I can't eat peanuts,IngredientException
+I don't want to eat tomato,IngredientException
+I'm allergic about peanuts,IngredientException
+Please recommend me foods without lemon,IngredientException
+Any more foods?,Next_foods
+any others?,Next_foods
+do you have anything else,Next_foods
+Do you have other foods you recommend?,Next_foods
+do you have something else,Next_foods
+food you recommended me not satisfying,Next_foods
+I don't like it,Next_foods
+I like none of those.,Next_foods
+I want none of those.,Next_foods
+There's no food that I want.,Next_foods
+Can I make @food?,Recipe
+Do you have any recipe for @food?,Recipe
+Do you know @food?,Recipe
+I like @food.,Recipe
+I wanna eat @food.,Recipe
+I want to cook @food.,Recipe
+I want to eat Moroccan Tagine,Recipe
+I want to eat Spicy Cranberry Chutney,Recipe
+I want to make @food.,Recipe
+Give me some good foods for @time.,Time
+I need to eat @time.,Time
+I should eat @time.,Time
+Recommend me some foods for @time.,Time
+@time needed,Time
+asian food i want,World_cuisine
+do you know some italian foods?,World_cuisine
+i want some indian food,World_cuisine
+I want to eat asian food,World_cuisine
+you have some mexican foods?,World_cuisine
+any foods for diet,calorie
+any low calorie foods,calorie
+i'm on diet,calorie
+i need low-calorie foods,calorie
+i want low calorie foods,calorie
+i want some foods with low calories,calorie
+recommend me some foods while i'm on diet,calorie
+some low calorie foods,calorie
+do you know low carb foods?,carbohydrate
+i need low-carbohydrate diet,carbohydrate
+i should eat low carb diet,carbohydrate
+i want low carbohydrate foods,carbohydrate
+recommend me some low carbohydrate foods,carbohydrate
+any low cholesterol foods?,cholesterol
+do you know low cholesterol foods?,cholesterol
+I have hyperlipidemia,cholesterol
+I want low cholesterol foods,cholesterol
+some low cholesterol foods?,cholesterol
+any food with low fat,fat
+any low fat food,fat
+do you know some foods with low fat?,fat
+i need foods that has low fat,fat
+recommend me some foods that has diminutive fat,fat
+some foods with low fat,fat
+do you know some foods has sodium under 10 mg,less
+give me foods with carbohydrate less than 30 g,less
+i have to make in 30 minutes,less
+i need foods that can make in less than 30 minutes.,less
+I need foods under 5 g of fat,less
+I want foods below 300 calories,less
+i want foods that has cholesterol less than 1 mg,less
+recommend me foods that has under 1 gram of protein,less
+do you know some foods has sodium more than 10 mg,more
+give me foods with carbohydrate more than 30 g,more
+i need foods that can make in more than 30 minutes.,more
+I need foods under 5 g of fat,more
+I want foods over 300 calories,more
+i want foods that has cholesterol over 1 mg,more
+recommend me foods that has more than 1 gram of protein,more
+finished,negative
+i don't need more options,negative
+it is enough,negative
+negative,negative
+no,negative
+no i don't,negative
+"no, i don't need to add more",negative
+"no, it's enough",negative
+I need to add more options,positive
+i want to add more options,positive
+positive,positive
+"yeah, i want",positive
+yes i do,positive
+"Yes, I want to add more options.",positive
+any high protein foods,protein
+give me some high protein foods,protein
+i'm on weight training,protein
+i need high protein foods,protein
+i want high protein foods,protein
+do you know any foods that are not salty?,sodium
+do you know any foods that has less sodium?,sodium
+i need some foods that are not salty,sodium
+i need some foods that has low sodium,sodium
+i want low sodium foods,sodium
+i want not salty foods,sodium
+not salty ones please,sodium
