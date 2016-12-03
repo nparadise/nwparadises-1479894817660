@@ -83,7 +83,7 @@ $(document).ready(function(){
 			success: function (data) {
 				var parsedData = JSON.parse(data);
 				context = parsedData.context;			// context passed by watson
-				console.log(context.angry);
+				console.log(context);
 				output = parsedData.output.text[0];		// watson answer
 				jQuery("#loading_image").fadeOut();		// loading image disappear
 
