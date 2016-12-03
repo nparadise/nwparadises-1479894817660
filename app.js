@@ -60,15 +60,13 @@ var tone_analyzer = watson.tone_analyzer({
 
 // replace with the context obtained from the initial request
 var allFoodList = [];
-var entity2check = ['health', 'time', 'events'];
-var intent2check = ['Next_foods'];
+var intent2check = ['Next_foods', 'Events', 'Time', 'Health'];
 
 app.post("/test", function(req, res) {
     console.log(req.body);
     var input_sentence = req.body.input_sentence;
     var context = JSON.parse(req.body.cur_context);
     var prev_intent = req.body.prev_intent;
-    var prev_entity = req.body.prev_entity;
     console.log(input_sentence);
     //console.log(context);
 
@@ -78,7 +76,8 @@ app.post("/test", function(req, res) {
         if (err)
             console.log(err);
         else {
-        	if (entity2check.indexOf(prev_entity) > -1 || intent2check.indexOf(prev_intent) > -1) {
+        	var save_anger = false;
+        	if (intent2check.indexOf(prev_intent) > -1) {
 	            var emotion_obj1 = JSON.stringify(tone, null, 2);
 	            var emotion_obj2 = JSON.parse(emotion_obj1);
 	            var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
@@ -87,10 +86,10 @@ app.post("/test", function(req, res) {
 	            var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
 	            if (anger >= 0.5 || disgust >= 0.5 || agreeableness <= 0.5 || sadness >= 0.5) {
 	                console.log("I think you are very disappointed with my suggestions.");
-	                response.context.angry = true;
+	                save_anger = true;
 	                input_sentence = "Any more foods?";
 	            } else {
-	                response.context.angry = false;
+	                save_anger = false;
 	            }
         	}
 
@@ -128,6 +127,7 @@ app.post("/test", function(req, res) {
                             };
                             target[j].nutrition = nutritionObj;
                         }
+                        response.context.angry = save_anger;
                         response.context.allFoods = target;
                         //console.log(target.length);
                     }

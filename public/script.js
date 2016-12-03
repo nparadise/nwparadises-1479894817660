@@ -57,10 +57,6 @@ $(document).ready(function(){
 					console.log(context.angry);
 					context.allFoods = true;				// to notify server that we already have information about every foods
 					output = parsedData.output.text[0];		// watson answer
-					if (parsedData.entities.length > 0) {
-						entity = parsedData.entities[0].entity;
-						console.log('previous entity: ' + entity);
-					}
 					if (parsedData.intents.length > 0) {
 						intent = parsedData.intents[0].intent;
 						console.log('previous intent: ' + intent);
