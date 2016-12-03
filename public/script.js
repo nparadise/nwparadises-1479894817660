@@ -96,14 +96,14 @@ $(document).ready(function(){
 													'<div class="detail_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="380" height="290"/></div>' + 
 													'<div class="detail_right"><div class="detail_rightText"><table><tr><td>cook time: </td><td>' + nowShowing[it].cook_time + ' m</td></tr>' +
 													'<tr><td>rating: </td><td><div class="detail_star"><p class="detail_star2" style="width: ' + ratings + '%;"</p></div></td></tr></table>' +
-													'</div><table border="1" class="table_dri">' +
+													'comment: ' + nowShowing[it].comment + '</table></div><table border="1" class="table_dri">' +
 													'<th colspan="3">Nutrition</th><tr><td></td><td>Quantity</td><td>D.R.I</td></tr>' + 
-													'<tr><td>Calories</td><td>' + nowShowing[it].nutrition.calories + 'kcal</td><td>' + '1%' + '</td></tr>' + 
-													'<tr><td>Fat</td><td>' + nowShowing[it].nutrition.fat + 'g</td><td>' + '1%' + '</td></tr>' + 
-													'<tr><td>Carbs</td><td>' + nowShowing[it].nutrition.carbohydrate + 'g</td><td>' + '1%' + '</td></tr>' + 
-													'<tr><td>Protein</td><td>' + nowShowing[it].nutrition.protein + 'g</td><td>' + '1%' + '</td></tr>' + 
-													'<tr><td>Cholesterol</td><td>' + nowShowing[it].nutrition.cholesterol + 'mg</td><td>' + '1%' + '</td></tr>' + 
-													'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + '1%' + '</td></tr></table></div>' +
+													'<tr><td>Calories</td><td>' + nowShowing[it].nutrition.calories + 'kcal</td><td>' + nowShowing[it].nutrition2.calories + '</td></tr>' + 
+													'<tr><td>Fat</td><td>' + nowShowing[it].nutrition.fat + 'g</td><td>' + nowShowing[it].nutrition2.fat + '</td></tr>' + 
+													'<tr><td>Carbs</td><td>' + nowShowing[it].nutrition.carbohydrate + 'g</td><td>' + nowShowing[it].nutrition2.carbohydrate + '</td></tr>' + 
+													'<tr><td>Protein</td><td>' + nowShowing[it].nutrition.protein + 'g</td><td>' + nowShowing[it].nutrition2.protein + '</td></tr>' + 
+													'<tr><td>Cholesterol</td><td>' + nowShowing[it].nutrition.cholesterol + 'mg</td><td>' + nowShowing[it].nutrition2.cholesterol + '</td></tr>' + 
+													'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + nowShowing[it].nutrition2.sodium + '</td></tr></table></div>' +
 									    			'<div class="detail_bottom"><div class="detail_iT detail_bT">Ingredient</div>' +
 									    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
 									      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div>';
@@ -199,6 +199,13 @@ $(document).ready(function(){
 				protein = initialNut[3].split(" "),
 				cholesterol = initialNut[4].split(" "),
 				sodium = initialNut[5].split(" ");
+			var initialNut = target[j].nutrition,
+				per_calories = initialNut[0].split("kcal"),
+				per_fat = initialNut[1].split("g"),
+				per_carb = initialNut[2].split("g"),
+				per_protein = initialNut[3].split("g"),
+				per_chol = initialNut[4].split("mg"),
+				per_sodium = initialNut[5].split("mg");
 			var nutritionObj = {
 				'calories': calories[1],
 				'fat': fat[1],
@@ -207,7 +214,16 @@ $(document).ready(function(){
 				'cholesterol': cholesterol[1],
 				'sodium': sodium[1]
 			};
+			var nutri2 = {
+				'calories': per_calories[1],
+				'fat': per_fat[1],
+				'carbohydrate': per_carb[1],
+				'protein': per_protein[1],
+				'cholesterol': per_chol[1],
+				'sodium': per_sodium[1]
+			};
 			target[j].nutrition = nutritionObj;
+			target[j].nutrition2 = nutri2;
 		}
 		foods = target;
 	}
