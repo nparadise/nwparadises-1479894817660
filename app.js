@@ -78,7 +78,7 @@ app.post("/test", function(req, res) {
         if (err)
             console.log(err);
         else {
-        	if (entity2check.includes(prev_entity) || intent2check.includes(prev_intent)) {
+        	if (entity2check.indexOf(prev_entity) > -1 || intent2check.indexOf(prev_intent) > -1) {
 	            var emotion_obj1 = JSON.stringify(tone, null, 2);
 	            var emotion_obj2 = JSON.parse(emotion_obj1);
 	            var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
