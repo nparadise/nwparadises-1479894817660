@@ -115,7 +115,9 @@ app.post("/test", function(req, res){
 			      var emotion_obj2 = JSON.parse(emotion_obj1);
 			      var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
 			      var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
-			      if(anger >=0.5 || disgust >=0.5)
+			      var agreeableness = emotion_obj2.document_tone.tone_categories[2].tones[3].score;
+			      var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
+			      if(anger >=0.5 || disgust >=0.5 || agreeableness <=0.5 || sadness >=0.5)
 			      {
 			        console.log("I think you are very disappointed with my suggestions."); 
 			        response.context.angry = true;
