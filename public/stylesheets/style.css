@@ -1,12 +1,22 @@
 /* style.css
  * This file provides css styles.
  */
+@charset "utf-8";
 
+@font-face {
+	font-family: 'HoonWhitecatR';
+	src: url('font/HoonWhitecatR.eot');
+	src: url('font/HoonWhitecatR.eot?#iefix') format('embedded-opentype'),
+		url('font/HoonWhitecatR.woff') format('woff'),
+		url('font/HoonWhitecatR.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
 body,html {
 	background-color: #a1deff; width : 100%;
 	height: 100%;
 	margin: 0 auto;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;*/
 	color: #000000;
 }
 
@@ -161,6 +171,7 @@ pre {
 }
 
 .msg_ina{
+	font-size: 1.5em;
 	display: inline-block;
 	border-radius:5px;
 	padding:10px;
@@ -181,6 +192,7 @@ pre {
 
 
 .msg_b{
+	font-size: 1.5em;
 	position:relative;
 	padding:0px 10px 0px 10px;
 	min-height:15px;
@@ -255,11 +267,16 @@ pre {
 }
 
 .detail_right_text{
+	float: left;
 	padding: 10px;
 	text-align: left;
 	background: red;
 }
 
+.table_dri{
+	width: 560px;
+	height: 170px;
+}
 .detail_bottom{
 	float: left;
 	background: grey;
