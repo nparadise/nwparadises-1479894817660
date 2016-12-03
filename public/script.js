@@ -88,7 +88,7 @@ $(document).ready(function(){
 									checkAppear = true;	
 
 									$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
-									$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
+									$('<div class="msg_a"><div class="chefPic"></div><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
 
 									var ratings = nowShowing[it].rating * 20;
 									// show food information
@@ -121,7 +121,7 @@ $(document).ready(function(){
 						}
 					} else {
 						$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
-						$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+						$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 						$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 					}
 				}
