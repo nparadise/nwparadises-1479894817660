@@ -71,13 +71,47 @@ th, td {
 	left: 38%;
 	width: 500px;
 	height: 250px;
-	z-index: 10000;
+	z-index: 100;
 	display: none;
 	background: url("../images/loadingimage.gif") no-repeat;
 	background-size: 500px 250px;
 	border-radius: 50%;
 }
 
+.overlay{
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	opacity:0.5;
+	z-index: 200;
+}
+
+.examples{
+	width: 1160px;
+	margin: 0 auto;
+	padding: 20px;
+	display: none;
+	z-index: 300;
+	background: white;
+}
+
+.exText{
+	width: 970px;
+	margin: 0 auto;
+	padding: 15px;
+	border-radius: 10px;
+	z-index: 400;
+	background: #BAB09F;
+	color: white;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+
+}
 .msg_box{
 	width: 1600px;
 	margin: 0 auto;
@@ -87,14 +121,27 @@ th, td {
 }
 
 .msg_head{
+	float: left;
+	width: 1470px;
 	background:#85C8C5;
 	color:white;
 	padding:15px;
 	font-weight:bold;
 	cursor:pointer;
-	border-radius:10px 10px 0px 0px;
+	border-radius:10px 0px 0px 0px;
 }
 
+.msg_ex{
+	float: left;
+	width:70px;
+	margin: 0 auto;
+	background: #433447;
+	color: white;
+	padding: 15px;
+	font-weight:bold;
+	cursor:pointer;
+	border-radius: 0px 10px 0px 0px;
+}
 .msg_body{
 	background-image: url("../images/msg_box.png");
 	background-attachment: fixed;

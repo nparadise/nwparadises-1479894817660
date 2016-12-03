@@ -30,6 +30,20 @@ $(document).ready(function(){
 		$('.detail_d').slideToggle('slow');
 	});
 
+	$('.msg_ex').click(function(){
+		$('.overlay').show();
+		//$('.examples').show();
+	});
+
+	$('.exText').click(function(){
+		var msg = $(this).text();
+		console.log(msg);
+		$('textarea').val(msg);
+		mainRequest();
+		//$('.examples').hide();
+		$('.overlay').hide();
+	});
+
 	$('textarea').keypress(
 	function(e){
 		if (e.keyCode == 13) {
@@ -65,8 +79,9 @@ $(document).ready(function(){
 	var mainRequest = function() {
 		var msg = $('textarea').val();
 		$('textarea').val('');
-		if(msg!='')
+		if(msg!='') {
 			$('<div class="msg_b"><div class="msg_inb">'+msg+'</div></div>').insertBefore('.msg_push');
+		}
 		$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 		$.ajax({
 			url: "/test",
