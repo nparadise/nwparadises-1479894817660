@@ -68,24 +68,23 @@ $(document).ready(function(){
 						$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 					}
 
+					// if next flag is true, show next 4 foods
 					if (context.hasOwnProperty('next') && context.next === true) {
-						/*$('<div id="food_0" class="menu"></div><div id="food_1" class="menu"></div><div id="food_2" class="menu"></div><div id="food_3" class="menu"></div>').insertBefore('.msg_push');*/
 						printExamples();
 						delete context.next;
 						console.log(context);
-					} else if (context.hasOwnProperty('foodnames')) {
+					} else if (context.hasOwnProperty('foodnames')) {	// if user choose food, show that food
 						console.log(context.foodnames);
-						var lookingfor = context.foodnames;
-						var checkAppear = false;
+						var lookingfor = context.foodnames;		// food to find
+						var checkAppear = false;				// flag to check wether food is in list or not
 						for (var it in nowShowing) {
-							for (var j = 0; j < 4; j++) {
-								$("#food_" + j).html("");
-							}
-							if (nowShowing[it].name == lookingfor) {
-								checkAppear = true;
-								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '" autoplay></audio>').insertBefore('.msg_push');
-								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');
-								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="400" height="250"/>' + 
+							if (nowShowing[it].name == lookingfor) { // check food appear
+								checkAppear = true;	
+								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
+								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
+
+								// show food information
+								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="400" height="250"/></div>' + 
 												 "<div id='name_" + j + "' class=\"menu_name\"><b>" + nowShowing[it].name + "</div>";
 								if (nowShowing[it].hasOwnProperty('nutrition')) {
 									htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + nowShowing[it].nutrition.calories + " kcal</div>";
@@ -93,7 +92,7 @@ $(document).ready(function(){
 								$('#food_detail').html(htmlString);
 							}
 						}
-						if (!checkAppear) {
+						if (!checkAppear) { // if food does not appear, show message
 							$('<div class="msg_a"><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
 						}
 						delete context.foodnames;
@@ -107,22 +106,23 @@ $(document).ready(function(){
 
 	// function prints 4 examples of foods
 	var printExamples = function() {
-		var j, singleFood, inDiv = "";
-		$('#food_detail').html("");
-		if (foods.length === 0) return;
+		var j,				// iterator to iterate 4 times
+			singleFood,		// variable to store each foods to print
+			inDiv = "";		// variable to store codes for showing prints
+		if (foods.length === 0) return;		// if no foods are loaded, stop executing the function
 		for (j = 0; j < 4; iterator++, j++) {
-			if (iterator === 30) {
+			if (iterator === 30) {			// if iterator reach end of food list, stop the function
 				alert('no more foods');
 				break;
 			} // when reach last food, stop iterating and printing
 			singleFood = foods[iterator];
-			var foodIngrs = singleFood.ingredients;
-			var exit = false;
+			var foodIngrs = singleFood.ingredients;		// get list of foods ingredients
+			var exit = false;							// save the condition to exit for loop
 			for (var sentence in foodIngrs) {
 				var senLower = sentence.toLowerCase();
 				for (var exIng in exception) {
 					var ingLower = exIng.toLowerCase();
-					if (senLower.search(ingLower) > -1) {
+					if (senLower.search(ingLower) > -1) {	// if there is ingredient to avoid in the food, continue to most outer loop
 						j--;
 						exit = true;
 						break;
@@ -135,6 +135,7 @@ $(document).ready(function(){
 				continue;
 			}
 
+			// html codes to print foods
 			nowShowing.push(singleFood);
 			var htmlString = "<div class=\"menu_pic\"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/>" + 
 							 "<div id='name_" + j + "' class=\"menu_name\"><b>" + singleFood.name + "</div>";
@@ -160,11 +161,11 @@ $(document).ready(function(){
 				console.log(target);
 			}
 		});
-		console.log(window.location.href);
 		var j,			// iterator for array of objects about recipe
 			i = -1;		// iterator for food array
 		for (j in target) {
 			if (!target[j].hasOwnProperty('nutrition')) continue;
+			// fix the nutrition data
 			var initialNut = target[j].nutrition,
 				calories = initialNut[0].split(" "),
 				fat = initialNut[1].split(" "),
@@ -188,8 +189,8 @@ $(document).ready(function(){
 	// based on context, detemine data to get
 	var afterGetContext = function() {
 		iterator = 0;
-		foods = [];
-		nowShowing = [];
+		foods = [];			// reset food array
+		nowShowing = [];	// reset the list of now showing
 		if (context.hasOwnProperty('health')) {
 			console.log(context['health'] + ' is came for input.');
 			category = context.health;
@@ -210,7 +211,7 @@ $(document).ready(function(){
 			category = context["world-cuisine"];
 			getData('world-cuisine');
 		}
-		printExamples();
+		printExamples();	// after get list, print list
 	}
 	
 	function TTS(textToSynthesize) {
