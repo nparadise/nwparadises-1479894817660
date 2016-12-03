@@ -78,18 +78,18 @@ app.post("/test", function(req, res) {
 			'text': input_sentence
 		},
 		context: context
-	}, function(err, response) {
+	}, function(err, checkerResponse) {
 		if (err)
 			console.log('error:', err);
 		else {
-			console.log(response);
-			if (response.context.main === true) {
+			console.log(checkerResponse);
+			if (checkerResponse.context.main === true) {
 				conversation.message({
 					workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
 					input: {
 						'text': input_sentence
 					},
-					context: context
+					context: checkerResponse.context
 				}, function(err, response) {
 					if (err)
 						console.log('error:', err);
@@ -163,7 +163,7 @@ app.post("/test", function(req, res) {
 					input: {
 						'text': input_sentence
 					},
-					context: context
+					context: checkerResponse.context
 				}, function(err, response) {
 					if (err)
 						console.log(err);
