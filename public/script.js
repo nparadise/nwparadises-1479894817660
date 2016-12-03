@@ -8,7 +8,9 @@ $(document).ready(function(){
 		iterator = 0,		// iterator for print examples
 		allFoods = [],		// where all foods will be stored
 		exception = [],		// where ingredients to except will be stored
-		nowShowing = [];	// foods now showing
+		nowShowing = [],	// foods now showing
+		entity = "",		// save entity status
+		intent = "";		// save intent status
 
 	$('.chat_head').click(function(){
 		$('.chat_body').slideToggle('slow');
@@ -43,7 +45,9 @@ $(document).ready(function(){
 				dataType: "text",
 				data: {
 					input_sentence: msg,
-					cur_context: JSON.stringify(context)
+					cur_context: JSON.stringify(context),
+					prev_entity: entity,
+					prev_intent: intent
 				},
 				success: function (data) {
 					var parsedData = JSON.parse(data);
@@ -53,6 +57,10 @@ $(document).ready(function(){
 					console.log(context.angry);
 					context.allFoods = true;				// to notify server that we already have information about every foods
 					output = parsedData.output.text[0];		// watson answer
+					entity = parsedData.entities[0].entity;
+					intent = parsedData.intents[0].intent;
+					console.log('previous entity: ' + entity);
+					console.log('previous intent: ' + intent);
 					if (context.hasOwnProperty('except')) {
 						exception.push(context.except);		// add ingredients to except
 						delete context.except;
