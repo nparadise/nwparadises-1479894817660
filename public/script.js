@@ -59,10 +59,8 @@ $(document).ready(function(){
 			success: function (data) {
 				var parsedData = JSON.parse(data);
 				context = parsedData.context;			// context passed by watson
-				if (allFoods.length === 0) {
 					allFoods = context.allFoods;		// variable to save every foods
 					console.log(context.allFoods);
-				}
 				console.log(context.angry);
 				context.allFoods = true;				// to notify server that we already have information about every foods
 				output = parsedData.output.text[0];		// watson answer
