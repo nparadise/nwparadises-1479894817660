@@ -83,6 +83,7 @@ h3 {
 .mainbox {
 	background-color:#E5F2F7;
 	margin: 2% auto;
+	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
@@ -132,11 +133,10 @@ pre {
 }
 
 .msg_box{
-	width:600px;
+	width:80%;
+	margin: 0 auto;
 	background:white;
 	border-radius:5px 5px 0px 0px;
-	margin-left: 50px;
-	margin-bottom: 10px;
 }
 
 .msg_head{

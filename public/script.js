@@ -76,6 +76,7 @@ $(document).ready(function(){
 					}
 
 					if (context.hasOwnProperty('next') && context.next === true) {
+						$('div id="food_0" class="menu"></div><div id="food_1" class="menu"></div><div id="food_2" class="menu"></div><div id="food_3" class="menu"></div>').insertBefore('.msg_push');
 						printExamples();
 						delete context.next;
 						console.log(context);
