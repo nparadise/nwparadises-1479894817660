@@ -123,9 +123,9 @@ app.post("/test", function(req, res){
 			      	response.context.angry = false;
 			      }
 			    }
+				res.json(response);
+				console.log(JSON.stringify(response, null, 2));
 			});
-			res.json(response);
-			console.log(JSON.stringify(response, null, 2));
 		}
 	});
 });
