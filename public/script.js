@@ -9,7 +9,6 @@ $(document).ready(function(){
 		allFoods = [],		// where all foods will be stored
 		exception = [],		// where ingredients to except will be stored
 		nowShowing = [],	// foods now showing
-		entity = "",		// save entity status
 		intent = "";		// save intent status
 
 	$('.chat_head').click(function(){
@@ -46,7 +45,6 @@ $(document).ready(function(){
 				data: {
 					input_sentence: msg,
 					cur_context: JSON.stringify(context),
-					prev_entity: entity,
 					prev_intent: intent
 				},
 				success: function (data) {
