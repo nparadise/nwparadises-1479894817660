@@ -16,17 +16,6 @@ a {
 	color: #ffffff;
 }
 
-a:visited {
-	text-decoration: none;
-}
-a:hover {
-	text-decoration: none;
-}
-
-a:active: {
-	text-decoration: none;
-}
-
 .appIcon {
 	padding-top: 10%;
 	display: block;
@@ -38,53 +27,20 @@ a:active: {
 h1 {
 	font-weight: bold;
 	font-size: 4em;
-	color: #000000;
+	color: #fff;
 }
 
 h2 {
 	font-weight: bold;
 	font-size: 2em;
-	color: #000000;
+	color: #fff;
 }
 
 h3 {
 	font-size: 1.5em;
-	color: #000000;
+	color: #fff;
 }
 
-.leftHalf {
-	float: left;
-	background-color: #26343f;
-	width: 45%;
-	height: 100%;
-}
-
-.rightHalf {
-	float: right;
-	width: 55%;
-	background-color: #313f4a;
-	height: 100%;
-	overflow:auto;
-}
-
-.blue {
-	color: #00aed1;
-}
-
-.mainbox {
-	background-color:#E5F2F7;
-	margin: 2% auto;
-	padding-top: 20px;
-	padding-bottom: 20px;
-}
-
-.enterbox {
-	background-color:#e6c7f0;
-	width: 300px;
-	margin: 0 auto;
-	border-radius: 1em;
-	padding: 0.1em;
-}
 .indextable {
 	table-layout: fixed;
 	width: 800px;
@@ -92,27 +48,24 @@ h3 {
 	word-wrap: break-word;
 	padding-top:5%;
 	padding-bottom: 3%;
+	color: #000;
+}
+.enterbox {
+	background-color:#85C8C5;
+	width: 300px;
+	margin: 0 auto;
+	border-radius: 1em;
+	padding: 0.1em;
 }
 
 th {
 	border-bottom: 1px solid #000;
 }
-
 th, td {
 	text-align: center;
 	padding: 2px 2px;
 }
 
-.env-var {
-	text-align: right;
-	border-right: 1px solid #000;
-	width: 30%;
-}
-
-pre {
-	padding: 0;
-	margin: 0;
-}
 #loading_image{
 	position: absolute;
 	top: 30%;
@@ -126,20 +79,20 @@ pre {
 	border-radius: 50%;
 }
 
+.msg_box{
+	width: 1600px;
+	margin: 0 auto;
+	margin-top: 20px;
+	background:white;
+	border-radius:10px 10px 0px 0px;
+}
+
 .msg_head{
 	background:#85C8C5;
 	color:white;
 	padding:15px;
 	font-weight:bold;
 	cursor:pointer;
-	border-radius:10px 10px 0px 0px;
-}
-
-.msg_box{
-	width: 1600px;
-	margin: 0 auto;
-	margin-top: 20px;
-	background:white;
 	border-radius:10px 10px 0px 0px;
 }
 
@@ -164,12 +117,21 @@ pre {
 	font-size: 1.5em;
 }
 
+.chefPic{
+	float: left;
+	position: relative;
+	background-image: url("../images/chef_black2.png");
+	background-size: 50px 50px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
 .msg_a{
 	position:relative;
-	padding:0px 10px 0px 10px;
+	padding:0px 0px 0px 10px;
 	min-height:10px;
-	margin-bottom:5px;
-	margin-right:10%;
+	margin-bottom:15px;
+	margin-right:20%;
 	text-align: left;
 }
 
@@ -178,20 +140,23 @@ pre {
 	font-size: 1.5em;
 	display: inline-block;
 	border-radius:5px;
+	margin-left: 15px;
 	padding:10px;
 	/*min-height:10px;*/
 	background:#FDE4CE;
 }
 /*말풍선*/
 .msg_ina:before{
+	float: left;
 	content:"";
 	position:absolute;
 	width:0px;
 	height:0px;
 	border: 10px solid;
 	border-color: transparent #FDE4CE transparent transparent;
-	left:-10px;
-	top:7px;
+	left:55px;
+	top:10px;
+	z-index: 10;
 }
 
 
@@ -229,17 +194,14 @@ pre {
 	width: 250px;
 	margin: 10px;
 }
-
 .menu_pic{
 	border-radius: 5px 5px 0px 0px;
 }
-
 .menu_name{
 	padding: 10px;
 	min-height: 50px;
 	background:#faffbc;
 }
-
 .menu_content{
 	padding: 10px;
 	background:#ffb0c5;
@@ -252,16 +214,16 @@ pre {
 	margin: 10px;
 	border-radius: 15px;
 }
-
 .detail_name{
 	width: 1050px;
 	float: left;
-	padding: 25px;
+	padding: 10px;
+	padding-left: 25px;
 	cursor:pointer;
 	background: #A9D8C8;
 	color: white;
 	font-weight: bold;
-	font-size: 2em;
+	font-size: 2.5em;
 	border-radius: 15px 15px 0px 0px;
 }
 .detail_pic{
@@ -296,13 +258,13 @@ pre {
 	width: 90px;
 	height: 18px;
 }
-
 .detail_star2{
 	background: url(../images/icon_star.gif) 0px 0px;
 	padding: 0px 0px 0px 0px;
 	margin: 0px;
 	height: 18px;
 }
+
 .table_dri {
 	text-align: center;
 	/*margin: auto;*/
