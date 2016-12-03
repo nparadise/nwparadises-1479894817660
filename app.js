@@ -105,7 +105,7 @@ app.post("/test", function(req, res){
 			}
 
 			tone_analyzer.tone({ 
-				text: input.intents,
+				text: input
 			}, function(err, tone) {
 			    if (err)
 			      console.log(err);
