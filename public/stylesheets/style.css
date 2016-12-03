@@ -166,7 +166,7 @@ pre {
 	padding:0px 10px 0px 10px;
 	min-height:10px;
 	margin-bottom:5px;
-	margin-right:150px;
+	margin-right:20%;
 	text-align: left;
 }
 
@@ -197,7 +197,7 @@ pre {
 	padding:0px 10px 0px 10px;
 	min-height:15px;
 	margin-bottom:5px;
-	margin-left:150px;
+	margin-left:20%;
 	word-wrap: break-word;
 	text-align: right;
 }

@@ -142,9 +142,8 @@ $(document).ready(function(){
 			if (singleFood.hasOwnProperty('nutrition')) {
 				htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + singleFood.nutrition.calories + " kcal</div>";
 			}
-
 			// print food list
-			$('<div class="menu">' + htmlString + '</div>').insertBefore('msg_push');
+			$('<div class="msg_a"><div class="msg_ina"><div class="menu">' + htmlString + '</div></div></div>').insertBefore('msg_push');
 			/*$("#food_" + j).html(htmlString);*/
 		}
 	}
