@@ -65,6 +65,46 @@ var intent2check = ['Next_foods', 'Events', 'Time', 'Health'];
 var prev_intent = '';
 var current_intent = '';
 
+// read json files containing foods
+var fs = require('fs');
+var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/100/foods.json", 'utf8')).foods;
+for (var j in target) {
+	if (!target[j].hasOwnProperty('nutrition')) continue;
+	// fix the nutrition information
+	var initialNut = target[j].nutrition,
+		calories = initialNut[0].split(" "),
+		fat = initialNut[1].split(" "),
+		carbohydrate = initialNut[2].split(" "),
+		protein = initialNut[3].split(" "),
+		cholesterol = initialNut[4].split(" "),
+		sodium = initialNut[5].split(" ");
+	var nutritionObj = {
+		'calories': calories[1],
+		'fat': fat[1],
+		'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
+		'protein': protein[1],
+		'cholesterol': cholesterol[1],
+		'sodium': sodium[1]
+	};
+	target[j].nutrition = nutritionObj;
+}
+
+app.post("/start", function(req, res) {
+	console.log(req.body);
+	console.log('start');
+	conversation.message({
+		workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75'
+	}, function(err, response) {
+		if (err)
+			console.log('error:', err);
+		else {
+			console.log(response);
+			response.context.allFoods = target;
+			res.json(response);
+		}
+	});
+});
+
 app.post("/test", function(req, res) {
 	console.log(req.body);
 	var input_sentence = req.body.input_sentence;
@@ -95,35 +135,8 @@ app.post("/test", function(req, res) {
 						console.log('error:', err);
 					else {
 						console.log(response);
-						if (!context.hasOwnProperty('allFoods')) {
-							// read json files containing foods
-							var fs = require('fs');
-							var target = JSON.parse(fs.readFileSync(directory + "/public/jsondata/100/foods.json", 'utf8')).foods;
-							for (var j in target) {
-								if (!target[j].hasOwnProperty('nutrition')) continue;
-								// fix the nutrition information
-								var initialNut = target[j].nutrition,
-									calories = initialNut[0].split(" "),
-									fat = initialNut[1].split(" "),
-									carbohydrate = initialNut[2].split(" "),
-									protein = initialNut[3].split(" "),
-									cholesterol = initialNut[4].split(" "),
-									sodium = initialNut[5].split(" ");
-								var nutritionObj = {
-									'calories': calories[1],
-									'fat': fat[1],
-									'carbohydrate': carbohydrate[1].substring(0, carbohydrate[1].length - 1),
-									'protein': protein[1],
-									'cholesterol': cholesterol[1],
-									'sodium': sodium[1]
-								};
-								target[j].nutrition = nutritionObj;
-							}
-							response.context.allFoods = target;
-							if (response.intents.length > 0)
-								current_intent = response.intents[0].intent;
-							//console.log(target.length);
-						}
+						if (response.intents.length > 0)
+							current_intent = response.intents[0].intent;
 
 						tone_analyzer.tone({
 							text: input_sentence
@@ -175,14 +188,9 @@ app.post("/test", function(req, res) {
 			}
 		}
 	});
-
-	
-
-	
 });
 
 var TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
-var fs = require('fs');
 
 var text_to_speech = new TextToSpeechV1({
 	username: '6f517a2d-1082-4ced-9567-1c5de272f49b',

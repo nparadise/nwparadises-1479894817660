@@ -38,11 +38,35 @@ $(document).ready(function(){
 		}
 	});
 
+	var startRequest = function() {
+		$.ajax({
+			url: "/start",
+			type: "post",
+			contentType: "application/x-www-form-urlencoded",
+			dataType: "text",
+			beforeSend: function(data) {
+				jQuery("#loading_image").fadeIn();
+			},
+			success: function(data) {
+				var parsedData = JSON.parse(data);
+				context = parsedData.context;
+				output = parsedData.output.text[0];		// watson answer
+				allFoods = context.allFoods;
+				delete context.allFoods;
+				console.log(context.allFoods);
+				jQuery("#loading_image").fadeOut();	
+				$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
+				$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+				$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
+			}
+		});
+	}
+
 	var mainRequest = function() {
 		var msg = $('textarea').val();
 		$('textarea').val('');
 		if(msg!='')
-		$('<div class="msg_b"><div class="msg_inb">'+msg+'</div></div>').insertBefore('.msg_push');
+			$('<div class="msg_b"><div class="msg_inb">'+msg+'</div></div>').insertBefore('.msg_push');
 		$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 		$.ajax({
 			url: "/test",
@@ -59,12 +83,7 @@ $(document).ready(function(){
 			success: function (data) {
 				var parsedData = JSON.parse(data);
 				context = parsedData.context;			// context passed by watson
-				if (allFoods.length === 0) {
-					allFoods = context.allFoods;		// variable to save every foods
-					console.log(context.allFoods);
-				}
 				console.log(context.angry);
-				context.allFoods = true;				// to notify server that we already have information about every foods
 				output = parsedData.output.text[0];		// watson answer
 				jQuery("#loading_image").fadeOut();		// loading image disappear
 
@@ -263,5 +282,5 @@ $(document).ready(function(){
 		printExamples();	// after get list, print list
 	}
 	
-	mainRequest();
+	startRequest();
 });
