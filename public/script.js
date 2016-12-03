@@ -10,23 +10,22 @@ $(document).ready(function(){
 		exception = [],		// where ingredients to except will be stored
 		nowShowing = [];	// foods now showing
 
-	$('.chat_head').click(function(){
-		$('.chat_body').slideToggle('slow');
-	});
 	$('.msg_head').click(function(){
 		$('.msg_wrap').slideToggle('slow');
 	});
-	
-	$('.close').click(function(){
-		$('.msg_box').hide();
-	});
-	
-	$('.user').click(function(){
 
-		$('.msg_wrap').show();
-		$('.msg_box').show();
+	$('.detail_name').click(function(){
+		$('.detail_wrap').slideToggle('slow');
 	});
 	
+	$('.detail_iT').click(function(){
+		$('.detail_i').slideToggle('slow');
+	});
+
+	$('.detail_dT').click(function(){
+		$('.detail_d').slideToggle('slow');
+	});
+
 	$('textarea').keypress(
 	function(e){
 		if (e.keyCode == 13) {
@@ -45,6 +44,9 @@ $(document).ready(function(){
 					input_sentence: msg,
 					cur_context: JSON.stringify(context),
 				},
+				beforeSend: function(data) {
+					jQuery("#loading_image").fadeIn();		//show loading image
+				},
 				success: function (data) {
 					var parsedData = JSON.parse(data);
 					context = parsedData.context;			// context passed by watson
@@ -53,7 +55,7 @@ $(document).ready(function(){
 					console.log(context.angry);
 					context.allFoods = true;				// to notify server that we already have information about every foods
 					output = parsedData.output.text[0];		// watson answer
-
+					jQuery("#loading_image").fadeOut();		// loading image disappear
 					// if (parsedData.intents.length > 0) {
 					// 	intent = parsedData.intents[0].intent;
 					// 	console.log('previous intent: ' + intent);
@@ -63,9 +65,9 @@ $(document).ready(function(){
 						delete context.except;
 					}
 					if (!context.hasOwnProperty('foodnames')) {
-						$('<audio src="/api/synthesize?text=' + output + '" autoplay></audio>').insertBefore('.msg_push');
-						//TTS(output);
+						$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
 						$('<div class="msg_a"><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
+						$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 					}
 
 					// if next flag is true, show next 4 foods
@@ -78,22 +80,43 @@ $(document).ready(function(){
 						var lookingfor = context.foodnames;		// food to find
 						var checkAppear = false;				// flag to check wether food is in list or not
 						for (var it in nowShowing) {
+
+							for (var j = 0; j < 4; j++) {
+								$("#food_" + j).html("");
+							}
 							if (nowShowing[it].name == lookingfor) { // check food appear
 								checkAppear = true;	
-								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
+
+								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
 								$('<div class="msg_a"><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
 
+								//
+								//nowshowing.ingredients 3개 제거 필요;;
+								//
+								var ratings = 	nowShowing[it].rating * 20;
 								// show food information
-								var htmlString = '<div class="menu_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="400" height="250"/></div>' + 
-												 "<div id='name_" + j + "' class=\"menu_name\"><b>" + nowShowing[it].name + "</div>";
-								if (nowShowing[it].hasOwnProperty('nutrition')) {
-									htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + nowShowing[it].nutrition.calories + " kcal</div>";
-								}
-								$('#food_detail').html(htmlString);
+								var htmlString= '<div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
+												'<div class="detail_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="380" height="290"/></div>' + 
+												'<div class="detail_right"><div class="detail_rightText"><table><tr><td>cook time: </td><td>' + nowShowing[it].cook_time + ' m</td></tr>' +
+												'<tr><td>rating: </td><td><div class="detail_star"><p class="detail_star2" style="width: ' + ratings + '%;"</p></div></td></tr></table>' +
+												'</div><table border="1" class="table_dri">' +
+												'<th colspan="3">Nutrition</th><tr><td></td><td>Quantity</td><td>D.R.I</td></tr>' + 
+												'<tr><td>Calories</td><td>' + nowShowing[it].nutrition.calories + 'kcal</td><td>' + '1%' + '</td></tr>' + 
+												'<tr><td>Fat</td><td>' + nowShowing[it].nutrition.fat + 'g</td><td>' + '1%' + '</td></tr>' + 
+												'<tr><td>Carbs</td><td>' + nowShowing[it].nutrition.carbohydrate + 'g</td><td>' + '1%' + '</td></tr>' + 
+												'<tr><td>Protein</td><td>' + nowShowing[it].nutrition.protein + 'g</td><td>' + '1%' + '</td></tr>' + 
+												'<tr><td>Cholesterol</td><td>' + nowShowing[it].nutrition.cholesterol + 'mg</td><td>' + '1%' + '</td></tr>' + 
+												'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + '1%' + '</td></tr></table></div>' +
+								    			'<div class="detail_bottom"><div class="detail_iT detail_bT">Ingredient</div>' +
+								    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
+								      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div>';
+								$(htmlString).insertBefore('.msg_push');
+								$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 							}
 						}
 						if (!checkAppear) { // if food does not appear, show message
 							$('<div class="msg_a"><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
+							$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 						}
 						delete context.foodnames;
 					} else {
@@ -106,8 +129,8 @@ $(document).ready(function(){
 
 	// function prints 4 examples of foods
 	var printExamples = function() {
-		var j,				// iterator to iterate 4 times
-			singleFood,		// variable to store each foods to print
+		var j, 				// iterator to iterate 4 times
+			singleFood, 		// variable to store each foods to print
 			inDiv = "";		// variable to store codes for showing prints
 		if (foods.length === 0) return;		// if no foods are loaded, stop executing the function
 		for (j = 0; j < 4; iterator++, j++) {
@@ -137,15 +160,16 @@ $(document).ready(function(){
 
 			// html codes to print foods
 			nowShowing.push(singleFood);
-			var htmlString = "<div class=\"menu_pic\"><img src='" + singleFood.image + "' alt='" + singleFood.name + "' width='250' height='200'/>" + 
-							 "<div id='name_" + j + "' class=\"menu_name\"><b>" + singleFood.name + "</div>";
+			var htmlString = '<div class="menu_pic"><img src="' + singleFood.image + '" alt="' + singleFood.name + '" width="250" height="200"/></div>' + 
+							 '<div id="name_' + j + '" class="menu_name"><b>' + singleFood.name + '</div>';
 			if (singleFood.hasOwnProperty('nutrition')) {
-				htmlString += "<div id='calories_" + j + "' class=\"menu_content\">" + singleFood.nutrition.calories + " kcal</div>";
+				htmlString += '<div id="calories_' + j + '" class="menu_content">' + singleFood.nutrition.calories + ' kcal</div>';
 			}
 			// print food list
 			inDiv += '<div class="menu">' + htmlString + '</div>';
 		}
 		$('<div class="msg_a"><div class="msg_ina">' + inDiv + '</div></div>').insertBefore('.msg_push');
+		$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 	}
 
 	// get data based on entities and category
@@ -212,43 +236,6 @@ $(document).ready(function(){
 			getData('world-cuisine');
 		}
 		printExamples();	// after get list, print list
-	}
-	
-	function TTS(textToSynthesize) {
-		console.log('text to synthesize: ---> ' + textToSynthesize);
-		var voice = 'en-US_AllisonVoice';
-		synthesizeRequest(textToSynthesize, voice);
-	}
-
-	var ttsAudio = $('.audio-tts').get(0);
-
-	window.ttsChunks = new Array();
-	window.ttsChunksIndex = 0;
-	window.inputSpeechOn = false;
-
-	var timerStarted = false;
-	var timerID;
-
-	var playTTSChunk = function() {
-		if(ttsChunksIndex >= ttsChunks.length)
-			return;
-			
-		var downloadURL = ttsChunks[ttsChunksIndex];
-		ttsChunksIndex = ttsChunksIndex + 1;
-		
-		ttsAudio.src = downloadURL;
-		ttsAudio.load();
-		ttsAudio.play();
-	}
-
-	function synthesizeRequest(text, v) {
-		var downloadURL = '/synthesize' +
-		  '?voice=' + v +
-		  '&text=' + encodeURIComponent(text) +
-		  '&X-WDC-PL-OPT-OUT=0';
- 
- 		ttsChunks.push(downloadURL);
-		playTTSChunk();
 	}
 
 });
