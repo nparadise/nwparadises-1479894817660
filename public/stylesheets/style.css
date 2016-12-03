@@ -106,7 +106,8 @@ th, td {
 }
 
 .msg_input{
-	width:100%;
+	float: left;
+	width:90%;
 	border: 1px solid white;
 	border-top:1px solid #DDDDDD;
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
@@ -114,6 +115,19 @@ th, td {
 	box-sizing: border-box;  
 	resize: none;
 	font-size: 1.5em;
+}
+
+.msg_click {
+	text-align: center;
+	float: left;
+	width: 10%;
+	height: 63px;
+	padding-top: 12px;
+	background-color:#85C8C5;
+	font-weight: bold;
+	font-size: 2em;
+	color: #fff;
+	cursor:pointer;
 }
 
 .chefPic{
