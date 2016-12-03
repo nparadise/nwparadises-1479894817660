@@ -205,6 +205,10 @@ $(document).ready(function(){
 			category = context.time;
 			getData('timeslot');
 			delete context.time;
+		} else if (context.hasOwnProperty('world-cuisine')) {
+			console.log(context.time + ' is came for input.');
+			category = context["world-cuisine"];
+			getData('world-cuisine');
 		}
 		printExamples();
 	}
