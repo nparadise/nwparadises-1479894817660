@@ -62,7 +62,6 @@ th {
 	border-bottom: 1px solid #000;
 }
 th, td {
-	text-align: center;
 	padding: 2px 2px;
 }
 
@@ -210,15 +209,14 @@ th, td {
 .detail{
 	background: #B9B09F;
 	float: left;
-	width: 1100px;
+	width: 1150px;
 	margin: 10px;
 	border-radius: 15px;
 }
 .detail_name{
-	width: 1050px;
+	width: 1100px;
 	float: left;
-	padding: 10px;
-	padding-left: 25px;
+	padding: 10px 25px 10px 25px;
 	cursor:pointer;
 	background: #A9D8C8;
 	color: white;
@@ -236,17 +234,16 @@ th, td {
 }
 .detail_right{
 	float: left;
-	width: 630px;
+	width: 730px;
 	height: 280px;
 	padding: 10px;
-	padding-left: 60px;
 	font-size: 1.5em;
 	font-weight: bold;
 }
 .detail_rightText{
 	float: left;
-	width: 250px;
-	padding: 10px;
+	width: 460px;
+	padding: 0px 10px 0px 10px;
 }
 
 .detail_star{
@@ -270,6 +267,7 @@ th, td {
 	/*margin: auto;*/
 	border: solid black 3px;
 	border-collapse: collapse;
+	margin-top: 10px;
 	padding: 5px 0px 5px 5px;
 }
 
@@ -293,7 +291,7 @@ th, td {
 }
 .detail_bottom{
 	float: left;
-	width: 1080px;
+	width: 1130px;
 	padding: 10px;
 	border-radius: 0px 0px 5px 5px;
 	word-wrap: break-word;
