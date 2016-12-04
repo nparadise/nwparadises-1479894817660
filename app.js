@@ -52,6 +52,12 @@ var text_to_speech = watson.text_to_speech({
     version: 'v1'
 });
 
+app.get('/api/synthesize', function(req, res, next) {
+    var transcript = text_to_speech.synthesize(req.query);
+    transcript.on('error', next);
+    transcript.pipe(res);
+});
+
 var tone_analyzer = watson.tone_analyzer({
     username: '5d6812dc-d371-492f-a265-1d9f1f5bcc45',
     password: 'LQpaYHcJyqXM',
@@ -158,26 +164,4 @@ app.post("/test", function(req, res) {
             });
         }
     });
-});
-
-var TextToSpeechV1 = require('watson-developer-cloud/text-to-speech/v1');
-
-var text_to_speech = new TextToSpeechV1({
-    username: '6f517a2d-1082-4ced-9567-1c5de272f49b',
-    password: 'ztMYjoTIJkgO'
-});
-
-var params = {
-    text: 'Hello from IBM Watson',
-    voice: 'en-US_AllisonVoice', // Optional voice
-    accept: 'audio/wav'
-};
-
-// Pipe the synthesized text to a file
-text_to_speech.synthesize(params).pipe(fs.createWriteStream('output.wav'));
-
-app.get('/api/synthesize', function(req, res, next) {
-    var transcript = text_to_speech.synthesize(req.query);
-    transcript.on('error', next);
-    transcript.pipe(res);
 });
