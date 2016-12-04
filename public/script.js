@@ -280,7 +280,7 @@ $(document).ready(function(){
 			getData('timeslot');
 			delete context.time;
 		} else if (context.hasOwnProperty('world-cuisine')) {
-			console.log(context.time + ' is came for input.');
+			console.log(context['world-cuisine'] + ' is came for input.');
 			category = context["world-cuisine"];
 			getData('world-cuisine');
 		}
