@@ -2,870 +2,1305 @@
     "options": [
         {
             "values": {
+                "rating": "4.82056427001953", 
+                "sodium": 650, 
+                "cal": 230, 
+                "chol": 65, 
+                "fat": 8.2, 
                 "reviews": "8834", 
                 "time": 45, 
-                "score": "4.82056427001953", 
-                "cal": 230
+                "carb": 32.7, 
+                "protein": 6.4
             }, 
             "name": "Fluffy Pancakes", 
             "key": 15601
         }, 
         {
             "values": {
+                "rating": "4.59482765197754", 
+                "sodium": 595, 
+                "cal": 397, 
+                "chol": 71, 
+                "fat": 18.9, 
                 "reviews": "758", 
                 "time": 50, 
-                "score": "4.59482765197754", 
-                "cal": 397
+                "carb": 50.6, 
+                "protein": 6.8
             }, 
             "name": "Scones", 
             "key": 15602
         }, 
         {
             "values": {
+                "rating": "4.7688045501709", 
+                "sodium": 200, 
+                "cal": 263, 
+                "chol": 35, 
+                "fat": 10.4, 
                 "reviews": "3883", 
                 "time": 140, 
-                "score": "4.7688045501709", 
-                "cal": 263
+                "carb": 40.1, 
+                "protein": 3.7
             }, 
             "name": "Banana Sour Cream Bread", 
             "key": 15603
         }, 
         {
             "values": {
+                "rating": "4.61522626876831", 
+                "sodium": 165, 
+                "cal": 195, 
+                "chol": 16, 
+                "fat": 9.7, 
                 "reviews": "379", 
                 "time": 120, 
-                "score": "4.61522626876831", 
-                "cal": 195
+                "carb": 25.2, 
+                "protein": 2.3
             }, 
             "name": "Lemon Zucchini Bread", 
             "key": 15604
         }, 
         {
             "values": {
+                "rating": "4.48990058898926", 
+                "sodium": 390, 
+                "cal": 382, 
+                "chol": 68, 
+                "fat": 21.6, 
                 "reviews": "2594", 
                 "time": 40, 
-                "score": "4.48990058898926", 
-                "cal": 382
+                "carb": 38.0, 
+                "protein": 8.7
             }, 
             "name": "Waffles I", 
             "key": 15605
         }, 
         {
             "values": {
+                "rating": "4.6526665687561", 
+                "sodium": 195, 
+                "cal": 174, 
+                "chol": 0, 
+                "fat": 5.2, 
                 "reviews": "2480", 
                 "time": 230, 
-                "score": "4.6526665687561", 
-                "cal": 174
+                "carb": 27.1, 
+                "protein": 4.3
             }, 
             "name": "Best Bread Machine Bread", 
             "key": 15606
         }, 
         {
             "values": {
+                "rating": "4.69976377487183", 
+                "sodium": 407, 
+                "cal": 334, 
+                "chol": 51, 
+                "fat": 16.6, 
                 "reviews": "341", 
                 "time": 190, 
-                "score": "4.69976377487183", 
-                "cal": 334
+                "carb": 43.8, 
+                "protein": 5.3
             }, 
             "name": "Chef John's Banana Bread", 
             "key": 15607
         }, 
         {
             "values": {
+                "rating": "4.64401149749756", 
+                "sodium": 322, 
+                "cal": 383, 
+                "chol": 39, 
+                "fat": 16.1, 
                 "reviews": "8441", 
                 "time": 80, 
-                "score": "4.64401149749756", 
-                "cal": 383
+                "carb": 56.9, 
+                "protein": 4.3
             }, 
             "name": "To Die For Blueberry Muffins", 
             "key": 15608
         }, 
         {
             "values": {
+                "rating": "4.81713008880615", 
+                "sodium": 388, 
+                "cal": 525, 
+                "chol": 64, 
+                "fat": 18.6, 
                 "reviews": "5512", 
                 "time": 215, 
-                "score": "4.81713008880615", 
-                "cal": 525
+                "carb": 82.0, 
+                "protein": 9.0
             }, 
             "name": "Clone of a Cinnabon", 
             "key": 15609
         }, 
         {
             "values": {
+                "rating": "4.57167863845825", 
+                "sodium": 223, 
+                "cal": 229, 
+                "chol": 51, 
+                "fat": 8.8, 
                 "reviews": "9277", 
                 "time": 160, 
-                "score": "4.57167863845825", 
-                "cal": 229
+                "carb": 34.8, 
+                "protein": 3.8
             }, 
             "name": "Banana Banana Bread", 
             "key": 15610
         }, 
         {
             "values": {
+                "rating": "4.79190731048584", 
+                "sodium": 192, 
+                "cal": 302, 
+                "chol": 24, 
+                "fat": 13.8, 
                 "reviews": "124", 
                 "time": 155, 
-                "score": "4.79190731048584", 
-                "cal": 302
+                "carb": 42.0, 
+                "protein": 3.1
             }, 
             "name": "Poppy Seed Bread with Glaze", 
             "key": 15611
         }, 
         {
             "values": {
+                "rating": "4.71926546096802", 
+                "sodium": 354, 
+                "cal": 189, 
+                "chol": 17, 
+                "fat": 7.4, 
                 "reviews": "2126", 
                 "time": 70, 
-                "score": "4.71926546096802", 
-                "cal": 189
+                "carb": 28.2, 
+                "protein": 3.1
             }, 
             "name": "Golden Sweet Cornbread", 
             "key": 15612
         }, 
         {
             "values": {
+                "rating": "4.63101720809937", 
+                "sodium": 649, 
+                "cal": 282, 
+                "chol": 3, 
+                "fat": 12.6, 
                 "reviews": "3098", 
                 "time": 90, 
-                "score": "4.63101720809937", 
-                "cal": 282
+                "carb": 36.4, 
+                "protein": 5.6
             }, 
             "name": "J.P.'s Big Daddy Biscuits", 
             "key": 15613
         }, 
         {
             "values": {
+                "rating": "4.80169105529785", 
+                "sodium": 352, 
+                "cal": 263, 
+                "chol": 38, 
+                "fat": 8.1, 
                 "reviews": "9378", 
                 "time": 70, 
-                "score": "4.80169105529785", 
-                "cal": 263
+                "carb": 46.0, 
+                "protein": 3.2
             }, 
             "name": "Banana Crumb Muffins", 
             "key": 15614
         }, 
         {
             "values": {
+                "rating": "4.46096658706665", 
+                "sodium": 594, 
+                "cal": 439, 
+                "chol": 0, 
+                "fat": 4.6, 
                 "reviews": "442", 
                 "time": 195, 
-                "score": "4.46096658706665", 
-                "cal": 439
+                "carb": 85.0, 
+                "protein": 12.5
             }, 
             "name": "Italian Bread Bowls", 
             "key": 15615
         }, 
         {
             "values": {
+                "rating": "4.79457235336304", 
+                "sodium": 202, 
+                "cal": 192, 
+                "chol": 30, 
+                "fat": 7.5, 
                 "reviews": "2296", 
                 "time": 180, 
-                "score": "4.79457235336304", 
-                "cal": 192
+                "carb": 27.1, 
+                "protein": 3.9
             }, 
             "name": "Sweet Dinner Rolls", 
             "key": 15616
         }, 
         {
             "values": {
+                "rating": "4.60727453231812", 
+                "sodium": 504, 
+                "cal": 158, 
+                "chol": 38, 
+                "fat": 5.9, 
                 "reviews": "8570", 
                 "time": 40, 
-                "score": "4.60727453231812", 
-                "cal": 158
+                "carb": 21.7, 
+                "protein": 4.5
             }, 
             "name": "Good Old Fashioned Pancakes", 
             "key": 15617
         }, 
         {
             "values": {
+                "rating": "4.80566787719727", 
+                "sodium": 235, 
+                "cal": 154, 
+                "chol": 0, 
+                "fat": 0.4, 
                 "reviews": "203", 
                 "time": 280, 
-                "score": "4.80566787719727", 
-                "cal": 154
+                "carb": 30.9, 
+                "protein": 4.3
             }, 
             "name": "No Knead Beer Bread", 
             "key": 15619
         }, 
         {
             "values": {
+                "rating": "4.7954683303833", 
+                "sodium": 147, 
+                "cal": 168, 
+                "chol": 0, 
+                "fat": 2.9, 
                 "reviews": "4000", 
                 "time": 210, 
-                "score": "4.7954683303833", 
-                "cal": 168
+                "carb": 30.7, 
+                "protein": 4.4
             }, 
             "name": "Amish White Bread", 
             "key": 15620
         }, 
         {
             "values": {
+                "rating": "4.78235292434692", 
+                "sodium": 275, 
+                "cal": 187, 
+                "chol": 29, 
+                "fat": 5.8, 
                 "reviews": "2649", 
                 "time": 70, 
-                "score": "4.78235292434692", 
-                "cal": 187
+                "carb": 32.3, 
+                "protein": 2.6
             }, 
             "name": "Banana Muffins II", 
             "key": 15621
         }, 
         {
             "values": {
+                "rating": "4.70778179168701", 
+                "sodium": 515, 
+                "cal": 219, 
+                "chol": 63, 
+                "fat": 7.4, 
                 "reviews": "2445", 
                 "time": 50, 
-                "score": "4.70778179168701", 
-                "cal": 219
+                "carb": 30.7, 
+                "protein": 7.2
             }, 
             "name": "Buttermilk Pancakes II", 
             "key": 15622
         }, 
         {
             "values": {
+                "rating": "4.75678682327271", 
+                "sodium": 180, 
+                "cal": 255, 
+                "chol": 23, 
+                "fat": 13.1, 
                 "reviews": "6194", 
                 "time": 180, 
-                "score": "4.75678682327271", 
-                "cal": 255
+                "carb": 32.1, 
+                "protein": 3.3
             }, 
             "name": "Mom's Zucchini Bread", 
             "key": 15623
         }, 
         {
             "values": {
+                "rating": "4.81423759460449", 
+                "sodium": 219, 
+                "cal": 218, 
+                "chol": 44, 
+                "fat": 11.1, 
                 "reviews": "4110", 
                 "time": 140, 
-                "score": "4.81423759460449", 
-                "cal": 218
+                "carb": 27.4, 
+                "protein": 3.2
             }, 
             "name": "Janet's Rich Banana Bread", 
             "key": 15624
         }, 
         {
             "values": {
+                "rating": "4.64256191253662", 
+                "sodium": 235, 
+                "cal": 216, 
+                "chol": 111, 
+                "fat": 9.2, 
                 "reviews": "2125", 
                 "time": 60, 
-                "score": "4.64256191253662", 
-                "cal": 216
+                "carb": 25.5, 
+                "protein": 7.4
             }, 
             "name": "Basic Crepes", 
             "key": 15625
         }, 
         {
             "values": {
+                "rating": "4.67241382598877", 
+                "sodium": 156, 
+                "cal": 183, 
+                "chol": 16, 
+                "fat": 7.9, 
                 "reviews": "47", 
                 "time": 190, 
-                "score": "4.67241382598877", 
-                "cal": 183
+                "carb": 24.6, 
+                "protein": 3.6
             }, 
             "name": "Decadent Challah Bread", 
             "key": 15626
         }, 
         {
             "values": {
+                "rating": "4.80903768539429", 
+                "sodium": 305, 
+                "cal": 263, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "6616", 
                 "time": 130, 
-                "score": "4.80903768539429", 
-                "cal": 263
+                "carb": 40.6, 
+                "protein": 3.1
             }, 
             "name": "Downeast Maine Pumpkin Bread", 
             "key": 15627
         }, 
         {
             "values": {
+                "rating": "4.66169738769531", 
+                "sodium": 297, 
+                "cal": 148, 
+                "chol": 1, 
+                "fat": 2.2, 
                 "reviews": "705", 
                 "time": 370, 
-                "score": "4.66169738769531", 
-                "cal": 148
+                "carb": 30.0, 
+                "protein": 4.6
             }, 
             "name": "Whole Wheat Honey Bread", 
             "key": 15628
         }, 
         {
             "values": {
+                "rating": "4.81049060821533", 
+                "sodium": 318, 
+                "cal": 284, 
+                "chol": 59, 
+                "fat": 12.2, 
                 "reviews": "4522", 
                 "time": 110, 
-                "score": "4.81049060821533", 
-                "cal": 284
+                "carb": 39.1, 
+                "protein": 4.8
             }, 
             "name": "Grandmother's Buttermilk Cornbread", 
             "key": 15629
         }, 
         {
             "values": {
+                "rating": "4.73244667053223", 
+                "sodium": 746, 
+                "cal": 418, 
+                "chol": 1, 
+                "fat": 17.7, 
                 "reviews": "1407", 
                 "time": 110, 
-                "score": "4.73244667053223", 
-                "cal": 418
+                "carb": 61.5, 
+                "protein": 5.3
             }, 
             "name": "Monkey Bread I", 
             "key": 15630
         }, 
         {
             "values": {
+                "rating": "4.76376008987427", 
+                "sodium": 292, 
+                "cal": 137, 
+                "chol": 0, 
+                "fat": 3.9, 
                 "reviews": "1207", 
                 "time": 230, 
-                "score": "4.76376008987427", 
-                "cal": 137
+                "carb": 21.6, 
+                "protein": 3.6
             }, 
             "name": "Jo's Rosemary Bread", 
             "key": 15632
         }, 
         {
             "values": {
+                "rating": "4.69565200805664", 
+                "sodium": 268, 
+                "cal": 232, 
+                "chol": 51, 
+                "fat": 11.9, 
                 "reviews": "1691", 
                 "time": 180, 
-                "score": "4.69565200805664", 
-                "cal": 232
+                "carb": 29.7, 
+                "protein": 3.2
             }, 
             "name": "Extreme Banana Nut Bread 'EBNB'", 
             "key": 15633
         }, 
         {
             "values": {
+                "rating": "4.53137016296387", 
+                "sodium": 899, 
+                "cal": 379, 
+                "chol": 113, 
+                "fat": 16.2, 
                 "reviews": "1775", 
                 "time": 50, 
-                "score": "4.53137016296387", 
-                "cal": 379
+                "carb": 47.6, 
+                "protein": 10.2
             }, 
             "name": "Classic Waffles", 
             "key": 15634
         }, 
         {
             "values": {
+                "rating": "4.78514575958252", 
+                "sodium": 231, 
+                "cal": 247, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "1522", 
                 "time": 150, 
-                "score": "4.78514575958252", 
-                "cal": 247
+                "carb": 36.8, 
+                "protein": 3.0
             }, 
             "name": "Pumpkin Bread IV", 
             "key": 15635
         }, 
         {
             "values": {
+                "rating": "4.57360792160034", 
+                "sodium": 608, 
+                "cal": 278, 
+                "chol": 36, 
+                "fat": 7.2, 
                 "reviews": "2026", 
                 "time": 80, 
-                "score": "4.57360792160034", 
-                "cal": 278
+                "carb": 45.8, 
+                "protein": 7.9
             }, 
             "name": "Pumpkin Pancakes", 
             "key": 15636
         }, 
         {
             "values": {
+                "rating": "4.83506155014038", 
+                "sodium": 207, 
+                "cal": 143, 
+                "chol": 4, 
+                "fat": 2.2, 
                 "reviews": "1607", 
                 "time": 230, 
-                "score": "4.83506155014038", 
-                "cal": 143
+                "carb": 27.6, 
+                "protein": 4.1
             }, 
             "name": "Simple Whole Wheat Bread", 
             "key": 15637
         }, 
         {
             "values": {
+                "rating": "4.65474319458008", 
+                "sodium": 262, 
+                "cal": 347, 
+                "chol": 17, 
+                "fat": 12.5, 
                 "reviews": "1557", 
                 "time": 130, 
-                "score": "4.65474319458008", 
-                "cal": 347
+                "carb": 54.9, 
+                "protein": 5.1
             }, 
             "name": "Ninety Minute Cinnamon Rolls", 
             "key": 15638
         }, 
         {
             "values": {
+                "rating": "4.79782962799072", 
+                "sodium": 281, 
+                "cal": 461, 
+                "chol": 46, 
+                "fat": 19.9, 
                 "reviews": "1849", 
                 "time": 170, 
-                "score": "4.79782962799072", 
-                "cal": 461
+                "carb": 66.8, 
+                "protein": 5.3
             }, 
             "name": "Blueberry Zucchini Bread", 
             "key": 15639
         }, 
         {
             "values": {
+                "rating": "4.50062417984009", 
+                "sodium": 255, 
+                "cal": 264, 
+                "chol": 54, 
+                "fat": 9.7, 
                 "reviews": "1240", 
                 "time": 100, 
-                "score": "4.50062417984009", 
-                "cal": 264
+                "carb": 41.4, 
+                "protein": 3.4
             }, 
             "name": "Apple Strudel Muffins", 
             "key": 15640
         }, 
         {
             "values": {
+                "rating": "4.47633266448975", 
+                "sodium": 66, 
+                "cal": 88, 
+                "chol": 1, 
+                "fat": 3.9, 
                 "reviews": "1815", 
                 "time": 70, 
-                "score": "4.47633266448975", 
-                "cal": 88
+                "carb": 12.8, 
+                "protein": 0.8
             }, 
             "name": "Donut Muffins", 
             "key": 15642
         }, 
         {
             "values": {
+                "rating": "4.70599269866943", 
+                "sodium": 364, 
+                "cal": 211, 
+                "chol": 22, 
+                "fat": 4.5, 
                 "reviews": "1614", 
                 "time": 217, 
-                "score": "4.70599269866943", 
-                "cal": 211
+                "carb": 36.0, 
+                "protein": 6.1
             }, 
             "name": "Naan", 
             "key": 15645
         }, 
         {
             "values": {
+                "rating": "4.46432209014893", 
+                "sodium": 246, 
+                "cal": 193, 
+                "chol": 34, 
+                "fat": 6.6, 
                 "reviews": "1518", 
                 "time": 30, 
-                "score": "4.46432209014893", 
-                "cal": 193
+                "carb": 29.2, 
+                "protein": 5.0
             }, 
             "name": "Banana Pancakes I", 
             "key": 15647
         }, 
         {
             "values": {
+                "rating": "4.48472929000854", 
+                "sodium": 253, 
+                "cal": 234, 
+                "chol": 28, 
+                "fat": 9.3, 
                 "reviews": "1796", 
                 "time": 95, 
-                "score": "4.48472929000854", 
-                "cal": 234
+                "carb": 33.1, 
+                "protein": 4.9
             }, 
             "name": "Homesteader Cornbread", 
             "key": 15648
         }, 
         {
             "values": {
+                "rating": "4.79966402053833", 
+                "sodium": 486, 
+                "cal": 440, 
+                "chol": 65, 
+                "fat": 20.2, 
                 "reviews": "1864", 
                 "time": 60, 
-                "score": "4.79966402053833", 
-                "cal": 440
+                "carb": 60.4, 
+                "protein": 6.0
             }, 
             "name": "Grandma Johnson's Scones", 
             "key": 15649
         }, 
         {
             "values": {
+                "rating": "4.81051063537598", 
+                "sodium": 313, 
+                "cal": 263, 
+                "chol": 31, 
+                "fat": 10.2, 
                 "reviews": "1077", 
                 "time": 120, 
-                "score": "4.81051063537598", 
-                "cal": 263
+                "carb": 40.7, 
+                "protein": 3.2
             }, 
             "name": "Pumpkin Gingerbread", 
             "key": 15650
         }, 
         {
             "values": {
+                "rating": "4.77816677093506", 
+                "sodium": 262, 
+                "cal": 167, 
+                "chol": 16, 
+                "fat": 7.1, 
                 "reviews": "1156", 
                 "time": 80, 
-                "score": "4.77816677093506", 
-                "cal": 167
+                "carb": 25.6, 
+                "protein": 3.5
             }, 
             "name": "Classic Bran Muffins", 
             "key": 15651
         }, 
         {
             "values": {
+                "rating": "4.73059749603271", 
+                "sodium": 195, 
+                "cal": 200, 
+                "chol": 30, 
+                "fat": 6.6, 
                 "reviews": "953", 
                 "time": 120, 
-                "score": "4.73059749603271", 
-                "cal": 200
+                "carb": 32.6, 
+                "protein": 3.0
             }, 
             "name": "Cathy's Banana Bread", 
             "key": 15652
         }, 
         {
             "values": {
+                "rating": "4.48329067230225", 
+                "sodium": 296, 
+                "cal": 200, 
+                "chol": 17, 
+                "fat": 7.5, 
                 "reviews": "969", 
                 "time": 70, 
-                "score": "4.48329067230225", 
-                "cal": 200
+                "carb": 30.1, 
+                "protein": 3.7
             }, 
             "name": "Banana Oat Muffins", 
             "key": 15653
         }, 
         {
             "values": {
+                "rating": "4.55030107498169", 
+                "sodium": 1051, 
+                "cal": 743, 
+                "chol": 224, 
+                "fat": 40.9, 
                 "reviews": "961", 
                 "time": 150, 
-                "score": "4.55030107498169", 
-                "cal": 743
+                "carb": 83.6, 
+                "protein": 14.5
             }, 
             "name": "Absolute Mexican Cornbread", 
             "key": 15654
         }, 
         {
             "values": {
+                "rating": "4.58044147491455", 
+                "sodium": 147, 
+                "cal": 147, 
+                "chol": 0, 
+                "fat": 2.3, 
                 "reviews": "1015", 
                 "time": 180, 
-                "score": "4.58044147491455", 
-                "cal": 147
+                "carb": 26.7, 
+                "protein": 4.4
             }, 
             "name": "French Bread Rolls to Die For", 
             "key": 15655
         }, 
         {
             "values": {
+                "rating": "4.57549667358398", 
+                "sodium": 172, 
+                "cal": 281, 
+                "chol": 39, 
+                "fat": 14.2, 
                 "reviews": "1199", 
                 "time": 60, 
-                "score": "4.57549667358398", 
-                "cal": 281
+                "carb": 35.2, 
+                "protein": 3.9
             }, 
             "name": "Blueberry Cream Muffins", 
             "key": 15656
         }, 
         {
             "values": {
+                "rating": "4.39052724838257", 
+                "sodium": 397, 
+                "cal": 146, 
+                "chol": 37, 
+                "fat": 2.9, 
                 "reviews": "893", 
                 "time": 100, 
-                "score": "4.39052724838257", 
-                "cal": 146
+                "carb": 24.7, 
+                "protein": 5.1
             }, 
             "name": "Todd's Famous Blueberry Pancakes", 
             "key": 15657
         }, 
         {
             "values": {
+                "rating": "4.62164449691772", 
+                "sodium": 171, 
+                "cal": 330, 
+                "chol": 31, 
+                "fat": 13.4, 
                 "reviews": "996", 
                 "time": 200, 
-                "score": "4.62164449691772", 
-                "cal": 330
+                "carb": 47.3, 
+                "protein": 5.3
             }, 
             "name": "Crispy and Creamy Doughnuts", 
             "key": 15658
         }, 
         {
             "values": {
+                "rating": "4.54873371124268", 
+                "sodium": 175, 
+                "cal": 196, 
+                "chol": 25, 
+                "fat": 7.0, 
                 "reviews": "1055", 
                 "time": 150, 
-                "score": "4.54873371124268", 
-                "cal": 196
+                "carb": 31.3, 
+                "protein": 2.9
             }, 
             "name": "The Best Banana Bread", 
             "key": 15660
         }, 
         {
             "values": {
+                "rating": "4.47058820724487", 
+                "sodium": 581, 
+                "cal": 315, 
+                "chol": 69, 
+                "fat": 13.0, 
                 "reviews": "882", 
                 "time": 35, 
-                "score": "4.47058820724487", 
-                "cal": 315
+                "carb": 40.2, 
+                "protein": 9.1
             }, 
             "name": "Pancakes I", 
             "key": 15661
         }, 
         {
             "values": {
+                "rating": "4.62625408172607", 
+                "sodium": 252, 
+                "cal": 171, 
+                "chol": 5, 
+                "fat": 5.8, 
                 "reviews": "923", 
                 "time": 95, 
-                "score": "4.62625408172607", 
-                "cal": 171
+                "carb": 23.4, 
+                "protein": 6.0
             }, 
             "name": "Focaccia Bread", 
             "key": 15663
         }, 
         {
             "values": {
+                "rating": "4.76711416244507", 
+                "sodium": 196, 
+                "cal": 113, 
+                "chol": 17, 
+                "fat": 0.9, 
                 "reviews": "1152", 
                 "time": 150, 
-                "score": "4.76711416244507", 
-                "cal": 113
+                "carb": 22.0, 
+                "protein": 3.8
             }, 
             "name": "French Baguettes", 
             "key": 15664
         }, 
         {
             "values": {
+                "rating": "4.6068868637085", 
+                "sodium": 1783, 
+                "cal": 182, 
+                "chol": 5, 
+                "fat": 2.4, 
                 "reviews": "1118", 
                 "time": 230, 
-                "score": "4.6068868637085", 
-                "cal": 182
+                "carb": 34.6, 
+                "protein": 4.8
             }, 
             "name": "Mall Pretzels", 
             "key": 15665
         }, 
         {
             "values": {
+                "rating": "4.47087383270264", 
+                "sodium": 181, 
+                "cal": 197, 
+                "chol": 31, 
+                "fat": 7.7, 
                 "reviews": "950", 
                 "time": 60, 
-                "score": "4.47087383270264", 
-                "cal": 197
+                "carb": 30.4, 
+                "protein": 3.1
             }, 
             "name": "Pumpkin Chocolate Chip Muffins", 
             "key": 15666
         }, 
         {
             "values": {
+                "rating": "4.67204284667969", 
+                "sodium": 224, 
+                "cal": 278, 
+                "chol": 35, 
+                "fat": 12.1, 
                 "reviews": "878", 
                 "time": 140, 
-                "score": "4.67204284667969", 
-                "cal": 278
+                "carb": 40.8, 
+                "protein": 3.8
             }, 
             "name": "Chocolate Banana Bread", 
             "key": 15667
         }, 
         {
             "values": {
+                "rating": "4.44176721572876", 
+                "sodium": 195, 
+                "cal": 107, 
+                "chol": 0, 
+                "fat": 2.7, 
                 "reviews": "1009", 
                 "time": 100, 
-                "score": "4.44176721572876", 
-                "cal": 107
+                "carb": 17.5, 
+                "protein": 3.0
             }, 
             "name": "Pizza Dough III", 
             "key": 15668
         }, 
         {
             "values": {
+                "rating": "4.46688747406006", 
+                "sodium": 269, 
+                "cal": 172, 
+                "chol": 16, 
+                "fat": 7.5, 
                 "reviews": "938", 
                 "time": 130, 
-                "score": "4.46688747406006", 
-                "cal": 172
+                "carb": 22.5, 
+                "protein": 3.5
             }, 
             "name": "Amazingly Easy Irish Soda Bread", 
             "key": 15669
         }, 
         {
             "values": {
+                "rating": "4.7681450843811", 
+                "sodium": 30, 
+                "cal": 79, 
+                "chol": 49, 
+                "fat": 2.8, 
                 "reviews": "702", 
                 "time": 100, 
-                "score": "4.7681450843811", 
-                "cal": 79
+                "carb": 9.5, 
+                "protein": 3.7
             }, 
             "name": "Crepes", 
             "key": 15670
         }, 
         {
             "values": {
+                "rating": "4.51642322540283", 
+                "sodium": 119, 
+                "cal": 94, 
+                "chol": 0, 
+                "fat": 0.3, 
                 "reviews": "884", 
                 "time": 225, 
-                "score": "4.51642322540283", 
-                "cal": 94
+                "carb": 19.5, 
+                "protein": 2.9
             }, 
             "name": "French Bread", 
             "key": 15671
         }, 
         {
             "values": {
+                "rating": "4.68140697479248", 
+                "sodium": 386, 
+                "cal": 105, 
+                "chol": 2, 
+                "fat": 2.4, 
                 "reviews": "815", 
                 "time": 40, 
-                "score": "4.68140697479248", 
-                "cal": 105
+                "carb": 18.0, 
+                "protein": 2.8
             }, 
             "name": "Dumplings", 
             "key": 15672
         }, 
         {
             "values": {
+                "rating": "4.59482765197754", 
+                "sodium": 595, 
+                "cal": 397, 
+                "chol": 71, 
+                "fat": 18.9, 
                 "reviews": "758", 
                 "time": 50, 
-                "score": "4.59482765197754", 
-                "cal": 397
+                "carb": 50.6, 
+                "protein": 6.8
             }, 
             "name": "Scones", 
             "key": 15673
         }, 
         {
             "values": {
+                "rating": "4.56788921356201", 
+                "sodium": 138, 
+                "cal": 86, 
+                "chol": 1, 
+                "fat": 1.3, 
                 "reviews": "808", 
                 "time": 120, 
-                "score": "4.56788921356201", 
-                "cal": 86
+                "carb": 16.0, 
+                "protein": 2.2
             }, 
             "name": "Homemade Flour Tortillas", 
             "key": 15674
         }, 
         {
             "values": {
+                "rating": "4.67016220092773", 
+                "sodium": 287, 
+                "cal": 265, 
+                "chol": 16, 
+                "fat": 11.5, 
                 "reviews": "864", 
                 "time": 140, 
-                "score": "4.67016220092773", 
-                "cal": 265
+                "carb": 38.0, 
+                "protein": 3.9
             }, 
             "name": "4H Banana Bread", 
             "key": 15675
         }, 
         {
             "values": {
+                "rating": "4.66011810302734", 
+                "sodium": 213, 
+                "cal": 289, 
+                "chol": 39, 
+                "fat": 15.1, 
                 "reviews": "852", 
                 "time": 150, 
-                "score": "4.66011810302734", 
-                "cal": 289
+                "carb": 35.5, 
+                "protein": 4.4
             }, 
             "name": "Creamy Banana Bread", 
             "key": 15676
         }, 
         {
             "values": {
+                "rating": "4.65949487686157", 
+                "sodium": 182, 
+                "cal": 249, 
+                "chol": 23, 
+                "fat": 8.0, 
                 "reviews": "850", 
                 "time": 120, 
-                "score": "4.65949487686157", 
-                "cal": 249
+                "carb": 42.6, 
+                "protein": 2.8
             }, 
             "name": "Pumpkin Apple Streusel Muffins", 
             "key": 15677
         }, 
         {
             "values": {
+                "rating": "4.04629611968994", 
+                "sodium": 804, 
+                "cal": 247, 
+                "chol": 51, 
+                "fat": 9.6, 
                 "reviews": "918", 
                 "time": 30, 
-                "score": "4.04629611968994", 
-                "cal": 247
+                "carb": 33.5, 
+                "protein": 6.8
             }, 
             "name": "Easy Pancakes", 
             "key": 15678
         }, 
         {
             "values": {
+                "rating": "4.60552263259888", 
+                "sodium": 236, 
+                "cal": 167, 
+                "chol": 0, 
+                "fat": 2.0, 
                 "reviews": "780", 
                 "time": 210, 
-                "score": "4.60552263259888", 
-                "cal": 167
+                "carb": 32.6, 
+                "protein": 5.7
             }, 
             "name": "Amazing Whole Wheat Pizza Crust", 
             "key": 15679
         }, 
         {
             "values": {
+                "rating": "4.56805801391602", 
+                "sodium": 497, 
+                "cal": 192, 
+                "chol": 27, 
+                "fat": 4.9, 
                 "reviews": "876", 
                 "time": 170, 
-                "score": "4.56805801391602", 
-                "cal": 192
+                "carb": 31.7, 
+                "protein": 5.1
             }, 
             "name": "Irresistible Irish Soda Bread", 
             "key": 15680
         }, 
         {
             "values": {
+                "rating": "4.59572315216064", 
+                "sodium": 196, 
+                "cal": 157, 
+                "chol": 22, 
+                "fat": 8.3, 
                 "reviews": "799", 
                 "time": 60, 
-                "score": "4.59572315216064", 
-                "cal": 157
+                "carb": 17.8, 
+                "protein": 2.9
             }, 
             "name": "E-Z Drop Biscuits", 
             "key": 15681
         }, 
         {
             "values": {
+                "rating": "4.44433403015137", 
+                "sodium": 161, 
+                "cal": 281, 
+                "chol": 31, 
+                "fat": 16.6, 
                 "reviews": "819", 
                 "time": 160, 
-                "score": "4.44433403015137", 
-                "cal": 281
+                "carb": 31.2, 
+                "protein": 3.3
             }, 
             "name": "Strawberry Bread", 
             "key": 15682
         }, 
         {
             "values": {
+                "rating": "4.47113418579102", 
+                "sodium": 233, 
+                "cal": 181, 
+                "chol": 17, 
+                "fat": 5.6, 
                 "reviews": "817", 
                 "time": 70, 
-                "score": "4.47113418579102", 
-                "cal": 181
+                "carb": 29.7, 
+                "protein": 3.3
             }, 
             "name": "Best Ever Muffins", 
             "key": 15683
         }, 
         {
             "values": {
+                "rating": "4.55767297744751", 
+                "sodium": 250, 
+                "cal": 123, 
+                "chol": 16, 
+                "fat": 0.9, 
                 "reviews": "792", 
                 "time": 70, 
-                "score": "4.55767297744751", 
-                "cal": 123
+                "carb": 28.3, 
+                "protein": 3.7
             }, 
             "name": "Low-Fat Blueberry Bran Muffins", 
             "key": 15684
         }, 
         {
             "values": {
+                "rating": "4.69099092483521", 
+                "sodium": 165, 
+                "cal": 231, 
+                "chol": 23, 
+                "fat": 11.6, 
                 "reviews": "926", 
                 "time": 170, 
-                "score": "4.69099092483521", 
-                "cal": 231
+                "carb": 29.6, 
+                "protein": 2.9
             }, 
             "name": "Zucchini Bread IV", 
             "key": 15686
         }, 
         {
             "values": {
+                "rating": "4.69139766693115", 
+                "sodium": 165, 
+                "cal": 248, 
+                "chol": 23, 
+                "fat": 13.1, 
                 "reviews": "756", 
                 "time": 140, 
-                "score": "4.69139766693115", 
-                "cal": 248
+                "carb": 30.1, 
+                "protein": 3.3
             }, 
             "name": "Sophie's Zucchini Bread", 
             "key": 15687
         }, 
         {
             "values": {
+                "rating": "4.76666688919067", 
+                "sodium": 175, 
+                "cal": 194, 
+                "chol": 10, 
+                "fat": 4.2, 
                 "reviews": "729", 
                 "time": 70, 
-                "score": "4.76666688919067", 
-                "cal": 194
+                "carb": 37.3, 
+                "protein": 3.1
             }, 
             "name": "Morning Glory Muffins I", 
             "key": 15688
         }, 
         {
             "values": {
+                "rating": "4.67014217376709", 
+                "sodium": 181, 
+                "cal": 145, 
+                "chol": 31, 
+                "fat": 3.7, 
                 "reviews": "826", 
                 "time": 150, 
-                "score": "4.67014217376709", 
-                "cal": 145
+                "carb": 26.5, 
+                "protein": 2.3
             }, 
             "name": "Banana Bread", 
             "key": 15689
         }, 
         {
             "values": {
+                "rating": "4.82118463516235", 
+                "sodium": 235, 
+                "cal": 164, 
+                "chol": 111, 
+                "fat": 7.7, 
                 "reviews": "644", 
                 "time": 40, 
-                "score": "4.82118463516235", 
-                "cal": 164
+                "carb": 17.2, 
+                "protein": 6.4
             }, 
             "name": "Dessert Crepes", 
             "key": 15690
         }, 
         {
             "values": {
+                "rating": "4.51620101928711", 
+                "sodium": 334, 
+                "cal": 230, 
+                "chol": 27, 
+                "fat": 5.1, 
                 "reviews": "737", 
                 "time": 120, 
-                "score": "4.51620101928711", 
-                "cal": 230
+                "carb": 39.1, 
+                "protein": 6.3
             }, 
             "name": "Burger or Hot Dog Buns", 
             "key": 15691
         }, 
         {
             "values": {
+                "rating": "4.6127290725708", 
+                "sodium": 865, 
+                "cal": 347, 
+                "chol": 99, 
+                "fat": 9.8, 
                 "reviews": "748", 
                 "time": 30, 
-                "score": "4.6127290725708", 
-                "cal": 347
+                "carb": 51.8, 
+                "protein": 12.4
             }, 
             "name": "Truck-Stop Buttermilk Pancakes", 
             "key": 15693
         }, 
         {
             "values": {
+                "rating": "4.61603879928589", 
+                "sodium": 231, 
+                "cal": 154, 
+                "chol": 21, 
+                "fat": 8.0, 
                 "reviews": "655", 
                 "time": 60, 
-                "score": "4.61603879928589", 
-                "cal": 154
+                "carb": 17.9, 
+                "protein": 2.7
             }, 
             "name": "Kentucky Biscuits", 
             "key": 15694
         }, 
         {
             "values": {
+                "rating": "4.66785287857056", 
+                "sodium": 293, 
+                "cal": 191, 
+                "chol": 0, 
+                "fat": 2.2, 
                 "reviews": "678", 
                 "time": 245, 
-                "score": "4.66785287857056", 
-                "cal": 191
+                "carb": 36.8, 
+                "protein": 5.1
             }, 
             "name": "Peppy's Pita Bread", 
             "key": 15695
         }, 
         {
             "values": {
+                "rating": "4.43894386291504", 
+                "sodium": 369, 
+                "cal": 218, 
+                "chol": 32, 
+                "fat": 6.4, 
                 "reviews": "717", 
                 "time": 140, 
-                "score": "4.43894386291504", 
-                "cal": 218
+                "carb": 36.4, 
+                "protein": 3.9
             }, 
             "name": "Cinnamon Bread I", 
             "key": 15699
         }, 
         {
             "values": {
+                "rating": "4.41218614578247", 
+                "sodium": 100, 
+                "cal": 127, 
+                "chol": 0, 
+                "fat": 0.2, 
                 "reviews": "680", 
                 "time": 130, 
-                "score": "4.41218614578247", 
-                "cal": 127
+                "carb": 29.5, 
+                "protein": 2.4
             }, 
             "name": "Almost No Fat Banana Bread", 
             "key": 15700
@@ -873,23 +1308,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

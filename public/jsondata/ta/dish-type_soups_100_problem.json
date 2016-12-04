@@ -2,920 +2,1380 @@
     "options": [
         {
             "values": {
+                "rating": "4.76516723632813", 
+                "sodium": 997, 
+                "cal": 462, 
+                "chol": 135, 
+                "fat": 36.5, 
                 "reviews": "1753", 
                 "time": 50, 
-                "score": "4.76516723632813", 
-                "cal": 462
+                "carb": 22.6, 
+                "protein": 12.0
             }, 
             "name": "Creamy Chicken and Wild Rice Soup", 
             "key": 9401
         }, 
         {
             "values": {
+                "rating": "3.91666674613953", 
+                "sodium": 681, 
+                "cal": 464, 
+                "chol": 49, 
+                "fat": 13.1, 
                 "reviews": "10", 
                 "time": 1680, 
-                "score": "3.91666674613953", 
-                "cal": 464
+                "carb": 64.6, 
+                "protein": 24.2
             }, 
             "name": "Funky Cholent", 
             "key": 9402
         }, 
         {
             "values": {
+                "rating": "4.64448261260986", 
+                "sodium": 1267, 
+                "cal": 305, 
+                "chol": 55, 
+                "fat": 13.7, 
                 "reviews": "2095", 
                 "time": 230, 
-                "score": "4.64448261260986", 
-                "cal": 305
+                "carb": 25.5, 
+                "protein": 22.3
             }, 
             "name": "It's Chili by George!!", 
             "key": 9403
         }, 
         {
             "values": {
+                "rating": "4.62357091903687", 
+                "sodium": 1136, 
+                "cal": 265, 
+                "chol": 56, 
+                "fat": 18.2, 
                 "reviews": "1941", 
                 "time": 80, 
-                "score": "4.62357091903687", 
-                "cal": 265
+                "carb": 15.1, 
+                "protein": 10.0
             }, 
             "name": "Broccoli Cheese Soup", 
             "key": 9404
         }, 
         {
             "values": {
+                "rating": "4.80142498016357", 
+                "sodium": 2386, 
+                "cal": 554, 
+                "chol": 99, 
+                "fat": 32.6, 
                 "reviews": "1607", 
                 "time": 170, 
-                "score": "4.80142498016357", 
-                "cal": 554
+                "carb": 45.8, 
+                "protein": 19.8
             }, 
             "name": "Super-Delicious Zuppa Toscana", 
             "key": 9405
         }, 
         {
             "values": {
+                "rating": "4.72955989837646", 
+                "sodium": 1187, 
+                "cal": 374, 
+                "chol": 40, 
+                "fat": 14.4, 
                 "reviews": "125", 
                 "time": 220, 
-                "score": "4.72955989837646", 
-                "cal": 374
+                "carb": 37.0, 
+                "protein": 25.1
             }, 
             "name": "Ham and Split Pea Soup Recipe - A Great Soup", 
             "key": 9406
         }, 
         {
             "values": {
+                "rating": "4.7302074432373", 
+                "sodium": 3336, 
+                "cal": 618, 
+                "chol": 114, 
+                "fat": 35.9, 
                 "reviews": "958", 
                 "time": 150, 
-                "score": "4.7302074432373", 
-                "cal": 618
+                "carb": 39.5, 
+                "protein": 29.7
             }, 
             "name": "French Onion Soup Gratinee", 
             "key": 9407
         }, 
         {
             "values": {
+                "rating": "4.35985946655273", 
+                "sodium": 1245, 
+                "cal": 385, 
+                "chol": 45, 
+                "fat": 18.0, 
                 "reviews": "6449", 
                 "time": 740, 
-                "score": "4.35985946655273", 
-                "cal": 385
+                "carb": 37.0, 
+                "protein": 18.1
             }, 
             "name": "Slow Cooker Chicken and Dumplings", 
             "key": 9408
         }, 
         {
             "values": {
+                "rating": "4.75", 
+                "sodium": 2436, 
+                "cal": 473, 
+                "chol": 82, 
+                "fat": 15.3, 
                 "reviews": "1561", 
                 "time": 90, 
-                "score": "4.75", 
-                "cal": 473
+                "carb": 50.3, 
+                "protein": 39.6
             }, 
             "name": "Catherine's Spicy Chicken Soup", 
             "key": 9409
         }, 
         {
             "values": {
+                "rating": "4.80295658111572", 
+                "sodium": 2092, 
+                "cal": 600, 
+                "chol": 70, 
+                "fat": 30.1, 
                 "reviews": "4188", 
                 "time": 300, 
-                "score": "4.80295658111572", 
-                "cal": 600
+                "carb": 55.3, 
+                "protein": 30.8
             }, 
             "name": "Boilermaker Tailgate Chili", 
             "key": 9410
         }, 
         {
             "values": {
+                "rating": "4.4199366569519", 
+                "sodium": 688, 
+                "cal": 235, 
+                "chol": 99, 
+                "fat": 13.6, 
                 "reviews": "1587", 
                 "time": 1000, 
-                "score": "4.4199366569519", 
-                "cal": 235
+                "carb": 6.1, 
+                "protein": 20.2
             }, 
             "name": "Colleen's Slow Cooker Jambalaya", 
             "key": 9411
         }, 
         {
             "values": {
+                "rating": "4.6365385055542", 
+                "sodium": 1008, 
+                "cal": 353, 
+                "chol": 17, 
+                "fat": 8.0, 
                 "reviews": "390", 
                 "time": 390, 
-                "score": "4.6365385055542", 
-                "cal": 353
+                "carb": 50.2, 
+                "protein": 18.9
             }, 
             "name": "Lentil and Sausage Soup", 
             "key": 9412
         }, 
         {
             "values": {
+                "rating": "4.60493850708008", 
+                "sodium": 1635, 
+                "cal": 448, 
+                "chol": 140, 
+                "fat": 18.9, 
                 "reviews": "63", 
                 "time": 220, 
-                "score": "4.60493850708008", 
-                "cal": 448
+                "carb": 27.9, 
+                "protein": 45.1
             }, 
             "name": "Chef John's Turkey Chili", 
             "key": 9413
         }, 
         {
             "values": {
+                "rating": "4.80604076385498", 
+                "sodium": 1259, 
+                "cal": 385, 
+                "chol": 58, 
+                "fat": 24.4, 
                 "reviews": "2027", 
                 "time": 100, 
-                "score": "4.80604076385498", 
-                "cal": 385
+                "carb": 22.5, 
+                "protein": 18.8
             }, 
             "name": "Italian Sausage Soup", 
             "key": 9414
         }, 
         {
             "values": {
+                "rating": "4.81438493728638", 
+                "sodium": 1145, 
+                "cal": 324, 
+                "chol": 50, 
+                "fat": 20.2, 
                 "reviews": "1516", 
                 "time": 190, 
-                "score": "4.81438493728638", 
-                "cal": 324
+                "carb": 19.1, 
+                "protein": 14.6
             }, 
             "name": "Italian Sausage Soup with Tortellini", 
             "key": 9415
         }, 
         {
             "values": {
+                "rating": "4.66966962814331", 
+                "sodium": 893, 
+                "cal": 262, 
+                "chol": 45, 
+                "fat": 10.8, 
                 "reviews": "3596", 
                 "time": 1020, 
-                "score": "4.66966962814331", 
-                "cal": 262
+                "carb": 24.7, 
+                "protein": 18.0
             }, 
             "name": "Slow-Cooker Chicken Tortilla Soup", 
             "key": 9416
         }, 
         {
             "values": {
+                "rating": "4.41508483886719", 
+                "sodium": 531, 
+                "cal": 516, 
+                "chol": 101, 
+                "fat": 29.6, 
                 "reviews": "2817", 
                 "time": 1480, 
-                "score": "4.41508483886719", 
-                "cal": 516
+                "carb": 29.8, 
+                "protein": 31.8
             }, 
             "name": "Slow Cooker Beef Stew I", 
             "key": 9417
         }, 
         {
             "values": {
+                "rating": "4.86324787139893", 
+                "sodium": 1103, 
+                "cal": 336, 
+                "chol": 56, 
+                "fat": 15.8, 
                 "reviews": "85", 
                 "time": 360, 
-                "score": "4.86324787139893", 
-                "cal": 336
+                "carb": 26.7, 
+                "protein": 21.0
             }, 
             "name": "Ken's Kickin' Posole", 
             "key": 9418
         }, 
         {
             "values": {
+                "rating": "4.70436811447144", 
+                "sodium": 1357, 
+                "cal": 161, 
+                "chol": 46, 
+                "fat": 6.1, 
                 "reviews": "1801", 
                 "time": 60, 
-                "score": "4.70436811447144", 
-                "cal": 161
+                "carb": 12.1, 
+                "protein": 13.4
             }, 
             "name": "Quick and Easy Chicken Noodle Soup", 
             "key": 9419
         }, 
         {
             "values": {
+                "rating": "4.60384607315063", 
+                "sodium": 794, 
+                "cal": 425, 
+                "chol": 99, 
+                "fat": 21.4, 
                 "reviews": "205", 
                 "time": 290, 
-                "score": "4.60384607315063", 
-                "cal": 425
+                "carb": 23.2, 
+                "protein": 33.1
             }, 
             "name": "Baked Beef Stew", 
             "key": 9420
         }, 
         {
             "values": {
+                "rating": "4.75676584243774", 
+                "sodium": 1366, 
+                "cal": 480, 
+                "chol": 96, 
+                "fat": 31.1, 
                 "reviews": "2139", 
                 "time": 140, 
-                "score": "4.75676584243774", 
-                "cal": 480
+                "carb": 24.9, 
+                "protein": 26.7
             }, 
             "name": "Debdoozie's Blue Ribbon Chili", 
             "key": 9421
         }, 
         {
             "values": {
+                "rating": "4.5", 
+                "sodium": 947, 
+                "cal": 219, 
+                "chol": 20, 
+                "fat": 10.4, 
                 "reviews": "87", 
                 "time": 200, 
-                "score": "4.5", 
-                "cal": 219
+                "carb": 29.2, 
+                "protein": 5.7
             }, 
             "name": "Roasted Butternut Squash Soup with Apples and Bacon", 
             "key": 9422
         }, 
         {
             "values": {
+                "rating": "4.72381401062012", 
+                "sodium": 1142, 
+                "cal": 227, 
+                "chol": 1, 
+                "fat": 8.3, 
                 "reviews": "1588", 
                 "time": 170, 
-                "score": "4.72381401062012", 
-                "cal": 227
+                "carb": 30.0, 
+                "protein": 8.6
             }, 
             "name": "Jamie's Minestrone", 
             "key": 9423
         }, 
         {
             "values": {
+                "rating": "4.6701979637146", 
+                "sodium": 1896, 
+                "cal": 684, 
+                "chol": 102, 
+                "fat": 16.8, 
                 "reviews": "1677", 
                 "time": 60, 
-                "score": "4.6701979637146", 
-                "cal": 684
+                "carb": 74.9, 
+                "protein": 59.1
             }, 
             "name": "Cha Cha's White Chicken Chili", 
             "key": 9424
         }, 
         {
             "values": {
+                "rating": "4.83584451675415", 
+                "sodium": 394, 
+                "cal": 195, 
+                "chol": 30, 
+                "fat": 10.5, 
                 "reviews": "9297", 
                 "time": 90, 
-                "score": "4.83584451675415", 
-                "cal": 195
+                "carb": 19.5, 
+                "protein": 6.1
             }, 
             "name": "Delicious Ham and Potato Soup", 
             "key": 9425
         }, 
         {
             "values": {
+                "rating": "4.58157253265381", 
+                "sodium": 1081, 
+                "cal": 397, 
+                "chol": 83, 
+                "fat": 33.4, 
                 "reviews": "2260", 
                 "time": 120, 
-                "score": "4.58157253265381", 
-                "cal": 397
+                "carb": 20.2, 
+                "protein": 7.7
             }, 
             "name": "Butternut Squash Soup", 
             "key": 9426
         }, 
         {
             "values": {
+                "rating": "4.59788990020752", 
+                "sodium": 436, 
+                "cal": 401, 
+                "chol": 79, 
+                "fat": 21.2, 
                 "reviews": "1800", 
                 "time": 280, 
-                "score": "4.59788990020752", 
-                "cal": 401
+                "carb": 24.9, 
+                "protein": 27.2
             }, 
             "name": "Beef Stew VI", 
             "key": 9427
         }, 
         {
             "values": {
+                "rating": "4.64302062988281", 
+                "sodium": 1538, 
+                "cal": 508, 
+                "chol": 31, 
+                "fat": 15.0, 
                 "reviews": "331", 
                 "time": 90, 
-                "score": "4.64302062988281", 
-                "cal": 508
+                "carb": 70.7, 
+                "protein": 22.8
             }, 
             "name": "Brazilian Black Bean Stew", 
             "key": 9428
         }, 
         {
             "values": {
+                "rating": "4.67293548583984", 
+                "sodium": 1597, 
+                "cal": 434, 
+                "chol": 68, 
+                "fat": 17.7, 
                 "reviews": "4641", 
                 "time": 870, 
-                "score": "4.67293548583984", 
-                "cal": 434
+                "carb": 42.3, 
+                "protein": 27.2
             }, 
             "name": "Slow Cooker Chicken Taco Soup", 
             "key": 9429
         }, 
         {
             "values": {
+                "rating": "4.65555572509766", 
+                "sodium": 1335, 
+                "cal": 748, 
+                "chol": 85, 
+                "fat": 49.3, 
                 "reviews": "1411", 
                 "time": 80, 
-                "score": "4.65555572509766", 
-                "cal": 748
+                "carb": 49.7, 
+                "protein": 27.2
             }, 
             "name": "Baked Potato Soup I", 
             "key": 9430
         }, 
         {
             "values": {
+                "rating": "4.60844326019287", 
+                "sodium": 712, 
+                "cal": 501, 
+                "chol": 137, 
+                "fat": 32.7, 
                 "reviews": "1472", 
                 "time": 100, 
-                "score": "4.60844326019287", 
-                "cal": 501
+                "carb": 28.4, 
+                "protein": 23.9
             }, 
             "name": "My Best Clam Chowder", 
             "key": 9431
         }, 
         {
             "values": {
+                "rating": "4.69562530517578", 
+                "sodium": 943, 
+                "cal": 377, 
+                "chol": 46, 
+                "fat": 19.1, 
                 "reviews": "1195", 
                 "time": 80, 
-                "score": "4.69562530517578", 
-                "cal": 377
+                "carb": 30.9, 
+                "protein": 23.1
             }, 
             "name": "Chicken Tortilla Soup I", 
             "key": 9432
         }, 
         {
             "values": {
+                "rating": "4.72867059707642", 
+                "sodium": 1246, 
+                "cal": 347, 
+                "chol": 68, 
+                "fat": 19.9, 
                 "reviews": "1519", 
                 "time": 210, 
-                "score": "4.72867059707642", 
-                "cal": 347
+                "carb": 22.6, 
+                "protein": 21.4
             }, 
             "name": "Flatlander Chili", 
             "key": 9433
         }, 
         {
             "values": {
+                "rating": "4.65059661865234", 
+                "sodium": 879, 
+                "cal": 594, 
+                "chol": 91, 
+                "fat": 41.5, 
                 "reviews": "1554", 
                 "time": 100, 
-                "score": "4.65059661865234", 
-                "cal": 594
+                "carb": 44.0, 
+                "protein": 12.6
             }, 
             "name": "Absolutely Ultimate Potato Soup", 
             "key": 9434
         }, 
         {
             "values": {
+                "rating": "4.64212226867676", 
+                "sodium": 1216, 
+                "cal": 240, 
+                "chol": 6, 
+                "fat": 5.0, 
                 "reviews": "1340", 
                 "time": 40, 
-                "score": "4.64212226867676", 
-                "cal": 240
+                "carb": 34.5, 
+                "protein": 13.3
             }, 
             "name": "Black Bean and Salsa Soup", 
             "key": 9435
         }, 
         {
             "values": {
+                "rating": "4.5342812538147", 
+                "sodium": 1482, 
+                "cal": 214, 
+                "chol": 32, 
+                "fat": 4.9, 
                 "reviews": "1556", 
                 "time": 40, 
-                "score": "4.5342812538147", 
-                "cal": 214
+                "carb": 27.2, 
+                "protein": 17.2
             }, 
             "name": "Six Can Chicken Tortilla Soup", 
             "key": 9436
         }, 
         {
             "values": {
+                "rating": "4.60576438903809", 
+                "sodium": 1356, 
+                "cal": 362, 
+                "chol": 48, 
+                "fat": 16.3, 
                 "reviews": "1420", 
                 "time": 980, 
-                "score": "4.60576438903809", 
-                "cal": 362
+                "carb": 37.8, 
+                "protein": 18.2
             }, 
             "name": "Slow Cooker Taco Soup", 
             "key": 9437
         }, 
         {
             "values": {
+                "rating": "4.78980398178101", 
+                "sodium": 734, 
+                "cal": 223, 
+                "chol": 62, 
+                "fat": 15.8, 
                 "reviews": "953", 
                 "time": 160, 
-                "score": "4.78980398178101", 
-                "cal": 223
+                "carb": 13.5, 
+                "protein": 6.9
             }, 
             "name": "Mulligatawny Soup I", 
             "key": 9438
         }, 
         {
             "values": {
+                "rating": "4.55757141113281", 
+                "sodium": 1664, 
+                "cal": 147, 
+                "chol": 33, 
+                "fat": 3.6, 
                 "reviews": "1074", 
                 "time": 90, 
-                "score": "4.55757141113281", 
-                "cal": 147
+                "carb": 11.4, 
+                "protein": 15.7
             }, 
             "name": "Grandma's Chicken Noodle Soup", 
             "key": 9439
         }, 
         {
             "values": {
+                "rating": "4.7302074432373", 
+                "sodium": 3336, 
+                "cal": 618, 
+                "chol": 114, 
+                "fat": 35.9, 
                 "reviews": "958", 
                 "time": 150, 
-                "score": "4.7302074432373", 
-                "cal": 618
+                "carb": 39.5, 
+                "protein": 29.7
             }, 
             "name": "French Onion Soup Gratinee", 
             "key": 9440
         }, 
         {
             "values": {
+                "rating": "4.47289848327637", 
+                "sodium": 596, 
+                "cal": 411, 
+                "chol": 81, 
+                "fat": 27.3, 
                 "reviews": "960", 
                 "time": 100, 
-                "score": "4.47289848327637", 
-                "cal": 411
+                "carb": 22.6, 
+                "protein": 18.9
             }, 
             "name": "Cheeseburger Soup I", 
             "key": 9441
         }, 
         {
             "values": {
+                "rating": "4.58339881896973", 
+                "sodium": 217, 
+                "cal": 473, 
+                "chol": 143, 
+                "fat": 45.4, 
                 "reviews": "953", 
                 "time": 90, 
-                "score": "4.58339881896973", 
-                "cal": 473
+                "carb": 16.8, 
+                "protein": 4.4
             }, 
             "name": "Rich and Creamy Tomato Basil Soup", 
             "key": 9443
         }, 
         {
             "values": {
+                "rating": "4.64326000213623", 
+                "sodium": 1414, 
+                "cal": 532, 
+                "chol": 57, 
+                "fat": 16.1, 
                 "reviews": "1272", 
                 "time": 280, 
-                "score": "4.64326000213623", 
-                "cal": 532
+                "carb": 65.3, 
+                "protein": 32.4
             }, 
             "name": "Chili I", 
             "key": 9444
         }, 
         {
             "values": {
+                "rating": "4.61101627349854", 
+                "sodium": 1151, 
+                "cal": 305, 
+                "chol": 21, 
+                "fat": 6.8, 
                 "reviews": "1379", 
                 "time": 140, 
-                "score": "4.61101627349854", 
-                "cal": 305
+                "carb": 59.7, 
+                "protein": 6.9
             }, 
             "name": "Butternut Squash Soup II", 
             "key": 9445
         }, 
         {
             "values": {
+                "rating": "4.56547927856445", 
+                "sodium": 450, 
+                "cal": 185, 
+                "chol": 42, 
+                "fat": 6.1, 
                 "reviews": "1371", 
                 "time": 120, 
-                "score": "4.56547927856445", 
-                "cal": 185
+                "carb": 18.8, 
+                "protein": 16.4
             }, 
             "name": "Simple Turkey Chili", 
             "key": 9447
         }, 
         {
             "values": {
+                "rating": "4.72716045379639", 
+                "sodium": 829, 
+                "cal": 201, 
+                "chol": 32, 
+                "fat": 13.5, 
                 "reviews": "1231", 
                 "time": 100, 
-                "score": "4.72716045379639", 
-                "cal": 201
+                "carb": 14.8, 
+                "protein": 7.5
             }, 
             "name": "Hungarian Mushroom Soup", 
             "key": 9448
         }, 
         {
             "values": {
+                "rating": "4.68900442123413", 
+                "sodium": 2571, 
+                "cal": 391, 
+                "chol": 0, 
+                "fat": 7.9, 
                 "reviews": "1155", 
                 "time": 150, 
-                "score": "4.68900442123413", 
-                "cal": 391
+                "carb": 58.7, 
+                "protein": 28.2
             }, 
             "name": "The Best Vegetarian Chili in the World", 
             "key": 9449
         }, 
         {
             "values": {
+                "rating": "4.56969690322876", 
+                "sodium": 743, 
+                "cal": 80, 
+                "chol": 12, 
+                "fat": 4.3, 
                 "reviews": "926", 
                 "time": 70, 
-                "score": "4.56969690322876", 
-                "cal": 80
+                "carb": 9.4, 
+                "protein": 1.8
             }, 
             "name": "Garden Fresh Tomato Soup", 
             "key": 9450
         }, 
         {
             "values": {
+                "rating": "4.63801240921021", 
+                "sodium": 547, 
+                "cal": 276, 
+                "chol": 42, 
+                "fat": 7.6, 
                 "reviews": "872", 
                 "time": 510, 
-                "score": "4.63801240921021", 
-                "cal": 276
+                "carb": 32.8, 
+                "protein": 21.2
             }, 
             "name": "Laura's Quick Slow Cooker Turkey Chili", 
             "key": 9451
         }, 
         {
             "values": {
+                "rating": "4.7125129699707", 
+                "sodium": 364, 
+                "cal": 148, 
+                "chol": 30, 
+                "fat": 11.0, 
                 "reviews": "773", 
                 "time": 100, 
-                "score": "4.7125129699707", 
-                "cal": 148
+                "carb": 8.6, 
+                "protein": 4.8
             }, 
             "name": "Cream of Mushroom Soup I", 
             "key": 9452
         }, 
         {
             "values": {
+                "rating": "4.59680461883545", 
+                "sodium": 1578, 
+                "cal": 585, 
+                "chol": 98, 
+                "fat": 43.9, 
                 "reviews": "801", 
                 "time": 130, 
-                "score": "4.59680461883545", 
-                "cal": 585
+                "carb": 27.9, 
+                "protein": 20.9
             }, 
             "name": "Rich and Simple French Onion Soup", 
             "key": 9453
         }, 
         {
             "values": {
+                "rating": "4.66766166687012", 
+                "sodium": 255, 
+                "cal": 310, 
+                "chol": 0, 
+                "fat": 1.0, 
                 "reviews": "726", 
                 "time": 765, 
-                "score": "4.66766166687012", 
-                "cal": 310
+                "carb": 57.9, 
+                "protein": 19.7
             }, 
             "name": "Split Pea Soup", 
             "key": 9454
         }, 
         {
             "values": {
+                "rating": "4.56810903549194", 
+                "sodium": 410, 
+                "cal": 492, 
+                "chol": 106, 
+                "fat": 27.5, 
                 "reviews": "915", 
                 "time": 870, 
-                "score": "4.56810903549194", 
-                "cal": 492
+                "carb": 25.7, 
+                "protein": 33.5
             }, 
             "name": "Slow Cooker Beef Stew IV", 
             "key": 9455
         }, 
         {
             "values": {
+                "rating": "4.3725118637085", 
+                "sodium": 1366, 
+                "cal": 396, 
+                "chol": 92, 
+                "fat": 17.3, 
                 "reviews": "841", 
                 "time": 90, 
-                "score": "4.3725118637085", 
-                "cal": 396
+                "carb": 26.7, 
+                "protein": 31.5
             }, 
             "name": "White Chili with Ground Turkey", 
             "key": 9456
         }, 
         {
             "values": {
+                "rating": "4.41252136230469", 
+                "sodium": 483, 
+                "cal": 90, 
+                "chol": 0, 
+                "fat": 0.5, 
                 "reviews": "927", 
                 "time": 90, 
-                "score": "4.41252136230469", 
-                "cal": 90
+                "carb": 20.7, 
+                "protein": 4.0
             }, 
             "name": "Cabbage Fat-Burning Soup", 
             "key": 9457
         }, 
         {
             "values": {
+                "rating": "4.72049713134766", 
+                "sodium": 876, 
+                "cal": 322, 
+                "chol": 22, 
+                "fat": 9.0, 
                 "reviews": "672", 
                 "time": 140, 
-                "score": "4.72049713134766", 
-                "cal": 322
+                "carb": 52.9, 
+                "protein": 9.0
             }, 
             "name": "Sweet Potato, Carrot, Apple, and Red Lentil Soup", 
             "key": 9458
         }, 
         {
             "values": {
+                "rating": "4.744140625", 
+                "sodium": 928, 
+                "cal": 167, 
+                "chol": 23, 
+                "fat": 7.7, 
                 "reviews": "754", 
                 "time": 120, 
-                "score": "4.744140625", 
-                "cal": 167
+                "carb": 21.2, 
+                "protein": 4.5
             }, 
             "name": "Russian Mushroom and Potato Soup", 
             "key": 9460
         }, 
         {
             "values": {
+                "rating": "4.47672557830811", 
+                "sodium": 528, 
+                "cal": 207, 
+                "chol": 32, 
+                "fat": 12.4, 
                 "reviews": "984", 
                 "time": 70, 
-                "score": "4.47672557830811", 
-                "cal": 207
+                "carb": 17.0, 
+                "protein": 9.2
             }, 
             "name": "Best Cream Of Broccoli Soup", 
             "key": 9461
         }, 
         {
             "values": {
+                "rating": "4.28409099578857", 
+                "sodium": 321, 
+                "cal": 285, 
+                "chol": 76, 
+                "fat": 16.6, 
                 "reviews": "788", 
                 "time": 60, 
-                "score": "4.28409099578857", 
-                "cal": 285
+                "carb": 14.9, 
+                "protein": 21.2
             }, 
             "name": "Pumpkin Turkey Chili", 
             "key": 9462
         }, 
         {
             "values": {
+                "rating": "4.6914701461792", 
+                "sodium": 786, 
+                "cal": 220, 
+                "chol": 40, 
+                "fat": 6.1, 
                 "reviews": "847", 
                 "time": 70, 
-                "score": "4.6914701461792", 
-                "cal": 220
+                "carb": 21.2, 
+                "protein": 20.1
             }, 
             "name": "White Bean Chicken Chili", 
             "key": 9463
         }, 
         {
             "values": {
+                "rating": "4.41659879684448", 
+                "sodium": 1466, 
+                "cal": 386, 
+                "chol": 74, 
+                "fat": 14.6, 
                 "reviews": "936", 
                 "time": 160, 
-                "score": "4.41659879684448", 
-                "cal": 386
+                "carb": 34.1, 
+                "protein": 28.2
             }, 
             "name": "Classic Goulash", 
             "key": 9464
         }, 
         {
             "values": {
+                "rating": "4.62928342819214", 
+                "sodium": 436, 
+                "cal": 82, 
+                "chol": 1, 
+                "fat": 5.2, 
                 "reviews": "762", 
                 "time": 150, 
-                "score": "4.62928342819214", 
-                "cal": 82
+                "carb": 8.6, 
+                "protein": 1.5
             }, 
             "name": "Healing Cabbage Soup", 
             "key": 9466
         }, 
         {
             "values": {
+                "rating": "4.55703592300415", 
+                "sodium": 683, 
+                "cal": 164, 
+                "chol": 0, 
+                "fat": 3.4, 
                 "reviews": "881", 
                 "time": 100, 
-                "score": "4.55703592300415", 
-                "cal": 164
+                "carb": 26.9, 
+                "protein": 7.6
             }, 
             "name": "Black Bean Vegetable Soup", 
             "key": 9467
         }, 
         {
             "values": {
+                "rating": "4.56618976593018", 
+                "sodium": 1377, 
+                "cal": 376, 
+                "chol": 68, 
+                "fat": 18.3, 
                 "reviews": "903", 
                 "time": 90, 
-                "score": "4.56618976593018", 
-                "cal": 376
+                "carb": 31.4, 
+                "protein": 20.8
             }, 
             "name": "Chicken and Dumplings III", 
             "key": 9468
         }, 
         {
             "values": {
+                "rating": "4.63324308395386", 
+                "sodium": 605, 
+                "cal": 321, 
+                "chol": 62, 
+                "fat": 17.3, 
                 "reviews": "807", 
                 "time": 700, 
-                "score": "4.63324308395386", 
-                "cal": 321
+                "carb": 22.4, 
+                "protein": 20.0
             }, 
             "name": "Beef Barley Vegetable Soup", 
             "key": 9469
         }, 
         {
             "values": {
+                "rating": "4.61254596710205", 
+                "sodium": 820, 
+                "cal": 248, 
+                "chol": 48, 
+                "fat": 18.2, 
                 "reviews": "618", 
                 "time": 120, 
-                "score": "4.61254596710205", 
-                "cal": 248
+                "carb": 21.8, 
+                "protein": 2.7
             }, 
             "name": "Butternut Squash Bisque", 
             "key": 9470
         }, 
         {
             "values": {
+                "rating": "4.25226402282715", 
+                "sodium": 975, 
+                "cal": 273, 
+                "chol": 34, 
+                "fat": 7.6, 
                 "reviews": "571", 
                 "time": 990, 
-                "score": "4.25226402282715", 
-                "cal": 273
+                "carb": 33.4, 
+                "protein": 18.9
             }, 
             "name": "Slow Cooker Chili II", 
             "key": 9471
         }, 
         {
             "values": {
+                "rating": "4.03389835357666", 
+                "sodium": 1416, 
+                "cal": 263, 
+                "chol": 37, 
+                "fat": 6.9, 
                 "reviews": "678", 
                 "time": 760, 
-                "score": "4.03389835357666", 
-                "cal": 263
+                "carb": 33.7, 
+                "protein": 17.1
             }, 
             "name": "Slow Cooker Chicken Pot Pie Stew", 
             "key": 9473
         }, 
         {
             "values": {
+                "rating": "4.7325701713562", 
+                "sodium": 1389, 
+                "cal": 299, 
+                "chol": 57, 
+                "fat": 14.7, 
                 "reviews": "732", 
                 "time": 150, 
-                "score": "4.7325701713562", 
-                "cal": 299
+                "carb": 24.3, 
+                "protein": 16.5
             }, 
             "name": "Golden Potato Soup", 
             "key": 9474
         }, 
         {
             "values": {
+                "rating": "4.53464221954346", 
+                "sodium": 1143, 
+                "cal": 76, 
+                "chol": 149, 
+                "fat": 4.1, 
                 "reviews": "656", 
                 "time": 40, 
-                "score": "4.53464221954346", 
-                "cal": 76
+                "carb": 4.2, 
+                "protein": 4.9
             }, 
             "name": "Restaurant Style Egg Drop Soup", 
             "key": 9475
         }, 
         {
             "values": {
+                "rating": "4.67753219604492", 
+                "sodium": 1745, 
+                "cal": 558, 
+                "chol": 56, 
+                "fat": 25.2, 
                 "reviews": "685", 
                 "time": 100, 
-                "score": "4.67753219604492", 
-                "cal": 558
+                "carb": 57.4, 
+                "protein": 26.4
             }, 
             "name": "Tuscan Soup", 
             "key": 9476
         }, 
         {
             "values": {
+                "rating": "4.68844223022461", 
+                "sodium": 1143, 
+                "cal": 348, 
+                "chol": 72, 
+                "fat": 13.8, 
                 "reviews": "588", 
                 "time": 130, 
-                "score": "4.68844223022461", 
-                "cal": 348
+                "carb": 32.3, 
+                "protein": 22.7
             }, 
             "name": "Bubba's Jambalaya", 
             "key": 9477
         }, 
         {
             "values": {
+                "rating": "4.66711235046387", 
+                "sodium": 839, 
+                "cal": 398, 
+                "chol": 112, 
+                "fat": 20.1, 
                 "reviews": "570", 
                 "time": 80, 
-                "score": "4.66711235046387", 
-                "cal": 398
+                "carb": 23.9, 
+                "protein": 29.8
             }, 
             "name": "Chicken and Gnocchi Soup", 
             "key": 9478
         }, 
         {
             "values": {
+                "rating": "4.72874069213867", 
+                "sodium": 1021, 
+                "cal": 289, 
+                "chol": 23, 
+                "fat": 11.8, 
                 "reviews": "713", 
                 "time": 110, 
-                "score": "4.72874069213867", 
-                "cal": 289
+                "carb": 37.8, 
+                "protein": 11.3
             }, 
             "name": "Cheesy Potato and Corn Chowder", 
             "key": 9479
         }, 
         {
             "values": {
+                "rating": "4.60071516036987", 
+                "sodium": 969, 
+                "cal": 188, 
+                "chol": 0, 
+                "fat": 1.6, 
                 "reviews": "660", 
                 "time": 210, 
-                "score": "4.60071516036987", 
-                "cal": 188
+                "carb": 37.0, 
+                "protein": 6.9
             }, 
             "name": "Beaker's Vegetable Barley Soup", 
             "key": 9480
         }, 
         {
             "values": {
+                "rating": "4.53139019012451", 
+                "sodium": 771, 
+                "cal": 257, 
+                "chol": 30, 
+                "fat": 8.0, 
                 "reviews": "678", 
                 "time": 360, 
-                "score": "4.53139019012451", 
-                "cal": 257
+                "carb": 29.0, 
+                "protein": 18.1
             }, 
             "name": "Basic Ham and Bean Soup", 
             "key": 9481
         }, 
         {
             "values": {
+                "rating": "4.65960121154785", 
+                "sodium": 673, 
+                "cal": 488, 
+                "chol": 145, 
+                "fat": 45.4, 
                 "reviews": "627", 
                 "time": 150, 
-                "score": "4.65960121154785", 
-                "cal": 488
+                "carb": 18.7, 
+                "protein": 3.7
             }, 
             "name": "Potato Leek Soup III", 
             "key": 9483
         }, 
         {
             "values": {
+                "rating": "4.61002445220947", 
+                "sodium": 1211, 
+                "cal": 416, 
+                "chol": 87, 
+                "fat": 14.2, 
                 "reviews": "634", 
                 "time": 100, 
-                "score": "4.61002445220947", 
-                "cal": 416
+                "carb": 43.3, 
+                "protein": 27.3
             }, 
             "name": "Italian Wedding Soup I", 
             "key": 9484
         }, 
         {
             "values": {
+                "rating": "4.64534902572632", 
+                "sodium": 722, 
+                "cal": 440, 
+                "chol": 76, 
+                "fat": 27.2, 
                 "reviews": "656", 
                 "time": 150, 
-                "score": "4.64534902572632", 
-                "cal": 440
+                "carb": 34.8, 
+                "protein": 15.4
             }, 
             "name": "Baked Potato Soup V", 
             "key": 9485
         }, 
         {
             "values": {
+                "rating": "4.49221181869507", 
+                "sodium": 969, 
+                "cal": 366, 
+                "chol": 56, 
+                "fat": 9.2, 
                 "reviews": "726", 
                 "time": 190, 
-                "score": "4.49221181869507", 
-                "cal": 366
+                "carb": 44.1, 
+                "protein": 29.6
             }, 
             "name": "Fantastic Black Bean Chili", 
             "key": 9486
         }, 
         {
             "values": {
+                "rating": "4.38780498504639", 
+                "sodium": 966, 
+                "cal": 260, 
+                "chol": 1, 
+                "fat": 2.0, 
                 "reviews": "579", 
                 "time": 260, 
-                "score": "4.38780498504639", 
-                "cal": 260
+                "carb": 52.6, 
+                "protein": 12.4
             }, 
             "name": "Grandma's Slow Cooker Vegetarian Chili", 
             "key": 9488
         }, 
         {
             "values": {
+                "rating": "4.77246856689453", 
+                "sodium": 1521, 
+                "cal": 506, 
+                "chol": 125, 
+                "fat": 31.9, 
                 "reviews": "643", 
                 "time": 140, 
-                "score": "4.77246856689453", 
-                "cal": 506
+                "carb": 24.1, 
+                "protein": 34.7
             }, 
             "name": "Terrific Turkey Chili", 
             "key": 9489
         }, 
         {
             "values": {
+                "rating": "4.63694286346436", 
+                "sodium": 868, 
+                "cal": 367, 
+                "chol": 109, 
+                "fat": 21.3, 
                 "reviews": "490", 
                 "time": 110, 
-                "score": "4.63694286346436", 
-                "cal": 367
+                "carb": 15.1, 
+                "protein": 30.0
             }, 
             "name": "Mexican Chicken Corn Chowder", 
             "key": 9490
         }, 
         {
             "values": {
+                "rating": "4.52132034301758", 
+                "sodium": 1012, 
+                "cal": 188, 
+                "chol": 41, 
+                "fat": 2.3, 
                 "reviews": "539", 
                 "time": 1470, 
-                "score": "4.52132034301758", 
-                "cal": 188
+                "carb": 22.6, 
+                "protein": 20.4
             }, 
             "name": "Chicken and Corn Chili", 
             "key": 9491
         }, 
         {
             "values": {
+                "rating": "4.48421049118042", 
+                "sodium": 1082, 
+                "cal": 488, 
+                "chol": 74, 
+                "fat": 13.8, 
                 "reviews": "497", 
                 "time": 90, 
-                "score": "4.48421049118042", 
-                "cal": 488
+                "carb": 58.5, 
+                "protein": 29.1
             }, 
             "name": "Easy Cajun Jambalaya", 
             "key": 9492
         }, 
         {
             "values": {
+                "rating": "4.70429229736328", 
+                "sodium": 1904, 
+                "cal": 380, 
+                "chol": 78, 
+                "fat": 25.4, 
                 "reviews": "461", 
                 "time": 130, 
-                "score": "4.70429229736328", 
-                "cal": 380
+                "carb": 21.1, 
+                "protein": 17.3
             }, 
             "name": "Restaurant-Style Zuppa Toscana", 
             "key": 9493
         }, 
         {
             "values": {
+                "rating": "4.63022947311401", 
+                "sodium": 1734, 
+                "cal": 410, 
+                "chol": 0, 
+                "fat": 5.0, 
                 "reviews": "562", 
                 "time": 90, 
-                "score": "4.63022947311401", 
-                "cal": 410
+                "carb": 75.3, 
+                "protein": 21.9
             }, 
             "name": "Vegan Black Bean Soup", 
             "key": 9494
         }, 
         {
             "values": {
+                "rating": "4.64564561843872", 
+                "sodium": 1045, 
+                "cal": 169, 
+                "chol": 71, 
+                "fat": 6.9, 
                 "reviews": "528", 
                 "time": 90, 
-                "score": "4.64564561843872", 
-                "cal": 169
+                "carb": 12.7, 
+                "protein": 13.1
             }, 
             "name": "Mama's Italian Wedding Soup", 
             "key": 9495
         }, 
         {
             "values": {
+                "rating": "4.59773826599121", 
+                "sodium": 967, 
+                "cal": 167, 
+                "chol": 15, 
+                "fat": 6.7, 
                 "reviews": "463", 
                 "time": 60, 
-                "score": "4.59773826599121", 
-                "cal": 167
+                "carb": 18.7, 
+                "protein": 9.7
             }, 
             "name": "Fresh Asparagus Soup", 
             "key": 9496
         }, 
         {
             "values": {
+                "rating": "4.69387769699097", 
+                "sodium": 1514, 
+                "cal": 529, 
+                "chol": 97, 
+                "fat": 32.0, 
                 "reviews": "551", 
                 "time": 290, 
-                "score": "4.69387769699097", 
-                "cal": 529
+                "carb": 28.7, 
+                "protein": 32.7
             }, 
             "name": "Chicken Wild Rice Soup I", 
             "key": 9497
         }, 
         {
             "values": {
+                "rating": "4.42511367797852", 
+                "sodium": 935, 
+                "cal": 229, 
+                "chol": 26, 
+                "fat": 11.1, 
                 "reviews": "521", 
                 "time": 100, 
-                "score": "4.42511367797852", 
-                "cal": 229
+                "carb": 13.4, 
+                "protein": 20.0
             }, 
             "name": "Peanut Butter Vegetable Chicken Soup", 
             "key": 9498
         }, 
         {
             "values": {
+                "rating": "4.44642877578735", 
+                "sodium": 1223, 
+                "cal": 403, 
+                "chol": 3, 
+                "fat": 7.6, 
                 "reviews": "537", 
                 "time": 200, 
-                "score": "4.44642877578735", 
-                "cal": 403
+                "carb": 68.0, 
+                "protein": 16.3
             }, 
             "name": "Andrea's Pasta Fagioli", 
             "key": 9499
@@ -923,23 +1383,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

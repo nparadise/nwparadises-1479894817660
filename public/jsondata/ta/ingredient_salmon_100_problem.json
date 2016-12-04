@@ -2,910 +2,1365 @@
     "options": [
         {
             "values": {
+                "rating": "4.49900197982788", 
+                "sodium": 48, 
+                "cal": 169, 
+                "chol": 50, 
+                "fat": 6.7, 
                 "reviews": "340", 
                 "time": 80, 
-                "score": "4.49900197982788", 
-                "cal": 169
+                "carb": 2.1, 
+                "protein": 24.5
             }, 
             "name": "Garlic Salmon", 
             "key": 41601
         }, 
         {
             "values": {
+                "rating": "4.72522163391113", 
+                "sodium": 649, 
+                "cal": 307, 
+                "chol": 63, 
+                "fat": 21.5, 
                 "reviews": "865", 
                 "time": 440, 
-                "score": "4.72522163391113", 
-                "cal": 307
+                "carb": 4.6, 
+                "protein": 23.3
             }, 
             "name": "Firecracker Grilled Alaska Salmon", 
             "key": 41602
         }, 
         {
             "values": {
+                "rating": "4.28345346450806", 
+                "sodium": 171, 
+                "cal": 288, 
+                "chol": 84, 
+                "fat": 15.5, 
                 "reviews": "941", 
                 "time": 60, 
-                "score": "4.28345346450806", 
-                "cal": 288
+                "carb": 6.5, 
+                "protein": 28.5
             }, 
             "name": "Balsamic-Glazed Salmon Fillets", 
             "key": 41603
         }, 
         {
             "values": {
+                "rating": "4.56940889358521", 
+                "sodium": 353, 
+                "cal": 368, 
+                "chol": 91, 
+                "fat": 22.4, 
                 "reviews": "1119", 
                 "time": 60, 
-                "score": "4.56940889358521", 
-                "cal": 368
+                "carb": 15.9, 
+                "protein": 26.1
             }, 
             "name": "Alaska Salmon Bake with Pecan Crunch Coating", 
             "key": 41604
         }, 
         {
             "values": {
+                "rating": "4.49791383743286", 
+                "sodium": 634, 
+                "cal": 441, 
+                "chol": 123, 
+                "fat": 29.0, 
                 "reviews": "533", 
                 "time": 50, 
-                "score": "4.49791383743286", 
-                "cal": 441
+                "carb": 20.0, 
+                "protein": 24.2
             }, 
             "name": "Oregon Salmon Patties", 
             "key": 41605
         }, 
         {
             "values": {
+                "rating": "4.82830190658569", 
+                "sodium": 1251, 
+                "cal": 380, 
+                "chol": 88, 
+                "fat": 19.4, 
                 "reviews": "376", 
                 "time": 100, 
-                "score": "4.82830190658569", 
-                "cal": 380
+                "carb": 15.7, 
+                "protein": 34.7
             }, 
             "name": "Heather's Grilled Salmon", 
             "key": 41606
         }, 
         {
             "values": {
+                "rating": "4.46041679382324", 
+                "sodium": 659, 
+                "cal": 490, 
+                "chol": 136, 
+                "fat": 33.7, 
                 "reviews": "373", 
                 "time": 60, 
-                "score": "4.46041679382324", 
-                "cal": 490
+                "carb": 15.7, 
+                "protein": 30.1
             }, 
             "name": "Salmon Cakes II", 
             "key": 41607
         }, 
         {
             "values": {
+                "rating": "4.8512544631958", 
+                "sodium": 981, 
+                "cal": 678, 
+                "chol": 179, 
+                "fat": 45.8, 
                 "reviews": "407", 
                 "time": 70, 
-                "score": "4.8512544631958", 
-                "cal": 678
+                "carb": 1.7, 
+                "protein": 61.3
             }, 
             "name": "Cedar Planked Salmon", 
             "key": 41608
         }, 
         {
             "values": {
+                "rating": "4.67999982833862", 
+                "sodium": 1235, 
+                "cal": 613, 
+                "chol": 75, 
+                "fat": 51.9, 
                 "reviews": "2013", 
                 "time": 180, 
-                "score": "4.67999982833862", 
-                "cal": 613
+                "carb": 2.9, 
+                "protein": 36.3
             }, 
             "name": "Baked Salmon II", 
             "key": 41609
         }, 
         {
             "values": {
+                "rating": "4.45592308044434", 
+                "sodium": 509, 
+                "cal": 252, 
+                "chol": 111, 
+                "fat": 13.8, 
                 "reviews": "588", 
                 "time": 70, 
-                "score": "4.45592308044434", 
-                "cal": 252
+                "carb": 8.0, 
+                "protein": 23.1
             }, 
             "name": "Potato Salmon Patties", 
             "key": 41610
         }, 
         {
             "values": {
+                "rating": "4.57870388031006", 
+                "sodium": 254, 
+                "cal": 262, 
+                "chol": 82, 
+                "fat": 18.1, 
                 "reviews": "449", 
                 "time": 60, 
-                "score": "4.57870388031006", 
-                "cal": 262
+                "carb": 0.7, 
+                "protein": 22.8
             }, 
             "name": "Salmon with Dill", 
             "key": 41611
         }, 
         {
             "values": {
+                "rating": "4.55882358551025", 
+                "sodium": 731, 
+                "cal": 479, 
+                "chol": 100, 
+                "fat": 32.4, 
                 "reviews": "74", 
                 "time": 140, 
-                "score": "4.55882358551025", 
-                "cal": 479
+                "carb": 10.7, 
+                "protein": 34.8
             }, 
             "name": "Salmon with Pineapple Tomato Salsa", 
             "key": 41612
         }, 
         {
             "values": {
+                "rating": "4.53614473342896", 
+                "sodium": 197, 
+                "cal": 320, 
+                "chol": 104, 
+                "fat": 22.1, 
                 "reviews": "484", 
                 "time": 70, 
-                "score": "4.53614473342896", 
-                "cal": 320
+                "carb": 2.4, 
+                "protein": 25.7
             }, 
             "name": "Salmon with Lemon and Dill", 
             "key": 41613
         }, 
         {
             "values": {
+                "rating": "4.55051803588867", 
+                "sodium": 279, 
+                "cal": 388, 
+                "chol": 51, 
+                "fat": 12.0, 
                 "reviews": "564", 
                 "time": 150, 
-                "score": "4.55051803588867", 
-                "cal": 388
+                "carb": 39.6, 
+                "protein": 27.9
             }, 
             "name": "Asian Salmon", 
             "key": 41614
         }, 
         {
             "values": {
+                "rating": "4.54428720474243", 
+                "sodium": 480, 
+                "cal": 422, 
+                "chol": 97, 
+                "fat": 29.0, 
                 "reviews": "2177", 
                 "time": 70, 
-                "score": "4.54428720474243", 
-                "cal": 422
+                "carb": 17.6, 
+                "protein": 24.3
             }, 
             "name": "Baked Dijon Salmon", 
             "key": 41615
         }, 
         {
             "values": {
+                "rating": "4.51999998092651", 
+                "sodium": 552, 
+                "cal": 331, 
+                "chol": 106, 
+                "fat": 21.5, 
                 "reviews": "884", 
                 "time": 50, 
-                "score": "4.51999998092651", 
-                "cal": 331
+                "carb": 7.5, 
+                "protein": 25.0
             }, 
             "name": "Baked Salmon Fillets Dijon", 
             "key": 41616
         }, 
         {
             "values": {
+                "rating": "4.65654277801514", 
+                "sodium": 633, 
+                "cal": 265, 
+                "chol": 67, 
+                "fat": 12.4, 
                 "reviews": "2942", 
                 "time": 90, 
-                "score": "4.65654277801514", 
-                "cal": 265
+                "carb": 14.1, 
+                "protein": 23.2
             }, 
             "name": "Maple Salmon", 
             "key": 41617
         }, 
         {
             "values": {
+                "rating": "4.68160724639893", 
+                "sodium": 1140, 
+                "cal": 490, 
+                "chol": 104, 
+                "fat": 25.9, 
                 "reviews": "507", 
                 "time": 90, 
-                "score": "4.68160724639893", 
-                "cal": 490
+                "carb": 26.5, 
+                "protein": 38.6
             }, 
             "name": "Salmon Chowder", 
             "key": 41618
         }, 
         {
             "values": {
+                "rating": "4.57667112350464", 
+                "sodium": 310, 
+                "cal": 330, 
+                "chol": 83, 
+                "fat": 16.2, 
                 "reviews": "523", 
                 "time": 30, 
-                "score": "4.57667112350464", 
-                "cal": 330
+                "carb": 15.0, 
+                "protein": 29.0
             }, 
             "name": "Salmon with Brown Sugar Glaze", 
             "key": 41619
         }, 
         {
             "values": {
+                "rating": "4.62183904647827", 
+                "sodium": 1248, 
+                "cal": 511, 
+                "chol": 166, 
+                "fat": 38.3, 
                 "reviews": "635", 
                 "time": 50, 
-                "score": "4.62183904647827", 
-                "cal": 511
+                "carb": 4.5, 
+                "protein": 37.4
             }, 
             "name": "Blackened Salmon Fillets", 
             "key": 41620
         }, 
         {
             "values": {
+                "rating": "4.753258228302", 
+                "sodium": 1092, 
+                "cal": 318, 
+                "chol": 56, 
+                "fat": 20.1, 
                 "reviews": "3140", 
                 "time": 182, 
-                "score": "4.753258228302", 
-                "cal": 318
+                "carb": 13.2, 
+                "protein": 20.5
             }, 
             "name": "Grilled Salmon I", 
             "key": 41621
         }, 
         {
             "values": {
+                "rating": "4.68157911300659", 
+                "sodium": 395, 
+                "cal": 233, 
+                "chol": 44, 
+                "fat": 17.6, 
                 "reviews": "280", 
                 "time": 420, 
-                "score": "4.68157911300659", 
-                "cal": 233
+                "carb": 2.9, 
+                "protein": 15.3
             }, 
             "name": "Grilled Salmon II", 
             "key": 41622
         }, 
         {
             "values": {
+                "rating": "4.40720224380493", 
+                "sodium": 1017, 
+                "cal": 257, 
+                "chol": 56, 
+                "fat": 18.0, 
                 "reviews": "246", 
                 "time": 60, 
-                "score": "4.40720224380493", 
-                "cal": 257
+                "carb": 6.1, 
+                "protein": 20.5
             }, 
             "name": "Lemon Rosemary Salmon", 
             "key": 41623
         }, 
         {
             "values": {
+                "rating": "4.37154150009155", 
+                "sodium": 407, 
+                "cal": 307, 
+                "chol": 138, 
+                "fat": 20.3, 
                 "reviews": "193", 
                 "time": 60, 
-                "score": "4.37154150009155", 
-                "cal": 307
+                "carb": 2.3, 
+                "protein": 27.5
             }, 
             "name": "Grandma's Famous Salmon Cakes", 
             "key": 41624
         }, 
         {
             "values": {
+                "rating": "4.2515721321106", 
+                "sodium": 895, 
+                "cal": 861, 
+                "chol": 107, 
+                "fat": 76.8, 
                 "reviews": "368", 
                 "time": 90, 
-                "score": "4.2515721321106", 
-                "cal": 861
+                "carb": 4.8, 
+                "protein": 38.6
             }, 
             "name": "Salmon Fillets with Creamy Dill", 
             "key": 41625
         }, 
         {
             "values": {
+                "rating": "4.64011812210083", 
+                "sodium": 631, 
+                "cal": 955, 
+                "chol": 122, 
+                "fat": 48.7, 
                 "reviews": "258", 
                 "time": 90, 
-                "score": "4.64011812210083", 
-                "cal": 955
+                "carb": 85.0, 
+                "protein": 41.9
             }, 
             "name": "Salmon with Tomatoes", 
             "key": 41626
         }, 
         {
             "values": {
+                "rating": "4.69565200805664", 
+                "sodium": 402, 
+                "cal": 304, 
+                "chol": 90, 
+                "fat": 15.7, 
                 "reviews": "237", 
                 "time": 30, 
-                "score": "4.69565200805664", 
-                "cal": 304
+                "carb": 3.3, 
+                "protein": 36.6
             }, 
             "name": "Super Simple Salmon", 
             "key": 41627
         }, 
         {
             "values": {
+                "rating": "4.16883134841919", 
+                "sodium": 41, 
+                "cal": 459, 
+                "chol": 34, 
+                "fat": 4.5, 
                 "reviews": "172", 
                 "time": 80, 
-                "score": "4.16883134841919", 
-                "cal": 459
+                "carb": 94.3, 
+                "protein": 17.0
             }, 
             "name": "Grilled Cilantro Salmon", 
             "key": 41628
         }, 
         {
             "values": {
+                "rating": "4.49247312545776", 
+                "sodium": 523, 
+                "cal": 224, 
+                "chol": 74, 
+                "fat": 10.4, 
                 "reviews": "379", 
                 "time": 50, 
-                "score": "4.49247312545776", 
-                "cal": 224
+                "carb": 9.0, 
+                "protein": 22.3
             }, 
             "name": "Salmon Patties I", 
             "key": 41629
         }, 
         {
             "values": {
+                "rating": "4.43613719940186", 
+                "sodium": 597, 
+                "cal": 217, 
+                "chol": 66, 
+                "fat": 12.2, 
                 "reviews": "223", 
                 "time": 90, 
-                "score": "4.43613719940186", 
-                "cal": 217
+                "carb": 2.5, 
+                "protein": 22.7
             }, 
             "name": "Easy Salmon", 
             "key": 41630
         }, 
         {
             "values": {
+                "rating": "4.35189867019653", 
+                "sodium": 189, 
+                "cal": 561, 
+                "chol": 130, 
+                "fat": 29.7, 
                 "reviews": "301", 
                 "time": 40, 
-                "score": "4.35189867019653", 
-                "cal": 561
+                "carb": 27.0, 
+                "protein": 33.6
             }, 
             "name": "Salmon with Brown Sugar and Bourbon Glaze", 
             "key": 41631
         }, 
         {
             "values": {
+                "rating": "4.64084529876709", 
+                "sodium": 738, 
+                "cal": 438, 
+                "chol": 134, 
+                "fat": 24.7, 
                 "reviews": "203", 
                 "time": 90, 
-                "score": "4.64084529876709", 
-                "cal": 438
+                "carb": 5.3, 
+                "protein": 46.2
             }, 
             "name": "Chile Garlic BBQ Salmon", 
             "key": 41632
         }, 
         {
             "values": {
+                "rating": "4.48942613601685", 
+                "sodium": 415, 
+                "cal": 209, 
+                "chol": 97, 
+                "fat": 11.4, 
                 "reviews": "250", 
                 "time": 40, 
-                "score": "4.48942613601685", 
-                "cal": 209
+                "carb": 5.3, 
+                "protein": 20.5
             }, 
             "name": "Yummy Lemon Salmon Burgers", 
             "key": 41633
         }, 
         {
             "values": {
+                "rating": "4.64122152328491", 
+                "sodium": 892, 
+                "cal": 239, 
+                "chol": 71, 
+                "fat": 16.7, 
                 "reviews": "200", 
                 "time": 46, 
-                "score": "4.64122152328491", 
-                "cal": 239
+                "carb": 0.9, 
+                "protein": 20.2
             }, 
             "name": "Lemon-Pepper Salmon II", 
             "key": 41635
         }, 
         {
             "values": {
+                "rating": "4.72774887084961", 
+                "sodium": 1514, 
+                "cal": 318, 
+                "chol": 59, 
+                "fat": 17.4, 
                 "reviews": "283", 
                 "time": 279, 
-                "score": "4.72774887084961", 
-                "cal": 318
+                "carb": 15.8, 
+                "protein": 24.1
             }, 
             "name": "Delicious Salmon", 
             "key": 41636
         }, 
         {
             "values": {
+                "rating": "4.62264156341553", 
+                "sodium": 1291, 
+                "cal": 373, 
+                "chol": 114, 
+                "fat": 14.5, 
                 "reviews": "254", 
                 "time": 65, 
-                "score": "4.62264156341553", 
-                "cal": 373
+                "carb": 22.3, 
+                "protein": 37.6
             }, 
             "name": "Honey-Ginger Grilled Salmon", 
             "key": 41637
         }, 
         {
             "values": {
+                "rating": "4.2147650718689", 
+                "sodium": 381, 
+                "cal": 368, 
+                "chol": 99, 
+                "fat": 18.2, 
                 "reviews": "228", 
                 "time": 70, 
-                "score": "4.2147650718689", 
-                "cal": 368
+                "carb": 15.6, 
+                "protein": 33.5
             }, 
             "name": "Easy Bake Fish", 
             "key": 41638
         }, 
         {
             "values": {
+                "rating": "4.62776041030884", 
+                "sodium": 764, 
+                "cal": 333, 
+                "chol": 67, 
+                "fat": 15.8, 
                 "reviews": "227", 
                 "time": 220, 
-                "score": "4.62776041030884", 
-                "cal": 333
+                "carb": 22.3, 
+                "protein": 24.1
             }, 
             "name": "Soy Ginger Salmon", 
             "key": 41639
         }, 
         {
             "values": {
+                "rating": "4.557692527771", 
+                "sodium": 1599, 
+                "cal": 664, 
+                "chol": 112, 
+                "fat": 50.4, 
                 "reviews": "289", 
                 "time": 156, 
-                "score": "4.557692527771", 
-                "cal": 664
+                "carb": 11.2, 
+                "protein": 40.9
             }, 
             "name": "Slammin' Salmon", 
             "key": 41641
         }, 
         {
             "values": {
+                "rating": "4.40000009536743", 
+                "sodium": 725, 
+                "cal": 391, 
+                "chol": 42, 
+                "fat": 35.2, 
                 "reviews": "151", 
                 "time": 50, 
-                "score": "4.40000009536743", 
-                "cal": 391
+                "carb": 3.6, 
+                "protein": 15.0
             }, 
             "name": "Mediterranean Salmon", 
             "key": 41642
         }, 
         {
             "values": {
+                "rating": "4.42786073684692", 
+                "sodium": 851, 
+                "cal": 917, 
+                "chol": 164, 
+                "fat": 67.4, 
                 "reviews": "147", 
                 "time": 65, 
-                "score": "4.42786073684692", 
-                "cal": 917
+                "carb": 12.7, 
+                "protein": 62.6
             }, 
             "name": "Stephan's Broiled Salmon Pesto", 
             "key": 41643
         }, 
         {
             "values": {
+                "rating": "4.4402174949646", 
+                "sodium": 523, 
+                "cal": 424, 
+                "chol": 72, 
+                "fat": 15.9, 
                 "reviews": "140", 
                 "time": 80, 
-                "score": "4.4402174949646", 
-                "cal": 424
+                "carb": 37.0, 
+                "protein": 32.2
             }, 
             "name": "Red Pepper-Salmon Pasta", 
             "key": 41644
         }, 
         {
             "values": {
+                "rating": "4.58888912200928", 
+                "sodium": 264, 
+                "cal": 480, 
+                "chol": 100, 
+                "fat": 38.9, 
                 "reviews": "139", 
                 "time": 202, 
-                "score": "4.58888912200928", 
-                "cal": 480
+                "carb": 5.4, 
+                "protein": 25.0
             }, 
             "name": "Grilled Salmon with Habanero-Lime Butter", 
             "key": 41645
         }, 
         {
             "values": {
+                "rating": "4.51933717727661", 
+                "sodium": 180, 
+                "cal": 405, 
+                "chol": 104, 
+                "fat": 26.6, 
                 "reviews": "137", 
                 "time": 60, 
-                "score": "4.51933717727661", 
-                "cal": 405
+                "carb": 4.0, 
+                "protein": 36.2
             }, 
             "name": "Tomato Basil Salmon", 
             "key": 41646
         }, 
         {
             "values": {
+                "rating": "4.05213260650635", 
+                "sodium": 103, 
+                "cal": 43, 
+                "chol": 9, 
+                "fat": 3.3, 
                 "reviews": "166", 
                 "time": 40, 
-                "score": "4.05213260650635", 
-                "cal": 43
+                "carb": 2.4, 
+                "protein": 0.9
             }, 
             "name": "Lemon Sauce for Salmon Patties", 
             "key": 41647
         }, 
         {
             "values": {
+                "rating": "4.17435884475708", 
+                "sodium": 520, 
+                "cal": 398, 
+                "chol": 40, 
+                "fat": 13.7, 
                 "reviews": "147", 
                 "time": 60, 
-                "score": "4.17435884475708", 
-                "cal": 398
+                "carb": 49.9, 
+                "protein": 20.0
             }, 
             "name": "Creamy Smoked Salmon Pasta", 
             "key": 41648
         }, 
         {
             "values": {
+                "rating": "4.49171257019043", 
+                "sodium": 379, 
+                "cal": 364, 
+                "chol": 141, 
+                "fat": 20.2, 
                 "reviews": "148", 
                 "time": 80, 
-                "score": "4.49171257019043", 
-                "cal": 364
+                "carb": 11.5, 
+                "protein": 32.0
             }, 
             "name": "Salmon Rosemary Burgers", 
             "key": 41649
         }, 
         {
             "values": {
+                "rating": "4.23831796646118", 
+                "sodium": 950, 
+                "cal": 620, 
+                "chol": 178, 
+                "fat": 46.4, 
                 "reviews": "166", 
                 "time": 90, 
-                "score": "4.23831796646118", 
-                "cal": 620
+                "carb": 26.4, 
+                "protein": 28.8
             }, 
             "name": "Moroccan Salmon Cakes with Garlic Mayonnaise", 
             "key": 41650
         }, 
         {
             "values": {
+                "rating": "4.67539262771606", 
+                "sodium": 1332, 
+                "cal": 407, 
+                "chol": 84, 
+                "fat": 26.7, 
                 "reviews": "144", 
                 "time": 100, 
-                "score": "4.67539262771606", 
-                "cal": 407
+                "carb": 9.4, 
+                "protein": 31.3
             }, 
             "name": "Grilled Salmon Kyoto", 
             "key": 41651
         }, 
         {
             "values": {
+                "rating": "4.18781709671021", 
+                "sodium": 161, 
+                "cal": 249, 
+                "chol": 67, 
+                "fat": 14.7, 
                 "reviews": "137", 
                 "time": 70, 
-                "score": "4.18781709671021", 
-                "cal": 249
+                "carb": 5.3, 
+                "protein": 22.6
             }, 
             "name": "Ginger Salmon", 
             "key": 41652
         }, 
         {
             "values": {
+                "rating": "4.35227251052856", 
+                "sodium": 1065, 
+                "cal": 512, 
+                "chol": 66, 
+                "fat": 22.6, 
                 "reviews": "129", 
                 "time": 80, 
-                "score": "4.35227251052856", 
-                "cal": 512
+                "carb": 49.4, 
+                "protein": 28.9
             }, 
             "name": "Salmon and Spinach Fettuccine", 
             "key": 41653
         }, 
         {
             "values": {
+                "rating": "4.62105274200439", 
+                "sodium": 782, 
+                "cal": 263, 
+                "chol": 95, 
+                "fat": 12.3, 
                 "reviews": "156", 
                 "time": 50, 
-                "score": "4.62105274200439", 
-                "cal": 263
+                "carb": 10.8, 
+                "protein": 27.8
             }, 
             "name": "Scrumptious Salmon Cakes", 
             "key": 41654
         }, 
         {
             "values": {
+                "rating": "4.47290658950806", 
+                "sodium": 308, 
+                "cal": 323, 
+                "chol": 101, 
+                "fat": 18.9, 
                 "reviews": "148", 
                 "time": 106, 
-                "score": "4.47290658950806", 
-                "cal": 323
+                "carb": 11.7, 
+                "protein": 24.5
             }, 
             "name": "Salmon Tango", 
             "key": 41655
         }, 
         {
             "values": {
+                "rating": "4.4277458190918", 
+                "sodium": 640, 
+                "cal": 396, 
+                "chol": 91, 
+                "fat": 26.9, 
                 "reviews": "120", 
                 "time": 75, 
-                "score": "4.4277458190918", 
-                "cal": 396
+                "carb": 6.8, 
+                "protein": 32.0
             }, 
             "name": "Grilled Salmon with Avocado Dip", 
             "key": 41656
         }, 
         {
             "values": {
+                "rating": "4.67664670944214", 
+                "sodium": 562, 
+                "cal": 496, 
+                "chol": 83, 
+                "fat": 36.6, 
                 "reviews": "111", 
                 "time": 70, 
-                "score": "4.67664670944214", 
-                "cal": 496
+                "carb": 11.3, 
+                "protein": 29.5
             }, 
             "name": "Spicy Salmon with Caramelized Onions", 
             "key": 41657
         }, 
         {
             "values": {
+                "rating": "4.74396133422852", 
+                "sodium": 893, 
+                "cal": 484, 
+                "chol": 114, 
+                "fat": 16.7, 
                 "reviews": "153", 
                 "time": 150, 
-                "score": "4.74396133422852", 
-                "cal": 484
+                "carb": 47.3, 
+                "protein": 37.0
             }, 
             "name": "Pepper-Honey Cedar Plank Salmon", 
             "key": 41658
         }, 
         {
             "values": {
+                "rating": "4.68041229248047", 
+                "sodium": 662, 
+                "cal": 366, 
+                "chol": 83, 
+                "fat": 26.4, 
                 "reviews": "154", 
                 "time": 100, 
-                "score": "4.68041229248047", 
-                "cal": 366
+                "carb": 1.1, 
+                "protein": 29.2
             }, 
             "name": "Cedar Plank-Grilled Salmon with Garlic, Lemon and Dill", 
             "key": 41659
         }, 
         {
             "values": {
+                "rating": "4.20879125595093", 
+                "sodium": 689, 
+                "cal": 441, 
+                "chol": 61, 
+                "fat": 24.9, 
                 "reviews": "144", 
                 "time": 60, 
-                "score": "4.20879125595093", 
-                "cal": 441
+                "carb": 28.2, 
+                "protein": 25.1
             }, 
             "name": "Alternative Baked Salmon", 
             "key": 41660
         }, 
         {
             "values": {
+                "rating": "4.62275457382202", 
+                "sodium": 1039, 
+                "cal": 498, 
+                "chol": 89, 
+                "fat": 23.5, 
                 "reviews": "121", 
                 "time": 60, 
-                "score": "4.62275457382202", 
-                "cal": 498
+                "carb": 36.2, 
+                "protein": 31.6
             }, 
             "name": "Lemon-Pepper Salmon", 
             "key": 41661
         }, 
         {
             "values": {
+                "rating": "4.27777767181396", 
+                "sodium": 286, 
+                "cal": 247, 
+                "chol": 68, 
+                "fat": 16.3, 
                 "reviews": "102", 
                 "time": 60, 
-                "score": "4.27777767181396", 
-                "cal": 247
+                "carb": 1.4, 
+                "protein": 22.9
             }, 
             "name": "Goat Cheese Salmon", 
             "key": 41663
         }, 
         {
             "values": {
+                "rating": "4.22699403762817", 
+                "sodium": 536, 
+                "cal": 293, 
+                "chol": 110, 
+                "fat": 16.1, 
                 "reviews": "140", 
                 "time": 100, 
-                "score": "4.22699403762817", 
-                "cal": 293
+                "carb": 7.7, 
+                "protein": 27.5
             }, 
             "name": "Salmon Loaf", 
             "key": 41664
         }, 
         {
             "values": {
+                "rating": "4.26315784454346", 
+                "sodium": 406, 
+                "cal": 662, 
+                "chol": 110, 
+                "fat": 50.7, 
                 "reviews": "107", 
                 "time": 60, 
-                "score": "4.26315784454346", 
-                "cal": 662
+                "carb": 15.4, 
+                "protein": 35.6
             }, 
             "name": "Wasabi Mayo Salmon", 
             "key": 41665
         }, 
         {
             "values": {
+                "rating": "4.66455698013306", 
+                "sodium": 561, 
+                "cal": 205, 
+                "chol": 25, 
+                "fat": 9.5, 
                 "reviews": "123", 
                 "time": 200, 
-                "score": "4.66455698013306", 
-                "cal": 205
+                "carb": 20.5, 
+                "protein": 8.5
             }, 
             "name": "Mimi's Smoked Salmon Chowder", 
             "key": 41666
         }, 
         {
             "values": {
+                "rating": "4.40310096740723", 
+                "sodium": 791, 
+                "cal": 574, 
+                "chol": 136, 
+                "fat": 35.1, 
                 "reviews": "99", 
                 "time": 85, 
-                "score": "4.40310096740723", 
-                "cal": 574
+                "carb": 23.1, 
+                "protein": 38.8
             }, 
             "name": "Wrapped Salmon", 
             "key": 41667
         }, 
         {
             "values": {
+                "rating": "4.20895528793335", 
+                "sodium": 302, 
+                "cal": 1069, 
+                "chol": 146, 
+                "fat": 80.3, 
                 "reviews": "114", 
                 "time": 70, 
-                "score": "4.20895528793335", 
-                "cal": 1069
+                "carb": 74.0, 
+                "protein": 22.6
             }, 
             "name": "Salmon with Pecan Honey Glaze", 
             "key": 41668
         }, 
         {
             "values": {
+                "rating": "4.52409648895264", 
+                "sodium": 321, 
+                "cal": 275, 
+                "chol": 50, 
+                "fat": 9.4, 
                 "reviews": "129", 
                 "time": 84, 
-                "score": "4.52409648895264", 
-                "cal": 275
+                "carb": 30.6, 
+                "protein": 18.2
             }, 
             "name": "Sweet 'n' Hot Glazed Salmon", 
             "key": 41669
         }, 
         {
             "values": {
+                "rating": "4.33333349227905", 
+                "sodium": 74, 
+                "cal": 379, 
+                "chol": 68, 
+                "fat": 26.2, 
                 "reviews": "92", 
                 "time": 60, 
-                "score": "4.33333349227905", 
-                "cal": 379
+                "carb": 12.3, 
+                "protein": 23.5
             }, 
             "name": "Marinated Wild Salmon", 
             "key": 41670
         }, 
         {
             "values": {
+                "rating": "4.71126747131348", 
+                "sodium": 519, 
+                "cal": 377, 
+                "chol": 100, 
+                "fat": 13.7, 
                 "reviews": "101", 
                 "time": 50, 
-                "score": "4.71126747131348", 
-                "cal": 377
+                "carb": 13.4, 
+                "protein": 48.4
             }, 
             "name": "Fast Salmon with a Ginger Glaze", 
             "key": 41671
         }, 
         {
             "values": {
+                "rating": "4.56115102767944", 
+                "sodium": 1020, 
+                "cal": 305, 
+                "chol": 174, 
+                "fat": 14.6, 
                 "reviews": "111", 
                 "time": 80, 
-                "score": "4.56115102767944", 
-                "cal": 305
+                "carb": 14.6, 
+                "protein": 30.9
             }, 
             "name": "Chef John's Salmon Cakes", 
             "key": 41672
         }, 
         {
             "values": {
+                "rating": "4.39160823822021", 
+                "sodium": 136, 
+                "cal": 280, 
+                "chol": 56, 
+                "fat": 21.1, 
                 "reviews": "100", 
                 "time": 70, 
-                "score": "4.39160823822021", 
-                "cal": 280
+                "carb": 2.2, 
+                "protein": 19.7
             }, 
             "name": "Balsamic and Rosemary Grilled Salmon", 
             "key": 41673
         }, 
         {
             "values": {
+                "rating": "4.61538457870483", 
+                "sodium": 367, 
+                "cal": 262, 
+                "chol": 81, 
+                "fat": 18.0, 
                 "reviews": "92", 
                 "time": 60, 
-                "score": "4.61538457870483", 
-                "cal": 262
+                "carb": 1.8, 
+                "protein": 22.7
             }, 
             "name": "Pan-Poached Alaskan Salmon Piccata", 
             "key": 41674
         }, 
         {
             "values": {
+                "rating": "4.48407649993896", 
+                "sodium": 772, 
+                "cal": 531, 
+                "chol": 136, 
+                "fat": 39.7, 
                 "reviews": "113", 
                 "time": 90, 
-                "score": "4.48407649993896", 
-                "cal": 531
+                "carb": 4.0, 
+                "protein": 36.4
             }, 
             "name": "Melt-in-Your-Mouth Broiled Salmon", 
             "key": 41676
         }, 
         {
             "values": {
+                "rating": "4.59027767181396", 
+                "sodium": 300, 
+                "cal": 371, 
+                "chol": 99, 
+                "fat": 25.1, 
                 "reviews": "113", 
                 "time": 40, 
-                "score": "4.59027767181396", 
-                "cal": 371
+                "carb": 1.7, 
+                "protein": 33.7
             }, 
             "name": "Pan Seared Salmon I", 
             "key": 41677
         }, 
         {
             "values": {
+                "rating": "4.46666669845581", 
+                "sodium": 1310, 
+                "cal": 455, 
+                "chol": 98, 
+                "fat": 26.1, 
                 "reviews": "98", 
                 "time": 540, 
-                "score": "4.46666669845581", 
-                "cal": 455
+                "carb": 12.7, 
+                "protein": 35.3
             }, 
             "name": "Super Grilled Salmon", 
             "key": 41678
         }, 
         {
             "values": {
+                "rating": "4.50931692123413", 
+                "sodium": 529, 
+                "cal": 685, 
+                "chol": 55, 
+                "fat": 43.7, 
                 "reviews": "121", 
                 "time": 70, 
-                "score": "4.50931692123413", 
-                "cal": 685
+                "carb": 38.9, 
+                "protein": 33.5
             }, 
             "name": "Puff Pastry Salmon", 
             "key": 41680
         }, 
         {
             "values": {
+                "rating": "4.42957735061646", 
+                "sodium": 561, 
+                "cal": 344, 
+                "chol": 83, 
+                "fat": 23.0, 
                 "reviews": "108", 
                 "time": 50, 
-                "score": "4.42957735061646", 
-                "cal": 344
+                "carb": 3.4, 
+                "protein": 29.5
             }, 
             "name": "Spicy Garlic Salmon", 
             "key": 41681
         }, 
         {
             "values": {
+                "rating": "4.37209320068359", 
+                "sodium": 3758, 
+                "cal": 470, 
+                "chol": 134, 
+                "fat": 24.9, 
                 "reviews": "85", 
                 "time": 150, 
-                "score": "4.37209320068359", 
-                "cal": 470
+                "carb": 8.6, 
+                "protein": 50.2
             }, 
             "name": "Charbroiled Salmon", 
             "key": 41682
         }, 
         {
             "values": {
+                "rating": "4.55882358551025", 
+                "sodium": 731, 
+                "cal": 479, 
+                "chol": 100, 
+                "fat": 32.4, 
                 "reviews": "74", 
                 "time": 140, 
-                "score": "4.55882358551025", 
-                "cal": 479
+                "carb": 10.7, 
+                "protein": 34.8
             }, 
             "name": "Salmon with Pineapple Tomato Salsa", 
             "key": 41683
         }, 
         {
             "values": {
+                "rating": "4.74336290359497", 
+                "sodium": 520, 
+                "cal": 496, 
+                "chol": 132, 
+                "fat": 33.0, 
                 "reviews": "89", 
                 "time": 50, 
-                "score": "4.74336290359497", 
-                "cal": 496
+                "carb": 2.3, 
+                "protein": 45.1
             }, 
             "name": "Chef John's Salmon", 
             "key": 41684
         }, 
         {
             "values": {
+                "rating": "4.16239309310913", 
+                "sodium": 80, 
+                "cal": 237, 
+                "chol": 71, 
+                "fat": 11.8, 
                 "reviews": "94", 
                 "time": 70, 
-                "score": "4.16239309310913", 
-                "cal": 237
+                "carb": 12.3, 
+                "protein": 19.9
             }, 
             "name": "Salmon Patties", 
             "key": 41685
         }, 
         {
             "values": {
+                "rating": "4.16379308700562", 
+                "sodium": 470, 
+                "cal": 322, 
+                "chol": 69, 
+                "fat": 12.8, 
                 "reviews": "91", 
                 "time": 57, 
-                "score": "4.16379308700562", 
-                "cal": 322
+                "carb": 14.4, 
+                "protein": 24.7
             }, 
             "name": "Quick Poached Salmon with Dill Mustard Sauce", 
             "key": 41686
         }, 
         {
             "values": {
+                "rating": "4.41747570037842", 
+                "sodium": 107, 
+                "cal": 493, 
+                "chol": 99, 
+                "fat": 28.8, 
                 "reviews": "73", 
                 "time": 60, 
-                "score": "4.41747570037842", 
-                "cal": 493
+                "carb": 24.0, 
+                "protein": 35.0
             }, 
             "name": "Mango Salsa Salmon", 
             "key": 41687
         }, 
         {
             "values": {
+                "rating": "4.09016370773315", 
+                "sodium": 846, 
+                "cal": 476, 
+                "chol": 154, 
+                "fat": 18.7, 
                 "reviews": "94", 
                 "time": 38, 
-                "score": "4.09016370773315", 
-                "cal": 476
+                "carb": 40.0, 
+                "protein": 34.8
             }, 
             "name": "Easy Salmon Cakes", 
             "key": 41689
         }, 
         {
             "values": {
+                "rating": "4.58095216751099", 
+                "sodium": 447, 
+                "cal": 263, 
+                "chol": 69, 
+                "fat": 16.8, 
                 "reviews": "82", 
                 "time": 90, 
-                "score": "4.58095216751099", 
-                "cal": 263
+                "carb": 6.0, 
+                "protein": 21.9
             }, 
             "name": "Delicious Feta-Crusted Salmon", 
             "key": 41690
         }, 
         {
             "values": {
+                "rating": "4.59813070297241", 
+                "sodium": 278, 
+                "cal": 432, 
+                "chol": 154, 
+                "fat": 21.8, 
                 "reviews": "88", 
                 "time": 110, 
-                "score": "4.59813070297241", 
-                "cal": 432
+                "carb": 8.5, 
+                "protein": 48.9
             }, 
             "name": "Anne's Fabulous Grilled Salmon", 
             "key": 41691
         }, 
         {
             "values": {
+                "rating": "4.72268915176392", 
+                "sodium": 729, 
+                "cal": 330, 
+                "chol": 77, 
+                "fat": 18.8, 
                 "reviews": "88", 
                 "time": 160, 
-                "score": "4.72268915176392", 
-                "cal": 330
+                "carb": 14.5, 
+                "protein": 25.1
             }, 
             "name": "Spicy-Sweet Glazed Salmon", 
             "key": 41692
         }, 
         {
             "values": {
+                "rating": "4.42592573165894", 
+                "sodium": 430, 
+                "cal": 271, 
+                "chol": 98, 
+                "fat": 14.6, 
                 "reviews": "88", 
                 "time": 40, 
-                "score": "4.42592573165894", 
-                "cal": 271
+                "carb": 6.6, 
+                "protein": 26.6
             }, 
             "name": "Salmon Cakes III", 
             "key": 41693
         }, 
         {
             "values": {
+                "rating": "4.14285707473755", 
+                "sodium": 59, 
+                "cal": 269, 
+                "chol": 56, 
+                "fat": 11.0, 
                 "reviews": "86", 
                 "time": 54, 
-                "score": "4.14285707473755", 
-                "cal": 269
+                "carb": 22.3, 
+                "protein": 19.6
             }, 
             "name": "Alaskan BBQ Salmon", 
             "key": 41694
         }, 
         {
             "values": {
+                "rating": "4.2619047164917", 
+                "sodium": 727, 
+                "cal": 310, 
+                "chol": 83, 
+                "fat": 16.3, 
                 "reviews": "84", 
                 "time": 70, 
-                "score": "4.2619047164917", 
-                "cal": 310
+                "carb": 8.6, 
+                "protein": 29.7
             }, 
             "name": "Dijon Garlic Salmon", 
             "key": 41696
         }, 
         {
             "values": {
+                "rating": "4.17475748062134", 
+                "sodium": 69, 
+                "cal": 308, 
+                "chol": 70, 
+                "fat": 18.2, 
                 "reviews": "78", 
                 "time": 100, 
-                "score": "4.17475748062134", 
-                "cal": 308
+                "carb": 11.1, 
+                "protein": 24.7
             }, 
             "name": "Margarita Salmon", 
             "key": 41697
         }, 
         {
             "values": {
+                "rating": "4.45454549789429", 
+                "sodium": 301, 
+                "cal": 323, 
+                "chol": 97, 
+                "fat": 23.9, 
                 "reviews": "70", 
                 "time": 60, 
-                "score": "4.45454549789429", 
-                "cal": 323
+                "carb": 6.9, 
+                "protein": 23.3
             }, 
             "name": "Lemon Garlic Salmon", 
             "key": 41699
@@ -913,23 +1368,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

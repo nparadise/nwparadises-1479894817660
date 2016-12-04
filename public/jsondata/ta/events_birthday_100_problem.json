@@ -2,580 +2,870 @@
     "options": [
         {
             "values": {
+                "rating": "4.19030714035034", 
+                "sodium": 417, 
+                "cal": 336, 
+                "chol": 32, 
+                "fat": 12.2, 
                 "reviews": "714", 
                 "time": 180, 
-                "score": "4.19030714035034", 
-                "cal": 336
+                "carb": 52.1, 
+                "protein": 4.7
             }, 
             "name": "Heavenly White Cake", 
             "key": 152301
         }, 
         {
             "values": {
+                "rating": "4.60744285583496", 
+                "sodium": 180, 
+                "cal": 229, 
+                "chol": 62, 
+                "fat": 8.5, 
                 "reviews": "699", 
                 "time": 125, 
-                "score": "4.60744285583496", 
-                "cal": 229
+                "carb": 36.8, 
+                "protein": 5.2
             }, 
             "name": "Garbanzo Bean Chocolate Cake (Gluten Free!)", 
             "key": 152302
         }, 
         {
             "values": {
+                "rating": "4.1990385055542", 
+                "sodium": 233, 
+                "cal": 393, 
+                "chol": 90, 
+                "fat": 15.4, 
                 "reviews": "864", 
                 "time": 80, 
-                "score": "4.1990385055542", 
-                "cal": 393
+                "carb": 59.3, 
+                "protein": 5.4
             }, 
             "name": "Strawberry Cake from Scratch", 
             "key": 152304
         }, 
         {
             "values": {
+                "rating": "4.6806206703186", 
+                "sodium": 524, 
+                "cal": 655, 
+                "chol": 64, 
+                "fat": 24.6, 
                 "reviews": "1712", 
                 "time": 130, 
-                "score": "4.6806206703186", 
-                "cal": 655
+                "carb": 111.1, 
+                "protein": 7.3
             }, 
             "name": "Extreme Chocolate Cake", 
             "key": 152305
         }, 
         {
             "values": {
+                "rating": "4.45976495742798", 
+                "sodium": 185, 
+                "cal": 58, 
+                "chol": 0, 
+                "fat": 2.8, 
                 "reviews": "1716", 
                 "time": 40, 
-                "score": "4.45976495742798", 
-                "cal": 58
+                "carb": 7.6, 
+                "protein": 2.5
             }, 
             "name": "Baked Kale Chips", 
             "key": 152308
         }, 
         {
             "values": {
+                "rating": "4.77724361419678", 
+                "sodium": 462, 
+                "cal": 312, 
+                "chol": 0, 
+                "fat": 5.9, 
                 "reviews": "3218", 
                 "time": 70, 
-                "score": "4.77724361419678", 
-                "cal": 312
+                "carb": 59.0, 
+                "protein": 6.8
             }, 
             "name": "Annie's Fruit Salsa and Cinnamon Chips", 
             "key": 152309
         }, 
         {
             "values": {
+                "rating": "4.61837196350098", 
+                "sodium": 1, 
+                "cal": 209, 
+                "chol": 0, 
+                "fat": 11.9, 
                 "reviews": "1094", 
                 "time": 40, 
-                "score": "4.61837196350098", 
-                "cal": 209
+                "carb": 24.8, 
+                "protein": 2.4
             }, 
             "name": "Kettle Corn", 
             "key": 152310
         }, 
         {
             "values": {
+                "rating": "4.49684858322144", 
+                "sodium": 477, 
+                "cal": 229, 
+                "chol": 37, 
+                "fat": 14.5, 
                 "reviews": "710", 
                 "time": 155, 
-                "score": "4.49684858322144", 
-                "cal": 229
+                "carb": 18.6, 
+                "protein": 5.9
             }, 
             "name": "Party Pinwheels", 
             "key": 152311
         }, 
         {
             "values": {
+                "rating": "4.82317066192627", 
+                "sodium": 182, 
+                "cal": 342, 
+                "chol": 0, 
+                "fat": 15.0, 
                 "reviews": "132", 
                 "time": 90, 
-                "score": "4.82317066192627", 
-                "cal": 342
+                "carb": 54.5, 
+                "protein": 2.4
             }, 
             "name": "Frog Cupcakes", 
             "key": 152312
         }, 
         {
             "values": {
+                "rating": "4.70752096176147", 
+                "sodium": 275, 
+                "cal": 211, 
+                "chol": 5, 
+                "fat": 6.6, 
                 "reviews": "580", 
                 "time": 100, 
-                "score": "4.70752096176147", 
-                "cal": 211
+                "carb": 35.3, 
+                "protein": 2.9
             }, 
             "name": "White Almond Wedding Cake", 
             "key": 152313
         }, 
         {
             "values": {
+                "rating": "4.83972120285034", 
+                "sodium": 446, 
+                "cal": 309, 
+                "chol": 0, 
+                "fat": 10.5, 
                 "reviews": "225", 
                 "time": 120, 
-                "score": "4.83972120285034", 
-                "cal": 309
+                "carb": 49.9, 
+                "protein": 4.2
             }, 
             "name": "Rainbow Clown Cake", 
             "key": 152314
         }, 
         {
             "values": {
+                "rating": "4.52963972091675", 
+                "sodium": 79, 
+                "cal": 161, 
+                "chol": 8, 
+                "fat": 5.5, 
                 "reviews": "1346", 
                 "time": 100, 
-                "score": "4.52963972091675", 
-                "cal": 161
+                "carb": 26.6, 
+                "protein": 2.4
             }, 
             "name": "Playgroup Granola Bars", 
             "key": 152318
         }, 
         {
             "values": {
+                "rating": "4.70662117004395", 
+                "sodium": 217, 
+                "cal": 157, 
+                "chol": 16, 
+                "fat": 5.7, 
                 "reviews": "2188", 
                 "time": 110, 
-                "score": "4.70662117004395", 
-                "cal": 157
+                "carb": 25.7, 
+                "protein": 2.3
             }, 
             "name": "One Bowl Chocolate Cake III", 
             "key": 152319
         }, 
         {
             "values": {
+                "rating": "4.60185194015503", 
+                "sodium": 90, 
+                "cal": 555, 
+                "chol": 12, 
+                "fat": 4.7, 
                 "reviews": "979", 
                 "time": 540, 
-                "score": "4.60185194015503", 
-                "cal": 555
+                "carb": 127.3, 
+                "protein": 0.0
             }, 
             "name": "Marshmallow Fondant", 
             "key": 152322
         }, 
         {
             "values": {
+                "rating": "4.71292495727539", 
+                "sodium": 260, 
+                "cal": 324, 
+                "chol": 68, 
+                "fat": 17.7, 
                 "reviews": "534", 
                 "time": 130, 
-                "score": "4.71292495727539", 
-                "cal": 324
+                "carb": 37.9, 
+                "protein": 4.0
             }, 
             "name": "Fruit Pizza I", 
             "key": 152323
         }, 
         {
             "values": {
+                "rating": "4.74093246459961", 
+                "sodium": 145, 
+                "cal": 256, 
+                "chol": 36, 
+                "fat": 12.5, 
                 "reviews": "464", 
                 "time": 60, 
-                "score": "4.74093246459961", 
-                "cal": 256
+                "carb": 35.8, 
+                "protein": 2.4
             }, 
             "name": "Texas Sheet Cake V", 
             "key": 152324
         }, 
         {
             "values": {
+                "rating": "3.95418334007263", 
+                "sodium": 502, 
+                "cal": 513, 
+                "chol": 74, 
+                "fat": 25.7, 
                 "reviews": "424", 
                 "time": 200, 
-                "score": "3.95418334007263", 
-                "cal": 513
+                "carb": 66.6, 
+                "protein": 5.8
             }, 
             "name": "Red Velvet Cake", 
             "key": 152326
         }, 
         {
             "values": {
+                "rating": "4.66666650772095", 
+                "sodium": 116, 
+                "cal": 124, 
+                "chol": 16, 
+                "fat": 5.5, 
                 "reviews": "12", 
                 "time": 37, 
-                "score": "4.66666650772095", 
-                "cal": 124
+                "carb": 17.7, 
+                "protein": 1.3
             }, 
             "name": "Funfetti\u00ae Birthday Cookies", 
             "key": 152327
         }, 
         {
             "values": {
+                "rating": "4.69512176513672", 
+                "sodium": 1432, 
+                "cal": 456, 
+                "chol": 70, 
+                "fat": 27.3, 
                 "reviews": "191", 
                 "time": 70, 
-                "score": "4.69512176513672", 
-                "cal": 456
+                "carb": 27.6, 
+                "protein": 23.3
             }, 
             "name": "Jet Swirl Pizza Appetizers", 
             "key": 152329
         }, 
         {
             "values": {
+                "rating": "4.26277351379395", 
+                "sodium": 257, 
+                "cal": 174, 
+                "chol": 0, 
+                "fat": 8.3, 
                 "reviews": "199", 
                 "time": 100, 
-                "score": "4.26277351379395", 
-                "cal": 174
+                "carb": 22.5, 
+                "protein": 7.4
             }, 
             "name": "Kale Chips", 
             "key": 152330
         }, 
         {
             "values": {
+                "rating": "4.88034200668335", 
+                "sodium": 74, 
+                "cal": 117, 
+                "chol": 0, 
+                "fat": 10.2, 
                 "reviews": "177", 
                 "time": 140, 
-                "score": "4.88034200668335", 
-                "cal": 117
+                "carb": 6.7, 
+                "protein": 1.4
             }, 
             "name": "Pecan Snack", 
             "key": 152332
         }, 
         {
             "values": {
+                "rating": "4.83972120285034", 
+                "sodium": 446, 
+                "cal": 309, 
+                "chol": 0, 
+                "fat": 10.5, 
                 "reviews": "225", 
                 "time": 120, 
-                "score": "4.83972120285034", 
-                "cal": 309
+                "carb": 49.9, 
+                "protein": 4.2
             }, 
             "name": "Rainbow Clown Cake", 
             "key": 152334
         }, 
         {
             "values": {
+                "rating": "4.54166650772095", 
+                "sodium": 66, 
+                "cal": 212, 
+                "chol": 9, 
+                "fat": 8.6, 
                 "reviews": "269", 
                 "time": 80, 
-                "score": "4.54166650772095", 
-                "cal": 212
+                "carb": 32.2, 
+                "protein": 3.4
             }, 
             "name": "Granola Bars III", 
             "key": 152335
         }, 
         {
             "values": {
+                "rating": "4.5969386100769", 
+                "sodium": 85, 
+                "cal": 108, 
+                "chol": 14, 
+                "fat": 6.2, 
                 "reviews": "157", 
                 "time": 63, 
-                "score": "4.5969386100769", 
-                "cal": 108
+                "carb": 12.7, 
+                "protein": 1.4
             }, 
             "name": "Original Nestle\u00ae Toll House Chocolate Chip Cookies", 
             "key": 152337
         }, 
         {
             "values": {
+                "rating": "4.62738847732544", 
+                "sodium": 95, 
+                "cal": 146, 
+                "chol": 19, 
+                "fat": 7.8, 
                 "reviews": "263", 
                 "time": 77, 
-                "score": "4.62738847732544", 
-                "cal": 146
+                "carb": 18.4, 
+                "protein": 1.8
             }, 
             "name": "Stephen's Chocolate Chip Cookies", 
             "key": 152338
         }, 
         {
             "values": {
+                "rating": "4.77251195907593", 
+                "sodium": 209, 
+                "cal": 285, 
+                "chol": 0, 
+                "fat": 22.8, 
                 "reviews": "169", 
                 "time": 14, 
-                "score": "4.77251195907593", 
-                "cal": 285
+                "carb": 18.7, 
+                "protein": 3.2
             }, 
             "name": "Daddy's Popcorn", 
             "key": 152339
         }, 
         {
             "values": {
+                "rating": "4.32142877578735", 
+                "sodium": 418, 
+                "cal": 147, 
+                "chol": 0, 
+                "fat": 4.1, 
                 "reviews": "316", 
                 "time": 50, 
-                "score": "4.32142877578735", 
-                "cal": 147
+                "carb": 26.0, 
+                "protein": 3.3
             }, 
             "name": "Baked Tortilla Chips", 
             "key": 152341
         }, 
         {
             "values": {
+                "rating": "4.6307053565979", 
+                "sodium": 209, 
+                "cal": 109, 
+                "chol": 11, 
+                "fat": 5.0, 
                 "reviews": "192", 
                 "time": 50, 
-                "score": "4.6307053565979", 
-                "cal": 109
+                "carb": 11.4, 
+                "protein": 4.6
             }, 
             "name": "Antojitos Minis", 
             "key": 152342
         }, 
         {
             "values": {
+                "rating": "4.37610626220703", 
+                "sodium": 732, 
+                "cal": 259, 
+                "chol": 76, 
+                "fat": 12.2, 
                 "reviews": "178", 
                 "time": 60, 
-                "score": "4.37610626220703", 
-                "cal": 259
+                "carb": 29.6, 
+                "protein": 8.2
             }, 
             "name": "Spinach Balls", 
             "key": 152344
         }, 
         {
             "values": {
+                "rating": "4.55228757858276", 
+                "sodium": 1, 
+                "cal": 304, 
+                "chol": 0, 
+                "fat": 18.0, 
                 "reviews": "261", 
                 "time": 55, 
-                "score": "4.55228757858276", 
-                "cal": 304
+                "carb": 32.7, 
+                "protein": 7.6
             }, 
             "name": "Candied Almonds", 
             "key": 152345
         }, 
         {
             "values": {
+                "rating": "4.46153831481934", 
+                "sodium": 1542, 
+                "cal": 770, 
+                "chol": 150, 
+                "fat": 48.1, 
                 "reviews": "129", 
                 "time": 97, 
-                "score": "4.46153831481934", 
-                "cal": 770
+                "carb": 42.3, 
+                "protein": 42.1
             }, 
             "name": "Mexican Pizza I", 
             "key": 152347
         }, 
         {
             "values": {
+                "rating": "4.71146249771118", 
+                "sodium": 1176, 
+                "cal": 632, 
+                "chol": 42, 
+                "fat": 36.3, 
                 "reviews": "193", 
                 "time": 60, 
-                "score": "4.71146249771118", 
-                "cal": 632
+                "carb": 70.9, 
+                "protein": 8.1
             }, 
             "name": "Sticky Monkey Brains", 
             "key": 152348
         }, 
         {
             "values": {
+                "rating": "4.82317066192627", 
+                "sodium": 182, 
+                "cal": 342, 
+                "chol": 0, 
+                "fat": 15.0, 
                 "reviews": "132", 
                 "time": 90, 
-                "score": "4.82317066192627", 
-                "cal": 342
+                "carb": 54.5, 
+                "protein": 2.4
             }, 
             "name": "Frog Cupcakes", 
             "key": 152349
         }, 
         {
             "values": {
+                "rating": "4.19424438476563", 
+                "sodium": 159, 
+                "cal": 629, 
+                "chol": 170, 
+                "fat": 40.2, 
                 "reviews": "117", 
                 "time": 230, 
-                "score": "4.19424438476563", 
-                "cal": 629
+                "carb": 67.9, 
+                "protein": 9.1
             }, 
             "name": "Deep Chocolate Raspberry Cake", 
             "key": 152353
         }, 
         {
             "values": {
+                "rating": "4.42361116409302", 
+                "sodium": 494, 
+                "cal": 302, 
+                "chol": 34, 
+                "fat": 24.4, 
                 "reviews": "116", 
                 "time": 60, 
-                "score": "4.42361116409302", 
-                "cal": 302
+                "carb": 12.1, 
+                "protein": 8.7
             }, 
             "name": "Bacon Cheese Puffs", 
             "key": 152354
         }, 
         {
             "values": {
+                "rating": "4.30821895599365", 
+                "sodium": 278, 
+                "cal": 521, 
+                "chol": 130, 
+                "fat": 37.3, 
                 "reviews": "130", 
                 "time": 160, 
-                "score": "4.30821895599365", 
-                "cal": 521
+                "carb": 41.9, 
+                "protein": 8.2
             }, 
             "name": "Guinness\u00ae and Chocolate Cheesecake", 
             "key": 152356
         }, 
         {
             "values": {
+                "rating": "4.78417253494263", 
+                "sodium": 60, 
+                "cal": 169, 
+                "chol": 6, 
+                "fat": 7.5, 
                 "reviews": "117", 
                 "time": 105, 
-                "score": "4.78417253494263", 
-                "cal": 169
+                "carb": 22.3, 
+                "protein": 4.8
             }, 
             "name": "Cranberry Nut Granola Bars", 
             "key": 152360
         }, 
         {
             "values": {
+                "rating": "4.7724552154541", 
+                "sodium": 39, 
+                "cal": 417, 
+                "chol": 314, 
+                "fat": 33.8, 
                 "reviews": "125", 
                 "time": 470, 
-                "score": "4.7724552154541", 
-                "cal": 417
+                "carb": 21.8, 
+                "protein": 4.3
             }, 
             "name": "Irish Cream Creme Brulee", 
             "key": 152362
         }, 
         {
             "values": {
+                "rating": "4.35570478439331", 
+                "sodium": 493, 
+                "cal": 408, 
+                "chol": 119, 
+                "fat": 19.5, 
                 "reviews": "134", 
                 "time": 180, 
-                "score": "4.35570478439331", 
-                "cal": 408
+                "carb": 53.9, 
+                "protein": 5.8
             }, 
             "name": "Coconut Cake IV", 
             "key": 152366
         }, 
         {
             "values": {
+                "rating": "4.61983489990234", 
+                "sodium": 455, 
+                "cal": 371, 
+                "chol": 256, 
+                "fat": 32.4, 
                 "reviews": "90", 
                 "time": 30, 
-                "score": "4.61983489990234", 
-                "cal": 371
+                "carb": 0.6, 
+                "protein": 19.8
             }, 
             "name": "Broiled Lemon and Garlic Tiger Prawns", 
             "key": 152367
         }, 
         {
             "values": {
+                "rating": "4.27118635177612", 
+                "sodium": 123, 
+                "cal": 256, 
+                "chol": 82, 
+                "fat": 12.5, 
                 "reviews": "97", 
                 "time": 28, 
-                "score": "4.27118635177612", 
-                "cal": 256
+                "carb": 26.7, 
+                "protein": 11.5
             }, 
             "name": "Hot Chocolate", 
             "key": 152369
         }, 
         {
             "values": {
+                "rating": "4.71818161010742", 
+                "sodium": 400, 
+                "cal": 530, 
+                "chol": 161, 
+                "fat": 38.9, 
                 "reviews": "91", 
                 "time": 215, 
-                "score": "4.71818161010742", 
-                "cal": 530
+                "carb": 39.6, 
+                "protein": 6.9
             }, 
             "name": "Eclair Cake with Chocolate Ganache", 
             "key": 152371
         }, 
         {
             "values": {
+                "rating": "4.10112380981445", 
+                "sodium": 443, 
+                "cal": 579, 
+                "chol": 73, 
+                "fat": 24.1, 
                 "reviews": "78", 
                 "time": 170, 
-                "score": "4.10112380981445", 
-                "cal": 579
+                "carb": 86.8, 
+                "protein": 6.1
             }, 
             "name": "Ravishing Red Velvet Cake", 
             "key": 152375
         }, 
         {
             "values": {
+                "rating": "4.15966367721558", 
+                "sodium": 353, 
+                "cal": 142, 
+                "chol": 62, 
+                "fat": 4.1, 
                 "reviews": "87", 
                 "time": 120, 
-                "score": "4.15966367721558", 
-                "cal": 142
+                "carb": 5.9, 
+                "protein": 19.6
             }, 
             "name": "Chili Chicken", 
             "key": 152378
         }, 
         {
             "values": {
+                "rating": "4.07692289352417", 
+                "sodium": 738, 
+                "cal": 259, 
+                "chol": 0, 
+                "fat": 6.4, 
                 "reviews": "71", 
                 "time": 20, 
-                "score": "4.07692289352417", 
-                "cal": 259
+                "carb": 42.9, 
+                "protein": 11.4
             }, 
             "name": "Delicious Vegan Hot Chocolate", 
             "key": 152379
         }, 
         {
             "values": {
+                "rating": "4.75903606414795", 
+                "sodium": 488, 
+                "cal": 426, 
+                "chol": 78, 
+                "fat": 11.4, 
                 "reviews": "68", 
                 "time": 90, 
-                "score": "4.75903606414795", 
-                "cal": 426
+                "carb": 46.6, 
+                "protein": 23.0
             }, 
             "name": "Baked Hawaiian Sandwiches", 
             "key": 152382
         }, 
         {
             "values": {
+                "rating": "4.5119047164917", 
+                "sodium": 372, 
+                "cal": 567, 
+                "chol": 41, 
+                "fat": 20.9, 
                 "reviews": "71", 
                 "time": 180, 
-                "score": "4.5119047164917", 
-                "cal": 567
+                "carb": 91.9, 
+                "protein": 4.3
             }, 
             "name": "Margarita Cake with Key Lime Cream Cheese Frosting", 
             "key": 152383
         }, 
         {
             "values": {
+                "rating": "4.15000009536743", 
+                "sodium": 191, 
+                "cal": 124, 
+                "chol": 8, 
+                "fat": 3.8, 
                 "reviews": "58", 
                 "time": 10, 
-                "score": "4.15000009536743", 
-                "cal": 124
+                "carb": 21.4, 
+                "protein": 2.1
             }, 
             "name": "Apple Toast", 
             "key": 152386
         }, 
         {
             "values": {
+                "rating": "4.36046504974365", 
+                "sodium": 198, 
+                "cal": 377, 
+                "chol": 23, 
+                "fat": 9.0, 
                 "reviews": "68", 
                 "time": 140, 
-                "score": "4.36046504974365", 
-                "cal": 377
+                "carb": 74.6, 
+                "protein": 1.7
             }, 
             "name": "Bloody Broken Glass Cupcakes", 
             "key": 152387
         }, 
         {
             "values": {
+                "rating": "4.671875", 
+                "sodium": 303, 
+                "cal": 264, 
+                "chol": 102, 
+                "fat": 10.2, 
                 "reviews": "52", 
                 "time": 180, 
-                "score": "4.671875", 
-                "cal": 264
+                "carb": 38.2, 
+                "protein": 4.8
             }, 
             "name": "Chiffon Cake", 
             "key": 152389
         }, 
         {
             "values": {
+                "rating": "4", 
+                "sodium": 292, 
+                "cal": 375, 
+                "chol": 2, 
+                "fat": 13.5, 
                 "reviews": "44", 
                 "time": 120, 
-                "score": "4", 
-                "cal": 375
+                "carb": 58.6, 
+                "protein": 5.1
             }, 
             "name": "White Mountain Cake", 
             "key": 152392
         }, 
         {
             "values": {
+                "rating": "4.48387098312378", 
+                "sodium": 13, 
+                "cal": 291, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "49", 
                 "time": 40, 
-                "score": "4.48387098312378", 
-                "cal": 291
+                "carb": 77.2, 
+                "protein": 0.5
             }, 
             "name": "Hot Pink Lemonade", 
             "key": 152393
         }, 
         {
             "values": {
+                "rating": "4.6712327003479", 
+                "sodium": 1081, 
+                "cal": 432, 
+                "chol": 44, 
+                "fat": 24.5, 
                 "reviews": "44", 
                 "time": 100, 
-                "score": "4.6712327003479", 
-                "cal": 432
+                "carb": 39.7, 
+                "protein": 15.2
             }, 
             "name": "Super Nachos", 
             "key": 152395
         }, 
         {
             "values": {
+                "rating": "4.12962961196899", 
+                "sodium": 220, 
+                "cal": 429, 
+                "chol": 111, 
+                "fat": 17.5, 
                 "reviews": "43", 
                 "time": 130, 
-                "score": "4.12962961196899", 
-                "cal": 429
+                "carb": 62.8, 
+                "protein": 5.9
             }, 
             "name": "One - Two - Three - Four Cake II", 
             "key": 152396
         }, 
         {
             "values": {
+                "rating": "4.80000019073486", 
+                "sodium": 617, 
+                "cal": 809, 
+                "chol": 144, 
+                "fat": 41.8, 
                 "reviews": "55", 
                 "time": 220, 
-                "score": "4.80000019073486", 
-                "cal": 809
+                "carb": 101.8, 
+                "protein": 11.5
             }, 
             "name": "Willard Family German Chocolate Cake", 
             "key": 152397
         }, 
         {
             "values": {
+                "rating": "4.37837839126587", 
+                "sodium": 6, 
+                "cal": 50, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "62", 
                 "time": 30, 
-                "score": "4.37837839126587", 
-                "cal": 50
+                "carb": 13.0, 
+                "protein": 0.3
             }, 
             "name": "Watermelon Lemonade", 
             "key": 152398
         }, 
         {
             "values": {
+                "rating": "4.44736862182617", 
+                "sodium": 153, 
+                "cal": 152, 
+                "chol": 26, 
+                "fat": 9.3, 
                 "reviews": "50", 
                 "time": 80, 
-                "score": "4.44736862182617", 
-                "cal": 152
+                "carb": 12.3, 
+                "protein": 5.0
             }, 
             "name": "Cream Cheese Won Tons", 
             "key": 152399
         }, 
         {
             "values": {
+                "rating": "4.37681150436401", 
+                "sodium": 128, 
+                "cal": 399, 
+                "chol": 157, 
+                "fat": 35.0, 
                 "reviews": "64", 
                 "time": 180, 
-                "score": "4.37681150436401", 
-                "cal": 399
+                "carb": 17.1, 
+                "protein": 8.4
             }, 
             "name": "Hungarian Flourless Hazelnut Cake", 
             "key": 152400
@@ -583,23 +873,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

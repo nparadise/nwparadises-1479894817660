@@ -2,700 +2,1050 @@
     "options": [
         {
             "values": {
+                "rating": "4.66284990310669", 
+                "sodium": 458, 
+                "cal": 735, 
+                "chol": 187, 
+                "fat": 40.6, 
                 "reviews": "654", 
                 "time": 120, 
-                "score": "4.66284990310669", 
-                "cal": 735
+                "carb": 88.3, 
+                "protein": 9.1
             }, 
             "name": "German Chocolate Cake III", 
             "key": 27601
         }, 
         {
             "values": {
+                "rating": "4.25844669342041", 
+                "sodium": 143, 
+                "cal": 124, 
+                "chol": 1, 
+                "fat": 5.2, 
                 "reviews": "1863", 
                 "time": 260, 
-                "score": "4.25844669342041", 
-                "cal": 124
+                "carb": 19.7, 
+                "protein": 1.1
             }, 
             "name": "Cake Balls", 
             "key": 27602
         }, 
         {
             "values": {
+                "rating": "4.77150869369507", 
+                "sodium": 259, 
+                "cal": 374, 
+                "chol": 38, 
+                "fat": 18.8, 
                 "reviews": "1960", 
                 "time": 180, 
-                "score": "4.77150869369507", 
-                "cal": 374
+                "carb": 48.7, 
+                "protein": 5.2
             }, 
             "name": "Sam's Famous Carrot Cake", 
             "key": 27605
         }, 
         {
             "values": {
+                "rating": "4.7618203163147", 
+                "sodium": 309, 
+                "cal": 465, 
+                "chol": 78, 
+                "fat": 28.9, 
                 "reviews": "1296", 
                 "time": 145, 
-                "score": "4.7618203163147", 
-                "cal": 465
+                "carb": 46.3, 
+                "protein": 4.4
             }, 
             "name": "Tiramisu Layer Cake", 
             "key": 27607
         }, 
         {
             "values": {
+                "rating": "4.19277095794678", 
+                "sodium": 517, 
+                "cal": 735, 
+                "chol": 95, 
+                "fat": 32.1, 
                 "reviews": "72", 
                 "time": 180, 
-                "score": "4.19277095794678", 
-                "cal": 735
+                "carb": 107.0, 
+                "protein": 7.9
             }, 
             "name": "Ultimate Cranberry Pudding Cake", 
             "key": 27608
         }, 
         {
             "values": {
+                "rating": "4.5345344543457", 
+                "sodium": 398, 
+                "cal": 774, 
+                "chol": 143, 
+                "fat": 40.5, 
                 "reviews": "283", 
                 "time": 160, 
-                "score": "4.5345344543457", 
-                "cal": 774
+                "carb": 98.1, 
+                "protein": 8.2
             }, 
             "name": "Incredibly Delicious Italian Cream Cake", 
             "key": 27609
         }, 
         {
             "values": {
+                "rating": "4.58259201049805", 
+                "sodium": 463, 
+                "cal": 427, 
+                "chol": 103, 
+                "fat": 18.3, 
                 "reviews": "1301", 
                 "time": 140, 
-                "score": "4.58259201049805", 
-                "cal": 427
+                "carb": 63.5, 
+                "protein": 6.6
             }, 
             "name": "Dark Chocolate Cake I", 
             "key": 27611
         }, 
         {
             "values": {
+                "rating": "4.6806206703186", 
+                "sodium": 524, 
+                "cal": 655, 
+                "chol": 64, 
+                "fat": 24.6, 
                 "reviews": "1712", 
                 "time": 130, 
-                "score": "4.6806206703186", 
-                "cal": 655
+                "carb": 111.1, 
+                "protein": 7.3
             }, 
             "name": "Extreme Chocolate Cake", 
             "key": 27612
         }, 
         {
             "values": {
+                "rating": "4.63775491714478", 
+                "sodium": 187, 
+                "cal": 277, 
+                "chol": 82, 
+                "fat": 18.9, 
                 "reviews": "300", 
                 "time": 170, 
-                "score": "4.63775491714478", 
-                "cal": 277
+                "carb": 22.0, 
+                "protein": 5.0
             }, 
             "name": "Eggnog Cheesecake III", 
             "key": 27613
         }, 
         {
             "values": {
+                "rating": "4.77476644515991", 
+                "sodium": 354, 
+                "cal": 426, 
+                "chol": 108, 
+                "fat": 29.0, 
                 "reviews": "2272", 
                 "time": 320, 
-                "score": "4.77476644515991", 
-                "cal": 426
+                "carb": 35.5, 
+                "protein": 7.2
             }, 
             "name": "Double Layer Pumpkin Cheesecake", 
             "key": 27614
         }, 
         {
             "values": {
+                "rating": "4.71426296234131", 
+                "sodium": 380, 
+                "cal": 533, 
+                "chol": 159, 
+                "fat": 35.7, 
                 "reviews": "4967", 
                 "time": 540, 
-                "score": "4.71426296234131", 
-                "cal": 533
+                "carb": 44.2, 
+                "protein": 10.3
             }, 
             "name": "Chantal's New York Cheesecake", 
             "key": 27615
         }, 
         {
             "values": {
+                "rating": "4.74756669998169", 
+                "sodium": 498, 
+                "cal": 528, 
+                "chol": 63, 
+                "fat": 26.4, 
                 "reviews": "1250", 
                 "time": 210, 
-                "score": "4.74756669998169", 
-                "cal": 528
+                "carb": 66.0, 
+                "protein": 6.1
             }, 
             "name": "Chocolate Cavity Maker Cake", 
             "key": 27617
         }, 
         {
             "values": {
+                "rating": "4.75558662414551", 
+                "sodium": 299, 
+                "cal": 453, 
+                "chol": 79, 
+                "fat": 18.4, 
                 "reviews": "1805", 
                 "time": 240, 
-                "score": "4.75558662414551", 
-                "cal": 453
+                "carb": 68.6, 
+                "protein": 5.2
             }, 
             "name": "Banana Cake VI", 
             "key": 27619
         }, 
         {
             "values": {
+                "rating": "4.70662117004395", 
+                "sodium": 217, 
+                "cal": 157, 
+                "chol": 16, 
+                "fat": 5.7, 
                 "reviews": "2188", 
                 "time": 110, 
-                "score": "4.70662117004395", 
-                "cal": 157
+                "carb": 25.7, 
+                "protein": 2.3
             }, 
             "name": "One Bowl Chocolate Cake III", 
             "key": 27620
         }, 
         {
             "values": {
+                "rating": "4.78743982315063", 
+                "sodium": 68, 
+                "cal": 243, 
+                "chol": 23, 
+                "fat": 18.1, 
                 "reviews": "1081", 
                 "time": 36, 
-                "score": "4.78743982315063", 
-                "cal": 243
+                "carb": 23.9, 
+                "protein": 1.4
             }, 
             "name": "Satiny Chocolate Glaze", 
             "key": 27621
         }, 
         {
             "values": {
+                "rating": "4.76694393157959", 
+                "sodium": 240, 
+                "cal": 155, 
+                "chol": 16, 
+                "fat": 5.5, 
                 "reviews": "1949", 
                 "time": 110, 
-                "score": "4.76694393157959", 
-                "cal": 155
+                "carb": 25.7, 
+                "protein": 2.3
             }, 
             "name": "Black Magic Cake", 
             "key": 27622
         }, 
         {
             "values": {
+                "rating": "4.76870393753052", 
+                "sodium": 459, 
+                "cal": 481, 
+                "chol": 61, 
+                "fat": 28.7, 
                 "reviews": "1423", 
                 "time": 240, 
-                "score": "4.76870393753052", 
-                "cal": 481
+                "carb": 50.8, 
+                "protein": 5.6
             }, 
             "name": "Sopapilla Cheesecake Pie", 
             "key": 27623
         }, 
         {
             "values": {
+                "rating": "4.19264888763428", 
+                "sodium": 142, 
+                "cal": 209, 
+                "chol": 52, 
+                "fat": 8.9, 
                 "reviews": "2631", 
                 "time": 100, 
-                "score": "4.19264888763428", 
-                "cal": 209
+                "carb": 29.4, 
+                "protein": 3.1
             }, 
             "name": "Simple White Cake", 
             "key": 27624
         }, 
         {
             "values": {
+                "rating": "4.30010938644409", 
+                "sodium": 435, 
+                "cal": 375, 
+                "chol": 48, 
+                "fat": 11.2, 
                 "reviews": "736", 
                 "time": 190, 
-                "score": "4.30010938644409", 
-                "cal": 375
+                "carb": 65.3, 
+                "protein": 4.4
             }, 
             "name": "Favorite Old Fashioned Gingerbread", 
             "key": 27625
         }, 
         {
             "values": {
+                "rating": "4.71600723266602", 
+                "sodium": 347, 
+                "cal": 575, 
+                "chol": 69, 
+                "fat": 34.8, 
                 "reviews": "4762", 
                 "time": 210, 
-                "score": "4.71600723266602", 
-                "cal": 575
+                "carb": 63.7, 
+                "protein": 5.1
             }, 
             "name": "Carrot Cake III", 
             "key": 27626
         }, 
         {
             "values": {
+                "rating": "4.80722904205322", 
+                "sodium": 102, 
+                "cal": 369, 
+                "chol": 68, 
+                "fat": 20.2, 
                 "reviews": "75", 
                 "time": 790, 
-                "score": "4.80722904205322", 
-                "cal": 369
+                "carb": 46.2, 
+                "protein": 4.3
             }, 
             "name": "White Fruit Cake", 
             "key": 27627
         }, 
         {
             "values": {
+                "rating": "4.77777767181396", 
+                "sodium": 476, 
+                "cal": 562, 
+                "chol": 83, 
+                "fat": 29.9, 
                 "reviews": "1148", 
                 "time": 180, 
-                "score": "4.77777767181396", 
-                "cal": 562
+                "carb": 59.2, 
+                "protein": 5.6
             }, 
             "name": "Golden Rum Cake", 
             "key": 27628
         }, 
         {
             "values": {
+                "rating": "4.65106010437012", 
+                "sodium": 218, 
+                "cal": 525, 
+                "chol": 150, 
+                "fat": 27.7, 
                 "reviews": "894", 
                 "time": 180, 
-                "score": "4.65106010437012", 
-                "cal": 525
+                "carb": 63.9, 
+                "protein": 6.9
             }, 
             "name": "Cream Cheese Pound Cake III", 
             "key": 27630
         }, 
         {
             "values": {
+                "rating": "4.53584575653076", 
+                "sodium": 260, 
+                "cal": 430, 
+                "chol": 48, 
+                "fat": 26.5, 
                 "reviews": "905", 
                 "time": 170, 
-                "score": "4.53584575653076", 
-                "cal": 430
+                "carb": 46.5, 
+                "protein": 4.0
             }, 
             "name": "Awesome Carrot Cake with Cream Cheese Frosting", 
             "key": 27631
         }, 
         {
             "values": {
+                "rating": "3.98944592475891", 
+                "sodium": 114, 
+                "cal": 158, 
+                "chol": 30, 
+                "fat": 3.9, 
                 "reviews": "947", 
                 "time": 60, 
-                "score": "3.98944592475891", 
-                "cal": 158
+                "carb": 29.8, 
+                "protein": 3.2
             }, 
             "name": "Chocolate Cupcakes", 
             "key": 27632
         }, 
         {
             "values": {
+                "rating": "4.63841819763184", 
+                "sodium": 211, 
+                "cal": 193, 
+                "chol": 10, 
+                "fat": 7.6, 
                 "reviews": "925", 
                 "time": 180, 
-                "score": "4.63841819763184", 
-                "cal": 193
+                "carb": 29.3, 
+                "protein": 2.7
             }, 
             "name": "Better Than Sex Cake II", 
             "key": 27634
         }, 
         {
             "values": {
+                "rating": "4.60140562057495", 
+                "sodium": 161, 
+                "cal": 251, 
+                "chol": 36, 
+                "fat": 12.3, 
                 "reviews": "816", 
                 "time": 195, 
-                "score": "4.60140562057495", 
-                "cal": 251
+                "carb": 33.6, 
+                "protein": 2.4
             }, 
             "name": "Honey Bun Cake I", 
             "key": 27636
         }, 
         {
             "values": {
+                "rating": "4.68163681030273", 
+                "sodium": 608, 
+                "cal": 604, 
+                "chol": 144, 
+                "fat": 40.0, 
                 "reviews": "820", 
                 "time": 210, 
-                "score": "4.68163681030273", 
-                "cal": 604
+                "carb": 57.7, 
+                "protein": 8.8
             }, 
             "name": "Chocolate Lovers' Favorite Cake", 
             "key": 27637
         }, 
         {
             "values": {
+                "rating": "4.81281280517578", 
+                "sodium": 6, 
+                "cal": 142, 
+                "chol": 21, 
+                "fat": 10.8, 
                 "reviews": "756", 
                 "time": 40, 
-                "score": "4.81281280517578", 
-                "cal": 142
+                "carb": 9.4, 
+                "protein": 1.4
             }, 
             "name": "Chocolate Ganache", 
             "key": 27638
         }, 
         {
             "values": {
+                "rating": "4.52426481246948", 
+                "sodium": 215, 
+                "cal": 256, 
+                "chol": 42, 
+                "fat": 12.5, 
                 "reviews": "1032", 
                 "time": 200, 
-                "score": "4.52426481246948", 
-                "cal": 256
+                "carb": 34.0, 
+                "protein": 3.2
             }, 
             "name": "Chocolate Chip Cookie Dough + Cupcake = The BEST Cupcake. Ever.", 
             "key": 27639
         }, 
         {
             "values": {
+                "rating": "4.43502807617188", 
+                "sodium": 278, 
+                "cal": 360, 
+                "chol": 178, 
+                "fat": 18.8, 
                 "reviews": "1183", 
                 "time": 100, 
-                "score": "4.43502807617188", 
-                "cal": 360
+                "carb": 44.2, 
+                "protein": 4.3
             }, 
             "name": "David's Yellow Cake", 
             "key": 27641
         }, 
         {
             "values": {
+                "rating": "4.1990385055542", 
+                "sodium": 233, 
+                "cal": 393, 
+                "chol": 90, 
+                "fat": 15.4, 
                 "reviews": "864", 
                 "time": 80, 
-                "score": "4.1990385055542", 
-                "cal": 393
+                "carb": 59.3, 
+                "protein": 5.4
             }, 
             "name": "Strawberry Cake from Scratch", 
             "key": 27643
         }, 
         {
             "values": {
+                "rating": "4.68578767776489", 
+                "sodium": 306, 
+                "cal": 316, 
+                "chol": 93, 
+                "fat": 14.1, 
                 "reviews": "916", 
                 "time": 90, 
-                "score": "4.68578767776489", 
-                "cal": 316
+                "carb": 43.7, 
+                "protein": 4.9
             }, 
             "name": "Granny Kat's Pumpkin Roll", 
             "key": 27644
         }, 
         {
             "values": {
+                "rating": "4.41979265213013", 
+                "sodium": 174, 
+                "cal": 276, 
+                "chol": 57, 
+                "fat": 13.1, 
                 "reviews": "946", 
                 "time": 80, 
-                "score": "4.41979265213013", 
-                "cal": 276
+                "carb": 37.8, 
+                "protein": 3.2
             }, 
             "name": "Red Velvet Cupcakes", 
             "key": 27645
         }, 
         {
             "values": {
+                "rating": "4.67649841308594", 
+                "sodium": 54, 
+                "cal": 95, 
+                "chol": 18, 
+                "fat": 4.8, 
                 "reviews": "819", 
                 "time": 90, 
-                "score": "4.67649841308594", 
-                "cal": 95
+                "carb": 11.8, 
+                "protein": 1.3
             }, 
             "name": "Mini Cheesecakes I", 
             "key": 27646
         }, 
         {
             "values": {
+                "rating": "4.77568340301514", 
+                "sodium": 477, 
+                "cal": 590, 
+                "chol": 83, 
+                "fat": 30.1, 
                 "reviews": "851", 
                 "time": 165, 
-                "score": "4.77568340301514", 
-                "cal": 590
+                "carb": 68.4, 
+                "protein": 4.9
             }, 
             "name": "Irish Cream Bundt Cake", 
             "key": 27647
         }, 
         {
             "values": {
+                "rating": "4.66284990310669", 
+                "sodium": 458, 
+                "cal": 735, 
+                "chol": 187, 
+                "fat": 40.6, 
                 "reviews": "654", 
                 "time": 120, 
-                "score": "4.66284990310669", 
-                "cal": 735
+                "carb": 88.3, 
+                "protein": 9.1
             }, 
             "name": "German Chocolate Cake III", 
             "key": 27650
         }, 
         {
             "values": {
+                "rating": "4.71736526489258", 
+                "sodium": 324, 
+                "cal": 346, 
+                "chol": 52, 
+                "fat": 12.2, 
                 "reviews": "717", 
                 "time": 120, 
-                "score": "4.71736526489258", 
-                "cal": 346
+                "carb": 55.8, 
+                "protein": 5.5
             }, 
             "name": "A-Number-1 Banana Cake", 
             "key": 27651
         }, 
         {
             "values": {
+                "rating": "4.72797346115112", 
+                "sodium": 165, 
+                "cal": 341, 
+                "chol": 82, 
+                "fat": 23.4, 
                 "reviews": "714", 
                 "time": 340, 
-                "score": "4.72797346115112", 
-                "cal": 341
+                "carb": 30.3, 
+                "protein": 5.1
             }, 
             "name": "Autumn Cheesecake", 
             "key": 27654
         }, 
         {
             "values": {
+                "rating": "4.45408821105957", 
+                "sodium": 145, 
+                "cal": 171, 
+                "chol": 18, 
+                "fat": 8.9, 
                 "reviews": "610", 
                 "time": 120, 
-                "score": "4.45408821105957", 
-                "cal": 171
+                "carb": 22.4, 
+                "protein": 2.3
             }, 
             "name": "Black Bottom Cupcakes I", 
             "key": 27655
         }, 
         {
             "values": {
+                "rating": "4.44000005722046", 
+                "sodium": 201, 
+                "cal": 235, 
+                "chol": 38, 
+                "fat": 10.0, 
                 "reviews": "610", 
                 "time": 90, 
-                "score": "4.44000005722046", 
-                "cal": 235
+                "carb": 34.1, 
+                "protein": 2.9
             }, 
             "name": "Aunt Anne's Coffee Cake", 
             "key": 27657
         }, 
         {
             "values": {
+                "rating": "4.30010938644409", 
+                "sodium": 435, 
+                "cal": 375, 
+                "chol": 48, 
+                "fat": 11.2, 
                 "reviews": "736", 
                 "time": 190, 
-                "score": "4.30010938644409", 
-                "cal": 375
+                "carb": 65.3, 
+                "protein": 4.4
             }, 
             "name": "Favorite Old Fashioned Gingerbread", 
             "key": 27658
         }, 
         {
             "values": {
+                "rating": "4.76251459121704", 
+                "sodium": 404, 
+                "cal": 438, 
+                "chol": 53, 
+                "fat": 26.8, 
                 "reviews": "696", 
                 "time": 120, 
-                "score": "4.76251459121704", 
-                "cal": 438
+                "carb": 46.8, 
+                "protein": 5.3
             }, 
             "name": "Pumpkin Cake III", 
             "key": 27659
         }, 
         {
             "values": {
+                "rating": "4.61785364151001", 
+                "sodium": 467, 
+                "cal": 508, 
+                "chol": 117, 
+                "fat": 22.6, 
                 "reviews": "822", 
                 "time": 210, 
-                "score": "4.61785364151001", 
-                "cal": 508
+                "carb": 71.1, 
+                "protein": 6.2
             }, 
             "name": "Kentucky Butter Cake", 
             "key": 27660
         }, 
         {
             "values": {
+                "rating": "4.19030714035034", 
+                "sodium": 417, 
+                "cal": 336, 
+                "chol": 32, 
+                "fat": 12.2, 
                 "reviews": "714", 
                 "time": 180, 
-                "score": "4.19030714035034", 
-                "cal": 336
+                "carb": 52.1, 
+                "protein": 4.7
             }, 
             "name": "Heavenly White Cake", 
             "key": 27661
         }, 
         {
             "values": {
+                "rating": "4.60744285583496", 
+                "sodium": 180, 
+                "cal": 229, 
+                "chol": 62, 
+                "fat": 8.5, 
                 "reviews": "699", 
                 "time": 125, 
-                "score": "4.60744285583496", 
-                "cal": 229
+                "carb": 36.8, 
+                "protein": 5.2
             }, 
             "name": "Garbanzo Bean Chocolate Cake (Gluten Free!)", 
             "key": 27662
         }, 
         {
             "values": {
+                "rating": "4.65051555633545", 
+                "sodium": 223, 
+                "cal": 459, 
+                "chol": 80, 
+                "fat": 24.0, 
                 "reviews": "813", 
                 "time": 160, 
-                "score": "4.65051555633545", 
-                "cal": 459
+                "carb": 59.5, 
+                "protein": 4.1
             }, 
             "name": "Blueberry Sour Cream Coffee Cake", 
             "key": 27663
         }, 
         {
             "values": {
+                "rating": "4.59096765518188", 
+                "sodium": 443, 
+                "cal": 410, 
+                "chol": 73, 
+                "fat": 19.8, 
                 "reviews": "637", 
                 "time": 210, 
-                "score": "4.59096765518188", 
-                "cal": 410
+                "carb": 55.0, 
+                "protein": 4.2
             }, 
             "name": "Orange Cake", 
             "key": 27664
         }, 
         {
             "values": {
+                "rating": "4.6448826789856", 
+                "sodium": 200, 
+                "cal": 304, 
+                "chol": 6, 
+                "fat": 13.8, 
                 "reviews": "696", 
                 "time": 210, 
-                "score": "4.6448826789856", 
-                "cal": 304
+                "carb": 43.4, 
+                "protein": 3.0
             }, 
             "name": "Coconut Poke Cake", 
             "key": 27665
         }, 
         {
             "values": {
+                "rating": "4.67958641052246", 
+                "sodium": 346, 
+                "cal": 360, 
+                "chol": 20, 
+                "fat": 12.3, 
                 "reviews": "629", 
                 "time": 130, 
-                "score": "4.67958641052246", 
-                "cal": 360
+                "carb": 61.8, 
+                "protein": 2.0
             }, 
             "name": "Pineapple Upside-Down Cake VII", 
             "key": 27667
         }, 
         {
             "values": {
+                "rating": "4.61111116409302", 
+                "sodium": 221, 
+                "cal": 350, 
+                "chol": 101, 
+                "fat": 25.3, 
                 "reviews": "570", 
                 "time": 560, 
-                "score": "4.61111116409302", 
-                "cal": 350
+                "carb": 26.8, 
+                "protein": 5.8
             }, 
             "name": "Marbled Pumpkin Cheesecake", 
             "key": 27668
         }, 
         {
             "values": {
+                "rating": "4.8390941619873", 
+                "sodium": 303, 
+                "cal": 211, 
+                "chol": 51, 
+                "fat": 8.7, 
                 "reviews": "639", 
                 "time": 130, 
-                "score": "4.8390941619873", 
-                "cal": 211
+                "carb": 31.8, 
+                "protein": 2.4
             }, 
             "name": "Pumpkin Ginger Cupcakes", 
             "key": 27669
         }, 
         {
             "values": {
+                "rating": "4.24475526809692", 
+                "sodium": 331, 
+                "cal": 290, 
+                "chol": 1, 
+                "fat": 5.0, 
                 "reviews": "600", 
                 "time": 145, 
-                "score": "4.24475526809692", 
-                "cal": 290
+                "carb": 58.3, 
+                "protein": 3.1
             }, 
             "name": "Fresh Strawberry Upside Down Cake", 
             "key": 27670
         }, 
         {
             "values": {
+                "rating": "4.51833343505859", 
+                "sodium": 289, 
+                "cal": 489, 
+                "chol": 134, 
+                "fat": 18.3, 
                 "reviews": "511", 
                 "time": 210, 
-                "score": "4.51833343505859", 
-                "cal": 489
+                "carb": 75.1, 
+                "protein": 7.2
             }, 
             "name": "Buttermilk Pound Cake II", 
             "key": 27671
         }, 
         {
             "values": {
+                "rating": "4.60221862792969", 
+                "sodium": 399, 
+                "cal": 610, 
+                "chol": 231, 
+                "fat": 42.1, 
                 "reviews": "527", 
                 "time": 200, 
-                "score": "4.60221862792969", 
-                "cal": 610
+                "carb": 49.4, 
+                "protein": 11.1
             }, 
             "name": "Cheesecake Supreme", 
             "key": 27674
         }, 
         {
             "values": {
+                "rating": "4.70437383651733", 
+                "sodium": 280, 
+                "cal": 485, 
+                "chol": 85, 
+                "fat": 29.5, 
                 "reviews": "555", 
                 "time": 100, 
-                "score": "4.70437383651733", 
-                "cal": 485
+                "carb": 52.7, 
+                "protein": 4.9
             }, 
             "name": "Amazing Pecan Coffee Cake", 
             "key": 27676
         }, 
         {
             "values": {
+                "rating": "4.70752096176147", 
+                "sodium": 275, 
+                "cal": 211, 
+                "chol": 5, 
+                "fat": 6.6, 
                 "reviews": "580", 
                 "time": 100, 
-                "score": "4.70752096176147", 
-                "cal": 211
+                "carb": 35.3, 
+                "protein": 2.9
             }, 
             "name": "White Almond Wedding Cake", 
             "key": 27677
         }, 
         {
             "values": {
+                "rating": "4.48550701141357", 
+                "sodium": 171, 
+                "cal": 155, 
+                "chol": 11, 
+                "fat": 6.4, 
                 "reviews": "598", 
                 "time": 110, 
-                "score": "4.48550701141357", 
-                "cal": 155
+                "carb": 24.3, 
+                "protein": 1.2
             }, 
             "name": "Peach Cobbler Dump Cake I", 
             "key": 27678
         }, 
         {
             "values": {
+                "rating": "4.47398042678833", 
+                "sodium": 142, 
+                "cal": 306, 
+                "chol": 57, 
+                "fat": 14.9, 
                 "reviews": "591", 
                 "time": 110, 
-                "score": "4.47398042678833", 
-                "cal": 306
+                "carb": 41.4, 
+                "protein": 2.9
             }, 
             "name": "Sour Cream Coffee Cake III", 
             "key": 27682
         }, 
         {
             "values": {
+                "rating": "4.6557822227478", 
+                "sodium": 304, 
+                "cal": 275, 
+                "chol": 0, 
+                "fat": 9.7, 
                 "reviews": "621", 
                 "time": 120, 
-                "score": "4.6557822227478", 
-                "cal": 275
+                "carb": 44.6, 
+                "protein": 3.0
             }, 
             "name": "Vegan Chocolate Cake", 
             "key": 27683
         }, 
         {
             "values": {
+                "rating": "4.70948886871338", 
+                "sodium": 188, 
+                "cal": 269, 
+                "chol": 31, 
+                "fat": 17.5, 
                 "reviews": "570", 
                 "time": 130, 
-                "score": "4.70948886871338", 
-                "cal": 269
+                "carb": 27.2, 
+                "protein": 3.4
             }, 
             "name": "Chocolate Zucchini Cake III", 
             "key": 27685
         }, 
         {
             "values": {
+                "rating": "4.12043285369873", 
+                "sodium": 144, 
+                "cal": 142, 
+                "chol": 16, 
+                "fat": 5.0, 
                 "reviews": "636", 
                 "time": 110, 
-                "score": "4.12043285369873", 
-                "cal": 142
+                "carb": 22.5, 
+                "protein": 2.1
             }, 
             "name": "Cake Mixes from Scratch and Variations", 
             "key": 27686
         }, 
         {
             "values": {
+                "rating": "4.8006534576416", 
+                "sodium": 514, 
+                "cal": 553, 
+                "chol": 82, 
+                "fat": 36.2, 
                 "reviews": "488", 
                 "time": 240, 
-                "score": "4.8006534576416", 
-                "cal": 553
+                "carb": 50.1, 
+                "protein": 7.4
             }, 
             "name": "Sopapilla Cheesecake Dessert", 
             "key": 27688
         }, 
         {
             "values": {
+                "rating": "4.66415071487427", 
+                "sodium": 298, 
+                "cal": 457, 
+                "chol": 123, 
+                "fat": 29.2, 
                 "reviews": "412", 
                 "time": 660, 
-                "score": "4.66415071487427", 
-                "cal": 457
+                "carb": 42.4, 
+                "protein": 8.1
             }, 
             "name": "Irish Cream Chocolate Cheesecake", 
             "key": 27692
         }, 
         {
             "values": {
+                "rating": "4.56418895721436", 
+                "sodium": 109, 
+                "cal": 285, 
+                "chol": 100, 
+                "fat": 18.6, 
                 "reviews": "484", 
                 "time": 160, 
-                "score": "4.56418895721436", 
-                "cal": 285
+                "carb": 29.9, 
+                "protein": 4.5
             }, 
             "name": "Flourless Chocolate Cake II", 
             "key": 27693
         }, 
         {
             "values": {
+                "rating": "4.62934350967407", 
+                "sodium": 287, 
+                "cal": 337, 
+                "chol": 42, 
+                "fat": 19.9, 
                 "reviews": "426", 
                 "time": 210, 
-                "score": "4.62934350967407", 
-                "cal": 337
+                "carb": 38.1, 
+                "protein": 3.0
             }, 
             "name": "Mandarin Orange Cake I", 
             "key": 27694
         }, 
         {
             "values": {
+                "rating": "4.5240740776062", 
+                "sodium": 303, 
+                "cal": 401, 
+                "chol": 57, 
+                "fat": 16.3, 
                 "reviews": "457", 
                 "time": 160, 
-                "score": "4.5240740776062", 
-                "cal": 401
+                "carb": 61.1, 
+                "protein": 4.0
             }, 
             "name": "Blueberry Coffee Cake I", 
             "key": 27696
         }, 
         {
             "values": {
+                "rating": "4.74093246459961", 
+                "sodium": 145, 
+                "cal": 256, 
+                "chol": 36, 
+                "fat": 12.5, 
                 "reviews": "464", 
                 "time": 60, 
-                "score": "4.74093246459961", 
-                "cal": 256
+                "carb": 35.8, 
+                "protein": 2.4
             }, 
             "name": "Texas Sheet Cake V", 
             "key": 27697
         }, 
         {
             "values": {
+                "rating": "4.66233777999878", 
+                "sodium": 359, 
+                "cal": 320, 
+                "chol": 33, 
+                "fat": 11.3, 
                 "reviews": "459", 
                 "time": 110, 
-                "score": "4.66233777999878", 
-                "cal": 320
+                "carb": 53.2, 
+                "protein": 4.9
             }, 
             "name": "Dark Chocolate Cake II", 
             "key": 27699
         }, 
         {
             "values": {
+                "rating": "4.55449342727661", 
+                "sodium": 324, 
+                "cal": 322, 
+                "chol": 11, 
+                "fat": 9.8, 
                 "reviews": "403", 
                 "time": 120, 
-                "score": "4.55449342727661", 
-                "cal": 322
+                "carb": 57.7, 
+                "protein": 2.2
             }, 
             "name": "Pineapple Upside-Down Cake V", 
             "key": 27700
@@ -703,23 +1053,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

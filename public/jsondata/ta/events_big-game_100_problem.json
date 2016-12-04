@@ -2,820 +2,1230 @@
     "options": [
         {
             "values": {
+                "rating": "4.75918197631836", 
+                "sodium": 696, 
+                "cal": 356, 
+                "chol": 49, 
+                "fat": 27.2, 
                 "reviews": "1691", 
                 "time": 60, 
-                "score": "4.75918197631836", 
-                "cal": 356
+                "carb": 18.9, 
+                "protein": 9.0
             }, 
             "name": "Brown Sugar Smokies", 
             "key": 141902
         }, 
         {
             "values": {
+                "rating": "4.66546249389648", 
+                "sodium": 485, 
+                "cal": 153, 
+                "chol": 28, 
+                "fat": 12.3, 
                 "reviews": "1998", 
                 "time": 120, 
-                "score": "4.66546249389648", 
-                "cal": 153
+                "carb": 5.2, 
+                "protein": 6.6
             }, 
             "name": "Artichoke & Spinach Dip Restaurant Style", 
             "key": 141903
         }, 
         {
             "values": {
+                "rating": "4.74111795425415", 
+                "sodium": 189, 
+                "cal": 110, 
+                "chol": 20, 
+                "fat": 11.1, 
                 "reviews": "2738", 
                 "time": 26, 
-                "score": "4.74111795425415", 
-                "cal": 110
+                "carb": 1.0, 
+                "protein": 2.1
             }, 
             "name": "Jalapeno Popper Spread", 
             "key": 141904
         }, 
         {
             "values": {
+                "rating": "4.71482467651367", 
+                "sodium": 315, 
+                "cal": 134, 
+                "chol": 28, 
+                "fat": 11.7, 
                 "reviews": "1919", 
                 "time": 80, 
-                "score": "4.71482467651367", 
-                "cal": 134
+                "carb": 3.4, 
+                "protein": 4.4
             }, 
             "name": "Hot Artichoke and Spinach Dip II", 
             "key": 141905
         }, 
         {
             "values": {
+                "rating": "4.64448261260986", 
+                "sodium": 1267, 
+                "cal": 305, 
+                "chol": 55, 
+                "fat": 13.7, 
                 "reviews": "2095", 
                 "time": 230, 
-                "score": "4.64448261260986", 
-                "cal": 305
+                "carb": 25.5, 
+                "protein": 22.3
             }, 
             "name": "It's Chili by George!!", 
             "key": 141906
         }, 
         {
             "values": {
+                "rating": "4.60873460769653", 
+                "sodium": 990, 
+                "cal": 335, 
+                "chol": 49, 
+                "fat": 5.0, 
                 "reviews": "3234", 
                 "time": 860, 
-                "score": "4.60873460769653", 
-                "cal": 335
+                "carb": 49.4, 
+                "protein": 21.2
             }, 
             "name": "Slow Cooker Pulled Pork", 
             "key": 141907
         }, 
         {
             "values": {
+                "rating": "4.7885537147522", 
+                "sodium": 623, 
+                "cal": 355, 
+                "chol": 83, 
+                "fat": 18.1, 
                 "reviews": "2448", 
                 "time": 570, 
-                "score": "4.7885537147522", 
-                "cal": 355
+                "carb": 15.2, 
+                "protein": 30.2
             }, 
             "name": "BBQ Pork for Sandwiches", 
             "key": 141908
         }, 
         {
             "values": {
+                "rating": "4.77724361419678", 
+                "sodium": 462, 
+                "cal": 312, 
+                "chol": 0, 
+                "fat": 5.9, 
                 "reviews": "3218", 
                 "time": 70, 
-                "score": "4.77724361419678", 
-                "cal": 312
+                "carb": 59.0, 
+                "protein": 6.8
             }, 
             "name": "Annie's Fruit Salsa and Cinnamon Chips", 
             "key": 141909
         }, 
         {
             "values": {
+                "rating": "4.75", 
+                "sodium": 1171, 
+                "cal": 627, 
+                "chol": 70, 
+                "fat": 39.9, 
                 "reviews": "4", 
                 "time": 120, 
-                "score": "4.75", 
-                "cal": 627
+                "carb": 48.4, 
+                "protein": 20.7
             }, 
             "name": "Brat Nachos", 
             "key": 141910
         }, 
         {
             "values": {
+                "rating": "4.80295658111572", 
+                "sodium": 2092, 
+                "cal": 600, 
+                "chol": 70, 
+                "fat": 30.1, 
                 "reviews": "4188", 
                 "time": 300, 
-                "score": "4.80295658111572", 
-                "cal": 600
+                "carb": 55.3, 
+                "protein": 30.8
             }, 
             "name": "Boilermaker Tailgate Chili", 
             "key": 141911
         }, 
         {
             "values": {
+                "rating": "4.78230857849121", 
+                "sodium": 497, 
+                "cal": 364, 
+                "chol": 44, 
+                "fat": 32.4, 
                 "reviews": "2362", 
                 "time": 150, 
-                "score": "4.78230857849121", 
-                "cal": 364
+                "carb": 10.7, 
+                "protein": 7.9
             }, 
             "name": "Restaurant-Style Buffalo Chicken Wings", 
             "key": 141912
         }, 
         {
             "values": {
+                "rating": "4.61051464080811", 
+                "sodium": 82, 
+                "cal": 88, 
+                "chol": 22, 
+                "fat": 8.2, 
                 "reviews": "2607", 
                 "time": 90, 
-                "score": "4.61051464080811", 
-                "cal": 88
+                "carb": 1.5, 
+                "protein": 2.7
             }, 
             "name": "Mouth-Watering Stuffed Mushrooms", 
             "key": 141913
         }, 
         {
             "values": {
+                "rating": "4.34289455413818", 
+                "sodium": 2902, 
+                "cal": 578, 
+                "chol": 54, 
+                "fat": 14.0, 
                 "reviews": "1618", 
                 "time": 870, 
-                "score": "4.34289455413818", 
-                "cal": 578
+                "carb": 80.6, 
+                "protein": 31.3
             }, 
             "name": "Slow Cooker Buffalo Chicken Sandwiches", 
             "key": 141916
         }, 
         {
             "values": {
+                "rating": "4.65000009536743", 
+                "sodium": 1133, 
+                "cal": 453, 
+                "chol": 69, 
+                "fat": 31.7, 
                 "reviews": "36", 
                 "time": 50, 
-                "score": "4.65000009536743", 
-                "cal": 453
+                "carb": 22.5, 
+                "protein": 19.3
             }, 
             "name": "Italian Nachos Restaurant-Style", 
             "key": 141917
         }, 
         {
             "values": {
+                "rating": "4.70403099060059", 
+                "sodium": 552, 
+                "cal": 284, 
+                "chol": 54, 
+                "fat": 22.6, 
                 "reviews": "3274", 
                 "time": 90, 
-                "score": "4.70403099060059", 
-                "cal": 284
+                "carb": 8.6, 
+                "protein": 11.1
             }, 
             "name": "Buffalo Chicken Dip", 
             "key": 141918
         }, 
         {
             "values": {
+                "rating": "4.75676584243774", 
+                "sodium": 1366, 
+                "cal": 480, 
+                "chol": 96, 
+                "fat": 31.1, 
                 "reviews": "2139", 
                 "time": 140, 
-                "score": "4.75676584243774", 
-                "cal": 480
+                "carb": 24.9, 
+                "protein": 26.7
             }, 
             "name": "Debdoozie's Blue Ribbon Chili", 
             "key": 141919
         }, 
         {
             "values": {
+                "rating": "4.5151515007019", 
+                "sodium": 1547, 
+                "cal": 386, 
+                "chol": 50, 
+                "fat": 15.1, 
                 "reviews": "28", 
                 "time": 55, 
-                "score": "4.5151515007019", 
-                "cal": 386
+                "carb": 39.1, 
+                "protein": 25.3
             }, 
             "name": "Touchdown Pizza", 
             "key": 141920
         }, 
         {
             "values": {
+                "rating": "4.36785554885864", 
+                "sodium": 1307, 
+                "cal": 393, 
+                "chol": 48, 
+                "fat": 15.6, 
                 "reviews": "1684", 
                 "time": 150, 
-                "score": "4.36785554885864", 
-                "cal": 393
+                "carb": 49.6, 
+                "protein": 16.8
             }, 
             "name": "Caramelized Baked Chicken", 
             "key": 141921
         }, 
         {
             "values": {
+                "rating": "4.6701979637146", 
+                "sodium": 1896, 
+                "cal": 684, 
+                "chol": 102, 
+                "fat": 16.8, 
                 "reviews": "1677", 
                 "time": 60, 
-                "score": "4.6701979637146", 
-                "cal": 684
+                "carb": 74.9, 
+                "protein": 59.1
             }, 
             "name": "Cha Cha's White Chicken Chili", 
             "key": 141922
         }, 
         {
             "values": {
+                "rating": "4.67293548583984", 
+                "sodium": 1597, 
+                "cal": 434, 
+                "chol": 68, 
+                "fat": 17.7, 
                 "reviews": "4641", 
                 "time": 870, 
-                "score": "4.67293548583984", 
-                "cal": 434
+                "carb": 42.3, 
+                "protein": 27.2
             }, 
             "name": "Slow Cooker Chicken Taco Soup", 
             "key": 141923
         }, 
         {
             "values": {
+                "rating": "4.52970790863037", 
+                "sodium": 110, 
+                "cal": 183, 
+                "chol": 44, 
+                "fat": 9.0, 
                 "reviews": "7367", 
                 "time": 120, 
-                "score": "4.52970790863037", 
-                "cal": 183
+                "carb": 25.7, 
+                "protein": 1.8
             }, 
             "name": "Best Brownies", 
             "key": 141924
         }, 
         {
             "values": {
+                "rating": "4.63562774658203", 
+                "sodium": 271, 
+                "cal": 115, 
+                "chol": 29, 
+                "fat": 9.5, 
                 "reviews": "579", 
                 "time": 30, 
-                "score": "4.63562774658203", 
-                "cal": 115
+                "carb": 1.9, 
+                "protein": 5.6
             }, 
             "name": "Hot Pizza Dip", 
             "key": 141925
         }, 
         {
             "values": {
+                "rating": "4.68867921829224", 
+                "sodium": 1112, 
+                "cal": 675, 
+                "chol": 158, 
+                "fat": 44.3, 
                 "reviews": "1005", 
                 "time": 120, 
-                "score": "4.68867921829224", 
-                "cal": 675
+                "carb": 51.4, 
+                "protein": 18.9
             }, 
             "name": "Japanese Chicken Wings", 
             "key": 141926
         }, 
         {
             "values": {
+                "rating": "4.5135440826416", 
+                "sodium": 790, 
+                "cal": 527, 
+                "chol": 98, 
+                "fat": 23.1, 
                 "reviews": "1297", 
                 "time": 630, 
-                "score": "4.5135440826416", 
-                "cal": 527
+                "carb": 45.5, 
+                "protein": 31.9
             }, 
             "name": "Slow Cooker Texas Pulled Pork", 
             "key": 141927
         }, 
         {
             "values": {
+                "rating": "4.77861642837524", 
+                "sodium": 458, 
+                "cal": 163, 
+                "chol": 26, 
+                "fat": 10.5, 
                 "reviews": "1200", 
                 "time": 180, 
-                "score": "4.77861642837524", 
-                "cal": 163
+                "carb": 10.7, 
+                "protein": 6.5
             }, 
             "name": "Bacon Wrapped Smokies", 
             "key": 141928
         }, 
         {
             "values": {
+                "rating": "4.58892345428467", 
+                "sodium": 223, 
+                "cal": 187, 
+                "chol": 197, 
+                "fat": 17.0, 
                 "reviews": "909", 
                 "time": 80, 
-                "score": "4.58892345428467", 
-                "cal": 187
+                "carb": 0.8, 
+                "protein": 7.9
             }, 
             "name": "Bacon Cheddar Deviled Eggs", 
             "key": 141929
         }, 
         {
             "values": {
+                "rating": "4.72867059707642", 
+                "sodium": 1246, 
+                "cal": 347, 
+                "chol": 68, 
+                "fat": 19.9, 
                 "reviews": "1519", 
                 "time": 210, 
-                "score": "4.72867059707642", 
-                "cal": 347
+                "carb": 22.6, 
+                "protein": 21.4
             }, 
             "name": "Flatlander Chili", 
             "key": 141930
         }, 
         {
             "values": {
+                "rating": "4.5896258354187", 
+                "sodium": 144, 
+                "cal": 292, 
+                "chol": 27, 
+                "fat": 11.0, 
                 "reviews": "1211", 
                 "time": 110, 
-                "score": "4.5896258354187", 
-                "cal": 292
+                "carb": 47.0, 
+                "protein": 2.7
             }, 
             "name": "Delicious Raspberry Oatmeal Cookie Bars", 
             "key": 141932
         }, 
         {
             "values": {
+                "rating": "4.56872749328613", 
+                "sodium": 94, 
+                "cal": 143, 
+                "chol": 19, 
+                "fat": 5.7, 
                 "reviews": "1089", 
                 "time": 110, 
-                "score": "4.56872749328613", 
-                "cal": 143
+                "carb": 22.1, 
+                "protein": 1.8
             }, 
             "name": "Apple Squares", 
             "key": 141933
         }, 
         {
             "values": {
+                "rating": "4.7066764831543", 
+                "sodium": 577, 
+                "cal": 391, 
+                "chol": 79, 
+                "fat": 38.3, 
                 "reviews": "1068", 
                 "time": 40, 
-                "score": "4.7066764831543", 
-                "cal": 391
+                "carb": 2.2, 
+                "protein": 9.5
             }, 
             "name": "Grilled Bacon Jalapeno Wraps", 
             "key": 141935
         }, 
         {
             "values": {
+                "rating": "4.6806206703186", 
+                "sodium": 524, 
+                "cal": 655, 
+                "chol": 64, 
+                "fat": 24.6, 
                 "reviews": "1712", 
                 "time": 130, 
-                "score": "4.6806206703186", 
-                "cal": 655
+                "carb": 111.1, 
+                "protein": 7.3
             }, 
             "name": "Extreme Chocolate Cake", 
             "key": 141936
         }, 
         {
             "values": {
+                "rating": "4.56547927856445", 
+                "sodium": 450, 
+                "cal": 185, 
+                "chol": 42, 
+                "fat": 6.1, 
                 "reviews": "1371", 
                 "time": 120, 
-                "score": "4.56547927856445", 
-                "cal": 185
+                "carb": 18.8, 
+                "protein": 16.4
             }, 
             "name": "Simple Turkey Chili", 
             "key": 141937
         }, 
         {
             "values": {
+                "rating": "4.52426481246948", 
+                "sodium": 215, 
+                "cal": 256, 
+                "chol": 42, 
+                "fat": 12.5, 
                 "reviews": "1032", 
                 "time": 200, 
-                "score": "4.52426481246948", 
-                "cal": 256
+                "carb": 34.0, 
+                "protein": 3.2
             }, 
             "name": "Chocolate Chip Cookie Dough + Cupcake = The BEST Cupcake. Ever.", 
             "key": 141938
         }, 
         {
             "values": {
+                "rating": "4.63801240921021", 
+                "sodium": 547, 
+                "cal": 276, 
+                "chol": 42, 
+                "fat": 7.6, 
                 "reviews": "872", 
                 "time": 510, 
-                "score": "4.63801240921021", 
-                "cal": 276
+                "carb": 32.8, 
+                "protein": 21.2
             }, 
             "name": "Laura's Quick Slow Cooker Turkey Chili", 
             "key": 141939
         }, 
         {
             "values": {
+                "rating": "4.82089567184448", 
+                "sodium": 1720, 
+                "cal": 1043, 
+                "chol": 234, 
+                "fat": 68.5, 
                 "reviews": "920", 
                 "time": 360, 
-                "score": "4.82089567184448", 
-                "cal": 1043
+                "carb": 54.7, 
+                "protein": 50.7
             }, 
             "name": "Scott Hibb's Amazing Whisky Grilled Baby Back Ribs", 
             "key": 141941
         }, 
         {
             "values": {
+                "rating": "4.64326000213623", 
+                "sodium": 1414, 
+                "cal": 532, 
+                "chol": 57, 
+                "fat": 16.1, 
                 "reviews": "1272", 
                 "time": 280, 
-                "score": "4.64326000213623", 
-                "cal": 532
+                "carb": 65.3, 
+                "protein": 32.4
             }, 
             "name": "Chili I", 
             "key": 141942
         }, 
         {
             "values": {
+                "rating": "4.45390892028809", 
+                "sodium": 85, 
+                "cal": 193, 
+                "chol": 53, 
+                "fat": 10.2, 
                 "reviews": "1229", 
                 "time": 210, 
-                "score": "4.45390892028809", 
-                "cal": 193
+                "carb": 15.2, 
+                "protein": 9.8
             }, 
             "name": "Cocktail Meatballs", 
             "key": 141943
         }, 
         {
             "values": {
+                "rating": "4.49479961395264", 
+                "sodium": 1840, 
+                "cal": 785, 
+                "chol": 83, 
+                "fat": 40.7, 
                 "reviews": "1054", 
                 "time": 110, 
-                "score": "4.49479961395264", 
-                "cal": 785
+                "carb": 66.6, 
+                "protein": 37.1
             }, 
             "name": "Buffalo Style Chicken Pizza", 
             "key": 141944
         }, 
         {
             "values": {
+                "rating": "4.4819712638855", 
+                "sodium": 358, 
+                "cal": 477, 
+                "chol": 58, 
+                "fat": 23.2, 
                 "reviews": "1248", 
                 "time": 100, 
-                "score": "4.4819712638855", 
-                "cal": 477
+                "carb": 65.4, 
+                "protein": 5.6
             }, 
             "name": "Blonde Brownies I", 
             "key": 141945
         }, 
         {
             "values": {
+                "rating": "4.62819385528564", 
+                "sodium": 333, 
+                "cal": 613, 
+                "chol": 149, 
+                "fat": 53.2, 
                 "reviews": "874", 
                 "time": 100, 
-                "score": "4.62819385528564", 
-                "cal": 613
+                "carb": 6.6, 
+                "protein": 26.6
             }, 
             "name": "The Best Meatballs", 
             "key": 141946
         }, 
         {
             "values": {
+                "rating": "4.49684858322144", 
+                "sodium": 477, 
+                "cal": 229, 
+                "chol": 37, 
+                "fat": 14.5, 
                 "reviews": "710", 
                 "time": 155, 
-                "score": "4.49684858322144", 
-                "cal": 229
+                "carb": 18.6, 
+                "protein": 5.9
             }, 
             "name": "Party Pinwheels", 
             "key": 141947
         }, 
         {
             "values": {
+                "rating": "4.60545635223389", 
+                "sodium": 504, 
+                "cal": 244, 
+                "chol": 35, 
+                "fat": 11.3, 
                 "reviews": "618", 
                 "time": 110, 
-                "score": "4.60545635223389", 
-                "cal": 244
+                "carb": 21.8, 
+                "protein": 13.7
             }, 
             "name": "Chicken Quesadillas", 
             "key": 141948
         }, 
         {
             "values": {
+                "rating": "4.44376611709595", 
+                "sodium": 258, 
+                "cal": 125, 
+                "chol": 32, 
+                "fat": 9.2, 
                 "reviews": "895", 
                 "time": 180, 
-                "score": "4.44376611709595", 
-                "cal": 125
+                "carb": 3.8, 
+                "protein": 6.8
             }, 
             "name": "Baked Buffalo Wings", 
             "key": 141949
         }, 
         {
             "values": {
+                "rating": "4.58721542358398", 
+                "sodium": 756, 
+                "cal": 580, 
+                "chol": 99, 
+                "fat": 36.3, 
                 "reviews": "687", 
                 "time": 96, 
-                "score": "4.58721542358398", 
-                "cal": 580
+                "carb": 36.3, 
+                "protein": 26.7
             }, 
             "name": "Chicken and Broccoli Braid", 
             "key": 141950
         }, 
         {
             "values": {
+                "rating": "4.3725118637085", 
+                "sodium": 1366, 
+                "cal": 396, 
+                "chol": 92, 
+                "fat": 17.3, 
                 "reviews": "841", 
                 "time": 90, 
-                "score": "4.3725118637085", 
-                "cal": 396
+                "carb": 26.7, 
+                "protein": 31.5
             }, 
             "name": "White Chili with Ground Turkey", 
             "key": 141952
         }, 
         {
             "values": {
+                "rating": "4.52804660797119", 
+                "sodium": 301, 
+                "cal": 181, 
+                "chol": 22, 
+                "fat": 17.8, 
                 "reviews": "828", 
                 "time": 40, 
-                "score": "4.52804660797119", 
-                "cal": 181
+                "carb": 1.5, 
+                "protein": 4.1
             }, 
             "name": "BLT Dip", 
             "key": 141953
         }, 
         {
             "values": {
+                "rating": "4.28409099578857", 
+                "sodium": 321, 
+                "cal": 285, 
+                "chol": 76, 
+                "fat": 16.6, 
                 "reviews": "788", 
                 "time": 60, 
-                "score": "4.28409099578857", 
-                "cal": 285
+                "carb": 14.9, 
+                "protein": 21.2
             }, 
             "name": "Pumpkin Turkey Chili", 
             "key": 141956
         }, 
         {
             "values": {
+                "rating": "4.6914701461792", 
+                "sodium": 786, 
+                "cal": 220, 
+                "chol": 40, 
+                "fat": 6.1, 
                 "reviews": "847", 
                 "time": 70, 
-                "score": "4.6914701461792", 
-                "cal": 220
+                "carb": 21.2, 
+                "protein": 20.1
             }, 
             "name": "White Bean Chicken Chili", 
             "key": 141957
         }, 
         {
             "values": {
+                "rating": "4.64384937286377", 
+                "sodium": 430, 
+                "cal": 216, 
+                "chol": 18, 
+                "fat": 15.1, 
                 "reviews": "782", 
                 "time": 84, 
-                "score": "4.64384937286377", 
-                "cal": 216
+                "carb": 15.0, 
+                "protein": 5.3
             }, 
             "name": "Bacon and Tomato Cups", 
             "key": 141959
         }, 
         {
             "values": {
+                "rating": "4.61693954467773", 
+                "sodium": 110, 
+                "cal": 149, 
+                "chol": 20, 
+                "fat": 12.0, 
                 "reviews": "846", 
                 "time": 120, 
-                "score": "4.61693954467773", 
-                "cal": 149
+                "carb": 6.8, 
+                "protein": 3.9
             }, 
             "name": "Best Ever Jalapeno Poppers", 
             "key": 141960
         }, 
         {
             "values": {
+                "rating": "4.49221181869507", 
+                "sodium": 969, 
+                "cal": 366, 
+                "chol": 56, 
+                "fat": 9.2, 
                 "reviews": "726", 
                 "time": 190, 
-                "score": "4.49221181869507", 
-                "cal": 366
+                "carb": 44.1, 
+                "protein": 29.6
             }, 
             "name": "Fantastic Black Bean Chili", 
             "key": 141962
         }, 
         {
             "values": {
+                "rating": "4.80595254898071", 
+                "sodium": 2334, 
+                "cal": 710, 
+                "chol": 136, 
+                "fat": 46.9, 
                 "reviews": "621", 
                 "time": 80, 
-                "score": "4.80595254898071", 
-                "cal": 710
+                "carb": 43.7, 
+                "protein": 28.0
             }, 
             "name": "Boneless Buffalo Wings", 
             "key": 141964
         }, 
         {
             "values": {
+                "rating": "4.77246856689453", 
+                "sodium": 1521, 
+                "cal": 506, 
+                "chol": 125, 
+                "fat": 31.9, 
                 "reviews": "643", 
                 "time": 140, 
-                "score": "4.77246856689453", 
-                "cal": 506
+                "carb": 24.1, 
+                "protein": 34.7
             }, 
             "name": "Terrific Turkey Chili", 
             "key": 141965
         }, 
         {
             "values": {
+                "rating": "4.52132034301758", 
+                "sodium": 1012, 
+                "cal": 188, 
+                "chol": 41, 
+                "fat": 2.3, 
                 "reviews": "539", 
                 "time": 1470, 
-                "score": "4.52132034301758", 
-                "cal": 188
+                "carb": 22.6, 
+                "protein": 20.4
             }, 
             "name": "Chicken and Corn Chili", 
             "key": 141966
         }, 
         {
             "values": {
+                "rating": "4.55006837844849", 
+                "sodium": 141, 
+                "cal": 50, 
+                "chol": 7, 
+                "fat": 4.0, 
                 "reviews": "555", 
                 "time": 70, 
-                "score": "4.55006837844849", 
-                "cal": 50
+                "carb": 2.4, 
+                "protein": 1.5
             }, 
             "name": "Luscious Spinach Artichoke Dip", 
             "key": 141967
         }, 
         {
             "values": {
+                "rating": "4.79336357116699", 
+                "sodium": 1100, 
+                "cal": 328, 
+                "chol": 84, 
+                "fat": 13.9, 
                 "reviews": "498", 
                 "time": 170, 
-                "score": "4.79336357116699", 
-                "cal": 328
+                "carb": 24.8, 
+                "protein": 28.1
             }, 
             "name": "Smokin' Scovilles Turkey Chili", 
             "key": 141968
         }, 
         {
             "values": {
+                "rating": "4.63562774658203", 
+                "sodium": 271, 
+                "cal": 115, 
+                "chol": 29, 
+                "fat": 9.5, 
                 "reviews": "579", 
                 "time": 30, 
-                "score": "4.63562774658203", 
-                "cal": 115
+                "carb": 1.9, 
+                "protein": 5.6
             }, 
             "name": "Hot Pizza Dip", 
             "key": 141969
         }, 
         {
             "values": {
+                "rating": "4.77865600585938", 
+                "sodium": 601, 
+                "cal": 362, 
+                "chol": 58, 
+                "fat": 34.3, 
                 "reviews": "561", 
                 "time": 90, 
-                "score": "4.77865600585938", 
-                "cal": 362
+                "carb": 4.3, 
+                "protein": 9.2
             }, 
             "name": "Sausage Stuffed Jalapenos", 
             "key": 141970
         }, 
         {
             "values": {
+                "rating": "4.70391082763672", 
+                "sodium": 1291, 
+                "cal": 452, 
+                "chol": 104, 
+                "fat": 29.1, 
                 "reviews": "579", 
                 "time": 120, 
-                "score": "4.70391082763672", 
-                "cal": 452
+                "carb": 25.3, 
+                "protein": 20.0
             }, 
             "name": "Antipasto Squares", 
             "key": 141971
         }, 
         {
             "values": {
+                "rating": "4.46704053878784", 
+                "sodium": 1650, 
+                "cal": 773, 
+                "chol": 210, 
+                "fat": 43.6, 
                 "reviews": "554", 
                 "time": 130, 
-                "score": "4.46704053878784", 
-                "cal": 773
+                "carb": 43.1, 
+                "protein": 51.9
             }, 
             "name": "Mahogany Chicken Wings", 
             "key": 141972
         }, 
         {
             "values": {
+                "rating": "4.36190462112427", 
+                "sodium": 758, 
+                "cal": 235, 
+                "chol": 24, 
+                "fat": 13.1, 
                 "reviews": "521", 
                 "time": 64, 
-                "score": "4.36190462112427", 
-                "cal": 235
+                "carb": 16.4, 
+                "protein": 11.0
             }, 
             "name": "Pizza Pinwheels", 
             "key": 141973
         }, 
         {
             "values": {
+                "rating": "4.25226402282715", 
+                "sodium": 975, 
+                "cal": 273, 
+                "chol": 34, 
+                "fat": 7.6, 
                 "reviews": "571", 
                 "time": 990, 
-                "score": "4.25226402282715", 
-                "cal": 273
+                "carb": 33.4, 
+                "protein": 18.9
             }, 
             "name": "Slow Cooker Chili II", 
             "key": 141974
         }, 
         {
             "values": {
+                "rating": "4.53459978103638", 
+                "sodium": 77, 
+                "cal": 318, 
+                "chol": 12, 
+                "fat": 14.4, 
                 "reviews": "591", 
                 "time": 120, 
-                "score": "4.53459978103638", 
-                "cal": 318
+                "carb": 45.3, 
+                "protein": 3.3
             }, 
             "name": "Blueberry Crumb Bars", 
             "key": 141976
         }, 
         {
             "values": {
+                "rating": "4.57314157485962", 
+                "sodium": 428, 
+                "cal": 232, 
+                "chol": 36, 
+                "fat": 13.2, 
                 "reviews": "645", 
                 "time": 100, 
-                "score": "4.57314157485962", 
-                "cal": 232
+                "carb": 16.1, 
+                "protein": 12.0
             }, 
             "name": "Slider-Style Mini Burgers", 
             "key": 141977
         }, 
         {
             "values": {
+                "rating": "4.53856563568115", 
+                "sodium": 479, 
+                "cal": 427, 
+                "chol": 124, 
+                "fat": 16.5, 
                 "reviews": "570", 
                 "time": 115, 
-                "score": "4.53856563568115", 
-                "cal": 427
+                "carb": 42.1, 
+                "protein": 27.4
             }, 
             "name": "Lana's Sweet and Sour Meatballs", 
             "key": 141978
         }, 
         {
             "values": {
+                "rating": "4.38780498504639", 
+                "sodium": 966, 
+                "cal": 260, 
+                "chol": 1, 
+                "fat": 2.0, 
                 "reviews": "579", 
                 "time": 260, 
-                "score": "4.38780498504639", 
-                "cal": 260
+                "carb": 52.6, 
+                "protein": 12.4
             }, 
             "name": "Grandma's Slow Cooker Vegetarian Chili", 
             "key": 141980
         }, 
         {
             "values": {
+                "rating": "4.64394998550415", 
+                "sodium": 164, 
+                "cal": 75, 
+                "chol": 15, 
+                "fat": 4.8, 
                 "reviews": "547", 
                 "time": 110, 
-                "score": "4.64394998550415", 
-                "cal": 75
+                "carb": 6.0, 
+                "protein": 1.8
             }, 
             "name": "Garden Veggie Pizza Squares", 
             "key": 141981
         }, 
         {
             "values": {
+                "rating": "4.59277725219727", 
+                "sodium": 38, 
+                "cal": 179, 
+                "chol": 8, 
+                "fat": 8.1, 
                 "reviews": "653", 
                 "time": 60, 
-                "score": "4.59277725219727", 
-                "cal": 179
+                "carb": 24.8, 
+                "protein": 3.9
             }, 
             "name": "Easy Granola Bars", 
             "key": 141983
         }, 
         {
             "values": {
+                "rating": "4.70166444778442", 
+                "sodium": 357, 
+                "cal": 240, 
+                "chol": 57, 
+                "fat": 21.8, 
                 "reviews": "622", 
                 "time": 80, 
-                "score": "4.70166444778442", 
-                "cal": 240
+                "carb": 1.6, 
+                "protein": 9.4
             }, 
             "name": "Chicken Wing Dip", 
             "key": 141984
         }, 
         {
             "values": {
+                "rating": "4.31878805160522", 
+                "sodium": 1449, 
+                "cal": 387, 
+                "chol": 140, 
+                "fat": 27.6, 
                 "reviews": "642", 
                 "time": 120, 
-                "score": "4.31878805160522", 
-                "cal": 387
+                "carb": 12.0, 
+                "protein": 23.9
             }, 
             "name": "Chili Rellenos Casserole", 
             "key": 141985
         }, 
         {
             "values": {
+                "rating": "4.46974515914917", 
+                "sodium": 203, 
+                "cal": 82, 
+                "chol": 19, 
+                "fat": 6.0, 
                 "reviews": "458", 
                 "time": 90, 
-                "score": "4.46974515914917", 
-                "cal": 82
+                "carb": 3.1, 
+                "protein": 4.3
             }, 
             "name": "Hot Artichoke Spinach Dip", 
             "key": 141987
         }, 
         {
             "values": {
+                "rating": "4.60761594772339", 
+                "sodium": 608, 
+                "cal": 326, 
+                "chol": 76, 
+                "fat": 17.4, 
                 "reviews": "376", 
                 "time": 540, 
-                "score": "4.60761594772339", 
-                "cal": 326
+                "carb": 19.2, 
+                "protein": 24.0
             }, 
             "name": "Sensational Sirloin Kabobs", 
             "key": 141988
         }, 
         {
             "values": {
+                "rating": "4.40540552139282", 
+                "sodium": 815, 
+                "cal": 516, 
+                "chol": 122, 
+                "fat": 16.8, 
                 "reviews": "443", 
                 "time": 110, 
-                "score": "4.40540552139282", 
-                "cal": 516
+                "carb": 67.1, 
+                "protein": 24.5
             }, 
             "name": "The Best Sweet and Sour Meatballs", 
             "key": 141989
         }, 
         {
             "values": {
+                "rating": "4.22990369796753", 
+                "sodium": 1323, 
+                "cal": 491, 
+                "chol": 62, 
+                "fat": 28.8, 
                 "reviews": "480", 
                 "time": 90, 
-                "score": "4.22990369796753", 
-                "cal": 491
+                "carb": 39.4, 
+                "protein": 19.7
             }, 
             "name": "Chili Dog Casserole II", 
             "key": 141990
         }, 
         {
             "values": {
+                "rating": "4.65107917785645", 
+                "sodium": 91, 
+                "cal": 148, 
+                "chol": 9, 
+                "fat": 8.6, 
                 "reviews": "445", 
                 "time": 120, 
-                "score": "4.65107917785645", 
-                "cal": 148
+                "carb": 16.7, 
+                "protein": 1.9
             }, 
             "name": "Cookie Balls", 
             "key": 141991
         }, 
         {
             "values": {
+                "rating": "4.00802564620972", 
+                "sodium": 1875, 
+                "cal": 1046, 
+                "chol": 153, 
+                "fat": 64.7, 
                 "reviews": "494", 
                 "time": 120, 
-                "score": "4.00802564620972", 
-                "cal": 1046
+                "carb": 74.3, 
+                "protein": 40.8
             }, 
             "name": "Italian Meatball Sandwich Casserole", 
             "key": 141993
         }, 
         {
             "values": {
+                "rating": "4.48399257659912", 
+                "sodium": 423, 
+                "cal": 155, 
+                "chol": 0, 
+                "fat": 3.0, 
                 "reviews": "413", 
                 "time": 110, 
-                "score": "4.48399257659912", 
-                "cal": 155
+                "carb": 29.0, 
+                "protein": 6.8
             }, 
             "name": "Insanely Easy Vegetarian Chili", 
             "key": 141994
         }, 
         {
             "values": {
+                "rating": "4.15140867233276", 
+                "sodium": 503, 
+                "cal": 179, 
+                "chol": 38, 
+                "fat": 7.2, 
                 "reviews": "414", 
                 "time": 1000, 
-                "score": "4.15140867233276", 
-                "cal": 179
+                "carb": 18.2, 
+                "protein": 10.6
             }, 
             "name": "Easy Slow Cooker Meatballs", 
             "key": 141996
         }, 
         {
             "values": {
+                "rating": "4.45300769805908", 
+                "sodium": 490, 
+                "cal": 357, 
+                "chol": 81, 
+                "fat": 9.7, 
                 "reviews": "392", 
                 "time": 70, 
-                "score": "4.45300769805908", 
-                "cal": 357
+                "carb": 27.8, 
+                "protein": 39.3
             }, 
             "name": "White Chili I", 
             "key": 141997
         }, 
         {
             "values": {
+                "rating": "4.58645296096802", 
+                "sodium": 848, 
+                "cal": 370, 
+                "chol": 55, 
+                "fat": 18.6, 
                 "reviews": "409", 
                 "time": 90, 
-                "score": "4.58645296096802", 
-                "cal": 370
+                "carb": 31.6, 
+                "protein": 19.6
             }, 
             "name": "Jimmy's Mexican Pizza", 
             "key": 141998
         }, 
         {
             "values": {
+                "rating": "4.44610261917114", 
+                "sodium": 318, 
+                "cal": 198, 
+                "chol": 42, 
+                "fat": 11.5, 
                 "reviews": "457", 
                 "time": 90, 
-                "score": "4.44610261917114", 
-                "cal": 198
+                "carb": 15.3, 
+                "protein": 8.4
             }, 
             "name": "Crab Dip", 
             "key": 141999
         }, 
         {
             "values": {
+                "rating": "4.63636350631714", 
+                "sodium": 305, 
+                "cal": 82, 
+                "chol": 11, 
+                "fat": 0.7, 
                 "reviews": "421", 
                 "time": 100, 
-                "score": "4.63636350631714", 
-                "cal": 82
+                "carb": 15.8, 
+                "protein": 3.3
             }, 
             "name": "Vietnamese Fresh Spring Rolls", 
             "key": 142000
@@ -823,23 +1233,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

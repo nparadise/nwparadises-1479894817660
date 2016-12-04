@@ -2,750 +2,1125 @@
     "options": [
         {
             "values": {
+                "rating": "4.42789602279663", 
+                "sodium": 878, 
+                "cal": 265, 
+                "chol": 20, 
+                "fat": 4.3, 
                 "reviews": "314", 
                 "time": 120, 
-                "score": "4.42789602279663", 
-                "cal": 265
+                "carb": 44.7, 
+                "protein": 14.1
             }, 
             "name": "Moroccan Tagine", 
             "key": 73901
         }, 
         {
             "values": {
+                "rating": "4.18886184692383", 
+                "sodium": 625, 
+                "cal": 290, 
+                "chol": 66, 
+                "fat": 2.0, 
                 "reviews": "322", 
                 "time": 530, 
-                "score": "4.18886184692383", 
-                "cal": 290
+                "carb": 36.0, 
+                "protein": 30.6
             }, 
             "name": "Slow Cooker Chicken Marrakesh", 
             "key": 73902
         }, 
         {
             "values": {
+                "rating": "4.33572721481323", 
+                "sodium": 196, 
+                "cal": 83, 
+                "chol": 0, 
+                "fat": 0.6, 
                 "reviews": "428", 
                 "time": 40, 
-                "score": "4.33572721481323", 
-                "cal": 83
+                "carb": 17.4, 
+                "protein": 3.5
             }, 
             "name": "Whole Wheat and Honey Pizza Dough", 
             "key": 73904
         }, 
         {
             "values": {
+                "rating": "4.49689435958862", 
+                "sodium": 572, 
+                "cal": 192, 
+                "chol": 0, 
+                "fat": 2.6, 
                 "reviews": "793", 
                 "time": 80, 
-                "score": "4.49689435958862", 
-                "cal": 192
+                "carb": 32.5, 
+                "protein": 12.1
             }, 
             "name": "Red Lentil Curry", 
             "key": 73905
         }, 
         {
             "values": {
+                "rating": "4.33991241455078", 
+                "sodium": 47, 
+                "cal": 132, 
+                "chol": 0, 
+                "fat": 1.9, 
                 "reviews": "319", 
                 "time": 110, 
-                "score": "4.33991241455078", 
-                "cal": 132
+                "carb": 27.0, 
+                "protein": 2.6
             }, 
             "name": "Baked Sweet Potato Sticks", 
             "key": 73908
         }, 
         {
             "values": {
+                "rating": "4.46315813064575", 
+                "sodium": 434, 
+                "cal": 143, 
+                "chol": 0, 
+                "fat": 3.3, 
                 "reviews": "66", 
                 "time": 180, 
-                "score": "4.46315813064575", 
-                "cal": 143
+                "carb": 26.9, 
+                "protein": 3.2
             }, 
             "name": "Roasted Sweet Potato Corn Chowder", 
             "key": 73909
         }, 
         {
             "values": {
+                "rating": "4.48399257659912", 
+                "sodium": 423, 
+                "cal": 155, 
+                "chol": 0, 
+                "fat": 3.0, 
                 "reviews": "413", 
                 "time": 110, 
-                "score": "4.48399257659912", 
-                "cal": 155
+                "carb": 29.0, 
+                "protein": 6.8
             }, 
             "name": "Insanely Easy Vegetarian Chili", 
             "key": 73911
         }, 
         {
             "values": {
+                "rating": "4", 
+                "sodium": 17, 
+                "cal": 209, 
+                "chol": 0, 
+                "fat": 0.6, 
                 "reviews": "2", 
                 "time": 44, 
-                "score": "4", 
-                "cal": 209
+                "carb": 38.3, 
+                "protein": 1.5
             }, 
             "name": "White Wine Fruit Cocktail", 
             "key": 73912
         }, 
         {
             "values": {
+                "rating": "4.55472660064697", 
+                "sodium": 389, 
+                "cal": 137, 
+                "chol": 0, 
+                "fat": 3.1, 
                 "reviews": "351", 
                 "time": 10, 
-                "score": "4.55472660064697", 
-                "cal": 137
+                "carb": 24.6, 
+                "protein": 4.1
             }, 
             "name": "Microwave Popcorn", 
             "key": 73913
         }, 
         {
             "values": {
+                "rating": "4.04477596282959", 
+                "sodium": 340, 
+                "cal": 161, 
+                "chol": 0, 
+                "fat": 4.7, 
                 "reviews": "54", 
                 "time": 60, 
-                "score": "4.04477596282959", 
-                "cal": 161
+                "carb": 23.8, 
+                "protein": 8.3
             }, 
             "name": "All-Star Veggie Burger", 
             "key": 73914
         }, 
         {
             "values": {
+                "rating": "4.35294103622437", 
+                "sodium": 119, 
+                "cal": 139, 
+                "chol": 42, 
+                "fat": 4.6, 
                 "reviews": "23", 
                 "time": 62, 
-                "score": "4.35294103622437", 
-                "cal": 139
+                "carb": 15.9, 
+                "protein": 8.7
             }, 
             "name": "Shredded Potato Salmon Cakes", 
             "key": 73915
         }, 
         {
             "values": {
+                "rating": "4.23162603378296", 
+                "sodium": 432, 
+                "cal": 179, 
+                "chol": 0, 
+                "fat": 2.0, 
                 "reviews": "342", 
                 "time": 50, 
-                "score": "4.23162603378296", 
-                "cal": 179
+                "carb": 30.6, 
+                "protein": 9.4
             }, 
             "name": "Spinach and Leek White Bean Soup", 
             "key": 73916
         }, 
         {
             "values": {
+                "rating": "4.64521169662476", 
+                "sodium": 1606, 
+                "cal": 311, 
+                "chol": 36, 
+                "fat": 6.4, 
                 "reviews": "429", 
                 "time": 80, 
-                "score": "4.64521169662476", 
-                "cal": 311
+                "carb": 42.2, 
+                "protein": 23.0
             }, 
             "name": "Chicken Fiesta Salad", 
             "key": 73917
         }, 
         {
             "values": {
+                "rating": "4.54196643829346", 
+                "sodium": 13, 
+                "cal": 176, 
+                "chol": 0, 
+                "fat": 3.9, 
                 "reviews": "307", 
                 "time": 180, 
-                "score": "4.54196643829346", 
-                "cal": 176
+                "carb": 31.6, 
+                "protein": 5.4
             }, 
             "name": "Cranberry and Cilantro Quinoa Salad", 
             "key": 73918
         }, 
         {
             "values": {
+                "rating": "4.14285707473755", 
+                "sodium": 7, 
+                "cal": 190, 
+                "chol": 0, 
+                "fat": 1.2, 
                 "reviews": "10", 
                 "time": 40, 
-                "score": "4.14285707473755", 
-                "cal": 190
+                "carb": 46.3, 
+                "protein": 3.2
             }, 
             "name": "Peach and Berry Salad", 
             "key": 73919
         }, 
         {
             "values": {
+                "rating": "4.05975389480591", 
+                "sodium": 399, 
+                "cal": 169, 
+                "chol": 0, 
+                "fat": 4.7, 
                 "reviews": "404", 
                 "time": 140, 
-                "score": "4.05975389480591", 
-                "cal": 169
+                "carb": 29.2, 
+                "protein": 2.1
             }, 
             "name": "Spicy Baked Sweet Potato Fries", 
             "key": 73920
         }, 
         {
             "values": {
+                "rating": "4.30508470535278", 
+                "sodium": 1826, 
+                "cal": 173, 
+                "chol": 68, 
+                "fat": 2.4, 
                 "reviews": "401", 
                 "time": 60, 
-                "score": "4.30508470535278", 
-                "cal": 173
+                "carb": 9.2, 
+                "protein": 29.2
             }, 
             "name": "Spicy Chicken Breasts", 
             "key": 73921
         }, 
         {
             "values": {
+                "rating": "4.11827945709229", 
+                "sodium": 19, 
+                "cal": 94, 
+                "chol": 0, 
+                "fat": 2.8, 
                 "reviews": "63", 
                 "time": 90, 
-                "score": "4.11827945709229", 
-                "cal": 94
+                "carb": 16.1, 
+                "protein": 3.2
             }, 
             "name": "Zucchini Saute", 
             "key": 73922
         }, 
         {
             "values": {
+                "rating": "4.30909109115601", 
+                "sodium": 1621, 
+                "cal": 295, 
+                "chol": 46, 
+                "fat": 4.8, 
                 "reviews": "319", 
                 "time": 60, 
-                "score": "4.30909109115601", 
-                "cal": 295
+                "carb": 40.7, 
+                "protein": 26.3
             }, 
             "name": "Yakisoba Chicken", 
             "key": 73923
         }, 
         {
             "values": {
+                "rating": "4.36050271987915", 
+                "sodium": 607, 
+                "cal": 198, 
+                "chol": 46, 
+                "fat": 3.0, 
                 "reviews": "2264", 
                 "time": 70, 
-                "score": "4.36050271987915", 
-                "cal": 198
+                "carb": 33.1, 
+                "protein": 11.2
             }, 
             "name": "Homemade Black Bean Veggie Burgers", 
             "key": 73925
         }, 
         {
             "values": {
+                "rating": "4.31434011459351", 
+                "sodium": 354, 
+                "cal": 140, 
+                "chol": 0, 
+                "fat": 0.9, 
                 "reviews": "760", 
                 "time": 60, 
-                "score": "4.31434011459351", 
-                "cal": 140
+                "carb": 27.1, 
+                "protein": 6.3
             }, 
             "name": "Black Beans and Rice", 
             "key": 73927
         }, 
         {
             "values": {
+                "rating": "4.32142877578735", 
+                "sodium": 418, 
+                "cal": 147, 
+                "chol": 0, 
+                "fat": 4.1, 
                 "reviews": "316", 
                 "time": 50, 
-                "score": "4.32142877578735", 
-                "cal": 147
+                "carb": 26.0, 
+                "protein": 3.3
             }, 
             "name": "Baked Tortilla Chips", 
             "key": 73928
         }, 
         {
             "values": {
+                "rating": "4.22315454483032", 
+                "sodium": 289, 
+                "cal": 135, 
+                "chol": 0, 
+                "fat": 4.5, 
                 "reviews": "439", 
                 "time": 80, 
-                "score": "4.22315454483032", 
-                "cal": 135
+                "carb": 20.5, 
+                "protein": 4.1
             }, 
             "name": "Chickpea Curry", 
             "key": 73929
         }, 
         {
             "values": {
+                "rating": "4.41908693313599", 
+                "sodium": 190, 
+                "cal": 150, 
+                "chol": 10, 
+                "fat": 2.4, 
                 "reviews": "189", 
                 "time": 100, 
-                "score": "4.41908693313599", 
-                "cal": 150
+                "carb": 22.7, 
+                "protein": 10.1
             }, 
             "name": "Spinach Lentil Soup", 
             "key": 73930
         }, 
         {
             "values": {
+                "rating": "4.12828969955444", 
+                "sodium": 9, 
+                "cal": 102, 
+                "chol": 0, 
+                "fat": 0.2, 
                 "reviews": "225", 
                 "time": 70, 
-                "score": "4.12828969955444", 
-                "cal": 102
+                "carb": 26.5, 
+                "protein": 2.3
             }, 
             "name": "Butternut Squash Fries", 
             "key": 73932
         }, 
         {
             "values": {
+                "rating": "4.03162050247192", 
+                "sodium": 466, 
+                "cal": 213, 
+                "chol": 0, 
+                "fat": 1.2, 
                 "reviews": "195", 
                 "time": 1470, 
-                "score": "4.03162050247192", 
-                "cal": 213
+                "carb": 43.9, 
+                "protein": 8.4
             }, 
             "name": "Mushroom Lentil Barley Stew", 
             "key": 73933
         }, 
         {
             "values": {
+                "rating": "4.31555557250977", 
+                "sodium": 194, 
+                "cal": 206, 
+                "chol": 0, 
+                "fat": 0.8, 
                 "reviews": "162", 
                 "time": 120, 
-                "score": "4.31555557250977", 
-                "cal": 206
+                "carb": 36.9, 
+                "protein": 13.7
             }, 
             "name": "Tomato-Curry Lentil Stew", 
             "key": 73934
         }, 
         {
             "values": {
+                "rating": "4.45614051818848", 
+                "sodium": 108, 
+                "cal": 91, 
+                "chol": 0, 
+                "fat": 3.2, 
                 "reviews": "204", 
                 "time": 50, 
-                "score": "4.45614051818848", 
-                "cal": 91
+                "carb": 14.5, 
+                "protein": 4.6
             }, 
             "name": "Mediterranean Kale", 
             "key": 73935
         }, 
         {
             "values": {
+                "rating": "4.14715719223022", 
+                "sodium": 489, 
+                "cal": 204, 
+                "chol": 0, 
+                "fat": 3.9, 
                 "reviews": "202", 
                 "time": 60, 
-                "score": "4.14715719223022", 
-                "cal": 204
+                "carb": 34.6, 
+                "protein": 7.8
             }, 
             "name": "Unsloppy Joes", 
             "key": 73936
         }, 
         {
             "values": {
+                "rating": "4.27296590805054", 
+                "sodium": 639, 
+                "cal": 165, 
+                "chol": 0, 
+                "fat": 4.3, 
                 "reviews": "268", 
                 "time": 130, 
-                "score": "4.27296590805054", 
-                "cal": 165
+                "carb": 24.0, 
+                "protein": 9.7
             }, 
             "name": "Lentils And Spinach", 
             "key": 73937
         }, 
         {
             "values": {
+                "rating": "4.3273811340332", 
+                "sodium": 20, 
+                "cal": 64, 
+                "chol": 0, 
+                "fat": 2.0, 
                 "reviews": "266", 
                 "time": 80, 
-                "score": "4.3273811340332", 
-                "cal": 64
+                "carb": 10.2, 
+                "protein": 2.8
             }, 
             "name": "Broccoli Soup", 
             "key": 73939
         }, 
         {
             "values": {
+                "rating": "4.35968399047852", 
+                "sodium": 69, 
+                "cal": 156, 
+                "chol": 0, 
+                "fat": 0.7, 
                 "reviews": "189", 
                 "time": 70, 
-                "score": "4.35968399047852", 
-                "cal": 156
+                "carb": 27.7, 
+                "protein": 11.5
             }, 
             "name": "Lentil Soup III", 
             "key": 73940
         }, 
         {
             "values": {
+                "rating": "4.29411745071411", 
+                "sodium": 2128, 
+                "cal": 286, 
+                "chol": 67, 
+                "fat": 3.7, 
                 "reviews": "235", 
                 "time": 85, 
-                "score": "4.29411745071411", 
-                "cal": 286
+                "carb": 27.9, 
+                "protein": 36.0
             }, 
             "name": "Moroccan Chicken", 
             "key": 73941
         }, 
         {
             "values": {
+                "rating": "4.40970373153687", 
+                "sodium": 26, 
+                "cal": 70, 
+                "chol": 12, 
+                "fat": 2.0, 
                 "reviews": "313", 
                 "time": 130, 
-                "score": "4.40970373153687", 
-                "cal": 70
+                "carb": 12.1, 
+                "protein": 1.4
             }, 
             "name": "Gingerbread Biscotti", 
             "key": 73942
         }, 
         {
             "values": {
+                "rating": "4.5325779914856", 
+                "sodium": 596, 
+                "cal": 142, 
+                "chol": 0, 
+                "fat": 2.5, 
                 "reviews": "255", 
                 "time": 60, 
-                "score": "4.5325779914856", 
-                "cal": 142
+                "carb": 24.0, 
+                "protein": 7.5
             }, 
             "name": "Vegan Bean Taco Filling", 
             "key": 73943
         }, 
         {
             "values": {
+                "rating": "4.65317916870117", 
+                "sodium": 161, 
+                "cal": 32, 
+                "chol": 0, 
+                "fat": 0.2, 
                 "reviews": "238", 
                 "time": 30, 
-                "score": "4.65317916870117", 
-                "cal": 32
+                "carb": 6.3, 
+                "protein": 3.4
             }, 
             "name": "Superfast Asparagus", 
             "key": 73944
         }, 
         {
             "values": {
+                "rating": "4.59274196624756", 
+                "sodium": 5, 
+                "cal": 155, 
+                "chol": 0, 
+                "fat": 0.6, 
                 "reviews": "179", 
                 "time": 240, 
-                "score": "4.59274196624756", 
-                "cal": 155
+                "carb": 39.0, 
+                "protein": 1.8
             }, 
             "name": "Perfect Summer Fruit Salad", 
             "key": 73945
         }, 
         {
             "values": {
+                "rating": "4.5422534942627", 
+                "sodium": 278, 
+                "cal": 98, 
+                "chol": 0, 
+                "fat": 1.8, 
                 "reviews": "214", 
                 "time": 110, 
-                "score": "4.5422534942627", 
-                "cal": 98
+                "carb": 18.5, 
+                "protein": 4.4
             }, 
             "name": "Veggie Vegetarian Chili", 
             "key": 73946
         }, 
         {
             "values": {
+                "rating": "4.36772489547729", 
+                "sodium": 86, 
+                "cal": 145, 
+                "chol": 4, 
+                "fat": 1.6, 
                 "reviews": "253", 
                 "time": 90, 
-                "score": "4.36772489547729", 
-                "cal": 145
+                "carb": 28.2, 
+                "protein": 5.2
             }, 
             "name": "Baked French Fries II", 
             "key": 73947
         }, 
         {
             "values": {
+                "rating": "4.16265058517456", 
+                "sodium": 431, 
+                "cal": 189, 
+                "chol": 68, 
+                "fat": 1.9, 
                 "reviews": "241", 
                 "time": 1460, 
-                "score": "4.16265058517456", 
-                "cal": 189
+                "carb": 13.8, 
+                "protein": 29.6
             }, 
             "name": "Slow Cooker Chicken Creole", 
             "key": 73948
         }, 
         {
             "values": {
+                "rating": "4.59398508071899", 
+                "sodium": 7, 
+                "cal": 128, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "191", 
                 "time": 186, 
-                "score": "4.59398508071899", 
-                "cal": 128
+                "carb": 29.7, 
+                "protein": 2.7
             }, 
             "name": "Baked Potato", 
             "key": 73949
         }, 
         {
             "values": {
+                "rating": "4.18134737014771", 
+                "sodium": 750, 
+                "cal": 258, 
+                "chol": 2, 
+                "fat": 3.2, 
                 "reviews": "124", 
                 "time": 120, 
-                "score": "4.18134737014771", 
-                "cal": 258
+                "carb": 49.3, 
+                "protein": 7.3
             }, 
             "name": "Cuban Beans and Rice", 
             "key": 73951
         }, 
         {
             "values": {
+                "rating": "4.60493850708008", 
+                "sodium": 439, 
+                "cal": 133, 
+                "chol": 2, 
+                "fat": 1.3, 
                 "reviews": "129", 
                 "time": 330, 
-                "score": "4.60493850708008", 
-                "cal": 133
+                "carb": 27.7, 
+                "protein": 4.2
             }, 
             "name": "Turkey Carcass Soup", 
             "key": 73954
         }, 
         {
             "values": {
+                "rating": "4.36818170547485", 
+                "sodium": 139, 
+                "cal": 140, 
+                "chol": 67, 
+                "fat": 4.3, 
                 "reviews": "175", 
                 "time": 40, 
-                "score": "4.36818170547485", 
-                "cal": 140
+                "carb": 7.9, 
+                "protein": 19.1
             }, 
             "name": "Lemon-Orange Orange Roughy", 
             "key": 73955
         }, 
         {
             "values": {
+                "rating": "4.24413156509399", 
+                "sodium": 74, 
+                "cal": 147, 
+                "chol": 0, 
+                "fat": 4.8, 
                 "reviews": "160", 
                 "time": 50, 
-                "score": "4.24413156509399", 
-                "cal": 147
+                "carb": 21.4, 
+                "protein": 5.9
             }, 
             "name": "Lemony Quinoa", 
             "key": 73956
         }, 
         {
             "values": {
+                "rating": "4.77272748947144", 
+                "sodium": 14, 
+                "cal": 94, 
+                "chol": 0, 
+                "fat": 1.1, 
                 "reviews": "112", 
                 "time": 30, 
-                "score": "4.77272748947144", 
-                "cal": 94
+                "carb": 21.5, 
+                "protein": 2.9
             }, 
             "name": "Jamie's Sweet and Easy Corn on the Cob", 
             "key": 73957
         }, 
         {
             "values": {
+                "rating": "4.39102554321289", 
+                "sodium": 132, 
+                "cal": 84, 
+                "chol": 0, 
+                "fat": 0.0, 
                 "reviews": "116", 
                 "time": 90, 
-                "score": "4.39102554321289", 
-                "cal": 84
+                "carb": 15.9, 
+                "protein": 4.1
             }, 
             "name": "Easy Lima Beans", 
             "key": 73958
         }, 
         {
             "values": {
+                "rating": "4", 
+                "sodium": 81, 
+                "cal": 311, 
+                "chol": 93, 
+                "fat": 3.5, 
                 "reviews": "138", 
                 "time": 1020, 
-                "score": "4", 
-                "cal": 311
+                "carb": 42.0, 
+                "protein": 26.4
             }, 
             "name": "Slow Cooker Chicken and Noodles", 
             "key": 73959
         }, 
         {
             "values": {
+                "rating": "4.23636341094971", 
+                "sodium": 387, 
+                "cal": 75, 
+                "chol": 0, 
+                "fat": 1.0, 
                 "reviews": "119", 
                 "time": 70, 
-                "score": "4.23636341094971", 
-                "cal": 75
+                "carb": 17.0, 
+                "protein": 2.6
             }, 
             "name": "Mexican Cucumber Salad", 
             "key": 73960
         }, 
         {
             "values": {
+                "rating": "4.2993631362915", 
+                "sodium": 351, 
+                "cal": 45, 
+                "chol": 0, 
+                "fat": 1.4, 
                 "reviews": "109", 
                 "time": 30, 
-                "score": "4.2993631362915", 
-                "cal": 45
+                "carb": 7.1, 
+                "protein": 2.3
             }, 
             "name": "Quick Sesame Green Beans", 
             "key": 73961
         }, 
         {
             "values": {
+                "rating": "4.59195423126221", 
+                "sodium": 444, 
+                "cal": 101, 
+                "chol": 1, 
+                "fat": 0.6, 
                 "reviews": "146", 
                 "time": 180, 
-                "score": "4.59195423126221", 
-                "cal": 101
+                "carb": 19.2, 
+                "protein": 4.9
             }, 
             "name": "Friendship Soup Mix in a Jar", 
             "key": 73962
         }, 
         {
             "values": {
+                "rating": "4.21126747131348", 
+                "sodium": 377, 
+                "cal": 142, 
+                "chol": 2, 
+                "fat": 1.2, 
                 "reviews": "176", 
                 "time": 200, 
-                "score": "4.21126747131348", 
-                "cal": 142
+                "carb": 31.1, 
+                "protein": 4.9
             }, 
             "name": "Roasted and Curried Butternut Squash Soup", 
             "key": 73963
         }, 
         {
             "values": {
+                "rating": "4.04102563858032", 
+                "sodium": 331, 
+                "cal": 135, 
+                "chol": 0, 
+                "fat": 4.0, 
                 "reviews": "150", 
                 "time": 70, 
-                "score": "4.04102563858032", 
-                "cal": 135
+                "carb": 23.1, 
+                "protein": 4.0
             }, 
             "name": "Gobi Aloo (Indian Style Cauliflower with Potatoes)", 
             "key": 73964
         }, 
         {
             "values": {
+                "rating": "3.81528663635254", 
+                "sodium": 19, 
+                "cal": 64, 
+                "chol": 16, 
+                "fat": 1.8, 
                 "reviews": "138", 
                 "time": 80, 
-                "score": "3.81528663635254", 
-                "cal": 64
+                "carb": 12.0, 
+                "protein": 1.1
             }, 
             "name": "Can't Tell They're Low-fat Brownies", 
             "key": 73966
         }, 
         {
             "values": {
+                "rating": "4.14925384521484", 
+                "sodium": 227, 
+                "cal": 142, 
+                "chol": 0, 
+                "fat": 3.6, 
                 "reviews": "105", 
                 "time": 100, 
-                "score": "4.14925384521484", 
-                "cal": 142
+                "carb": 24.6, 
+                "protein": 4.0
             }, 
             "name": "Couscous and Cucumber Salad", 
             "key": 73971
         }, 
         {
             "values": {
+                "rating": "4.39583349227905", 
+                "sodium": 248, 
+                "cal": 257, 
+                "chol": 3, 
+                "fat": 3.1, 
                 "reviews": "112", 
                 "time": 50, 
-                "score": "4.39583349227905", 
-                "cal": 257
+                "carb": 46.9, 
+                "protein": 9.8
             }, 
             "name": "Pasta with Fresh Tomato Sauce", 
             "key": 73972
         }, 
         {
             "values": {
+                "rating": "4.34959363937378", 
+                "sodium": 198, 
+                "cal": 111, 
+                "chol": 21, 
+                "fat": 2.5, 
                 "reviews": "95", 
                 "time": 90, 
-                "score": "4.34959363937378", 
-                "cal": 111
+                "carb": 13.1, 
+                "protein": 10.1
             }, 
             "name": "Harvested Chicken Stew", 
             "key": 73973
         }, 
         {
             "values": {
+                "rating": "4.19718313217163", 
+                "sodium": 170, 
+                "cal": 107, 
+                "chol": 0, 
+                "fat": 2.7, 
                 "reviews": "111", 
                 "time": 120, 
-                "score": "4.19718313217163", 
-                "cal": 107
+                "carb": 18.4, 
+                "protein": 4.5
             }, 
             "name": "Zucchini with Chickpea and Mushroom Stuffing", 
             "key": 73974
         }, 
         {
             "values": {
+                "rating": "4.25", 
+                "sodium": 247, 
+                "cal": 161, 
+                "chol": 7, 
+                "fat": 2.1, 
                 "reviews": "86", 
                 "time": 220, 
-                "score": "4.25", 
-                "cal": 161
+                "carb": 29.9, 
+                "protein": 5.5
             }, 
             "name": "Twice Baked Sweet Potatoes with Ricotta Cheese", 
             "key": 73975
         }, 
         {
             "values": {
+                "rating": "3.85496187210083", 
+                "sodium": 688, 
+                "cal": 155, 
+                "chol": 25, 
+                "fat": 3.3, 
                 "reviews": "98", 
                 "time": 160, 
-                "score": "3.85496187210083", 
-                "cal": 155
+                "carb": 21.3, 
+                "protein": 9.6
             }, 
             "name": "Vegetarian Meatloaf", 
             "key": 73977
         }, 
         {
             "values": {
+                "rating": "4.63333320617676", 
+                "sodium": 345, 
+                "cal": 88, 
+                "chol": 0, 
+                "fat": 2.9, 
                 "reviews": "117", 
                 "time": 20, 
-                "score": "4.63333320617676", 
-                "cal": 88
+                "carb": 13.8, 
+                "protein": 3.5
             }, 
             "name": "Frozen Vegetable Stir-Fry", 
             "key": 73978
         }, 
         {
             "values": {
+                "rating": "4.64462804794312", 
+                "sodium": 427, 
+                "cal": 160, 
+                "chol": 26, 
+                "fat": 1.1, 
                 "reviews": "101", 
                 "time": 120, 
-                "score": "4.64462804794312", 
-                "cal": 160
+                "carb": 21.0, 
+                "protein": 16.5
             }, 
             "name": "Chicken Chili Soup", 
             "key": 73980
         }, 
         {
             "values": {
+                "rating": "4.38356161117554", 
+                "sodium": 473, 
+                "cal": 168, 
+                "chol": 34, 
+                "fat": 2.2, 
                 "reviews": "109", 
                 "time": 85, 
-                "score": "4.38356161117554", 
-                "cal": 168
+                "carb": 23.6, 
+                "protein": 14.7
             }, 
             "name": "BBQ Chicken Salad", 
             "key": 73983
         }, 
         {
             "values": {
+                "rating": "4.27272748947144", 
+                "sodium": 328, 
+                "cal": 43, 
+                "chol": 0, 
+                "fat": 0.4, 
                 "reviews": "77", 
                 "time": 80, 
-                "score": "4.27272748947144", 
-                "cal": 43
+                "carb": 9.7, 
+                "protein": 1.8
             }, 
             "name": "Zesty Zucchini and Squash", 
             "key": 73985
         }, 
         {
             "values": {
+                "rating": "4.21666669845581", 
+                "sodium": 620, 
+                "cal": 241, 
+                "chol": 50, 
+                "fat": 2.0, 
                 "reviews": "95", 
                 "time": 150, 
-                "score": "4.21666669845581", 
-                "cal": 241
+                "carb": 34.5, 
+                "protein": 22.7
             }, 
             "name": "Curried Chicken and Brown Rice Casserole", 
             "key": 73986
         }, 
         {
             "values": {
+                "rating": "4.12686586380005", 
+                "sodium": 2478, 
+                "cal": 336, 
+                "chol": 117, 
+                "fat": 2.7, 
                 "reviews": "106", 
                 "time": 190, 
-                "score": "4.12686586380005", 
-                "cal": 336
+                "carb": 43.0, 
+                "protein": 33.8
             }, 
             "name": "Sweet Potato-Turkey Meatloaf", 
             "key": 73987
         }, 
         {
             "values": {
+                "rating": "3.66400003433228", 
+                "sodium": 157, 
+                "cal": 122, 
+                "chol": 0, 
+                "fat": 0.5, 
                 "reviews": "94", 
                 "time": 1260, 
-                "score": "3.66400003433228", 
-                "cal": 122
+                "carb": 30.5, 
+                "protein": 3.4
             }, 
             "name": "Slow Cooker Mediterranean Stew", 
             "key": 73988
         }, 
         {
             "values": {
+                "rating": "4.43046379089355", 
+                "sodium": 118, 
+                "cal": 275, 
+                "chol": 61, 
+                "fat": 3.1, 
                 "reviews": "111", 
                 "time": 90, 
-                "score": "4.43046379089355", 
-                "cal": 275
+                "carb": 42.3, 
+                "protein": 20.8
             }, 
             "name": "Thai Chicken Cabbage Soup", 
             "key": 73989
         }, 
         {
             "values": {
+                "rating": "4.38181829452515", 
+                "sodium": 298, 
+                "cal": 208, 
+                "chol": 0, 
+                "fat": 4.7, 
                 "reviews": "81", 
                 "time": 170, 
-                "score": "4.38181829452515", 
-                "cal": 208
+                "carb": 35.9, 
+                "protein": 8.7
             }, 
             "name": "Vegetarian Bean Curry", 
             "key": 73990
         }, 
         {
             "values": {
+                "rating": "4.21782159805298", 
+                "sodium": 165, 
+                "cal": 185, 
+                "chol": 27, 
+                "fat": 1.8, 
                 "reviews": "78", 
                 "time": 90, 
-                "score": "4.21782159805298", 
-                "cal": 185
+                "carb": 26.1, 
+                "protein": 15.7
             }, 
             "name": "Chicken Pasta I", 
             "key": 73991
         }, 
         {
             "values": {
+                "rating": "4.63265323638916", 
+                "sodium": 62, 
+                "cal": 136, 
+                "chol": 0, 
+                "fat": 4.7, 
                 "reviews": "68", 
                 "time": 130, 
-                "score": "4.63265323638916", 
-                "cal": 136
+                "carb": 24.8, 
+                "protein": 2.2
             }, 
             "name": "Rosemary Roasted Butternut Squash", 
             "key": 73992
         }, 
         {
             "values": {
+                "rating": "4.44247770309448", 
+                "sodium": 389, 
+                "cal": 120, 
+                "chol": 0, 
+                "fat": 0.8, 
                 "reviews": "87", 
                 "time": 180, 
-                "score": "4.44247770309448", 
-                "cal": 120
+                "carb": 24.4, 
+                "protein": 5.5
             }, 
             "name": "Green Velvet Soup", 
             "key": 73995
         }, 
         {
             "values": {
+                "rating": "4.46956539154053", 
+                "sodium": 95, 
+                "cal": 143, 
+                "chol": 0, 
+                "fat": 4.9, 
                 "reviews": "84", 
                 "time": 150, 
-                "score": "4.46956539154053", 
-                "cal": 143
+                "carb": 20.8, 
+                "protein": 2.8
             }, 
             "name": "Savory Roasted Root Vegetables", 
             "key": 73997
         }, 
         {
             "values": {
+                "rating": "4.00925922393799", 
+                "sodium": 323, 
+                "cal": 224, 
+                "chol": 0, 
+                "fat": 4.7, 
                 "reviews": "83", 
                 "time": 80, 
-                "score": "4.00925922393799", 
-                "cal": 224
+                "carb": 36.6, 
+                "protein": 9.6
             }, 
             "name": "Quinoa Chard Pilaf", 
             "key": 73999
         }, 
         {
             "values": {
+                "rating": "4.51428556442261", 
+                "sodium": 14, 
+                "cal": 136, 
+                "chol": 0, 
+                "fat": 3.3, 
                 "reviews": "77", 
                 "time": 40, 
-                "score": "4.51428556442261", 
-                "cal": 136
+                "carb": 28.5, 
+                "protein": 1.2
             }, 
             "name": "Puerto Rican Tostones (Fried Plantains)", 
             "key": 74000
@@ -753,23 +1128,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

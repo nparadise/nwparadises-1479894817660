@@ -2,980 +2,1470 @@
     "options": [
         {
             "values": {
+                "rating": "4.5351767539978", 
+                "sodium": 543, 
+                "cal": 448, 
+                "chol": 99, 
+                "fat": 26.6, 
                 "reviews": "3440", 
                 "time": 60, 
-                "score": "4.5351767539978", 
-                "cal": 448
+                "carb": 13.3, 
+                "protein": 28.8
             }, 
             "name": "Chicken Marsala", 
             "key": 20101
         }, 
         {
             "values": {
+                "rating": "4.49748134613037", 
+                "sodium": 807, 
+                "cal": 375, 
+                "chol": 78, 
+                "fat": 20.9, 
                 "reviews": "2285", 
                 "time": 140, 
-                "score": "4.49748134613037", 
-                "cal": 375
+                "carb": 16.7, 
+                "protein": 32.2
             }, 
             "name": "Curried Coconut Chicken", 
             "key": 20102
         }, 
         {
             "values": {
+                "rating": "4.78230857849121", 
+                "sodium": 497, 
+                "cal": 364, 
+                "chol": 44, 
+                "fat": 32.4, 
                 "reviews": "2362", 
                 "time": 150, 
-                "score": "4.78230857849121", 
-                "cal": 364
+                "carb": 10.7, 
+                "protein": 7.9
             }, 
             "name": "Restaurant-Style Buffalo Chicken Wings", 
             "key": 20103
         }, 
         {
             "values": {
+                "rating": "4.36730194091797", 
+                "sodium": 511, 
+                "cal": 196, 
+                "chol": 61, 
+                "fat": 7.0, 
                 "reviews": "2745", 
                 "time": 70, 
-                "score": "4.36730194091797", 
-                "cal": 196
+                "carb": 7.6, 
+                "protein": 23.8
             }, 
             "name": "Braised Balsamic Chicken", 
             "key": 20104
         }, 
         {
             "values": {
+                "rating": "4.81118822097778", 
+                "sodium": 727, 
+                "cal": 415, 
+                "chol": 56, 
+                "fat": 24.0, 
                 "reviews": "7480", 
                 "time": 140, 
-                "score": "4.81118822097778", 
-                "cal": 415
+                "carb": 30.6, 
+                "protein": 18.7
             }, 
             "name": "Chicken Pot Pie IX", 
             "key": 20105
         }, 
         {
             "values": {
+                "rating": "4.38749027252197", 
+                "sodium": 1603, 
+                "cal": 456, 
+                "chol": 136, 
+                "fat": 31.0, 
                 "reviews": "2887", 
                 "time": 620, 
-                "score": "4.38749027252197", 
-                "cal": 456
+                "carb": 9.5, 
+                "protein": 33.4
             }, 
             "name": "Slow Cooker Chicken Stroganoff", 
             "key": 20106
         }, 
         {
             "values": {
+                "rating": "4.64493322372437", 
+                "sodium": 1282, 
+                "cal": 272, 
+                "chol": 85, 
+                "fat": 9.8, 
                 "reviews": "4459", 
                 "time": 180, 
-                "score": "4.64493322372437", 
-                "cal": 272
+                "carb": 19.9, 
+                "protein": 24.7
             }, 
             "name": "Baked Teriyaki Chicken", 
             "key": 20107
         }, 
         {
             "values": {
+                "rating": "4.50056982040405", 
+                "sodium": 1176, 
+                "cal": 232, 
+                "chol": 59, 
+                "fat": 9.3, 
                 "reviews": "2593", 
                 "time": 44, 
-                "score": "4.50056982040405", 
-                "cal": 232
+                "carb": 13.9, 
+                "protein": 22.8
             }, 
             "name": "Sweet, Sticky and Spicy Chicken", 
             "key": 20108
         }, 
         {
             "values": {
+                "rating": "4.35990047454834", 
+                "sodium": 1245, 
+                "cal": 385, 
+                "chol": 45, 
+                "fat": 18.0, 
                 "reviews": "6448", 
                 "time": 740, 
-                "score": "4.35990047454834", 
-                "cal": 385
+                "carb": 37.0, 
+                "protein": 18.1
             }, 
             "name": "Slow Cooker Chicken and Dumplings", 
             "key": 20109
         }, 
         {
             "values": {
+                "rating": "4.56381607055664", 
+                "sodium": 261, 
+                "cal": 300, 
+                "chol": 73, 
+                "fat": 16.8, 
                 "reviews": "3774", 
                 "time": 110, 
-                "score": "4.56381607055664", 
-                "cal": 300
+                "carb": 5.7, 
+                "protein": 30.3
             }, 
             "name": "Garlic Chicken", 
             "key": 20110
         }, 
         {
             "values": {
+                "rating": "4.77841377258301", 
+                "sodium": 655, 
+                "cal": 584, 
+                "chol": 195, 
+                "fat": 40.9, 
                 "reviews": "4263", 
                 "time": 120, 
-                "score": "4.77841377258301", 
-                "cal": 584
+                "carb": 7.7, 
+                "protein": 41.6
             }, 
             "name": "Chicken Cordon Bleu II", 
             "key": 20111
         }, 
         {
             "values": {
+                "rating": "4.4895806312561", 
+                "sodium": 1265, 
+                "cal": 528, 
+                "chol": 107, 
+                "fat": 18.5, 
                 "reviews": "2758", 
                 "time": 180, 
-                "score": "4.4895806312561", 
-                "cal": 528
+                "carb": 48.3, 
+                "protein": 37.5
             }, 
             "name": "Angel Chicken Pasta", 
             "key": 20112
         }, 
         {
             "values": {
+                "rating": "4.61780118942261", 
+                "sodium": 1000, 
+                "cal": 577, 
+                "chol": 120, 
+                "fat": 31.2, 
                 "reviews": "307", 
                 "time": 110, 
-                "score": "4.61780118942261", 
-                "cal": 577
+                "carb": 44.7, 
+                "protein": 27.1
             }, 
             "name": "Mom's Fabulous Chicken Pot Pie with Biscuit Crust", 
             "key": 20113
         }, 
         {
             "values": {
+                "rating": "4.10256433486938", 
+                "sodium": 344, 
+                "cal": 641, 
+                "chol": 192, 
+                "fat": 47.1, 
                 "reviews": "25", 
                 "time": 155, 
-                "score": "4.10256433486938", 
-                "cal": 641
+                "carb": 11.0, 
+                "protein": 43.3
             }, 
             "name": "Roast Chicken with Thyme and Onions", 
             "key": 20114
         }, 
         {
             "values": {
+                "rating": "4.5637264251709", 
+                "sodium": 1459, 
+                "cal": 619, 
+                "chol": 60, 
+                "fat": 27.1, 
                 "reviews": "3037", 
                 "time": 90, 
-                "score": "4.5637264251709", 
-                "cal": 619
+                "carb": 66.8, 
+                "protein": 26.1
             }, 
             "name": "Chicken Enchiladas II", 
             "key": 20115
         }, 
         {
             "values": {
+                "rating": "4.69348669052124", 
+                "sodium": 2391, 
+                "cal": 799, 
+                "chol": 185, 
+                "fat": 39.0, 
                 "reviews": "207", 
                 "time": 120, 
-                "score": "4.69348669052124", 
-                "cal": 799
+                "carb": 26.8, 
+                "protein": 51.1
             }, 
             "name": "Chef John's Chicken Marsala", 
             "key": 20116
         }, 
         {
             "values": {
+                "rating": "4.66966962814331", 
+                "sodium": 893, 
+                "cal": 262, 
+                "chol": 45, 
+                "fat": 10.8, 
                 "reviews": "3596", 
                 "time": 1020, 
-                "score": "4.66966962814331", 
-                "cal": 262
+                "carb": 24.7, 
+                "protein": 18.0
             }, 
             "name": "Slow-Cooker Chicken Tortilla Soup", 
             "key": 20117
         }, 
         {
             "values": {
+                "rating": "4.55428028106689", 
+                "sodium": 915, 
+                "cal": 247, 
+                "chol": 84, 
+                "fat": 7.8, 
                 "reviews": "1545", 
                 "time": 140, 
-                "score": "4.55428028106689", 
-                "cal": 247
+                "carb": 14.8, 
+                "protein": 28.8
             }, 
             "name": "Chicken Breasts Pierre", 
             "key": 20118
         }, 
         {
             "values": {
+                "rating": "4.50063037872314", 
+                "sodium": 768, 
+                "cal": 554, 
+                "chol": 92, 
+                "fat": 39.6, 
                 "reviews": "593", 
                 "time": 60, 
-                "score": "4.50063037872314", 
-                "cal": 554
+                "carb": 17.1, 
+                "protein": 31.8
             }, 
             "name": "Tender Italian Baked Chicken", 
             "key": 20119
         }, 
         {
             "values": {
+                "rating": "4.69921064376831", 
+                "sodium": 1097, 
+                "cal": 378, 
+                "chol": 59, 
+                "fat": 30.7, 
                 "reviews": "2737", 
                 "time": 120, 
-                "score": "4.69921064376831", 
-                "cal": 378
+                "carb": 4.8, 
+                "protein": 19.9
             }, 
             "name": "Rosemary Ranch Chicken Kabobs", 
             "key": 20120
         }, 
         {
             "values": {
+                "rating": "4.62419462203979", 
+                "sodium": 863, 
+                "cal": 287, 
+                "chol": 101, 
+                "fat": 12.4, 
                 "reviews": "2939", 
                 "time": 90, 
-                "score": "4.62419462203979", 
-                "cal": 287
+                "carb": 6.8, 
+                "protein": 35.5
             }, 
             "name": "Salsa Chicken", 
             "key": 20121
         }, 
         {
             "values": {
+                "rating": "4.67293548583984", 
+                "sodium": 1597, 
+                "cal": 434, 
+                "chol": 68, 
+                "fat": 17.7, 
                 "reviews": "4641", 
                 "time": 870, 
-                "score": "4.67293548583984", 
-                "cal": 434
+                "carb": 42.3, 
+                "protein": 27.2
             }, 
             "name": "Slow Cooker Chicken Taco Soup", 
             "key": 20122
         }, 
         {
             "values": {
+                "rating": "4.60632181167603", 
+                "sodium": 1528, 
+                "cal": 424, 
+                "chol": 82, 
+                "fat": 15.8, 
                 "reviews": "258", 
                 "time": 100, 
-                "score": "4.60632181167603", 
-                "cal": 424
+                "carb": 34.0, 
+                "protein": 30.7
             }, 
             "name": "Chicken Piccata with Artichoke Hearts", 
             "key": 20123
         }, 
         {
             "values": {
+                "rating": "4.66972494125366", 
+                "sodium": 704, 
+                "cal": 321, 
+                "chol": 94, 
+                "fat": 18.9, 
                 "reviews": "70", 
                 "time": 90, 
-                "score": "4.66972494125366", 
-                "cal": 321
+                "carb": 5.7, 
+                "protein": 32.0
             }, 
             "name": "Healthy Mexican Chicken Bake", 
             "key": 20124
         }, 
         {
             "values": {
+                "rating": "4.56809902191162", 
+                "sodium": 1058, 
+                "cal": 300, 
+                "chol": 61, 
+                "fat": 8.1, 
                 "reviews": "3831", 
                 "time": 500, 
-                "score": "4.56809902191162", 
-                "cal": 300
+                "carb": 32.4, 
+                "protein": 23.0
             }, 
             "name": "Zesty Slow Cooker Chicken Barbecue", 
             "key": 20125
         }, 
         {
             "values": {
+                "rating": "3.83783793449402", 
+                "sodium": 2144, 
+                "cal": 256, 
+                "chol": 63, 
+                "fat": 10.8, 
                 "reviews": "33", 
                 "time": 770, 
-                "score": "3.83783793449402", 
-                "cal": 256
+                "carb": 18.6, 
+                "protein": 21.3
             }, 
             "name": "Slow Cooker Belgian Chicken Booyah", 
             "key": 20126
         }, 
         {
             "values": {
+                "rating": "4.66666650772095", 
+                "sodium": 4604, 
+                "cal": 554, 
+                "chol": 185, 
+                "fat": 35.7, 
                 "reviews": "201", 
                 "time": 145, 
-                "score": "4.66666650772095", 
-                "cal": 554
+                "carb": 1.2, 
+                "protein": 53.7
             }, 
             "name": "Chef John's Salt Roasted Chicken", 
             "key": 20127
         }, 
         {
             "values": {
+                "rating": "4.70403099060059", 
+                "sodium": 552, 
+                "cal": 284, 
+                "chol": 54, 
+                "fat": 22.6, 
                 "reviews": "3274", 
                 "time": 90, 
-                "score": "4.70403099060059", 
-                "cal": 284
+                "carb": 8.6, 
+                "protein": 11.1
             }, 
             "name": "Buffalo Chicken Dip", 
             "key": 20128
         }, 
         {
             "values": {
+                "rating": "4.69669914245605", 
+                "sodium": 1351, 
+                "cal": 586, 
+                "chol": 194, 
+                "fat": 34.3, 
                 "reviews": "3133", 
                 "time": 860, 
-                "score": "4.69669914245605", 
-                "cal": 586
+                "carb": 3.7, 
+                "protein": 61.7
             }, 
             "name": "Roast Sticky Chicken-Rotisserie Style", 
             "key": 20129
         }, 
         {
             "values": {
+                "rating": "4.42934608459473", 
+                "sodium": 286, 
+                "cal": 268, 
+                "chol": 77, 
+                "fat": 11.6, 
                 "reviews": "2068", 
                 "time": 60, 
-                "score": "4.42934608459473", 
-                "cal": 268
+                "carb": 9.9, 
+                "protein": 30.9
             }, 
             "name": "Chicken Breasts with Balsamic Vinegar and Garlic", 
             "key": 20130
         }, 
         {
             "values": {
+                "rating": "4.566481590271", 
+                "sodium": 639, 
+                "cal": 448, 
+                "chol": 222, 
+                "fat": 31.2, 
                 "reviews": "2249", 
                 "time": 110, 
-                "score": "4.566481590271", 
-                "cal": 448
+                "carb": 9.3, 
+                "protein": 31.6
             }, 
             "name": "Famous Butter Chicken", 
             "key": 20131
         }, 
         {
             "values": {
+                "rating": "4.61182355880737", 
+                "sodium": 1807, 
+                "cal": 813, 
+                "chol": 153, 
+                "fat": 46.1, 
                 "reviews": "2047", 
                 "time": 130, 
-                "score": "4.61182355880737", 
-                "cal": 813
+                "carb": 57.1, 
+                "protein": 47.2
             }, 
             "name": "Aussie Chicken", 
             "key": 20132
         }, 
         {
             "values": {
+                "rating": "4.68674278259277", 
+                "sodium": 442, 
+                "cal": 178, 
+                "chol": 45, 
+                "fat": 6.6, 
                 "reviews": "1823", 
                 "time": 180, 
-                "score": "4.68674278259277", 
-                "cal": 178
+                "carb": 12.4, 
+                "protein": 17.4
             }, 
             "name": "Yummy Honey Chicken Kabobs", 
             "key": 20133
         }, 
         {
             "values": {
+                "rating": "4.71995210647583", 
+                "sodium": 1764, 
+                "cal": 709, 
+                "chol": 126, 
+                "fat": 36.3, 
                 "reviews": "1757", 
                 "time": 210, 
-                "score": "4.71995210647583", 
-                "cal": 709
+                "carb": 52.5, 
+                "protein": 42.2
             }, 
             "name": "Angela's Awesome Enchiladas", 
             "key": 20134
         }, 
         {
             "values": {
+                "rating": "4.38589859008789", 
+                "sodium": 4499, 
+                "cal": 404, 
+                "chol": 143, 
+                "fat": 28.9, 
                 "reviews": "2026", 
                 "time": 220, 
-                "score": "4.38589859008789", 
-                "cal": 404
+                "carb": 13.3, 
+                "protein": 24.6
             }, 
             "name": "Chicken Tikka Masala", 
             "key": 20135
         }, 
         {
             "values": {
+                "rating": "4.70436811447144", 
+                "sodium": 1357, 
+                "cal": 161, 
+                "chol": 46, 
+                "fat": 6.1, 
                 "reviews": "1801", 
                 "time": 60, 
-                "score": "4.70436811447144", 
-                "cal": 161
+                "carb": 12.1, 
+                "protein": 13.4
             }, 
             "name": "Quick and Easy Chicken Noodle Soup", 
             "key": 20136
         }, 
         {
             "values": {
+                "rating": "4.21302700042725", 
+                "sodium": 296, 
+                "cal": 232, 
+                "chol": 67, 
+                "fat": 3.7, 
                 "reviews": "1759", 
                 "time": 120, 
-                "score": "4.21302700042725", 
-                "cal": 232
+                "carb": 24.8, 
+                "protein": 25.6
             }, 
             "name": "Baked Honey Mustard Chicken", 
             "key": 20137
         }, 
         {
             "values": {
+                "rating": "4.4313645362854", 
+                "sodium": 433, 
+                "cal": 204, 
+                "chol": 37, 
+                "fat": 6.8, 
                 "reviews": "1678", 
                 "time": 100, 
-                "score": "4.4313645362854", 
-                "cal": 204
+                "carb": 18.9, 
+                "protein": 16.2
             }, 
             "name": "Lime Chicken Soft Tacos", 
             "key": 20138
         }, 
         {
             "values": {
+                "rating": "4.40355491638184", 
+                "sodium": 894, 
+                "cal": 529, 
+                "chol": 167, 
+                "fat": 26.4, 
                 "reviews": "2148", 
                 "time": 130, 
-                "score": "4.40355491638184", 
-                "cal": 529
+                "carb": 6.7, 
+                "protein": 62.8
             }, 
             "name": "Anniversary Chicken I", 
             "key": 20139
         }, 
         {
             "values": {
+                "rating": "4.39358472824097", 
+                "sodium": 326, 
+                "cal": 281, 
+                "chol": 75, 
+                "fat": 10.8, 
                 "reviews": "1795", 
                 "time": 90, 
-                "score": "4.39358472824097", 
-                "cal": 281
+                "carb": 13.7, 
+                "protein": 30.4
             }, 
             "name": "Baked Garlic Parmesan Chicken", 
             "key": 20140
         }, 
         {
             "values": {
+                "rating": "4.76516723632813", 
+                "sodium": 997, 
+                "cal": 462, 
+                "chol": 135, 
+                "fat": 36.5, 
                 "reviews": "1753", 
                 "time": 50, 
-                "score": "4.76516723632813", 
-                "cal": 462
+                "carb": 22.6, 
+                "protein": 12.0
             }, 
             "name": "Creamy Chicken and Wild Rice Soup", 
             "key": 20141
         }, 
         {
             "values": {
+                "rating": "4.486496925354", 
+                "sodium": 1227, 
+                "cal": 498, 
+                "chol": 72, 
+                "fat": 15.9, 
                 "reviews": "1850", 
                 "time": 150, 
-                "score": "4.486496925354", 
-                "cal": 498
+                "carb": 49.7, 
+                "protein": 26.7
             }, 
             "name": "Chicken Enchiladas I", 
             "key": 20142
         }, 
         {
             "values": {
+                "rating": "4.5361123085022", 
+                "sodium": 618, 
+                "cal": 266, 
+                "chol": 70, 
+                "fat": 8.3, 
                 "reviews": "1644", 
                 "time": 70, 
-                "score": "4.5361123085022", 
-                "cal": 266
+                "carb": 22.0, 
+                "protein": 24.7
             }, 
             "name": "Honey Mustard Grilled Chicken", 
             "key": 20143
         }, 
         {
             "values": {
+                "rating": "4.71908044815063", 
+                "sodium": 662, 
+                "cal": 423, 
+                "chol": 97, 
+                "fat": 32.1, 
                 "reviews": "2059", 
                 "time": 185, 
-                "score": "4.71908044815063", 
-                "cal": 423
+                "carb": 1.2, 
+                "protein": 30.9
             }, 
             "name": "Juicy Roasted Chicken", 
             "key": 20144
         }, 
         {
             "values": {
+                "rating": "4.67443656921387", 
+                "sodium": 1134, 
+                "cal": 1109, 
+                "chol": 348, 
+                "fat": 82.2, 
                 "reviews": "1777", 
                 "time": 60, 
-                "score": "4.67443656921387", 
-                "cal": 1109
+                "carb": 53.7, 
+                "protein": 42.7
             }, 
             "name": "Cajun Chicken Pasta", 
             "key": 20145
         }, 
         {
             "values": {
+                "rating": "4.42065095901489", 
+                "sodium": 1806, 
+                "cal": 647, 
+                "chol": 168, 
+                "fat": 38.0, 
                 "reviews": "1824", 
                 "time": 100, 
-                "score": "4.42065095901489", 
-                "cal": 647
+                "carb": 17.6, 
+                "protein": 61.6
             }, 
             "name": "Chicken Florentine Casserole", 
             "key": 20146
         }, 
         {
             "values": {
+                "rating": "4.40753984451294", 
+                "sodium": 1225, 
+                "cal": 548, 
+                "chol": 96, 
+                "fat": 39.9, 
                 "reviews": "1943", 
                 "time": 80, 
-                "score": "4.40753984451294", 
-                "cal": 548
+                "carb": 13.4, 
+                "protein": 34.4
             }, 
             "name": "Artichoke Chicken", 
             "key": 20147
         }, 
         {
             "values": {
+                "rating": "4.56118154525757", 
+                "sodium": 555, 
+                "cal": 220, 
+                "chol": 84, 
+                "fat": 10.7, 
                 "reviews": "1934", 
                 "time": 50, 
-                "score": "4.56118154525757", 
-                "cal": 220
+                "carb": 2.4, 
+                "protein": 27.7
             }, 
             "name": "Spicy Garlic Lime Chicken", 
             "key": 20148
         }, 
         {
             "values": {
+                "rating": "4.60240983963013", 
+                "sodium": 488, 
+                "cal": 400, 
+                "chol": 129, 
+                "fat": 24.9, 
                 "reviews": "1933", 
                 "time": 110, 
-                "score": "4.60240983963013", 
-                "cal": 400
+                "carb": 8.4, 
+                "protein": 34.5
             }, 
             "name": "Garlic Cheddar Chicken", 
             "key": 20149
         }, 
         {
             "values": {
+                "rating": "4.55428028106689", 
+                "sodium": 915, 
+                "cal": 247, 
+                "chol": 84, 
+                "fat": 7.8, 
                 "reviews": "1545", 
                 "time": 140, 
-                "score": "4.55428028106689", 
-                "cal": 247
+                "carb": 14.8, 
+                "protein": 28.8
             }, 
             "name": "Chicken Breasts Pierre", 
             "key": 20150
         }, 
         {
             "values": {
+                "rating": "4.36785554885864", 
+                "sodium": 1307, 
+                "cal": 393, 
+                "chol": 48, 
+                "fat": 15.6, 
                 "reviews": "1684", 
                 "time": 150, 
-                "score": "4.36785554885864", 
-                "cal": 393
+                "carb": 49.6, 
+                "protein": 16.8
             }, 
             "name": "Caramelized Baked Chicken", 
             "key": 20151
         }, 
         {
             "values": {
+                "rating": "4.6701979637146", 
+                "sodium": 1896, 
+                "cal": 684, 
+                "chol": 102, 
+                "fat": 16.8, 
                 "reviews": "1677", 
                 "time": 60, 
-                "score": "4.6701979637146", 
-                "cal": 684
+                "carb": 74.9, 
+                "protein": 59.1
             }, 
             "name": "Cha Cha's White Chicken Chili", 
             "key": 20152
         }, 
         {
             "values": {
+                "rating": "4.34289455413818", 
+                "sodium": 2902, 
+                "cal": 578, 
+                "chol": 54, 
+                "fat": 14.0, 
                 "reviews": "1618", 
                 "time": 870, 
-                "score": "4.34289455413818", 
-                "cal": 578
+                "carb": 80.6, 
+                "protein": 31.3
             }, 
             "name": "Slow Cooker Buffalo Chicken Sandwiches", 
             "key": 20153
         }, 
         {
             "values": {
+                "rating": "4.51815700531006", 
+                "sodium": 615, 
+                "cal": 303, 
+                "chol": 99, 
+                "fat": 25.1, 
                 "reviews": "1377", 
                 "time": 60, 
-                "score": "4.51815700531006", 
-                "cal": 303
+                "carb": 2.3, 
+                "protein": 16.8
             }, 
             "name": "Easy Garlic Broiled Chicken", 
             "key": 20154
         }, 
         {
             "values": {
+                "rating": "4.2518105506897", 
+                "sodium": 133, 
+                "cal": 408, 
+                "chol": 142, 
+                "fat": 28.5, 
                 "reviews": "1342", 
                 "time": 1240, 
-                "score": "4.2518105506897", 
-                "cal": 408
+                "carb": 0.2, 
+                "protein": 35.2
             }, 
             "name": "Baked Slow Cooker Chicken", 
             "key": 20155
         }, 
         {
             "values": {
+                "rating": "4.4199366569519", 
+                "sodium": 688, 
+                "cal": 235, 
+                "chol": 99, 
+                "fat": 13.6, 
                 "reviews": "1587", 
                 "time": 1000, 
-                "score": "4.4199366569519", 
-                "cal": 235
+                "carb": 6.1, 
+                "protein": 20.2
             }, 
             "name": "Colleen's Slow Cooker Jambalaya", 
             "key": 20156
         }, 
         {
             "values": {
+                "rating": "4.5342812538147", 
+                "sodium": 1482, 
+                "cal": 214, 
+                "chol": 32, 
+                "fat": 4.9, 
                 "reviews": "1556", 
                 "time": 40, 
-                "score": "4.5342812538147", 
-                "cal": 214
+                "carb": 27.2, 
+                "protein": 17.2
             }, 
             "name": "Six Can Chicken Tortilla Soup", 
             "key": 20157
         }, 
         {
             "values": {
+                "rating": "4.61531686782837", 
+                "sodium": 932, 
+                "cal": 419, 
+                "chol": 124, 
+                "fat": 19.4, 
                 "reviews": "1577", 
                 "time": 90, 
-                "score": "4.61531686782837", 
-                "cal": 419
+                "carb": 12.6, 
+                "protein": 46.1
             }, 
             "name": "Chicken Cordon Bleu I", 
             "key": 20158
         }, 
         {
             "values": {
+                "rating": "4.62380123138428", 
+                "sodium": 501, 
+                "cal": 641, 
+                "chol": 156, 
+                "fat": 34.8, 
                 "reviews": "1571", 
                 "time": 60, 
-                "score": "4.62380123138428", 
-                "cal": 641
+                "carb": 47.0, 
+                "protein": 36.3
             }, 
             "name": "Chicken Milano", 
             "key": 20159
         }, 
         {
             "values": {
+                "rating": "4.39989709854126", 
+                "sodium": 895, 
+                "cal": 542, 
+                "chol": 133, 
+                "fat": 34.2, 
                 "reviews": "1441", 
                 "time": 120, 
-                "score": "4.39989709854126", 
-                "cal": 542
+                "carb": 35.5, 
+                "protein": 23.3
             }, 
             "name": "Chicken Noodle Casserole I", 
             "key": 20160
         }, 
         {
             "values": {
+                "rating": "4.63825178146362", 
+                "sodium": 389, 
+                "cal": 887, 
+                "chol": 103, 
+                "fat": 79.6, 
                 "reviews": "1739", 
                 "time": 90, 
-                "score": "4.63825178146362", 
-                "cal": 887
+                "carb": 14.2, 
+                "protein": 29.2
             }, 
             "name": "Chicken Fried Chicken", 
             "key": 20162
         }, 
         {
             "values": {
+                "rating": "4.75", 
+                "sodium": 2436, 
+                "cal": 473, 
+                "chol": 82, 
+                "fat": 15.3, 
                 "reviews": "1561", 
                 "time": 90, 
-                "score": "4.75", 
-                "cal": 473
+                "carb": 50.3, 
+                "protein": 39.6
             }, 
             "name": "Catherine's Spicy Chicken Soup", 
             "key": 20163
         }, 
         {
             "values": {
+                "rating": "4.38619089126587", 
+                "sodium": 516, 
+                "cal": 255, 
+                "chol": 83, 
+                "fat": 10.2, 
                 "reviews": "1186", 
                 "time": 30, 
-                "score": "4.38619089126587", 
-                "cal": 255
+                "carb": 25.9, 
+                "protein": 14.1
             }, 
             "name": "Chinese Chicken Fried Rice II", 
             "key": 20164
         }, 
         {
             "values": {
+                "rating": "4.4839015007019", 
+                "sodium": 736, 
+                "cal": 337, 
+                "chol": 67, 
+                "fat": 16.4, 
                 "reviews": "1500", 
                 "time": 575, 
-                "score": "4.4839015007019", 
-                "cal": 337
+                "carb": 22.4, 
+                "protein": 24.8
             }, 
             "name": "Unbelievable Chicken", 
             "key": 20165
         }, 
         {
             "values": {
+                "rating": "4.51409101486206", 
+                "sodium": 709, 
+                "cal": 514, 
+                "chol": 138, 
+                "fat": 32.9, 
                 "reviews": "1621", 
                 "time": 180, 
-                "score": "4.51409101486206", 
-                "cal": 514
+                "carb": 24.0, 
+                "protein": 31.3
             }, 
             "name": "Honey Baked Chicken II", 
             "key": 20166
         }, 
         {
             "values": {
+                "rating": "4.64060211181641", 
+                "sodium": 1249, 
+                "cal": 513, 
+                "chol": 168, 
+                "fat": 22.5, 
                 "reviews": "1356", 
                 "time": 90, 
-                "score": "4.64060211181641", 
-                "cal": 513
+                "carb": 31.2, 
+                "protein": 44.3
             }, 
             "name": "Tomato Chicken Parmesan", 
             "key": 20167
         }, 
         {
             "values": {
+                "rating": "4.38491106033325", 
+                "sodium": 882, 
+                "cal": 428, 
+                "chol": 91, 
+                "fat": 24.0, 
                 "reviews": "1540", 
                 "time": 150, 
-                "score": "4.38491106033325", 
-                "cal": 428
+                "carb": 25.1, 
+                "protein": 28.6
             }, 
             "name": "White Cheese Chicken Lasagna", 
             "key": 20168
         }, 
         {
             "values": {
+                "rating": "4.70121002197266", 
+                "sodium": 1189, 
+                "cal": 935, 
+                "chol": 271, 
+                "fat": 61.7, 
                 "reviews": "1384", 
                 "time": 80, 
-                "score": "4.70121002197266", 
-                "cal": 935
+                "carb": 54.0, 
+                "protein": 43.7
             }, 
             "name": "Cajun Chicken Pasta", 
             "key": 20169
         }, 
         {
             "values": {
+                "rating": "4.34275341033936", 
+                "sodium": 444, 
+                "cal": 488, 
+                "chol": 55, 
+                "fat": 11.4, 
                 "reviews": "900", 
                 "time": 60, 
-                "score": "4.34275341033936", 
-                "cal": 488
+                "carb": 70.0, 
+                "protein": 32.6
             }, 
             "name": "Greek Chicken Pasta", 
             "key": 20170
         }, 
         {
             "values": {
+                "rating": "4.33942079544067", 
+                "sodium": 368, 
+                "cal": 214, 
+                "chol": 91, 
+                "fat": 10.1, 
                 "reviews": "1084", 
                 "time": 40, 
-                "score": "4.33942079544067", 
-                "cal": 214
+                "carb": 1.7, 
+                "protein": 27.6
             }, 
             "name": "A Good Easy Garlic Chicken", 
             "key": 20171
         }, 
         {
             "values": {
+                "rating": "4.69562530517578", 
+                "sodium": 943, 
+                "cal": 377, 
+                "chol": 46, 
+                "fat": 19.1, 
                 "reviews": "1195", 
                 "time": 80, 
-                "score": "4.69562530517578", 
-                "cal": 377
+                "carb": 30.9, 
+                "protein": 23.1
             }, 
             "name": "Chicken Tortilla Soup I", 
             "key": 20172
         }, 
         {
             "values": {
+                "rating": "4.54852342605591", 
+                "sodium": 1707, 
+                "cal": 572, 
+                "chol": 84, 
+                "fat": 19.3, 
                 "reviews": "1089", 
                 "time": 110, 
-                "score": "4.54852342605591", 
-                "cal": 572
+                "carb": 57.3, 
+                "protein": 41.9
             }, 
             "name": "Pesto Chicken Florentine", 
             "key": 20173
         }, 
         {
             "values": {
+                "rating": "4.29867553710938", 
+                "sodium": 440, 
+                "cal": 186, 
+                "chol": 44, 
+                "fat": 8.5, 
                 "reviews": "1018", 
                 "time": 80, 
-                "score": "4.29867553710938", 
-                "cal": 186
+                "carb": 12.2, 
+                "protein": 15.5
             }, 
             "name": "Broccoli Chicken Divan", 
             "key": 20174
         }, 
         {
             "values": {
+                "rating": "4.45454549789429", 
+                "sodium": 763, 
+                "cal": 445, 
+                "chol": 34, 
+                "fat": 11.2, 
                 "reviews": "1266", 
                 "time": 280, 
-                "score": "4.45454549789429", 
-                "cal": 445
+                "carb": 68.7, 
+                "protein": 17.8
             }, 
             "name": "Asian Orange Chicken", 
             "key": 20175
         }, 
         {
             "values": {
+                "rating": "4.47777795791626", 
+                "sodium": 989, 
+                "cal": 308, 
+                "chol": 81, 
+                "fat": 19.1, 
                 "reviews": "1098", 
                 "time": 80, 
-                "score": "4.47777795791626", 
-                "cal": 308
+                "carb": 14.6, 
+                "protein": 19.3
             }, 
             "name": "Baked Chicken Nuggets", 
             "key": 20176
         }, 
         {
             "values": {
+                "rating": "4.57535123825073", 
+                "sodium": 1309, 
+                "cal": 528, 
+                "chol": 184, 
+                "fat": 18.3, 
                 "reviews": "1028", 
                 "time": 180, 
-                "score": "4.57535123825073", 
-                "cal": 528
+                "carb": 44.9, 
+                "protein": 43.5
             }, 
             "name": "Chicken Parmigiana", 
             "key": 20177
         }, 
         {
             "values": {
+                "rating": "4.83333349227905", 
+                "sodium": 575, 
+                "cal": 419, 
+                "chol": 29, 
+                "fat": 31.2, 
                 "reviews": "1104", 
                 "time": 304, 
-                "score": "4.83333349227905", 
-                "cal": 419
+                "carb": 21.8, 
+                "protein": 13.6
             }, 
             "name": "Southwestern Egg Rolls", 
             "key": 20178
         }, 
         {
             "values": {
+                "rating": "4.5910062789917", 
+                "sodium": 1685, 
+                "cal": 548, 
+                "chol": 98, 
+                "fat": 31.2, 
                 "reviews": "1058", 
                 "time": 120, 
-                "score": "4.5910062789917", 
-                "cal": 548
+                "carb": 34.4, 
+                "protein": 33.2
             }, 
             "name": "Cottage Cheese Chicken Enchiladas", 
             "key": 20179
         }, 
         {
             "values": {
+                "rating": "4.50033140182495", 
+                "sodium": 685, 
+                "cal": 449, 
+                "chol": 104, 
+                "fat": 32.8, 
                 "reviews": "1123", 
                 "time": 170, 
-                "score": "4.50033140182495", 
-                "cal": 449
+                "carb": 5.2, 
+                "protein": 33.4
             }, 
             "name": "Spinach Stuffed Chicken Breasts", 
             "key": 20180
         }, 
         {
             "values": {
+                "rating": "4.32868671417236", 
+                "sodium": 69, 
+                "cal": 332, 
+                "chol": 20, 
+                "fat": 10.9, 
                 "reviews": "919", 
                 "time": 70, 
-                "score": "4.32868671417236", 
-                "cal": 332
+                "carb": 43.3, 
+                "protein": 16.7
             }, 
             "name": "Penne with Chicken and Asparagus", 
             "key": 20181
         }, 
         {
             "values": {
+                "rating": "4.81436729431152", 
+                "sodium": 1236, 
+                "cal": 676, 
+                "chol": 187, 
+                "fat": 27.5, 
                 "reviews": "1125", 
                 "time": 105, 
-                "score": "4.81436729431152", 
-                "cal": 676
+                "carb": 81.0, 
+                "protein": 50.6
             }, 
             "name": "Chicken Parmesan", 
             "key": 20182
         }, 
         {
             "values": {
+                "rating": "4.55757141113281", 
+                "sodium": 1664, 
+                "cal": 147, 
+                "chol": 33, 
+                "fat": 3.6, 
                 "reviews": "1074", 
                 "time": 90, 
-                "score": "4.55757141113281", 
-                "cal": 147
+                "carb": 11.4, 
+                "protein": 15.7
             }, 
             "name": "Grandma's Chicken Noodle Soup", 
             "key": 20184
         }, 
         {
             "values": {
+                "rating": "4.62439298629761", 
+                "sodium": 974, 
+                "cal": 313, 
+                "chol": 132, 
+                "fat": 21.2, 
                 "reviews": "1258", 
                 "time": 40, 
-                "score": "4.62439298629761", 
-                "cal": 313
+                "carb": 1.8, 
+                "protein": 28.2
             }, 
             "name": "Chicken Breasts in Caper Cream Sauce", 
             "key": 20185
         }, 
         {
             "values": {
+                "rating": "4.45690727233887", 
+                "sodium": 1108, 
+                "cal": 454, 
+                "chol": 204, 
+                "fat": 19.8, 
                 "reviews": "1079", 
                 "time": 90, 
-                "score": "4.45690727233887", 
-                "cal": 454
+                "carb": 23.8, 
+                "protein": 44.1
             }, 
             "name": "Chicken With Mushrooms", 
             "key": 20186
         }, 
         {
             "values": {
+                "rating": "4.60171747207642", 
+                "sodium": 866, 
+                "cal": 368, 
+                "chol": 120, 
+                "fat": 22.1, 
                 "reviews": "1115", 
                 "time": 100, 
-                "score": "4.60171747207642", 
-                "cal": 368
+                "carb": 19.9, 
+                "protein": 22.2
             }, 
             "name": "Cheddar Baked Chicken", 
             "key": 20187
         }, 
         {
             "values": {
+                "rating": "4.52099370956421", 
+                "sodium": 1386, 
+                "cal": 673, 
+                "chol": 133, 
+                "fat": 30.8, 
                 "reviews": "1222", 
                 "time": 120, 
-                "score": "4.52099370956421", 
-                "cal": 673
+                "carb": 57.0, 
+                "protein": 43.3
             }, 
             "name": "Chicken Fettuccini Alfredo", 
             "key": 20188
         }, 
         {
             "values": {
+                "rating": "4.33763599395752", 
+                "sodium": 1143, 
+                "cal": 477, 
+                "chol": 88, 
+                "fat": 23.9, 
                 "reviews": "1059", 
                 "time": 160, 
-                "score": "4.33763599395752", 
-                "cal": 477
+                "carb": 34.8, 
+                "protein": 30.0
             }, 
             "name": "Salsa Chicken Rice Casserole", 
             "key": 20189
         }, 
         {
             "values": {
+                "rating": "4.30316734313965", 
+                "sodium": 735, 
+                "cal": 184, 
+                "chol": 67, 
+                "fat": 6.2, 
                 "reviews": "901", 
                 "time": 90, 
-                "score": "4.30316734313965", 
-                "cal": 184
+                "carb": 5.6, 
+                "protein": 25.3
             }, 
             "name": "Key West Chicken", 
             "key": 20190
         }, 
         {
             "values": {
+                "rating": "4.28345823287964", 
+                "sodium": 596, 
+                "cal": 437, 
+                "chol": 66, 
+                "fat": 23.3, 
                 "reviews": "817", 
                 "time": 150, 
-                "score": "4.28345823287964", 
-                "cal": 437
+                "carb": 25.3, 
+                "protein": 34.4
             }, 
             "name": "Kung Pao Chicken", 
             "key": 20191
         }, 
         {
             "values": {
+                "rating": "4.32027244567871", 
+                "sodium": 536, 
+                "cal": 362, 
+                "chol": 57, 
+                "fat": 10.8, 
                 "reviews": "764", 
                 "time": 70, 
-                "score": "4.32027244567871", 
-                "cal": 362
+                "carb": 37.8, 
+                "protein": 28.4
             }, 
             "name": "Basil Chicken over Angel Hair", 
             "key": 20192
         }, 
         {
             "values": {
+                "rating": "4.44816589355469", 
+                "sodium": 308, 
+                "cal": 349, 
+                "chol": 24, 
+                "fat": 15.2, 
                 "reviews": "924", 
                 "time": 60, 
-                "score": "4.44816589355469", 
-                "cal": 349
+                "carb": 38.3, 
+                "protein": 15.9
             }, 
             "name": "Sesame Pasta Chicken Salad", 
             "key": 20193
         }, 
         {
             "values": {
+                "rating": "4.39866542816162", 
+                "sodium": 81, 
+                "cal": 497, 
+                "chol": 78, 
+                "fat": 31.9, 
                 "reviews": "852", 
                 "time": 150, 
-                "score": "4.39866542816162", 
-                "cal": 497
+                "carb": 27.6, 
+                "protein": 24.4
             }, 
             "name": "Crispy Rosemary Chicken and Fries", 
             "key": 20194
         }, 
         {
             "values": {
+                "rating": "3.86529684066772", 
+                "sodium": 2204, 
+                "cal": 325, 
+                "chol": 71, 
+                "fat": 11.9, 
                 "reviews": "1055", 
                 "time": 740, 
-                "score": "3.86529684066772", 
-                "cal": 325
+                "carb": 34.2, 
+                "protein": 21.9
             }, 
             "name": "Honey-Garlic Slow Cooker Chicken Thighs", 
             "key": 20195
         }, 
         {
             "values": {
+                "rating": "4.49310350418091", 
+                "sodium": 523, 
+                "cal": 408, 
+                "chol": 107, 
+                "fat": 27.8, 
                 "reviews": "841", 
                 "time": 70, 
-                "score": "4.49310350418091", 
-                "cal": 408
+                "carb": 15.6, 
+                "protein": 23.4
             }, 
             "name": "Chicken Makhani (Indian Butter Chicken)", 
             "key": 20196
         }, 
         {
             "values": {
+                "rating": "4.43894100189209", 
+                "sodium": 344, 
+                "cal": 210, 
+                "chol": 113, 
+                "fat": 8.3, 
                 "reviews": "810", 
                 "time": 80, 
-                "score": "4.43894100189209", 
-                "cal": 210
+                "carb": 5.7, 
+                "protein": 27.6
             }, 
             "name": "Pollo Fajitas", 
             "key": 20197
         }, 
         {
             "values": {
+                "rating": "4.14657211303711", 
+                "sodium": 348, 
+                "cal": 192, 
+                "chol": 88, 
+                "fat": 7.0, 
                 "reviews": "942", 
                 "time": 420, 
-                "score": "4.14657211303711", 
-                "cal": 192
+                "carb": 1.3, 
+                "protein": 29.6
             }, 
             "name": "Slow Cooker Lemon Garlic Chicken II", 
             "key": 20198
         }, 
         {
             "values": {
+                "rating": "4.60619068145752", 
+                "sodium": 1049, 
+                "cal": 642, 
+                "chol": 184, 
+                "fat": 44.7, 
                 "reviews": "824", 
                 "time": 100, 
-                "score": "4.60619068145752", 
-                "cal": 642
+                "carb": 19.0, 
+                "protein": 40.4
             }, 
             "name": "Garlic-Lemon Double Stuffed Chicken", 
             "key": 20199
         }, 
         {
             "values": {
+                "rating": "4.78980398178101", 
+                "sodium": 734, 
+                "cal": 223, 
+                "chol": 62, 
+                "fat": 15.8, 
                 "reviews": "953", 
                 "time": 160, 
-                "score": "4.78980398178101", 
-                "cal": 223
+                "carb": 13.5, 
+                "protein": 6.9
             }, 
             "name": "Mulligatawny Soup I", 
             "key": 20200
@@ -983,23 +1473,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

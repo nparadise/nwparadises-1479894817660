@@ -2,960 +2,1440 @@
     "options": [
         {
             "values": {
+                "rating": "4.7193717956543", 
+                "sodium": 539, 
+                "cal": 777, 
+                "chol": 198, 
+                "fat": 57.3, 
                 "reviews": "692", 
                 "time": 820, 
-                "score": "4.7193717956543", 
-                "cal": 777
+                "carb": 7.5, 
+                "protein": 54.5
             }, 
             "name": "Slow Cooker Beef Pot Roast", 
             "key": 20001
         }, 
         {
             "values": {
+                "rating": "4.6404447555542", 
+                "sodium": 639, 
+                "cal": 426, 
+                "chol": 127, 
+                "fat": 23.7, 
                 "reviews": "6671", 
                 "time": 980, 
-                "score": "4.6404447555542", 
-                "cal": 426
+                "carb": 4.9, 
+                "protein": 45.6
             }, 
             "name": "Awesome Slow Cooker Pot Roast", 
             "key": 20002
         }, 
         {
             "values": {
+                "rating": "4.63085412979126", 
+                "sodium": 511, 
+                "cal": 310, 
+                "chol": 54, 
+                "fat": 20.4, 
                 "reviews": "243", 
                 "time": 220, 
-                "score": "4.63085412979126", 
-                "cal": 310
+                "carb": 17.2, 
+                "protein": 13.7
             }, 
             "name": "Bolognese Stuffed Bell Peppers", 
             "key": 20003
         }, 
         {
             "values": {
+                "rating": "4.80295658111572", 
+                "sodium": 2092, 
+                "cal": 600, 
+                "chol": 70, 
+                "fat": 30.1, 
                 "reviews": "4188", 
                 "time": 300, 
-                "score": "4.80295658111572", 
-                "cal": 600
+                "carb": 55.3, 
+                "protein": 30.8
             }, 
             "name": "Boilermaker Tailgate Chili", 
             "key": 20004
         }, 
         {
             "values": {
+                "rating": "4.64448261260986", 
+                "sodium": 1267, 
+                "cal": 305, 
+                "chol": 55, 
+                "fat": 13.7, 
                 "reviews": "2095", 
                 "time": 230, 
-                "score": "4.64448261260986", 
-                "cal": 305
+                "carb": 25.5, 
+                "protein": 22.3
             }, 
             "name": "It's Chili by George!!", 
             "key": 20005
         }, 
         {
             "values": {
+                "rating": "4.45753526687622", 
+                "sodium": 295, 
+                "cal": 452, 
+                "chol": 65, 
+                "fat": 17.0, 
                 "reviews": "1902", 
                 "time": 100, 
-                "score": "4.45753526687622", 
-                "cal": 452
+                "carb": 52.5, 
+                "protein": 23.1
             }, 
             "name": "Shepherd's Pie VI", 
             "key": 20006
         }, 
         {
             "values": {
+                "rating": "4.37231636047363", 
+                "sodium": 711, 
+                "cal": 376, 
+                "chol": 97, 
+                "fat": 27.3, 
                 "reviews": "2770", 
                 "time": 980, 
-                "score": "4.37231636047363", 
-                "cal": 376
+                "carb": 9.5, 
+                "protein": 22.0
             }, 
             "name": "Slow Cooker Beef Stroganoff I", 
             "key": 20007
         }, 
         {
             "values": {
+                "rating": "4.50857162475586", 
+                "sodium": 661, 
+                "cal": 413, 
+                "chol": 96, 
+                "fat": 18.1, 
                 "reviews": "2695", 
                 "time": 860, 
-                "score": "4.50857162475586", 
-                "cal": 413
+                "carb": 19.6, 
+                "protein": 39.1
             }, 
             "name": "Easy Slow Cooker French Dip", 
             "key": 20008
         }, 
         {
             "values": {
+                "rating": "4.53051662445068", 
+                "sodium": 2096, 
+                "cal": 556, 
+                "chol": 101, 
+                "fat": 36.5, 
                 "reviews": "184", 
                 "time": 240, 
-                "score": "4.53051662445068", 
-                "cal": 556
+                "carb": 31.6, 
+                "protein": 25.9
             }, 
             "name": "Slovak Stuffed Cabbage", 
             "key": 20009
         }, 
         {
             "values": {
+                "rating": "4.58148002624512", 
+                "sodium": 597, 
+                "cal": 319, 
+                "chol": 115, 
+                "fat": 18.5, 
                 "reviews": "1902", 
                 "time": 80, 
-                "score": "4.58148002624512", 
-                "cal": 319
+                "carb": 13.5, 
+                "protein": 23.1
             }, 
             "name": "Hamburger Steak with Onions and Gravy", 
             "key": 20010
         }, 
         {
             "values": {
+                "rating": "4.7854471206665", 
+                "sodium": 1788, 
+                "cal": 448, 
+                "chol": 82, 
+                "fat": 21.3, 
                 "reviews": "10212", 
                 "time": 375, 
-                "score": "4.7854471206665", 
-                "cal": 448
+                "carb": 36.5, 
+                "protein": 29.7
             }, 
             "name": "World's Best Lasagna", 
             "key": 20011
         }, 
         {
             "values": {
+                "rating": "4.51265001296997", 
+                "sodium": 1492, 
+                "cal": 349, 
+                "chol": 77, 
+                "fat": 21.2, 
                 "reviews": "2324", 
                 "time": 280, 
-                "score": "4.51265001296997", 
-                "cal": 349
+                "carb": 23.7, 
+                "protein": 18.9
             }, 
             "name": "Italian Spaghetti Sauce with Meatballs", 
             "key": 20012
         }, 
         {
             "values": {
+                "rating": "4.69987916946411", 
+                "sodium": 914, 
+                "cal": 578, 
+                "chol": 71, 
+                "fat": 25.3, 
                 "reviews": "5287", 
                 "time": 110, 
-                "score": "4.69987916946411", 
-                "cal": 578
+                "carb": 58.4, 
+                "protein": 27.9
             }, 
             "name": "Baked Ziti I", 
             "key": 20013
         }, 
         {
             "values": {
+                "rating": "4.40187931060791", 
+                "sodium": 818, 
+                "cal": 440, 
+                "chol": 127, 
+                "fat": 32.3, 
                 "reviews": "2822", 
                 "time": 80, 
-                "score": "4.40187931060791", 
-                "cal": 440
+                "carb": 14.1, 
+                "protein": 23.0
             }, 
             "name": "Salisbury Steak", 
             "key": 20014
         }, 
         {
             "values": {
+                "rating": "4.41508483886719", 
+                "sodium": 531, 
+                "cal": 516, 
+                "chol": 101, 
+                "fat": 29.6, 
                 "reviews": "2817", 
                 "time": 1480, 
-                "score": "4.41508483886719", 
-                "cal": 516
+                "carb": 29.8, 
+                "protein": 31.8
             }, 
             "name": "Slow Cooker Beef Stew I", 
             "key": 20015
         }, 
         {
             "values": {
+                "rating": "4.51833248138428", 
+                "sodium": 971, 
+                "cal": 463, 
+                "chol": 89, 
+                "fat": 24.3, 
                 "reviews": "1806", 
                 "time": 120, 
-                "score": "4.51833248138428", 
-                "cal": 463
+                "carb": 35.5, 
+                "protein": 27.2
             }, 
             "name": "Stuffed Green Peppers I", 
             "key": 20016
         }, 
         {
             "values": {
+                "rating": "4.61531257629395", 
+                "sodium": 940, 
+                "cal": 343, 
+                "chol": 95, 
+                "fat": 16.8, 
                 "reviews": "2248", 
                 "time": 80, 
-                "score": "4.61531257629395", 
-                "cal": 343
+                "carb": 15.3, 
+                "protein": 31.0
             }, 
             "name": "Meatball Nirvana", 
             "key": 20017
         }, 
         {
             "values": {
+                "rating": "4.47280788421631", 
+                "sodium": 649, 
+                "cal": 507, 
+                "chol": 61, 
+                "fat": 18.7, 
                 "reviews": "659", 
                 "time": 100, 
-                "score": "4.47280788421631", 
-                "cal": 507
+                "carb": 59.2, 
+                "protein": 27.4
             }, 
             "name": "Crispy Orange Beef", 
             "key": 20018
         }, 
         {
             "values": {
+                "rating": "4.75676584243774", 
+                "sodium": 1366, 
+                "cal": 480, 
+                "chol": 96, 
+                "fat": 31.1, 
                 "reviews": "2139", 
                 "time": 140, 
-                "score": "4.75676584243774", 
-                "cal": 480
+                "carb": 24.9, 
+                "protein": 26.7
             }, 
             "name": "Debdoozie's Blue Ribbon Chili", 
             "key": 20019
         }, 
         {
             "values": {
+                "rating": "4.42364120483398", 
+                "sodium": 64, 
+                "cal": 367, 
+                "chol": 81, 
+                "fat": 26.2, 
                 "reviews": "826", 
                 "time": 40, 
-                "score": "4.42364120483398", 
-                "cal": 367
+                "carb": 5.7, 
+                "protein": 20.3
             }, 
             "name": "Filet Mignon with Rich Balsamic Glaze", 
             "key": 20020
         }, 
         {
             "values": {
+                "rating": "4.57296180725098", 
+                "sodium": 763, 
+                "cal": 353, 
+                "chol": 112, 
+                "fat": 20.1, 
                 "reviews": "6079", 
                 "time": 170, 
-                "score": "4.57296180725098", 
-                "cal": 353
+                "carb": 24.1, 
+                "protein": 18.4
             }, 
             "name": "Brown Sugar Meatloaf", 
             "key": 20021
         }, 
         {
             "values": {
+                "rating": "4.42940998077393", 
+                "sodium": 1189, 
+                "cal": 301, 
+                "chol": 65, 
+                "fat": 15.8, 
                 "reviews": "2096", 
                 "time": 540, 
-                "score": "4.42940998077393", 
-                "cal": 301
+                "carb": 11.7, 
+                "protein": 28.2
             }, 
             "name": "Slow-Cooker Pepper Steak", 
             "key": 20022
         }, 
         {
             "values": {
+                "rating": "4.54333162307739", 
+                "sodium": 335, 
+                "cal": 372, 
+                "chol": 98, 
+                "fat": 24.7, 
                 "reviews": "3953", 
                 "time": 140, 
-                "score": "4.54333162307739", 
-                "cal": 372
+                "carb": 18.5, 
+                "protein": 18.2
             }, 
             "name": "Easy Meatloaf", 
             "key": 20023
         }, 
         {
             "values": {
+                "rating": "4.75080919265747", 
+                "sodium": 288, 
+                "cal": 307, 
+                "chol": 86, 
+                "fat": 24.5, 
                 "reviews": "221", 
                 "time": 210, 
-                "score": "4.75080919265747", 
-                "cal": 307
+                "carb": 4.1, 
+                "protein": 15.8
             }, 
             "name": "Chef John's Classic Beef Stroganoff", 
             "key": 20024
         }, 
         {
             "values": {
+                "rating": "4.59788990020752", 
+                "sodium": 436, 
+                "cal": 401, 
+                "chol": 79, 
+                "fat": 21.2, 
                 "reviews": "1800", 
                 "time": 280, 
-                "score": "4.59788990020752", 
-                "cal": 401
+                "carb": 24.9, 
+                "protein": 27.2
             }, 
             "name": "Beef Stew VI", 
             "key": 20025
         }, 
         {
             "values": {
+                "rating": "4.54269790649414", 
+                "sodium": 803, 
+                "cal": 360, 
+                "chol": 143, 
+                "fat": 23.5, 
                 "reviews": "2160", 
                 "time": 110, 
-                "score": "4.54269790649414", 
-                "cal": 360
+                "carb": 9.5, 
+                "protein": 26.8
             }, 
             "name": "Rempel Family Meatloaf", 
             "key": 20026
         }, 
         {
             "values": {
+                "rating": "4.56004238128662", 
+                "sodium": 847, 
+                "cal": 432, 
+                "chol": 68, 
+                "fat": 23.9, 
                 "reviews": "2679", 
                 "time": 120, 
-                "score": "4.56004238128662", 
-                "cal": 432
+                "carb": 33.3, 
+                "protein": 19.8
             }, 
             "name": "Burrito Pie", 
             "key": 20027
         }, 
         {
             "values": {
+                "rating": "4.65463066101074", 
+                "sodium": 416, 
+                "cal": 189, 
+                "chol": 50, 
+                "fat": 9.4, 
                 "reviews": "4527", 
                 "time": 80, 
-                "score": "4.65463066101074", 
-                "cal": 189
+                "carb": 11.2, 
+                "protein": 15.1
             }, 
             "name": "Sloppy Joes II", 
             "key": 20028
         }, 
         {
             "values": {
+                "rating": "4.62977409362793", 
+                "sodium": 819, 
+                "cal": 318, 
+                "chol": 100, 
+                "fat": 15.8, 
                 "reviews": "1650", 
                 "time": 1470, 
-                "score": "4.62977409362793", 
-                "cal": 318
+                "carb": 1.6, 
+                "protein": 39.4
             }, 
             "name": "Slow Cooker Italian Beef for Sandwiches", 
             "key": 20029
         }, 
         {
             "values": {
+                "rating": "4.51863670349121", 
+                "sodium": 1378, 
+                "cal": 388, 
+                "chol": 75, 
+                "fat": 24.0, 
                 "reviews": "1468", 
                 "time": 630, 
-                "score": "4.51863670349121", 
-                "cal": 388
+                "carb": 18.0, 
+                "protein": 23.5
             }, 
             "name": "Slow Cooker Salisbury Steak", 
             "key": 20030
         }, 
         {
             "values": {
+                "rating": "4.72867059707642", 
+                "sodium": 1246, 
+                "cal": 347, 
+                "chol": 68, 
+                "fat": 19.9, 
                 "reviews": "1519", 
                 "time": 210, 
-                "score": "4.72867059707642", 
-                "cal": 347
+                "carb": 22.6, 
+                "protein": 21.4
             }, 
             "name": "Flatlander Chili", 
             "key": 20031
         }, 
         {
             "values": {
+                "rating": "4.60576438903809", 
+                "sodium": 1356, 
+                "cal": 362, 
+                "chol": 48, 
+                "fat": 16.3, 
                 "reviews": "1420", 
                 "time": 980, 
-                "score": "4.60576438903809", 
-                "cal": 362
+                "carb": 37.8, 
+                "protein": 18.2
             }, 
             "name": "Slow Cooker Taco Soup", 
             "key": 20032
         }, 
         {
             "values": {
+                "rating": "4.57640314102173", 
+                "sodium": 272, 
+                "cal": 540, 
+                "chol": 147, 
+                "fat": 30.6, 
                 "reviews": "1362", 
                 "time": 1160, 
-                "score": "4.57640314102173", 
-                "cal": 540
+                "carb": 18.2, 
+                "protein": 45.7
             }, 
             "name": "Marie's Easy Slow Cooker Pot Roast", 
             "key": 20033
         }, 
         {
             "values": {
+                "rating": "4.58148002624512", 
+                "sodium": 597, 
+                "cal": 319, 
+                "chol": 115, 
+                "fat": 18.5, 
                 "reviews": "1902", 
                 "time": 80, 
-                "score": "4.58148002624512", 
-                "cal": 319
+                "carb": 13.5, 
+                "protein": 23.1
             }, 
             "name": "Hamburger Steak with Onions and Gravy", 
             "key": 20034
         }, 
         {
             "values": {
+                "rating": "4.61936140060425", 
+                "sodium": 580, 
+                "cal": 388, 
+                "chol": 69, 
+                "fat": 22.3, 
                 "reviews": "1395", 
                 "time": 70, 
-                "score": "4.61936140060425", 
-                "cal": 388
+                "carb": 24.3, 
+                "protein": 23.4
             }, 
             "name": "Asian Lettuce Wraps", 
             "key": 20035
         }, 
         {
             "values": {
+                "rating": "4.33670997619629", 
+                "sodium": 903, 
+                "cal": 386, 
+                "chol": 79, 
+                "fat": 25.3, 
                 "reviews": "1412", 
                 "time": 120, 
-                "score": "4.33670997619629", 
-                "cal": 386
+                "carb": 17.7, 
+                "protein": 20.2
             }, 
             "name": "Pizza Casserole", 
             "key": 20036
         }, 
         {
             "values": {
+                "rating": "4.27932214736938", 
+                "sodium": 564, 
+                "cal": 248, 
+                "chol": 46, 
+                "fat": 9.4, 
                 "reviews": "1022", 
                 "time": 160, 
-                "score": "4.27932214736938", 
-                "cal": 248
+                "carb": 25.6, 
+                "protein": 16.0
             }, 
             "name": "Stuffed Peppers", 
             "key": 20037
         }, 
         {
             "values": {
+                "rating": "4.45058441162109", 
+                "sodium": 59, 
+                "cal": 227, 
+                "chol": 71, 
+                "fat": 12.6, 
                 "reviews": "1596", 
                 "time": 370, 
-                "score": "4.45058441162109", 
-                "cal": 227
+                "carb": 0.0, 
+                "protein": 26.6
             }, 
             "name": "High Temperature Eye-of-Round Roast", 
             "key": 20038
         }, 
         {
             "values": {
+                "rating": "4.67935228347778", 
+                "sodium": 1900, 
+                "cal": 664, 
+                "chol": 168, 
+                "fat": 29.5, 
                 "reviews": "1762", 
                 "time": 240, 
-                "score": "4.67935228347778", 
-                "cal": 664
+                "carb": 48.3, 
+                "protein": 50.9
             }, 
             "name": "American Lasagna", 
             "key": 20039
         }, 
         {
             "values": {
+                "rating": "4.59788990020752", 
+                "sodium": 436, 
+                "cal": 401, 
+                "chol": 79, 
+                "fat": 21.2, 
                 "reviews": "1800", 
                 "time": 280, 
-                "score": "4.59788990020752", 
-                "cal": 401
+                "carb": 24.9, 
+                "protein": 27.2
             }, 
             "name": "Beef Stew VI", 
             "key": 20040
         }, 
         {
             "values": {
+                "rating": "4.59836435317993", 
+                "sodium": 656, 
+                "cal": 255, 
+                "chol": 74, 
+                "fat": 14.4, 
                 "reviews": "1789", 
                 "time": 120, 
-                "score": "4.59836435317993", 
-                "cal": 255
+                "carb": 16.6, 
+                "protein": 15.1
             }, 
             "name": "Mini Meatloaves", 
             "key": 20041
         }, 
         {
             "values": {
+                "rating": "4.37407398223877", 
+                "sodium": 1308, 
+                "cal": 632, 
+                "chol": 119, 
+                "fat": 43.7, 
                 "reviews": "1331", 
                 "time": 100, 
-                "score": "4.37407398223877", 
-                "cal": 632
+                "carb": 32.8, 
+                "protein": 31.7
             }, 
             "name": "Easy Mexican Casserole", 
             "key": 20042
         }, 
         {
             "values": {
+                "rating": "4.37045574188232", 
+                "sodium": 863, 
+                "cal": 687, 
+                "chol": 100, 
+                "fat": 43.4, 
                 "reviews": "1275", 
                 "time": 60, 
-                "score": "4.37045574188232", 
-                "cal": 687
+                "carb": 50.6, 
+                "protein": 24.4
             }, 
             "name": "Taco Pie", 
             "key": 20043
         }, 
         {
             "values": {
+                "rating": "4.77353525161743", 
+                "sodium": 880, 
+                "cal": 576, 
+                "chol": 137, 
+                "fat": 46.2, 
                 "reviews": "1259", 
                 "time": 610, 
-                "score": "4.77353525161743", 
-                "cal": 576
+                "carb": 0.6, 
+                "protein": 37.0
             }, 
             "name": "Foolproof Rib Roast", 
             "key": 20044
         }, 
         {
             "values": {
+                "rating": "4.64326000213623", 
+                "sodium": 1414, 
+                "cal": 532, 
+                "chol": 57, 
+                "fat": 16.1, 
                 "reviews": "1272", 
                 "time": 280, 
-                "score": "4.64326000213623", 
-                "cal": 532
+                "carb": 65.3, 
+                "protein": 32.4
             }, 
             "name": "Chili I", 
             "key": 20045
         }, 
         {
             "values": {
+                "rating": "4.57743453979492", 
+                "sodium": 619, 
+                "cal": 304, 
+                "chol": 83, 
+                "fat": 23.0, 
                 "reviews": "1683", 
                 "time": 190, 
-                "score": "4.57743453979492", 
-                "cal": 304
+                "carb": 5.7, 
+                "protein": 16.6
             }, 
             "name": "Beef Stroganoff III", 
             "key": 20046
         }, 
         {
             "values": {
+                "rating": "4.81893682479858", 
+                "sodium": 395, 
+                "cal": 562, 
+                "chol": 113, 
+                "fat": 48.0, 
                 "reviews": "1311", 
                 "time": 200, 
-                "score": "4.81893682479858", 
-                "cal": 562
+                "carb": 1.0, 
+                "protein": 29.6
             }, 
             "name": "Garlic Prime Rib", 
             "key": 20047
         }, 
         {
             "values": {
+                "rating": "4.45390892028809", 
+                "sodium": 85, 
+                "cal": 193, 
+                "chol": 53, 
+                "fat": 10.2, 
                 "reviews": "1229", 
                 "time": 210, 
-                "score": "4.45390892028809", 
-                "cal": 193
+                "carb": 15.2, 
+                "protein": 9.8
             }, 
             "name": "Cocktail Meatballs", 
             "key": 20048
         }, 
         {
             "values": {
+                "rating": "4.5744309425354", 
+                "sodium": 1281, 
+                "cal": 472, 
+                "chol": 99, 
+                "fat": 19.6, 
                 "reviews": "870", 
                 "time": 1110, 
-                "score": "4.5744309425354", 
-                "cal": 472
+                "carb": 49.5, 
+                "protein": 23.6
             }, 
             "name": "Slow-Cooker Corned Beef and Cabbage", 
             "key": 20049
         }, 
         {
             "values": {
+                "rating": "4.24335670471191", 
+                "sodium": 840, 
+                "cal": 352, 
+                "chol": 64, 
+                "fat": 20.6, 
                 "reviews": "1133", 
                 "time": 200, 
-                "score": "4.24335670471191", 
-                "cal": 352
+                "carb": 25.5, 
+                "protein": 17.1
             }, 
             "name": "Cabbage Roll Casserole", 
             "key": 20050
         }, 
         {
             "values": {
+                "rating": "4.72581815719604", 
+                "sodium": 1626, 
+                "cal": 494, 
+                "chol": 104, 
+                "fat": 21.8, 
                 "reviews": "1023", 
                 "time": 300, 
-                "score": "4.72581815719604", 
-                "cal": 494
+                "carb": 38.2, 
+                "protein": 38.2
             }, 
             "name": "Linda's Lasagna", 
             "key": 20051
         }, 
         {
             "values": {
+                "rating": "4.66183948516846", 
+                "sodium": 562, 
+                "cal": 276, 
+                "chol": 65, 
+                "fat": 16.2, 
                 "reviews": "1005", 
                 "time": 1240, 
-                "score": "4.66183948516846", 
-                "cal": 276
+                "carb": 13.5, 
+                "protein": 18.7
             }, 
             "name": "Barbecued Beef", 
             "key": 20052
         }, 
         {
             "values": {
+                "rating": "4.30745601654053", 
+                "sodium": 748, 
+                "cal": 246, 
+                "chol": 83, 
+                "fat": 10.8, 
                 "reviews": "973", 
                 "time": 1140, 
-                "score": "4.30745601654053", 
-                "cal": 246
+                "carb": 18.3, 
+                "protein": 19.0
             }, 
             "name": "Cabbage Rolls II", 
             "key": 20053
         }, 
         {
             "values": {
+                "rating": "4.56810903549194", 
+                "sodium": 410, 
+                "cal": 492, 
+                "chol": 106, 
+                "fat": 27.5, 
                 "reviews": "915", 
                 "time": 870, 
-                "score": "4.56810903549194", 
-                "cal": 492
+                "carb": 25.7, 
+                "protein": 33.5
             }, 
             "name": "Slow Cooker Beef Stew IV", 
             "key": 20054
         }, 
         {
             "values": {
+                "rating": "4.83246994018555", 
+                "sodium": 645, 
+                "cal": 653, 
+                "chol": 132, 
+                "fat": 50.6, 
                 "reviews": "902", 
                 "time": 210, 
-                "score": "4.83246994018555", 
-                "cal": 653
+                "carb": 11.9, 
+                "protein": 31.6
             }, 
             "name": "Beef Tenderloin With Roasted Shallots", 
             "key": 20055
         }, 
         {
             "values": {
+                "rating": "4.32633399963379", 
+                "sodium": 657, 
+                "cal": 223, 
+                "chol": 66, 
+                "fat": 13.1, 
                 "reviews": "868", 
                 "time": 120, 
-                "score": "4.32633399963379", 
-                "cal": 223
+                "carb": 13.3, 
+                "protein": 12.8
             }, 
             "name": "Stuffed Cabbage Rolls", 
             "key": 20056
         }, 
         {
             "values": {
+                "rating": "4.42364120483398", 
+                "sodium": 64, 
+                "cal": 367, 
+                "chol": 81, 
+                "fat": 26.2, 
                 "reviews": "826", 
                 "time": 40, 
-                "score": "4.42364120483398", 
-                "cal": 367
+                "carb": 5.7, 
+                "protein": 20.3
             }, 
             "name": "Filet Mignon with Rich Balsamic Glaze", 
             "key": 20057
         }, 
         {
             "values": {
+                "rating": "4.50252103805542", 
+                "sodium": 2285, 
+                "cal": 916, 
+                "chol": 122, 
+                "fat": 42.0, 
                 "reviews": "882", 
                 "time": 90, 
-                "score": "4.50252103805542", 
-                "cal": 916
+                "carb": 92.0, 
+                "protein": 43.9
             }, 
             "name": "Fabulous Wet Burritos", 
             "key": 20058
         }, 
         {
             "values": {
+                "rating": "4.63149070739746", 
+                "sodium": 500, 
+                "cal": 589, 
+                "chol": 160, 
+                "fat": 41.7, 
                 "reviews": "920", 
                 "time": 160, 
-                "score": "4.63149070739746", 
-                "cal": 589
+                "carb": 25.2, 
+                "protein": 27.9
             }, 
             "name": "Glazed Meatloaf I", 
             "key": 20059
         }, 
         {
             "values": {
+                "rating": "4.34979438781738", 
+                "sodium": 604, 
+                "cal": 350, 
+                "chol": 67, 
+                "fat": 19.1, 
                 "reviews": "862", 
                 "time": 120, 
-                "score": "4.34979438781738", 
-                "cal": 350
+                "carb": 24.9, 
+                "protein": 18.5
             }, 
             "name": "Spanish Rice Bake", 
             "key": 20060
         }, 
         {
             "values": {
+                "rating": "4.47289848327637", 
+                "sodium": 596, 
+                "cal": 411, 
+                "chol": 81, 
+                "fat": 27.3, 
                 "reviews": "960", 
                 "time": 100, 
-                "score": "4.47289848327637", 
-                "cal": 411
+                "carb": 22.6, 
+                "protein": 18.9
             }, 
             "name": "Cheeseburger Soup I", 
             "key": 20061
         }, 
         {
             "values": {
+                "rating": "4.41659879684448", 
+                "sodium": 1466, 
+                "cal": 386, 
+                "chol": 74, 
+                "fat": 14.6, 
                 "reviews": "936", 
                 "time": 160, 
-                "score": "4.41659879684448", 
-                "cal": 386
+                "carb": 34.1, 
+                "protein": 28.2
             }, 
             "name": "Classic Goulash", 
             "key": 20062
         }, 
         {
             "values": {
+                "rating": "4.59587621688843", 
+                "sodium": 1046, 
+                "cal": 394, 
+                "chol": 121, 
+                "fat": 25.4, 
                 "reviews": "1129", 
                 "time": 180, 
-                "score": "4.59587621688843", 
-                "cal": 394
+                "carb": 1.6, 
+                "protein": 37.7
             }, 
             "name": "Herb Rubbed Sirloin Tip Roast", 
             "key": 20063
         }, 
         {
             "values": {
+                "rating": "4.3052544593811", 
+                "sodium": 711, 
+                "cal": 203, 
+                "chol": 39, 
+                "fat": 10.0, 
                 "reviews": "814", 
                 "time": 30, 
-                "score": "4.3052544593811", 
-                "cal": 203
+                "carb": 9.7, 
+                "protein": 16.0
             }, 
             "name": "Asian Beef with Snow Peas", 
             "key": 20064
         }, 
         {
             "values": {
+                "rating": "4.31563186645508", 
+                "sodium": 673, 
+                "cal": 314, 
+                "chol": 65, 
+                "fat": 8.8, 
                 "reviews": "961", 
                 "time": 145, 
-                "score": "4.31563186645508", 
-                "cal": 314
+                "carb": 41.1, 
+                "protein": 17.4
             }, 
             "name": "Beef Tips and Noodles", 
             "key": 20065
         }, 
         {
             "values": {
+                "rating": "4.63157892227173", 
+                "sodium": 935, 
+                "cal": 275, 
+                "chol": 27, 
+                "fat": 22.5, 
                 "reviews": "988", 
                 "time": 410, 
-                "score": "4.63157892227173", 
-                "cal": 275
+                "carb": 3.4, 
+                "protein": 14.8
             }, 
             "name": "Marinated Flank Steak", 
             "key": 20066
         }, 
         {
             "values": {
+                "rating": "4.71676826477051", 
+                "sodium": 801, 
+                "cal": 489, 
+                "chol": 55, 
+                "fat": 24.5, 
                 "reviews": "839", 
                 "time": 180, 
-                "score": "4.71676826477051", 
-                "cal": 489
+                "carb": 43.8, 
+                "protein": 22.1
             }, 
             "name": "Baked Ziti IV", 
             "key": 20068
         }, 
         {
             "values": {
+                "rating": "4.53250455856323", 
+                "sodium": 1473, 
+                "cal": 781, 
+                "chol": 141, 
+                "fat": 31.9, 
                 "reviews": "732", 
                 "time": 80, 
-                "score": "4.53250455856323", 
-                "cal": 781
+                "carb": 78.2, 
+                "protein": 43.6
             }, 
             "name": "Meatball Sandwich", 
             "key": 20069
         }, 
         {
             "values": {
+                "rating": "4.48643207550049", 
+                "sodium": 774, 
+                "cal": 407, 
+                "chol": 74, 
+                "fat": 16.7, 
                 "reviews": "784", 
                 "time": 100, 
-                "score": "4.48643207550049", 
-                "cal": 407
+                "carb": 37.0, 
+                "protein": 26.2
             }, 
             "name": "Neat Sloppy Joes", 
             "key": 20070
         }, 
         {
             "values": {
+                "rating": "4.68154764175415", 
+                "sodium": 1288, 
+                "cal": 385, 
+                "chol": 87, 
+                "fat": 22.0, 
                 "reviews": "779", 
                 "time": 990, 
-                "score": "4.68154764175415", 
-                "cal": 385
+                "carb": 20.8, 
+                "protein": 23.9
             }, 
             "name": "Slow Cooker Pot Roast", 
             "key": 20071
         }, 
         {
             "values": {
+                "rating": "4.56805276870728", 
+                "sodium": 2550, 
+                "cal": 998, 
+                "chol": 160, 
+                "fat": 52.7, 
                 "reviews": "819", 
                 "time": 990, 
-                "score": "4.56805276870728", 
-                "cal": 998
+                "carb": 71.5, 
+                "protein": 55.9
             }, 
             "name": "Pepperoncini Beef", 
             "key": 20072
         }, 
         {
             "values": {
+                "rating": "4.71609401702881", 
+                "sodium": 1258, 
+                "cal": 761, 
+                "chol": 96, 
+                "fat": 34.4, 
                 "reviews": "835", 
                 "time": 100, 
-                "score": "4.71609401702881", 
-                "cal": 761
+                "carb": 74.9, 
+                "protein": 36.2
             }, 
             "name": "Baked Ziti III", 
             "key": 20073
         }, 
         {
             "values": {
+                "rating": "4.54489803314209", 
+                "sodium": 736, 
+                "cal": 423, 
+                "chol": 121, 
+                "fat": 23.3, 
                 "reviews": "749", 
                 "time": 630, 
-                "score": "4.54489803314209", 
-                "cal": 423
+                "carb": 12.7, 
+                "protein": 38.8
             }, 
             "name": "Cola Pot Roast II", 
             "key": 20074
         }, 
         {
             "values": {
+                "rating": "4.78365850448608", 
+                "sodium": 1274, 
+                "cal": 377, 
+                "chol": 52, 
+                "fat": 16.9, 
                 "reviews": "814", 
                 "time": 220, 
-                "score": "4.78365850448608", 
-                "cal": 377
+                "carb": 35.1, 
+                "protein": 20.1
             }, 
             "name": "Chef John's Stuffed Peppers", 
             "key": 20075
         }, 
         {
             "values": {
+                "rating": "4.57085037231445", 
+                "sodium": 773, 
+                "cal": 396, 
+                "chol": 93, 
+                "fat": 20.6, 
                 "reviews": "755", 
                 "time": 390, 
-                "score": "4.57085037231445", 
-                "cal": 396
+                "carb": 1.2, 
+                "protein": 48.6
             }, 
             "name": "London Broil II", 
             "key": 20076
         }, 
         {
             "values": {
+                "rating": "4.66726303100586", 
+                "sodium": 840, 
+                "cal": 369, 
+                "chol": 44, 
+                "fat": 19.7, 
                 "reviews": "816", 
                 "time": 130, 
-                "score": "4.66726303100586", 
-                "cal": 369
+                "carb": 32.2, 
+                "protein": 18.1
             }, 
             "name": "Taqueria Style Tacos - Carne Asada", 
             "key": 20077
         }, 
         {
             "values": {
+                "rating": "4.49023628234863", 
+                "sodium": 1393, 
+                "cal": 791, 
+                "chol": 124, 
+                "fat": 34.3, 
                 "reviews": "738", 
                 "time": 80, 
-                "score": "4.49023628234863", 
-                "cal": 791
+                "carb": 71.1, 
+                "protein": 47.0
             }, 
             "name": "The Best Chicken Fried Steak", 
             "key": 20079
         }, 
         {
             "values": {
+                "rating": "4.62819385528564", 
+                "sodium": 333, 
+                "cal": 613, 
+                "chol": 149, 
+                "fat": 53.2, 
                 "reviews": "874", 
                 "time": 100, 
-                "score": "4.62819385528564", 
-                "cal": 613
+                "carb": 6.6, 
+                "protein": 26.6
             }, 
             "name": "The Best Meatballs", 
             "key": 20080
         }, 
         {
             "values": {
+                "rating": "4.15392446517944", 
+                "sodium": 755, 
+                "cal": 178, 
+                "chol": 39, 
+                "fat": 3.2, 
                 "reviews": "729", 
                 "time": 60, 
-                "score": "4.15392446517944", 
-                "cal": 178
+                "carb": 19.0, 
+                "protein": 19.2
             }, 
             "name": "Broccoli Beef I", 
             "key": 20081
         }, 
         {
             "values": {
+                "rating": "4.40633726119995", 
+                "sodium": 1384, 
+                "cal": 277, 
+                "chol": 61, 
+                "fat": 16.9, 
                 "reviews": "862", 
                 "time": 340, 
-                "score": "4.40633726119995", 
-                "cal": 277
+                "carb": 13.6, 
+                "protein": 16.7
             }, 
             "name": "Guinness\u00ae Corned Beef", 
             "key": 20082
         }, 
         {
             "values": {
+                "rating": "4.53761291503906", 
+                "sodium": 805, 
+                "cal": 286, 
+                "chol": 101, 
+                "fat": 17.9, 
                 "reviews": "765", 
                 "time": 150, 
-                "score": "4.53761291503906", 
-                "cal": 286
+                "carb": 9.5, 
+                "protein": 20.9
             }, 
             "name": "The Best Meatloaf", 
             "key": 20083
         }, 
         {
             "values": {
+                "rating": "4.50131464004517", 
+                "sodium": 1855, 
+                "cal": 821, 
+                "chol": 97, 
+                "fat": 36.0, 
                 "reviews": "812", 
                 "time": 90, 
-                "score": "4.50131464004517", 
-                "cal": 821
+                "carb": 83.6, 
+                "protein": 40.1
             }, 
             "name": "Beef and Bean Chimichangas", 
             "key": 20085
         }, 
         {
             "values": {
+                "rating": "4.36020421981812", 
+                "sodium": 196, 
+                "cal": 288, 
+                "chol": 96, 
+                "fat": 17.8, 
                 "reviews": "716", 
                 "time": 60, 
-                "score": "4.36020421981812", 
-                "cal": 288
+                "carb": 9.1, 
+                "protein": 21.5
             }, 
             "name": "Juiciest Hamburgers Ever", 
             "key": 20086
         }, 
         {
             "values": {
+                "rating": "4.63324308395386", 
+                "sodium": 605, 
+                "cal": 321, 
+                "chol": 62, 
+                "fat": 17.3, 
                 "reviews": "807", 
                 "time": 700, 
-                "score": "4.63324308395386", 
-                "cal": 321
+                "carb": 22.4, 
+                "protein": 20.0
             }, 
             "name": "Beef Barley Vegetable Soup", 
             "key": 20087
         }, 
         {
             "values": {
+                "rating": "4.59190845489502", 
+                "sodium": 315, 
+                "cal": 260, 
+                "chol": 69, 
+                "fat": 19.1, 
                 "reviews": "826", 
                 "time": 1040, 
-                "score": "4.59190845489502", 
-                "cal": 260
+                "carb": 3.3, 
+                "protein": 18.4
             }, 
             "name": "Charley's Slow Cooker Mexican Style Meat", 
             "key": 20088
         }, 
         {
             "values": {
+                "rating": "4.7193717956543", 
+                "sodium": 539, 
+                "cal": 777, 
+                "chol": 198, 
+                "fat": 57.3, 
                 "reviews": "692", 
                 "time": 820, 
-                "score": "4.7193717956543", 
-                "cal": 777
+                "carb": 7.5, 
+                "protein": 54.5
             }, 
             "name": "Slow Cooker Beef Pot Roast", 
             "key": 20089
         }, 
         {
             "values": {
+                "rating": "4.35032558441162", 
+                "sodium": 1274, 
+                "cal": 448, 
+                "chol": 60, 
+                "fat": 21.1, 
                 "reviews": "669", 
                 "time": 90, 
-                "score": "4.35032558441162", 
-                "cal": 448
+                "carb": 40.5, 
+                "protein": 22.2
             }, 
             "name": "Beef Enchiladas II", 
             "key": 20090
         }, 
         {
             "values": {
+                "rating": "4.23615455627441", 
+                "sodium": 801, 
+                "cal": 198, 
+                "chol": 36, 
+                "fat": 11.1, 
                 "reviews": "738", 
                 "time": 1220, 
-                "score": "4.23615455627441", 
-                "cal": 198
+                "carb": 9.8, 
+                "protein": 14.9
             }, 
             "name": "Slow Cooker London Broil", 
             "key": 20092
         }, 
         {
             "values": {
+                "rating": "4.53113985061646", 
+                "sodium": 1173, 
+                "cal": 372, 
+                "chol": 76, 
+                "fat": 14.4, 
                 "reviews": "633", 
                 "time": 1460, 
-                "score": "4.53113985061646", 
-                "cal": 372
+                "carb": 29.8, 
+                "protein": 29.6
             }, 
             "name": "French Dip Sandwiches", 
             "key": 20093
         }, 
         {
             "values": {
+                "rating": "4.6269006729126", 
+                "sodium": 984, 
+                "cal": 335, 
+                "chol": 54, 
+                "fat": 14.6, 
                 "reviews": "637", 
                 "time": 180, 
-                "score": "4.6269006729126", 
-                "cal": 335
+                "carb": 26.2, 
+                "protein": 24.0
             }, 
             "name": "Bob's Awesome Lasagna", 
             "key": 20094
         }, 
         {
             "values": {
+                "rating": "4.29760646820068", 
+                "sodium": 672, 
+                "cal": 403, 
+                "chol": 94, 
+                "fat": 26.8, 
                 "reviews": "686", 
                 "time": 990, 
-                "score": "4.29760646820068", 
-                "cal": 403
+                "carb": 11.5, 
+                "protein": 27.2
             }, 
             "name": "Daria's Slow Cooker Beef Stroganoff", 
             "key": 20095
         }, 
         {
             "values": {
+                "rating": "4.47280788421631", 
+                "sodium": 649, 
+                "cal": 507, 
+                "chol": 61, 
+                "fat": 18.7, 
                 "reviews": "659", 
                 "time": 100, 
-                "score": "4.47280788421631", 
-                "cal": 507
+                "carb": 59.2, 
+                "protein": 27.4
             }, 
             "name": "Crispy Orange Beef", 
             "key": 20096
         }, 
         {
             "values": {
+                "rating": "4.60750865936279", 
+                "sodium": 398, 
+                "cal": 318, 
+                "chol": 90, 
+                "fat": 16.8, 
                 "reviews": "700", 
                 "time": 160, 
-                "score": "4.60750865936279", 
-                "cal": 318
+                "carb": 18.9, 
+                "protein": 22.4
             }, 
             "name": "Glazed Meatloaf II", 
             "key": 20097
         }, 
         {
             "values": {
+                "rating": "4.619957447052", 
+                "sodium": 2310, 
+                "cal": 548, 
+                "chol": 94, 
+                "fat": 22.6, 
                 "reviews": "672", 
                 "time": 30, 
-                "score": "4.619957447052", 
-                "cal": 548
+                "carb": 40.5, 
+                "protein": 44.6
             }, 
             "name": "Easy French Dip Sandwiches", 
             "key": 20098
         }, 
         {
             "values": {
+                "rating": "4.30621004104614", 
+                "sodium": 635, 
+                "cal": 334, 
+                "chol": 50, 
+                "fat": 17.0, 
                 "reviews": "679", 
                 "time": 120, 
-                "score": "4.30621004104614", 
-                "cal": 334
+                "carb": 28.2, 
+                "protein": 15.6
             }, 
             "name": "Taco Casserole", 
             "key": 20099
         }, 
         {
             "values": {
+                "rating": "4.52359533309937", 
+                "sodium": 944, 
+                "cal": 354, 
+                "chol": 57, 
+                "fat": 22.5, 
                 "reviews": "654", 
                 "time": 60, 
-                "score": "4.52359533309937", 
-                "cal": 354
+                "carb": 15.8, 
+                "protein": 22.2
             }, 
             "name": "Sesame Beef", 
             "key": 20100
@@ -963,23 +1443,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

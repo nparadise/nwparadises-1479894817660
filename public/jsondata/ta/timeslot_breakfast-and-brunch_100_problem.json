@@ -2,960 +2,1440 @@
     "options": [
         {
             "values": {
+                "rating": "4.82056427001953", 
+                "sodium": 650, 
+                "cal": 230, 
+                "chol": 65, 
+                "fat": 8.2, 
                 "reviews": "8834", 
                 "time": 45, 
-                "score": "4.82056427001953", 
-                "cal": 230
+                "carb": 32.7, 
+                "protein": 6.4
             }, 
             "name": "Fluffy Pancakes", 
             "key": 7801
         }, 
         {
             "values": {
+                "rating": "4.44117641448975", 
+                "sodium": 308, 
+                "cal": 152, 
+                "chol": 258, 
+                "fat": 10.6, 
                 "reviews": "30", 
                 "time": 60, 
-                "score": "4.44117641448975", 
-                "cal": 152
+                "carb": 2.1, 
+                "protein": 12.0
             }, 
             "name": "Tomatoes and Bacon Egg Muffins", 
             "key": 7802
         }, 
         {
             "values": {
+                "rating": "4.7688045501709", 
+                "sodium": 200, 
+                "cal": 263, 
+                "chol": 35, 
+                "fat": 10.4, 
                 "reviews": "3883", 
                 "time": 140, 
-                "score": "4.7688045501709", 
-                "cal": 263
+                "carb": 40.1, 
+                "protein": 3.7
             }, 
             "name": "Banana Sour Cream Bread", 
             "key": 7803
         }, 
         {
             "values": {
+                "rating": "4.57360792160034", 
+                "sodium": 608, 
+                "cal": 278, 
+                "chol": 36, 
+                "fat": 7.2, 
                 "reviews": "2026", 
                 "time": 80, 
-                "score": "4.57360792160034", 
-                "cal": 278
+                "carb": 45.8, 
+                "protein": 7.9
             }, 
             "name": "Pumpkin Pancakes", 
             "key": 7804
         }, 
         {
             "values": {
+                "rating": "4.48990058898926", 
+                "sodium": 390, 
+                "cal": 382, 
+                "chol": 68, 
+                "fat": 21.6, 
                 "reviews": "2594", 
                 "time": 40, 
-                "score": "4.48990058898926", 
-                "cal": 382
+                "carb": 38.0, 
+                "protein": 8.7
             }, 
             "name": "Waffles I", 
             "key": 7805
         }, 
         {
             "values": {
+                "rating": "4.56940507888794", 
+                "sodium": 166, 
+                "cal": 235, 
+                "chol": 45, 
+                "fat": 8.8, 
                 "reviews": "268", 
                 "time": 170, 
-                "score": "4.56940507888794", 
-                "cal": 235
+                "carb": 35.8, 
+                "protein": 4.5
             }, 
             "name": "Orange Pecan French Toast", 
             "key": 7806
         }, 
         {
             "values": {
+                "rating": "4.33381080627441", 
+                "sodium": 388, 
+                "cal": 207, 
+                "chol": 129, 
+                "fat": 7.2, 
                 "reviews": "1099", 
                 "time": 160, 
-                "score": "4.33381080627441", 
-                "cal": 207
+                "carb": 26.6, 
+                "protein": 8.5
             }, 
             "name": "French Toast Casserole", 
             "key": 7807
         }, 
         {
             "values": {
+                "rating": "4.81713008880615", 
+                "sodium": 388, 
+                "cal": 525, 
+                "chol": 64, 
+                "fat": 18.6, 
                 "reviews": "5512", 
                 "time": 215, 
-                "score": "4.81713008880615", 
-                "cal": 525
+                "carb": 82.0, 
+                "protein": 9.0
             }, 
             "name": "Clone of a Cinnabon", 
             "key": 7808
         }, 
         {
             "values": {
+                "rating": "4.75678682327271", 
+                "sodium": 180, 
+                "cal": 255, 
+                "chol": 23, 
+                "fat": 13.1, 
                 "reviews": "6194", 
                 "time": 180, 
-                "score": "4.75678682327271", 
-                "cal": 255
+                "carb": 32.1, 
+                "protein": 3.3
             }, 
             "name": "Mom's Zucchini Bread", 
             "key": 7809
         }, 
         {
             "values": {
+                "rating": "4.46432209014893", 
+                "sodium": 246, 
+                "cal": 193, 
+                "chol": 34, 
+                "fat": 6.6, 
                 "reviews": "1518", 
                 "time": 30, 
-                "score": "4.46432209014893", 
-                "cal": 193
+                "carb": 29.2, 
+                "protein": 5.0
             }, 
             "name": "Banana Pancakes I", 
             "key": 7810
         }, 
         {
             "values": {
+                "rating": "4.53388547897339", 
+                "sodium": 478, 
+                "cal": 240, 
+                "chol": 128, 
+                "fat": 6.4, 
                 "reviews": "954", 
                 "time": 40, 
-                "score": "4.53388547897339", 
-                "cal": 240
+                "carb": 33.6, 
+                "protein": 10.6
             }, 
             "name": "French Toast I", 
             "key": 7811
         }, 
         {
             "values": {
+                "rating": "4.251784324646", 
+                "sodium": 408, 
+                "cal": 395, 
+                "chol": 169, 
+                "fat": 19.8, 
                 "reviews": "1194", 
                 "time": 955, 
-                "score": "4.251784324646", 
-                "cal": 395
+                "carb": 44.4, 
+                "protein": 11.0
             }, 
             "name": "Baked French Toast", 
             "key": 7812
         }, 
         {
             "values": {
+                "rating": "4.62207269668579", 
+                "sodium": 230, 
+                "cal": 123, 
+                "chol": 48, 
+                "fat": 2.7, 
                 "reviews": "2478", 
                 "time": 60, 
-                "score": "4.62207269668579", 
-                "cal": 123
+                "carb": 19.4, 
+                "protein": 4.8
             }, 
             "name": "Fluffy French Toast", 
             "key": 7813
         }, 
         {
             "values": {
+                "rating": "4.51605987548828", 
+                "sodium": 622, 
+                "cal": 506, 
+                "chol": 130, 
+                "fat": 21.4, 
                 "reviews": "372", 
                 "time": 130, 
-                "score": "4.51605987548828", 
-                "cal": 506
+                "carb": 65.3, 
+                "protein": 12.3
             }, 
             "name": "Belgian Waffles", 
             "key": 7814
         }, 
         {
             "values": {
+                "rating": "4.60727453231812", 
+                "sodium": 504, 
+                "cal": 158, 
+                "chol": 38, 
+                "fat": 5.9, 
                 "reviews": "8570", 
                 "time": 40, 
-                "score": "4.60727453231812", 
-                "cal": 158
+                "carb": 21.7, 
+                "protein": 4.5
             }, 
             "name": "Good Old Fashioned Pancakes", 
             "key": 7815
         }, 
         {
             "values": {
+                "rating": "4.53137016296387", 
+                "sodium": 899, 
+                "cal": 379, 
+                "chol": 113, 
+                "fat": 16.2, 
                 "reviews": "1775", 
                 "time": 50, 
-                "score": "4.53137016296387", 
-                "cal": 379
+                "carb": 47.6, 
+                "protein": 10.2
             }, 
             "name": "Classic Waffles", 
             "key": 7816
         }, 
         {
             "values": {
+                "rating": "4.78514575958252", 
+                "sodium": 231, 
+                "cal": 247, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "1522", 
                 "time": 150, 
-                "score": "4.78514575958252", 
-                "cal": 247
+                "carb": 36.8, 
+                "protein": 3.0
             }, 
             "name": "Pumpkin Bread IV", 
             "key": 7817
         }, 
         {
             "values": {
+                "rating": "4.73244667053223", 
+                "sodium": 746, 
+                "cal": 418, 
+                "chol": 1, 
+                "fat": 17.7, 
                 "reviews": "1407", 
                 "time": 110, 
-                "score": "4.73244667053223", 
-                "cal": 418
+                "carb": 61.5, 
+                "protein": 5.3
             }, 
             "name": "Monkey Bread I", 
             "key": 7818
         }, 
         {
             "values": {
+                "rating": "4.67049789428711", 
+                "sodium": 1095, 
+                "cal": 408, 
+                "chol": 224, 
+                "fat": 28.7, 
                 "reviews": "412", 
                 "time": 680, 
-                "score": "4.67049789428711", 
-                "cal": 408
+                "carb": 12.4, 
+                "protein": 25.2
             }, 
             "name": "Sausage Egg Casserole", 
             "key": 7819
         }, 
         {
             "values": {
+                "rating": "4.54850769042969", 
+                "sodium": 1015, 
+                "cal": 377, 
+                "chol": 160, 
+                "fat": 26.0, 
                 "reviews": "1223", 
                 "time": 700, 
-                "score": "4.54850769042969", 
-                "cal": 377
+                "carb": 13.4, 
+                "protein": 21.5
             }, 
             "name": "Christmas Breakfast Sausage Casserole", 
             "key": 7820
         }, 
         {
             "values": {
+                "rating": "4.70778179168701", 
+                "sodium": 515, 
+                "cal": 219, 
+                "chol": 63, 
+                "fat": 7.4, 
                 "reviews": "2445", 
                 "time": 50, 
-                "score": "4.70778179168701", 
-                "cal": 219
+                "carb": 30.7, 
+                "protein": 7.2
             }, 
             "name": "Buttermilk Pancakes II", 
             "key": 7821
         }, 
         {
             "values": {
+                "rating": "4.64256191253662", 
+                "sodium": 235, 
+                "cal": 216, 
+                "chol": 111, 
+                "fat": 9.2, 
                 "reviews": "2125", 
                 "time": 60, 
-                "score": "4.64256191253662", 
-                "cal": 216
+                "carb": 25.5, 
+                "protein": 7.4
             }, 
             "name": "Basic Crepes", 
             "key": 7822
         }, 
         {
             "values": {
+                "rating": "4.56842088699341", 
+                "sodium": 703, 
+                "cal": 530, 
+                "chol": 161, 
+                "fat": 17.1, 
                 "reviews": "225", 
                 "time": 90, 
-                "score": "4.56842088699341", 
-                "cal": 530
+                "carb": 82.3, 
+                "protein": 13.0
             }, 
             "name": "Pumpkin Waffles with Apple Cider Syrup", 
             "key": 7823
         }, 
         {
             "values": {
+                "rating": "4.43349742889404", 
+                "sodium": 692, 
+                "cal": 375, 
+                "chol": 193, 
+                "fat": 25.6, 
                 "reviews": "163", 
                 "time": 150, 
-                "score": "4.43349742889404", 
-                "cal": 375
+                "carb": 12.6, 
+                "protein": 23.2
             }, 
             "name": "Baked Brunch Omelet", 
             "key": 7824
         }, 
         {
             "values": {
+                "rating": "4.47778558731079", 
+                "sodium": 451, 
+                "cal": 485, 
+                "chol": 279, 
+                "fat": 24.8, 
                 "reviews": "1115", 
                 "time": 690, 
-                "score": "4.47778558731079", 
-                "cal": 485
+                "carb": 51.9, 
+                "protein": 15.1
             }, 
             "name": "Overnight Blueberry French Toast", 
             "key": 7825
         }, 
         {
             "values": {
+                "rating": "4.80903768539429", 
+                "sodium": 305, 
+                "cal": 263, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "6616", 
                 "time": 130, 
-                "score": "4.80903768539429", 
-                "cal": 263
+                "carb": 40.6, 
+                "protein": 3.1
             }, 
             "name": "Downeast Maine Pumpkin Bread", 
             "key": 7826
         }, 
         {
             "values": {
+                "rating": "4.52750110626221", 
+                "sodium": 761, 
+                "cal": 415, 
+                "chol": 53, 
+                "fat": 27.2, 
                 "reviews": "1706", 
                 "time": 150, 
-                "score": "4.52750110626221", 
-                "cal": 415
+                "carb": 29.7, 
+                "protein": 14.4
             }, 
             "name": "Cheesy Ham and Hash Brown Casserole", 
             "key": 7827
         }, 
         {
             "values": {
+                "rating": "4.52401733398438", 
+                "sodium": 1298, 
+                "cal": 537, 
+                "chol": 343, 
+                "fat": 34.1, 
                 "reviews": "154", 
                 "time": 30, 
-                "score": "4.52401733398438", 
-                "cal": 537
+                "carb": 27.7, 
+                "protein": 30.6
             }, 
             "name": "Authentic Mexican Breakfast Tacos", 
             "key": 7828
         }, 
         {
             "values": {
+                "rating": "4.686363697052", 
+                "sodium": 920, 
+                "cal": 560, 
+                "chol": 418, 
+                "fat": 35.9, 
                 "reviews": "174", 
                 "time": 40, 
-                "score": "4.686363697052", 
-                "cal": 560
+                "carb": 39.2, 
+                "protein": 20.6
             }, 
             "name": "Chef John's Baked Eggs", 
             "key": 7829
         }, 
         {
             "values": {
+                "rating": "4.43229150772095", 
+                "sodium": 660, 
+                "cal": 264, 
+                "chol": 49, 
+                "fat": 19.0, 
                 "reviews": "728", 
                 "time": 70, 
-                "score": "4.43229150772095", 
-                "cal": 264
+                "carb": 10.5, 
+                "protein": 12.8
             }, 
             "name": "Sausage Balls", 
             "key": 7830
         }, 
         {
             "values": {
+                "rating": "4.67941188812256", 
+                "sodium": 755, 
+                "cal": 355, 
+                "chol": 188, 
+                "fat": 26.3, 
                 "reviews": "761", 
                 "time": 205, 
-                "score": "4.67941188812256", 
-                "cal": 355
+                "carb": 7.9, 
+                "protein": 21.6
             }, 
             "name": "Sausage Casserole", 
             "key": 7831
         }, 
         {
             "values": {
+                "rating": "4.6127290725708", 
+                "sodium": 865, 
+                "cal": 347, 
+                "chol": 99, 
+                "fat": 9.8, 
                 "reviews": "748", 
                 "time": 30, 
-                "score": "4.6127290725708", 
-                "cal": 347
+                "carb": 51.8, 
+                "protein": 12.4
             }, 
             "name": "Truck-Stop Buttermilk Pancakes", 
             "key": 7832
         }, 
         {
             "values": {
+                "rating": "4.63152074813843", 
+                "sodium": 71, 
+                "cal": 160, 
+                "chol": 5, 
+                "fat": 1.1, 
                 "reviews": "674", 
                 "time": 12, 
-                "score": "4.63152074813843", 
-                "cal": 160
+                "carb": 30.3, 
+                "protein": 5.6
             }, 
             "name": "B and L's Strawberry Smoothie", 
             "key": 7833
         }, 
         {
             "values": {
+                "rating": "4.73059749603271", 
+                "sodium": 195, 
+                "cal": 200, 
+                "chol": 30, 
+                "fat": 6.6, 
                 "reviews": "953", 
                 "time": 120, 
-                "score": "4.73059749603271", 
-                "cal": 200
+                "carb": 32.6, 
+                "protein": 3.0
             }, 
             "name": "Cathy's Banana Bread", 
             "key": 7834
         }, 
         {
             "values": {
+                "rating": "4.82624435424805", 
+                "sodium": 122, 
+                "cal": 369, 
+                "chol": 0, 
+                "fat": 20.0, 
                 "reviews": "833", 
                 "time": 80, 
-                "score": "4.82624435424805", 
-                "cal": 369
+                "carb": 45.0, 
+                "protein": 8.3
             }, 
             "name": "Megan's Granola", 
             "key": 7835
         }, 
         {
             "values": {
+                "rating": "4.66011810302734", 
+                "sodium": 213, 
+                "cal": 289, 
+                "chol": 39, 
+                "fat": 15.1, 
                 "reviews": "852", 
                 "time": 150, 
-                "score": "4.66011810302734", 
-                "cal": 289
+                "carb": 35.5, 
+                "protein": 4.4
             }, 
             "name": "Creamy Banana Bread", 
             "key": 7836
         }, 
         {
             "values": {
+                "rating": "4.7681450843811", 
+                "sodium": 30, 
+                "cal": 79, 
+                "chol": 49, 
+                "fat": 2.8, 
                 "reviews": "702", 
                 "time": 100, 
-                "score": "4.7681450843811", 
-                "cal": 79
+                "carb": 9.5, 
+                "protein": 3.7
             }, 
             "name": "Crepes", 
             "key": 7837
         }, 
         {
             "values": {
+                "rating": "4.43894386291504", 
+                "sodium": 369, 
+                "cal": 218, 
+                "chol": 32, 
+                "fat": 6.4, 
                 "reviews": "717", 
                 "time": 140, 
-                "score": "4.43894386291504", 
-                "cal": 218
+                "carb": 36.4, 
+                "protein": 3.9
             }, 
             "name": "Cinnamon Bread I", 
             "key": 7838
         }, 
         {
             "values": {
+                "rating": "4.63902044296265", 
+                "sodium": 804, 
+                "cal": 291, 
+                "chol": 170, 
+                "fat": 18.8, 
                 "reviews": "1013", 
                 "time": 100, 
-                "score": "4.63902044296265", 
-                "cal": 291
+                "carb": 12.9, 
+                "protein": 17.0
             }, 
             "name": "Quick Quiche", 
             "key": 7839
         }, 
         {
             "values": {
+                "rating": "4.39052724838257", 
+                "sodium": 397, 
+                "cal": 146, 
+                "chol": 37, 
+                "fat": 2.9, 
                 "reviews": "893", 
                 "time": 100, 
-                "score": "4.39052724838257", 
-                "cal": 146
+                "carb": 24.7, 
+                "protein": 5.1
             }, 
             "name": "Todd's Famous Blueberry Pancakes", 
             "key": 7840
         }, 
         {
             "values": {
+                "rating": "4.04629611968994", 
+                "sodium": 804, 
+                "cal": 247, 
+                "chol": 51, 
+                "fat": 9.6, 
                 "reviews": "918", 
                 "time": 30, 
-                "score": "4.04629611968994", 
-                "cal": 247
+                "carb": 33.5, 
+                "protein": 6.8
             }, 
             "name": "Easy Pancakes", 
             "key": 7841
         }, 
         {
             "values": {
+                "rating": "4.67016220092773", 
+                "sodium": 287, 
+                "cal": 265, 
+                "chol": 16, 
+                "fat": 11.5, 
                 "reviews": "864", 
                 "time": 140, 
-                "score": "4.67016220092773", 
-                "cal": 265
+                "carb": 38.0, 
+                "protein": 3.9
             }, 
             "name": "4H Banana Bread", 
             "key": 7842
         }, 
         {
             "values": {
+                "rating": "4.56805801391602", 
+                "sodium": 497, 
+                "cal": 192, 
+                "chol": 27, 
+                "fat": 4.9, 
                 "reviews": "876", 
                 "time": 170, 
-                "score": "4.56805801391602", 
-                "cal": 192
+                "carb": 31.7, 
+                "protein": 5.1
             }, 
             "name": "Irresistible Irish Soda Bread", 
             "key": 7843
         }, 
         {
             "values": {
+                "rating": "4.44433403015137", 
+                "sodium": 161, 
+                "cal": 281, 
+                "chol": 31, 
+                "fat": 16.6, 
                 "reviews": "819", 
                 "time": 160, 
-                "score": "4.44433403015137", 
-                "cal": 281
+                "carb": 31.2, 
+                "protein": 3.3
             }, 
             "name": "Strawberry Bread", 
             "key": 7844
         }, 
         {
             "values": {
+                "rating": "4.7254900932312", 
+                "sodium": 1078, 
+                "cal": 444, 
+                "chol": 156, 
+                "fat": 33.6, 
                 "reviews": "888", 
                 "time": 160, 
-                "score": "4.7254900932312", 
-                "cal": 444
+                "carb": 14.6, 
+                "protein": 21.5
             }, 
             "name": "Clark's Quiche", 
             "key": 7846
         }, 
         {
             "values": {
+                "rating": "4.69099092483521", 
+                "sodium": 165, 
+                "cal": 231, 
+                "chol": 23, 
+                "fat": 11.6, 
                 "reviews": "926", 
                 "time": 170, 
-                "score": "4.69099092483521", 
-                "cal": 231
+                "carb": 29.6, 
+                "protein": 2.9
             }, 
             "name": "Zucchini Bread IV", 
             "key": 7847
         }, 
         {
             "values": {
+                "rating": "4.47058820724487", 
+                "sodium": 581, 
+                "cal": 315, 
+                "chol": 69, 
+                "fat": 13.0, 
                 "reviews": "882", 
                 "time": 35, 
-                "score": "4.47058820724487", 
-                "cal": 315
+                "carb": 40.2, 
+                "protein": 9.1
             }, 
             "name": "Pancakes I", 
             "key": 7848
         }, 
         {
             "values": {
+                "rating": "4.67014217376709", 
+                "sodium": 181, 
+                "cal": 145, 
+                "chol": 31, 
+                "fat": 3.7, 
                 "reviews": "826", 
                 "time": 150, 
-                "score": "4.67014217376709", 
-                "cal": 145
+                "carb": 26.5, 
+                "protein": 2.3
             }, 
             "name": "Banana Bread", 
             "key": 7849
         }, 
         {
             "values": {
+                "rating": "4.82118463516235", 
+                "sodium": 235, 
+                "cal": 164, 
+                "chol": 111, 
+                "fat": 7.7, 
                 "reviews": "644", 
                 "time": 40, 
-                "score": "4.82118463516235", 
-                "cal": 164
+                "carb": 17.2, 
+                "protein": 6.4
             }, 
             "name": "Dessert Crepes", 
             "key": 7850
         }, 
         {
             "values": {
+                "rating": "4.55060720443726", 
+                "sodium": 1119, 
+                "cal": 318, 
+                "chol": 75, 
+                "fat": 11.9, 
                 "reviews": "583", 
                 "time": 50, 
-                "score": "4.55060720443726", 
-                "cal": 318
+                "carb": 43.7, 
+                "protein": 9.0
             }, 
             "name": "Old-Fashioned Pancakes", 
             "key": 7851
         }, 
         {
             "values": {
+                "rating": "4.6130952835083", 
+                "sodium": 764, 
+                "cal": 341, 
+                "chol": 177, 
+                "fat": 24.7, 
                 "reviews": "637", 
                 "time": 100, 
-                "score": "4.6130952835083", 
-                "cal": 341
+                "carb": 8.7, 
+                "protein": 19.9
             }, 
             "name": "Egg and Sausage Casserole", 
             "key": 7852
         }, 
         {
             "values": {
+                "rating": "4.66541814804077", 
+                "sodium": 146, 
+                "cal": 142, 
+                "chol": 66, 
+                "fat": 6.7, 
                 "reviews": "565", 
                 "time": 60, 
-                "score": "4.66541814804077", 
-                "cal": 142
+                "carb": 15.9, 
+                "protein": 3.3
             }, 
             "name": "Vanilla Crepes", 
             "key": 7853
         }, 
         {
             "values": {
+                "rating": "4.55017280578613", 
+                "sodium": 901, 
+                "cal": 388, 
+                "chol": 168, 
+                "fat": 29.3, 
                 "reviews": "451", 
                 "time": 150, 
-                "score": "4.55017280578613", 
-                "cal": 388
+                "carb": 10.8, 
+                "protein": 19.4
             }, 
             "name": "Charleston Breakfast Casserole", 
             "key": 7854
         }, 
         {
             "values": {
+                "rating": "4.67081594467163", 
+                "sodium": 865, 
+                "cal": 203, 
+                "chol": 41, 
+                "fat": 15.6, 
                 "reviews": "612", 
                 "time": 40, 
-                "score": "4.67081594467163", 
-                "cal": 203
+                "carb": 0.5, 
+                "protein": 13.9
             }, 
             "name": "Bacon for the Family or a Crowd", 
             "key": 7855
         }, 
         {
             "values": {
+                "rating": "4.27921295166016", 
+                "sodium": 1027, 
+                "cal": 210, 
+                "chol": 65, 
+                "fat": 7.9, 
                 "reviews": "688", 
                 "time": 60, 
-                "score": "4.27921295166016", 
-                "cal": 210
+                "carb": 27.2, 
+                "protein": 7.1
             }, 
             "name": "Mom's Buttermilk Pancakes", 
             "key": 7856
         }, 
         {
             "values": {
+                "rating": "4.71993923187256", 
+                "sodium": 214, 
+                "cal": 258, 
+                "chol": 31, 
+                "fat": 9.6, 
                 "reviews": "545", 
                 "time": 180, 
-                "score": "4.71993923187256", 
-                "cal": 258
+                "carb": 40.5, 
+                "protein": 3.2
             }, 
             "name": "Easy Banana Bread", 
             "key": 7857
         }, 
         {
             "values": {
+                "rating": "4.64560461044312", 
+                "sodium": 115, 
+                "cal": 182, 
+                "chol": 18, 
+                "fat": 4.1, 
                 "reviews": "588", 
                 "time": 275, 
-                "score": "4.64560461044312", 
-                "cal": 182
+                "carb": 32.4, 
+                "protein": 4.1
             }, 
             "name": "Cinnamon Raisin Bread I", 
             "key": 7858
         }, 
         {
             "values": {
+                "rating": "4.45269298553467", 
+                "sodium": 464, 
+                "cal": 160, 
+                "chol": 41, 
+                "fat": 2.6, 
                 "reviews": "519", 
                 "time": 26, 
-                "score": "4.45269298553467", 
-                "cal": 160
+                "carb": 26.7, 
+                "protein": 9.8
             }, 
             "name": "Whole Wheat Blueberry Pancakes", 
             "key": 7859
         }, 
         {
             "values": {
+                "rating": "4.75318479537964", 
+                "sodium": 312, 
+                "cal": 275, 
+                "chol": 31, 
+                "fat": 11.9, 
                 "reviews": "530", 
                 "time": 140, 
-                "score": "4.75318479537964", 
-                "cal": 275
+                "carb": 40.1, 
+                "protein": 3.4
             }, 
             "name": "Delicious Pumpkin Bread", 
             "key": 7860
         }, 
         {
             "values": {
+                "rating": "4.29894161224365", 
+                "sodium": 1091, 
+                "cal": 360, 
+                "chol": 56, 
+                "fat": 17.2, 
                 "reviews": "549", 
                 "time": 75, 
-                "score": "4.29894161224365", 
-                "cal": 360
+                "carb": 33.6, 
+                "protein": 17.2
             }, 
             "name": "Uglies", 
             "key": 7861
         }, 
         {
             "values": {
+                "rating": "4.58567428588867", 
+                "sodium": 246, 
+                "cal": 283, 
+                "chol": 62, 
+                "fat": 11.0, 
                 "reviews": "525", 
                 "time": 76, 
-                "score": "4.58567428588867", 
-                "cal": 283
+                "carb": 40.7, 
+                "protein": 6.8
             }, 
             "name": "German Potato Pancakes", 
             "key": 7862
         }, 
         {
             "values": {
+                "rating": "4.62576675415039", 
+                "sodium": 208, 
+                "cal": 270, 
+                "chol": 16, 
+                "fat": 11.5, 
                 "reviews": "697", 
                 "time": 90, 
-                "score": "4.62576675415039", 
-                "cal": 270
+                "carb": 39.7, 
+                "protein": 3.4
             }, 
             "name": "Sarah's Banana Bread Muffins", 
             "key": 7863
         }, 
         {
             "values": {
+                "rating": "4.69028854370117", 
+                "sodium": 797, 
+                "cal": 371, 
+                "chol": 161, 
+                "fat": 26.6, 
                 "reviews": "601", 
                 "time": 120, 
-                "score": "4.69028854370117", 
-                "cal": 371
+                "carb": 12.5, 
+                "protein": 21.0
             }, 
             "name": "Easy Quiche", 
             "key": 7864
         }, 
         {
             "values": {
+                "rating": "4.5928897857666", 
+                "sodium": 359, 
+                "cal": 510, 
+                "chol": 218, 
+                "fat": 26.9, 
                 "reviews": "690", 
                 "time": 600, 
-                "score": "4.5928897857666", 
-                "cal": 510
+                "carb": 58.7, 
+                "protein": 10.2
             }, 
             "name": "Creme Brulee French Toast", 
             "key": 7865
         }, 
         {
             "values": {
+                "rating": "4.77724552154541", 
+                "sodium": 394, 
+                "cal": 288, 
+                "chol": 63, 
+                "fat": 15.8, 
                 "reviews": "657", 
                 "time": 30, 
-                "score": "4.77724552154541", 
-                "cal": 288
+                "carb": 28.4, 
+                "protein": 9.9
             }, 
             "name": "Whole Grain Waffles", 
             "key": 7866
         }, 
         {
             "values": {
+                "rating": "4.49142837524414", 
+                "sodium": 502, 
+                "cal": 393, 
+                "chol": 79, 
+                "fat": 15.3, 
                 "reviews": "575", 
                 "time": 100, 
-                "score": "4.49142837524414", 
-                "cal": 393
+                "carb": 59.2, 
+                "protein": 6.8
             }, 
             "name": "Baked Oatmeal II", 
             "key": 7867
         }, 
         {
             "values": {
+                "rating": "4.64628314971924", 
+                "sodium": 605, 
+                "cal": 207, 
+                "chol": 48, 
+                "fat": 9.3, 
                 "reviews": "678", 
                 "time": 40, 
-                "score": "4.64628314971924", 
-                "cal": 207
+                "carb": 24.6, 
+                "protein": 6.0
             }, 
             "name": "Oatmeal Pancakes II", 
             "key": 7869
         }, 
         {
             "values": {
+                "rating": "4.58403348922729", 
+                "sodium": 788, 
+                "cal": 493, 
+                "chol": 217, 
+                "fat": 39.9, 
                 "reviews": "389", 
                 "time": 140, 
-                "score": "4.58403348922729", 
-                "cal": 493
+                "carb": 12.3, 
+                "protein": 20.5
             }, 
             "name": "Country Breakfast Casserole", 
             "key": 7870
         }, 
         {
             "values": {
+                "rating": "4.49554347991943", 
+                "sodium": 717, 
+                "cal": 264, 
+                "chol": 0, 
+                "fat": 5.1, 
                 "reviews": "467", 
                 "time": 30, 
-                "score": "4.49554347991943", 
-                "cal": 264
+                "carb": 48.9, 
+                "protein": 5.4
             }, 
             "name": "Vegan Pancakes", 
             "key": 7871
         }, 
         {
             "values": {
+                "rating": "4.57352924346924", 
+                "sodium": 347, 
+                "cal": 503, 
+                "chol": 162, 
+                "fat": 29.3, 
                 "reviews": "390", 
                 "time": 910, 
-                "score": "4.57352924346924", 
-                "cal": 503
+                "carb": 51.8, 
+                "protein": 11.0
             }, 
             "name": "Make Ahead French Toast", 
             "key": 7872
         }, 
         {
             "values": {
+                "rating": "4.59770107269287", 
+                "sodium": 993, 
+                "cal": 462, 
+                "chol": 183, 
+                "fat": 31.5, 
                 "reviews": "409", 
                 "time": 120, 
-                "score": "4.59770107269287", 
-                "cal": 462
+                "carb": 20.2, 
+                "protein": 24.7
             }, 
             "name": "Easy Bacon and Cheese Quiche", 
             "key": 7873
         }, 
         {
             "values": {
+                "rating": "4.5548243522644", 
+                "sodium": 554, 
+                "cal": 263, 
+                "chol": 51, 
+                "fat": 8.4, 
                 "reviews": "360", 
                 "time": 40, 
-                "score": "4.5548243522644", 
-                "cal": 263
+                "carb": 40.3, 
+                "protein": 6.8
             }, 
             "name": "Grandad's Pancakes", 
             "key": 7874
         }, 
         {
             "values": {
+                "rating": "4.5848708152771", 
+                "sodium": 96, 
+                "cal": 94, 
+                "chol": 55, 
+                "fat": 4.1, 
                 "reviews": "396", 
                 "time": 70, 
-                "score": "4.5848708152771", 
-                "cal": 94
+                "carb": 10.3, 
+                "protein": 4.0
             }, 
             "name": "French Crepes", 
             "key": 7875
         }, 
         {
             "values": {
+                "rating": "4.72709178924561", 
+                "sodium": 277, 
+                "cal": 263, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "417", 
                 "time": 150, 
-                "score": "4.72709178924561", 
-                "cal": 263
+                "carb": 40.6, 
+                "protein": 3.1
             }, 
             "name": "Pumpkin Pie Bread", 
             "key": 7876
         }, 
         {
             "values": {
+                "rating": "4.58318424224854", 
+                "sodium": 503, 
+                "cal": 360, 
+                "chol": 50, 
+                "fat": 15.9, 
                 "reviews": "466", 
                 "time": 60, 
-                "score": "4.58318424224854", 
-                "cal": 360
+                "carb": 46.3, 
+                "protein": 8.1
             }, 
             "name": "Buttermilk Pancakes I", 
             "key": 7877
         }, 
         {
             "values": {
+                "rating": "4.44329881668091", 
+                "sodium": 603, 
+                "cal": 341, 
+                "chol": 190, 
+                "fat": 8.6, 
                 "reviews": "368", 
                 "time": 70, 
-                "score": "4.44329881668091", 
-                "cal": 341
+                "carb": 52.2, 
+                "protein": 13.7
             }, 
             "name": "French Toast II", 
             "key": 7878
         }, 
         {
             "values": {
+                "rating": "4.47835493087769", 
+                "sodium": 145, 
+                "cal": 357, 
+                "chol": 94, 
+                "fat": 13.9, 
                 "reviews": "380", 
                 "time": 30, 
-                "score": "4.47835493087769", 
-                "cal": 357
+                "carb": 48.8, 
+                "protein": 10.5
             }, 
             "name": "Butterscotch Oatmeal", 
             "key": 7879
         }, 
         {
             "values": {
+                "rating": "4.55668020248413", 
+                "sodium": 362, 
+                "cal": 128, 
+                "chol": 33, 
+                "fat": 6.5, 
                 "reviews": "405", 
                 "time": 40, 
-                "score": "4.55668020248413", 
-                "cal": 128
+                "carb": 13.2, 
+                "protein": 5.0
             }, 
             "name": "Wheat Germ Whole-Wheat Buttermilk Pancakes", 
             "key": 7880
         }, 
         {
             "values": {
+                "rating": "4.67049789428711", 
+                "sodium": 1095, 
+                "cal": 408, 
+                "chol": 224, 
+                "fat": 28.7, 
                 "reviews": "412", 
                 "time": 680, 
-                "score": "4.67049789428711", 
-                "cal": 408
+                "carb": 12.4, 
+                "protein": 25.2
             }, 
             "name": "Sausage Egg Casserole", 
             "key": 7881
         }, 
         {
             "values": {
+                "rating": "4.57831335067749", 
+                "sodium": 821, 
+                "cal": 380, 
+                "chol": 181, 
+                "fat": 19.4, 
                 "reviews": "382", 
                 "time": 50, 
-                "score": "4.57831335067749", 
-                "cal": 380
+                "carb": 39.3, 
+                "protein": 11.4
             }, 
             "name": "Cinnamon Belgian Waffles", 
             "key": 7882
         }, 
         {
             "values": {
+                "rating": "4.14038133621216", 
+                "sodium": 211, 
+                "cal": 210, 
+                "chol": 374, 
+                "fat": 17.4, 
                 "reviews": "472", 
                 "time": 12, 
-                "score": "4.14038133621216", 
-                "cal": 210
+                "carb": 1.0, 
+                "protein": 12.7
             }, 
             "name": "Scrambled Eggs Done Right", 
             "key": 7883
         }, 
         {
             "values": {
+                "rating": "4.64140462875366", 
+                "sodium": 651, 
+                "cal": 236, 
+                "chol": 396, 
+                "fat": 18.6, 
                 "reviews": "456", 
                 "time": 70, 
-                "score": "4.64140462875366", 
-                "cal": 236
+                "carb": 3.2, 
+                "protein": 14.3
             }, 
             "name": "Oven Scrambled Eggs", 
             "key": 7884
         }, 
         {
             "values": {
+                "rating": "4.56719017028809", 
+                "sodium": 178, 
+                "cal": 349, 
+                "chol": 221, 
+                "fat": 18.2, 
                 "reviews": "459", 
                 "time": 40, 
-                "score": "4.56719017028809", 
-                "cal": 349
+                "carb": 34.7, 
+                "protein": 11.7
             }, 
             "name": "Dutch Babies II", 
             "key": 7885
         }, 
         {
             "values": {
+                "rating": "4.552894115448", 
+                "sodium": 1195, 
+                "cal": 401, 
+                "chol": 207, 
+                "fat": 27.3, 
                 "reviews": "390", 
                 "time": 690, 
-                "score": "4.552894115448", 
-                "cal": 401
+                "carb": 14.8, 
+                "protein": 23.2
             }, 
             "name": "Easy Sausage Strata", 
             "key": 7886
         }, 
         {
             "values": {
+                "rating": "4.43031358718872", 
+                "sodium": 150, 
+                "cal": 281, 
+                "chol": 197, 
+                "fat": 13.1, 
                 "reviews": "414", 
                 "time": 60, 
-                "score": "4.43031358718872", 
-                "cal": 281
+                "carb": 28.7, 
+                "protein": 12.5
             }, 
             "name": "Spinach and Potato Frittata", 
             "key": 7887
         }, 
         {
             "values": {
+                "rating": "4.5852632522583", 
+                "sodium": 530, 
+                "cal": 250, 
+                "chol": 70, 
+                "fat": 10.9, 
                 "reviews": "375", 
                 "time": 60, 
-                "score": "4.5852632522583", 
-                "cal": 250
+                "carb": 30.8, 
+                "protein": 8.2
             }, 
             "name": "Oatmeal and Wheat Flour Blueberry Pancakes", 
             "key": 7888
         }, 
         {
             "values": {
+                "rating": "4.3782696723938", 
+                "sodium": 958, 
+                "cal": 352, 
+                "chol": 215, 
+                "fat": 23.8, 
                 "reviews": "403", 
                 "time": 150, 
-                "score": "4.3782696723938", 
-                "cal": 352
+                "carb": 22.8, 
+                "protein": 15.8
             }, 
             "name": "Breakfast Casserole II", 
             "key": 7889
         }, 
         {
             "values": {
+                "rating": "4.38425922393799", 
+                "sodium": 143, 
+                "cal": 456, 
+                "chol": 237, 
+                "fat": 24.0, 
                 "reviews": "351", 
                 "time": 80, 
-                "score": "4.38425922393799", 
-                "cal": 456
+                "carb": 51.5, 
+                "protein": 10.3
             }, 
             "name": "German Apple Pancake", 
             "key": 7890
         }, 
         {
             "values": {
+                "rating": "4.67264556884766", 
+                "sodium": 275, 
+                "cal": 169, 
+                "chol": 31, 
+                "fat": 4.9, 
                 "reviews": "377", 
                 "time": 150, 
-                "score": "4.67264556884766", 
-                "cal": 169
+                "carb": 28.8, 
+                "protein": 3.1
             }, 
             "name": "Lower Fat Banana Bread I", 
             "key": 7891
         }, 
         {
             "values": {
+                "rating": "4.69976377487183", 
+                "sodium": 407, 
+                "cal": 334, 
+                "chol": 51, 
+                "fat": 16.6, 
                 "reviews": "341", 
                 "time": 190, 
-                "score": "4.69976377487183", 
-                "cal": 334
+                "carb": 43.8, 
+                "protein": 5.3
             }, 
             "name": "Chef John's Banana Bread", 
             "key": 7892
         }, 
         {
             "values": {
+                "rating": "4.47263669967651", 
+                "sodium": 1016, 
+                "cal": 319, 
+                "chol": 95, 
+                "fat": 4.3, 
                 "reviews": "331", 
                 "time": 60, 
-                "score": "4.47263669967651", 
-                "cal": 319
+                "carb": 60.2, 
+                "protein": 10.1
             }, 
             "name": "Mom's Applesauce Pancakes", 
             "key": 7893
         }, 
         {
             "values": {
+                "rating": "4.86283206939697", 
+                "sodium": 1755, 
+                "cal": 620, 
+                "chol": 270, 
+                "fat": 43.8, 
                 "reviews": "375", 
                 "time": 150, 
-                "score": "4.86283206939697", 
-                "cal": 620
+                "carb": 16.4, 
+                "protein": 38.8
             }, 
             "name": "Old Charleston Style Shrimp and Grits", 
             "key": 7894
         }, 
         {
             "values": {
+                "rating": "4.32000017166138", 
+                "sodium": 310, 
+                "cal": 354, 
+                "chol": 178, 
+                "fat": 23.1, 
                 "reviews": "344", 
                 "time": 260, 
-                "score": "4.32000017166138", 
-                "cal": 354
+                "carb": 28.3, 
+                "protein": 10.1
             }, 
             "name": "Apple Raisin French Toast Strata", 
             "key": 7895
         }, 
         {
             "values": {
+                "rating": "4.462242603302", 
+                "sodium": 323, 
+                "cal": 279, 
+                "chol": 62, 
+                "fat": 10.5, 
                 "reviews": "365", 
                 "time": 165, 
-                "score": "4.462242603302", 
-                "cal": 279
+                "carb": 43.2, 
+                "protein": 4.0
             }, 
             "name": "Apple Breakfast Bread", 
             "key": 7896
         }, 
         {
             "values": {
+                "rating": "4.60762310028076", 
+                "sodium": 383, 
+                "cal": 334, 
+                "chol": 106, 
+                "fat": 26.3, 
                 "reviews": "333", 
                 "time": 120, 
-                "score": "4.60762310028076", 
-                "cal": 334
+                "carb": 12.4, 
+                "protein": 12.4
             }, 
             "name": "Asparagus Quiche", 
             "key": 7898
         }, 
         {
             "values": {
+                "rating": "4.56403923034668", 
+                "sodium": 305, 
+                "cal": 378, 
+                "chol": 49, 
+                "fat": 17.8, 
                 "reviews": "333", 
                 "time": 90, 
-                "score": "4.56403923034668", 
-                "cal": 378
+                "carb": 49.8, 
+                "protein": 6.7
             }, 
             "name": "Baked Oatmeal I", 
             "key": 7899
@@ -963,23 +1443,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

@@ -2,790 +2,1185 @@
     "options": [
         {
             "values": {
+                "rating": "4.76547002792358", 
+                "sodium": 548, 
+                "cal": 235, 
+                "chol": 80, 
+                "fat": 11.6, 
                 "reviews": "2136", 
                 "time": 140, 
-                "score": "4.76547002792358", 
-                "cal": 235
+                "carb": 21.7, 
+                "protein": 12.5
             }, 
             "name": "Awesome Sausage, Apple and Cranberry Stuffing", 
             "key": 19801
         }, 
         {
             "values": {
+                "rating": "4.77734613418579", 
+                "sodium": 187, 
+                "cal": 226, 
+                "chol": 50, 
+                "fat": 11.1, 
                 "reviews": "2262", 
                 "time": 120, 
-                "score": "4.77734613418579", 
-                "cal": 226
+                "carb": 30.1, 
+                "protein": 2.9
             }, 
             "name": "Yummy Sweet Potato Casserole", 
             "key": 19802
         }, 
         {
             "values": {
+                "rating": "4.79457235336304", 
+                "sodium": 202, 
+                "cal": 192, 
+                "chol": 30, 
+                "fat": 7.5, 
                 "reviews": "2296", 
                 "time": 180, 
-                "score": "4.79457235336304", 
-                "cal": 192
+                "carb": 27.1, 
+                "protein": 3.9
             }, 
             "name": "Sweet Dinner Rolls", 
             "key": 19804
         }, 
         {
             "values": {
+                "rating": "4.76923084259033", 
+                "sodium": 5, 
+                "cal": 134, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "13", 
                 "time": 170, 
-                "score": "4.76923084259033", 
-                "cal": 134
+                "carb": 35.0, 
+                "protein": 0.2
             }, 
             "name": "Patti's Triple Cranberry Sauce", 
             "key": 19805
         }, 
         {
             "values": {
+                "rating": "4.69565200805664", 
+                "sodium": 268, 
+                "cal": 232, 
+                "chol": 51, 
+                "fat": 11.9, 
                 "reviews": "1691", 
                 "time": 180, 
-                "score": "4.69565200805664", 
-                "cal": 232
+                "carb": 29.7, 
+                "protein": 3.2
             }, 
             "name": "Extreme Banana Nut Bread 'EBNB'", 
             "key": 19806
         }, 
         {
             "values": {
+                "rating": "4.55000019073486", 
+                "sodium": 22, 
+                "cal": 45, 
+                "chol": 3, 
+                "fat": 2.4, 
                 "reviews": "116", 
                 "time": 20, 
-                "score": "4.55000019073486", 
-                "cal": 45
+                "carb": 5.4, 
+                "protein": 2.0
             }, 
             "name": "Truly Delicious Brussels Sprouts", 
             "key": 19807
         }, 
         {
             "values": {
+                "rating": "4.71648550033569", 
+                "sodium": 120, 
+                "cal": 122, 
+                "chol": 13, 
+                "fat": 3.2, 
                 "reviews": "3047", 
                 "time": 120, 
-                "score": "4.71648550033569", 
-                "cal": 122
+                "carb": 22.4, 
+                "protein": 1.2
             }, 
             "name": "Iced Pumpkin Cookies", 
             "key": 19808
         }, 
         {
             "values": {
+                "rating": "4.67910432815552", 
+                "sodium": 370, 
+                "cal": 398, 
+                "chol": 108, 
+                "fat": 27.4, 
                 "reviews": "110", 
                 "time": 405, 
-                "score": "4.67910432815552", 
-                "cal": 398
+                "carb": 32.6, 
+                "protein": 7.1
             }, 
             "name": "Pumpkin Layer Cheesecake", 
             "key": 19809
         }, 
         {
             "values": {
+                "rating": "4.57208299636841", 
+                "sodium": 344, 
+                "cal": 104, 
+                "chol": 0, 
+                "fat": 7.3, 
                 "reviews": "2368", 
                 "time": 120, 
-                "score": "4.57208299636841", 
-                "cal": 104
+                "carb": 10.0, 
+                "protein": 2.9
             }, 
             "name": "Roasted Brussels Sprouts", 
             "key": 19810
         }, 
         {
             "values": {
+                "rating": "4.61051464080811", 
+                "sodium": 82, 
+                "cal": 88, 
+                "chol": 22, 
+                "fat": 8.2, 
                 "reviews": "2607", 
                 "time": 90, 
-                "score": "4.61051464080811", 
-                "cal": 88
+                "carb": 1.5, 
+                "protein": 2.7
             }, 
             "name": "Mouth-Watering Stuffed Mushrooms", 
             "key": 19811
         }, 
         {
             "values": {
+                "rating": "4.43223428726196", 
+                "sodium": 92, 
+                "cal": 115, 
+                "chol": 23, 
+                "fat": 6.6, 
                 "reviews": "224", 
                 "time": 510, 
-                "score": "4.43223428726196", 
-                "cal": 115
+                "carb": 10.2, 
+                "protein": 4.1
             }, 
             "name": "Chef John's Make-Ahead Turkey Gravy", 
             "key": 19812
         }, 
         {
             "values": {
+                "rating": "4.69999980926514", 
+                "sodium": 1128, 
+                "cal": 316, 
+                "chol": 72, 
+                "fat": 20.6, 
                 "reviews": "207", 
                 "time": 305, 
-                "score": "4.69999980926514", 
-                "cal": 316
+                "carb": 24.5, 
+                "protein": 8.4
             }, 
             "name": "Holiday Dressing", 
             "key": 19813
         }, 
         {
             "values": {
+                "rating": "4.69884967803955", 
+                "sodium": 105, 
+                "cal": 313, 
+                "chol": 77, 
+                "fat": 22.6, 
                 "reviews": "1864", 
                 "time": 120, 
-                "score": "4.69884967803955", 
-                "cal": 313
+                "carb": 26.9, 
+                "protein": 3.1
             }, 
             "name": "Pecan Pie V", 
             "key": 19814
         }, 
         {
             "values": {
+                "rating": "4.77098989486694", 
+                "sodium": 241, 
+                "cal": 512, 
+                "chol": 31, 
+                "fat": 26.7, 
                 "reviews": "7282", 
                 "time": 180, 
-                "score": "4.77098989486694", 
-                "cal": 512
+                "carb": 67.8, 
+                "protein": 3.6
             }, 
             "name": "Apple Pie by Grandma Ople", 
             "key": 19815
         }, 
         {
             "values": {
+                "rating": "4.68169450759888", 
+                "sodium": 352, 
+                "cal": 379, 
+                "chol": 64, 
+                "fat": 14.3, 
                 "reviews": "1820", 
                 "time": 140, 
-                "score": "4.68169450759888", 
-                "cal": 379
+                "carb": 30.5, 
+                "protein": 5.9
             }, 
             "name": "Perfect Pumpkin Pie", 
             "key": 19816
         }, 
         {
             "values": {
+                "rating": "4.77469873428345", 
+                "sodium": 354, 
+                "cal": 426, 
+                "chol": 108, 
+                "fat": 29.0, 
                 "reviews": "2271", 
                 "time": 320, 
-                "score": "4.77469873428345", 
-                "cal": 426
+                "carb": 35.5, 
+                "protein": 7.2
             }, 
             "name": "Double Layer Pumpkin Cheesecake", 
             "key": 19817
         }, 
         {
             "values": {
+                "rating": "4.49209833145142", 
+                "sodium": 832, 
+                "cal": 215, 
+                "chol": 45, 
+                "fat": 16.4, 
                 "reviews": "2006", 
                 "time": 110, 
-                "score": "4.49209833145142", 
-                "cal": 215
+                "carb": 9.5, 
+                "protein": 7.8
             }, 
             "name": "Grandma's Green Bean Casserole", 
             "key": 19818
         }, 
         {
             "values": {
+                "rating": "4.79034376144409", 
+                "sodium": 201, 
+                "cal": 381, 
+                "chol": 82, 
+                "fat": 19.2, 
                 "reviews": "1676", 
                 "time": 170, 
-                "score": "4.79034376144409", 
-                "cal": 381
+                "carb": 50.7, 
+                "protein": 3.8
             }, 
             "name": "Gourmet Sweet Potato Classic", 
             "key": 19819
         }, 
         {
             "values": {
+                "rating": "4.66800117492676", 
+                "sodium": 897, 
+                "cal": 376, 
+                "chol": 90, 
+                "fat": 22.4, 
                 "reviews": "2455", 
                 "time": 100, 
-                "score": "4.66800117492676", 
-                "cal": 376
+                "carb": 40.4, 
+                "protein": 7.3
             }, 
             "name": "Awesome and Easy Creamy Corn Casserole", 
             "key": 19820
         }, 
         {
             "values": {
+                "rating": "4.70086336135864", 
+                "sodium": 400, 
+                "cal": 562, 
+                "chol": 46, 
+                "fat": 17.6, 
                 "reviews": "2312", 
                 "time": 120, 
-                "score": "4.70086336135864", 
-                "cal": 562
+                "carb": 99.4, 
+                "protein": 3.5
             }, 
             "name": "Fresh Southern Peach Cobbler", 
             "key": 19822
         }, 
         {
             "values": {
+                "rating": "4.71202325820923", 
+                "sodium": 140, 
+                "cal": 165, 
+                "chol": 70, 
+                "fat": 4.8, 
                 "reviews": "2448", 
                 "time": 150, 
-                "score": "4.71202325820923", 
-                "cal": 165
+                "carb": 26.5, 
+                "protein": 4.6
             }, 
             "name": "Bread Pudding II", 
             "key": 19823
         }, 
         {
             "values": {
+                "rating": "4.78427410125732", 
+                "sodium": 254, 
+                "cal": 389, 
+                "chol": 78, 
+                "fat": 20.6, 
                 "reviews": "1948", 
                 "time": 280, 
-                "score": "4.78427410125732", 
-                "cal": 389
+                "carb": 47.8, 
+                "protein": 4.5
             }, 
             "name": "Sweet Potato Pie I", 
             "key": 19825
         }, 
         {
             "values": {
+                "rating": "4.81897830963135", 
+                "sodium": 560, 
+                "cal": 545, 
+                "chol": 210, 
+                "fat": 27.9, 
                 "reviews": "1505", 
                 "time": 620, 
-                "score": "4.81897830963135", 
-                "cal": 545
+                "carb": 0.9, 
+                "protein": 68.1
             }, 
             "name": "Homestyle Turkey, the Michigander Way", 
             "key": 19826
         }, 
         {
             "values": {
+                "rating": "4.81049060821533", 
+                "sodium": 318, 
+                "cal": 284, 
+                "chol": 59, 
+                "fat": 12.2, 
                 "reviews": "4522", 
                 "time": 110, 
-                "score": "4.81049060821533", 
-                "cal": 284
+                "carb": 39.1, 
+                "protein": 4.8
             }, 
             "name": "Grandmother's Buttermilk Cornbread", 
             "key": 19827
         }, 
         {
             "values": {
+                "rating": "4.48472929000854", 
+                "sodium": 253, 
+                "cal": 234, 
+                "chol": 28, 
+                "fat": 9.3, 
                 "reviews": "1796", 
                 "time": 95, 
-                "score": "4.48472929000854", 
-                "cal": 234
+                "carb": 33.1, 
+                "protein": 4.9
             }, 
             "name": "Homesteader Cornbread", 
             "key": 19828
         }, 
         {
             "values": {
+                "rating": "4.81051063537598", 
+                "sodium": 313, 
+                "cal": 263, 
+                "chol": 31, 
+                "fat": 10.2, 
                 "reviews": "1077", 
                 "time": 120, 
-                "score": "4.81051063537598", 
-                "cal": 263
+                "carb": 40.7, 
+                "protein": 3.2
             }, 
             "name": "Pumpkin Gingerbread", 
             "key": 19830
         }, 
         {
             "values": {
+                "rating": "4.78514575958252", 
+                "sodium": 231, 
+                "cal": 247, 
+                "chol": 31, 
+                "fat": 10.3, 
                 "reviews": "1522", 
                 "time": 150, 
-                "score": "4.78514575958252", 
-                "cal": 247
+                "carb": 36.8, 
+                "protein": 3.0
             }, 
             "name": "Pumpkin Bread IV", 
             "key": 19832
         }, 
         {
             "values": {
+                "rating": "4.53999996185303", 
+                "sodium": 309, 
+                "cal": 273, 
+                "chol": 164, 
+                "fat": 1.5, 
                 "reviews": "1132", 
                 "time": 980, 
-                "score": "4.53999996185303", 
-                "cal": 273
+                "carb": 1.5, 
+                "protein": 59.5
             }, 
             "name": "Slow Cooker Turkey Breast", 
             "key": 19834
         }, 
         {
             "values": {
+                "rating": "4.71360397338867", 
+                "sodium": 282, 
+                "cal": 279, 
+                "chol": 45, 
+                "fat": 15.2, 
                 "reviews": "983", 
                 "time": 90, 
-                "score": "4.71360397338867", 
-                "cal": 279
+                "carb": 34.1, 
+                "protein": 2.6
             }, 
             "name": "Paul's Pumpkin Bars", 
             "key": 19835
         }, 
         {
             "values": {
+                "rating": "4.58598041534424", 
+                "sodium": 463, 
+                "cal": 196, 
+                "chol": 69, 
+                "fat": 14.8, 
                 "reviews": "1409", 
                 "time": 100, 
-                "score": "4.58598041534424", 
-                "cal": 196
+                "carb": 10.3, 
+                "protein": 6.1
             }, 
             "name": "Yellow Squash Casserole", 
             "key": 19836
         }, 
         {
             "values": {
+                "rating": "4.81286144256592", 
+                "sodium": 55, 
+                "cal": 92, 
+                "chol": 10, 
+                "fat": 4.3, 
                 "reviews": "1088", 
                 "time": 150, 
-                "score": "4.81286144256592", 
-                "cal": 92
+                "carb": 11.7, 
+                "protein": 2.1
             }, 
             "name": "Cranberry Pistachio Biscotti", 
             "key": 19837
         }, 
         {
             "values": {
+                "rating": "4.56872749328613", 
+                "sodium": 94, 
+                "cal": 143, 
+                "chol": 19, 
+                "fat": 5.7, 
                 "reviews": "1089", 
                 "time": 110, 
-                "score": "4.56872749328613", 
-                "cal": 143
+                "carb": 22.1, 
+                "protein": 1.8
             }, 
             "name": "Apple Squares", 
             "key": 19838
         }, 
         {
             "values": {
+                "rating": "4.36233615875244", 
+                "sodium": 75, 
+                "cal": 92, 
+                "chol": 15, 
+                "fat": 3.4, 
                 "reviews": "1410", 
                 "time": 85, 
-                "score": "4.36233615875244", 
-                "cal": 92
+                "carb": 14.6, 
+                "protein": 1.3
             }, 
             "name": "Oatmeal Raisin Cookies I", 
             "key": 19839
         }, 
         {
             "values": {
+                "rating": "4.7391881942749", 
+                "sodium": 327, 
+                "cal": 371, 
+                "chol": 54, 
+                "fat": 22.3, 
                 "reviews": "1097", 
                 "time": 145, 
-                "score": "4.7391881942749", 
-                "cal": 371
+                "carb": 41.2, 
+                "protein": 4.2
             }, 
             "name": "Judy's Strawberry Pretzel Salad", 
             "key": 19840
         }, 
         {
             "values": {
+                "rating": "4.08731079101563", 
+                "sodium": 879, 
+                "cal": 858, 
+                "chol": 142, 
+                "fat": 48.7, 
                 "reviews": "1337", 
                 "time": 100, 
-                "score": "4.08731079101563", 
-                "cal": 858
+                "carb": 66.7, 
+                "protein": 37.7
             }, 
             "name": "Homemade Mac and Cheese", 
             "key": 19842
         }, 
         {
             "values": {
+                "rating": "4.52757787704468", 
+                "sodium": 772, 
+                "cal": 201, 
+                "chol": 55, 
+                "fat": 13.3, 
                 "reviews": "1280", 
                 "time": 1120, 
-                "score": "4.52757787704468", 
-                "cal": 201
+                "carb": 16.9, 
+                "protein": 4.2
             }, 
             "name": "Slow Cooker Stuffing", 
             "key": 19843
         }, 
         {
             "values": {
+                "rating": "4.75830030441284", 
+                "sodium": 373, 
+                "cal": 253, 
+                "chol": 54, 
+                "fat": 16.5, 
                 "reviews": "1158", 
                 "time": 30, 
-                "score": "4.75830030441284", 
-                "cal": 253
+                "carb": 24.8, 
+                "protein": 5.1
             }, 
             "name": "Cream Corn Like No Other", 
             "key": 19844
         }, 
         {
             "values": {
+                "rating": "4.61101627349854", 
+                "sodium": 1151, 
+                "cal": 305, 
+                "chol": 21, 
+                "fat": 6.8, 
                 "reviews": "1379", 
                 "time": 140, 
-                "score": "4.61101627349854", 
-                "cal": 305
+                "carb": 59.7, 
+                "protein": 6.9
             }, 
             "name": "Butternut Squash Soup II", 
             "key": 19845
         }, 
         {
             "values": {
+                "rating": "4.85520601272583", 
+                "sodium": 654, 
+                "cal": 426, 
+                "chol": 21, 
+                "fat": 31.6, 
                 "reviews": "1320", 
                 "time": 60, 
-                "score": "4.85520601272583", 
-                "cal": 426
+                "carb": 33.1, 
+                "protein": 8.0
             }, 
             "name": "Roquefort Pear Salad", 
             "key": 19847
         }, 
         {
             "values": {
+                "rating": "4.70150327682495", 
+                "sodium": 276, 
+                "cal": 423, 
+                "chol": 80, 
+                "fat": 23.5, 
                 "reviews": "1136", 
                 "time": 340, 
-                "score": "4.70150327682495", 
-                "cal": 423
+                "carb": 46.1, 
+                "protein": 6.8
             }, 
             "name": "Old Fashioned Coconut Cream Pie", 
             "key": 19848
         }, 
         {
             "values": {
+                "rating": "4.79916763305664", 
+                "sodium": 165, 
+                "cal": 596, 
+                "chol": 198, 
+                "fat": 33.7, 
                 "reviews": "709", 
                 "time": 550, 
-                "score": "4.79916763305664", 
-                "cal": 596
+                "carb": 0.8, 
+                "protein": 68.1
             }, 
             "name": "Rosemary Roasted Turkey", 
             "key": 19849
         }, 
         {
             "values": {
+                "rating": "4.5004677772522", 
+                "sodium": 214, 
+                "cal": 90, 
+                "chol": 0, 
+                "fat": 5.1, 
                 "reviews": "759", 
                 "time": 140, 
-                "score": "4.5004677772522", 
-                "cal": 90
+                "carb": 8.9, 
+                "protein": 3.0
             }, 
             "name": "Spiced Pumpkin Seeds", 
             "key": 19851
         }, 
         {
             "values": {
+                "rating": "4.68279075622559", 
+                "sodium": 491, 
+                "cal": 463, 
+                "chol": 76, 
+                "fat": 25.5, 
                 "reviews": "834", 
                 "time": 180, 
-                "score": "4.68279075622559", 
-                "cal": 463
+                "carb": 52.3, 
+                "protein": 9.9
             }, 
             "name": "Brown Family's Favorite Pumpkin Pie", 
             "key": 19853
         }, 
         {
             "values": {
+                "rating": "4.70445346832275", 
+                "sodium": 671, 
+                "cal": 482, 
+                "chol": 38, 
+                "fat": 27.3, 
                 "reviews": "779", 
                 "time": 160, 
-                "score": "4.70445346832275", 
-                "cal": 482
+                "carb": 45.7, 
+                "protein": 13.9
             }, 
             "name": "Turkey Pot Pie I", 
             "key": 19855
         }, 
         {
             "values": {
+                "rating": "4.692307472229", 
+                "sodium": 67, 
+                "cal": 110, 
+                "chol": 14, 
+                "fat": 4.8, 
                 "reviews": "791", 
                 "time": 68, 
-                "score": "4.692307472229", 
-                "cal": 110
+                "carb": 16.2, 
+                "protein": 1.1
             }, 
             "name": "Cranberry Orange Cookies", 
             "key": 19856
         }, 
         {
             "values": {
+                "rating": "4.76957273483276", 
+                "sodium": 353, 
+                "cal": 374, 
+                "chol": 18, 
+                "fat": 27.2, 
                 "reviews": "865", 
                 "time": 60, 
-                "score": "4.76957273483276", 
-                "cal": 374
+                "carb": 28.5, 
+                "protein": 7.3
             }, 
             "name": "Fresh Broccoli Salad", 
             "key": 19857
         }, 
         {
             "values": {
+                "rating": "4.70610332489014", 
+                "sodium": 1, 
+                "cal": 87, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "827", 
                 "time": 30, 
-                "score": "4.70610332489014", 
-                "cal": 87
+                "carb": 22.2, 
+                "protein": 0.3
             }, 
             "name": "Cranberry Sauce I", 
             "key": 19858
         }, 
         {
             "values": {
+                "rating": "4.80143308639526", 
+                "sodium": 357, 
+                "cal": 283, 
+                "chol": 59, 
+                "fat": 12.1, 
                 "reviews": "669", 
                 "time": 140, 
-                "score": "4.80143308639526", 
-                "cal": 283
+                "carb": 38.7, 
+                "protein": 6.4
             }, 
             "name": "Libby's\u00ae Famous Pumpkin Pie", 
             "key": 19859
         }, 
         {
             "values": {
+                "rating": "4.7049503326416", 
+                "sodium": 210, 
+                "cal": 358, 
+                "chol": 23, 
+                "fat": 16.4, 
                 "reviews": "791", 
                 "time": 140, 
-                "score": "4.7049503326416", 
-                "cal": 358
+                "carb": 52.0, 
+                "protein": 2.5
             }, 
             "name": "Apple Crumble Pie", 
             "key": 19860
         }, 
         {
             "values": {
+                "rating": "4.73719358444214", 
+                "sodium": 253, 
+                "cal": 318, 
+                "chol": 23, 
+                "fat": 9.1, 
                 "reviews": "708", 
                 "time": 90, 
-                "score": "4.73719358444214", 
-                "cal": 318
+                "carb": 58.4, 
+                "protein": 2.7
             }, 
             "name": "Blackberry Cobbler II", 
             "key": 19861
         }, 
         {
             "values": {
+                "rating": "4.68578767776489", 
+                "sodium": 306, 
+                "cal": 316, 
+                "chol": 93, 
+                "fat": 14.1, 
                 "reviews": "916", 
                 "time": 90, 
-                "score": "4.68578767776489", 
-                "cal": 316
+                "carb": 43.7, 
+                "protein": 4.9
             }, 
             "name": "Granny Kat's Pumpkin Roll", 
             "key": 19863
         }, 
         {
             "values": {
+                "rating": "4.66164016723633", 
+                "sodium": 173, 
+                "cal": 335, 
+                "chol": 77, 
+                "fat": 17.7, 
                 "reviews": "886", 
                 "time": 110, 
-                "score": "4.66164016723633", 
-                "cal": 335
+                "carb": 41.4, 
+                "protein": 4.5
             }, 
             "name": "Crustless Cranberry Pie", 
             "key": 19865
         }, 
         {
             "values": {
+                "rating": "4.6846227645874", 
+                "sodium": 613, 
+                "cal": 254, 
+                "chol": 37, 
+                "fat": 15.5, 
                 "reviews": "747", 
                 "time": 180, 
-                "score": "4.6846227645874", 
-                "cal": 254
+                "carb": 24.7, 
+                "protein": 4.4
             }, 
             "name": "Bread and Celery Stuffing", 
             "key": 19866
         }, 
         {
             "values": {
+                "rating": "4.65231513977051", 
+                "sodium": 64, 
+                "cal": 147, 
+                "chol": 19, 
+                "fat": 6.1, 
                 "reviews": "973", 
                 "time": 75, 
-                "score": "4.65231513977051", 
-                "cal": 147
+                "carb": 21.9, 
+                "protein": 1.5
             }, 
             "name": "White Chocolate and Cranberry Cookies", 
             "key": 19867
         }, 
         {
             "values": {
+                "rating": "4.67649841308594", 
+                "sodium": 54, 
+                "cal": 95, 
+                "chol": 18, 
+                "fat": 4.8, 
                 "reviews": "819", 
                 "time": 90, 
-                "score": "4.67649841308594", 
-                "cal": 95
+                "carb": 11.8, 
+                "protein": 1.3
             }, 
             "name": "Mini Cheesecakes I", 
             "key": 19868
         }, 
         {
             "values": {
+                "rating": "4.61111116409302", 
+                "sodium": 221, 
+                "cal": 350, 
+                "chol": 101, 
+                "fat": 25.3, 
                 "reviews": "570", 
                 "time": 560, 
-                "score": "4.61111116409302", 
-                "cal": 350
+                "carb": 26.8, 
+                "protein": 5.8
             }, 
             "name": "Marbled Pumpkin Cheesecake", 
             "key": 19869
         }, 
         {
             "values": {
+                "rating": "4.430091381073", 
+                "sodium": 224, 
+                "cal": 133, 
+                "chol": 18, 
+                "fat": 7.8, 
                 "reviews": "535", 
                 "time": 60, 
-                "score": "4.430091381073", 
-                "cal": 133
+                "carb": 14.0, 
+                "protein": 2.7
             }, 
             "name": "Corn Fritters", 
             "key": 19870
         }, 
         {
             "values": {
+                "rating": "4.48134756088257", 
+                "sodium": 51, 
+                "cal": 189, 
+                "chol": 15, 
+                "fat": 6.0, 
                 "reviews": "537", 
                 "time": 130, 
-                "score": "4.48134756088257", 
-                "cal": 189
+                "carb": 35.8, 
+                "protein": 1.8
             }, 
             "name": "Acorn Squash", 
             "key": 19871
         }, 
         {
             "values": {
+                "rating": "4.72207450866699", 
+                "sodium": 204, 
+                "cal": 210, 
+                "chol": 21, 
+                "fat": 9.4, 
                 "reviews": "586", 
                 "time": 180, 
-                "score": "4.72207450866699", 
-                "cal": 210
+                "carb": 30.5, 
+                "protein": 2.6
             }, 
             "name": "Chocolate Chip Pumpkin Bread", 
             "key": 19872
         }, 
         {
             "values": {
+                "rating": "4.22139310836792", 
+                "sodium": 617, 
+                "cal": 679, 
+                "chol": 186, 
+                "fat": 55.5, 
                 "reviews": "630", 
                 "time": 140, 
-                "score": "4.22139310836792", 
-                "cal": 679
+                "carb": 24.2, 
+                "protein": 22.9
             }, 
             "name": "Three Cheese Garlic Scalloped Potatoes", 
             "key": 19873
         }, 
         {
             "values": {
+                "rating": "4.289222240448", 
+                "sodium": 232, 
+                "cal": 280, 
+                "chol": 67, 
+                "fat": 24.9, 
                 "reviews": "503", 
                 "time": 90, 
-                "score": "4.289222240448", 
-                "cal": 280
+                "carb": 13.5, 
+                "protein": 2.2
             }, 
             "name": "Red Garlic Mashed Potatoes", 
             "key": 19874
         }, 
         {
             "values": {
+                "rating": "4.76251459121704", 
+                "sodium": 404, 
+                "cal": 438, 
+                "chol": 53, 
+                "fat": 26.8, 
                 "reviews": "696", 
                 "time": 120, 
-                "score": "4.76251459121704", 
-                "cal": 438
+                "carb": 46.8, 
+                "protein": 5.3
             }, 
             "name": "Pumpkin Cake III", 
             "key": 19876
         }, 
         {
             "values": {
+                "rating": "4.90819215774536", 
+                "sodium": 791, 
+                "cal": 541, 
+                "chol": 65, 
+                "fat": 33.3, 
                 "reviews": "585", 
                 "time": 170, 
-                "score": "4.90819215774536", 
-                "cal": 541
+                "carb": 39.6, 
+                "protein": 20.6
             }, 
             "name": "Dad's Leftover Turkey Pot Pie", 
             "key": 19877
         }, 
         {
             "values": {
+                "rating": "4.64408874511719", 
+                "sodium": 157, 
+                "cal": 176, 
+                "chol": 23, 
+                "fat": 10.2, 
                 "reviews": "579", 
                 "time": 34, 
-                "score": "4.64408874511719", 
-                "cal": 176
+                "carb": 20.5, 
+                "protein": 1.2
             }, 
             "name": "Graham Cracker Crust I", 
             "key": 19879
         }, 
         {
             "values": {
+                "rating": "4.71736192703247", 
+                "sodium": 293, 
+                "cal": 405, 
+                "chol": 0, 
+                "fat": 18.9, 
                 "reviews": "554", 
                 "time": 80, 
-                "score": "4.71736192703247", 
-                "cal": 405
+                "carb": 56.6, 
+                "protein": 3.3
             }, 
             "name": "Candied Sweet Potatoes", 
             "key": 19881
         }, 
         {
             "values": {
+                "rating": "4.24943590164185", 
+                "sodium": 774, 
+                "cal": 565, 
+                "chol": 105, 
+                "fat": 22.1, 
                 "reviews": "688", 
                 "time": 160, 
-                "score": "4.24943590164185", 
-                "cal": 565
+                "carb": 51.7, 
+                "protein": 37.6
             }, 
             "name": "Turkey Tetrazzini II", 
             "key": 19884
         }, 
         {
             "values": {
+                "rating": "4.66866016387939", 
+                "sodium": 261, 
+                "cal": 224, 
+                "chol": 16, 
+                "fat": 7.7, 
                 "reviews": "662", 
                 "time": 160, 
-                "score": "4.66866016387939", 
-                "cal": 224
+                "carb": 36.6, 
+                "protein": 3.3
             }, 
             "name": "Cranberry Orange Loaf", 
             "key": 19885
         }, 
         {
             "values": {
+                "rating": "4.59277725219727", 
+                "sodium": 38, 
+                "cal": 179, 
+                "chol": 8, 
+                "fat": 8.1, 
                 "reviews": "653", 
                 "time": 60, 
-                "score": "4.59277725219727", 
-                "cal": 179
+                "carb": 24.8, 
+                "protein": 3.9
             }, 
             "name": "Easy Granola Bars", 
             "key": 19886
         }, 
         {
             "values": {
+                "rating": "4.72676038742065", 
+                "sodium": 371, 
+                "cal": 535, 
+                "chol": 89, 
+                "fat": 28.6, 
                 "reviews": "572", 
                 "time": 160, 
-                "score": "4.72676038742065", 
-                "cal": 535
+                "carb": 66.4, 
+                "protein": 7.4
             }, 
             "name": "Caramel Pecan Pie", 
             "key": 19887
         }, 
         {
             "values": {
+                "rating": "4.61254596710205", 
+                "sodium": 820, 
+                "cal": 248, 
+                "chol": 48, 
+                "fat": 18.2, 
                 "reviews": "618", 
                 "time": 120, 
-                "score": "4.61254596710205", 
-                "cal": 248
+                "carb": 21.8, 
+                "protein": 2.7
             }, 
             "name": "Butternut Squash Bisque", 
             "key": 19888
         }, 
         {
             "values": {
+                "rating": "4.32027244567871", 
+                "sodium": 619, 
+                "cal": 387, 
+                "chol": 63, 
+                "fat": 34.1, 
                 "reviews": "437", 
                 "time": 150, 
-                "score": "4.32027244567871", 
-                "cal": 387
+                "carb": 9.5, 
+                "protein": 11.3
             }, 
             "name": "Awesome Broccoli-Cheese Casserole", 
             "key": 19890
         }, 
         {
             "values": {
+                "rating": "4.5357141494751", 
+                "sodium": 558, 
+                "cal": 277, 
+                "chol": 138, 
+                "fat": 12.0, 
                 "reviews": "505", 
                 "time": 140, 
-                "score": "4.5357141494751", 
-                "cal": 277
+                "carb": 39.6, 
+                "protein": 7.7
             }, 
             "name": "Grandma's Corn Pudding", 
             "key": 19891
         }, 
         {
             "values": {
+                "rating": "4.46238231658936", 
+                "sodium": 196, 
+                "cal": 154, 
+                "chol": 17, 
+                "fat": 5.9, 
                 "reviews": "538", 
                 "time": 60, 
-                "score": "4.46238231658936", 
-                "cal": 154
+                "carb": 22.5, 
+                "protein": 3.1
             }, 
             "name": "Basic Corn Muffins", 
             "key": 19892
         }, 
         {
             "values": {
+                "rating": "4.49185657501221", 
+                "sodium": 145, 
+                "cal": 282, 
+                "chol": 20, 
+                "fat": 7.9, 
                 "reviews": "464", 
                 "time": 80, 
-                "score": "4.49185657501221", 
-                "cal": 282
+                "carb": 50.7, 
+                "protein": 2.3
             }, 
             "name": "Candied Yams", 
             "key": 19893
         }, 
         {
             "values": {
+                "rating": "4.79663610458374", 
+                "sodium": 342, 
+                "cal": 423, 
+                "chol": 60, 
+                "fat": 12.8, 
                 "reviews": "528", 
                 "time": 960, 
-                "score": "4.79663610458374", 
-                "cal": 423
+                "carb": 72.7, 
+                "protein": 10.9
             }, 
             "name": "Mrs. Sigg's Fresh Pumpkin Pie", 
             "key": 19894
         }, 
         {
             "values": {
+                "rating": "4.52047777175903", 
+                "sodium": 191, 
+                "cal": 243, 
+                "chol": 52, 
+                "fat": 9.2, 
                 "reviews": "464", 
                 "time": 70, 
-                "score": "4.52047777175903", 
-                "cal": 243
+                "carb": 37.4, 
+                "protein": 4.0
             }, 
             "name": "Cornbread Muffins I", 
             "key": 19896
         }, 
         {
             "values": {
+                "rating": "4.78604650497437", 
+                "sodium": 100, 
+                "cal": 195, 
+                "chol": 0, 
+                "fat": 6.8, 
                 "reviews": "524", 
                 "time": 90, 
-                "score": "4.78604650497437", 
-                "cal": 195
+                "carb": 35.5, 
+                "protein": 1.5
             }, 
             "name": "Cranberry Sauce Extraordinaire", 
             "key": 19897
         }, 
         {
             "values": {
+                "rating": "4.72775793075562", 
+                "sodium": 155, 
+                "cal": 451, 
+                "chol": 110, 
+                "fat": 25.1, 
                 "reviews": "458", 
                 "time": 80, 
-                "score": "4.72775793075562", 
-                "cal": 451
+                "carb": 52.5, 
+                "protein": 5.9
             }, 
             "name": "Praline Sweet Potatoes", 
             "key": 19899
         }, 
         {
             "values": {
+                "rating": "4.74767780303955", 
+                "sodium": 11, 
+                "cal": 177, 
+                "chol": 0, 
+                "fat": 7.0, 
                 "reviews": "492", 
                 "time": 80, 
-                "score": "4.74767780303955", 
-                "cal": 177
+                "carb": 30.3, 
+                "protein": 2.6
             }, 
             "name": "Simple Roasted Butternut Squash", 
             "key": 19900
@@ -793,23 +1188,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

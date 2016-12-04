@@ -2,910 +2,1365 @@
     "options": [
         {
             "values": {
+                "rating": "4.49689435958862", 
+                "sodium": 572, 
+                "cal": 192, 
+                "chol": 0, 
+                "fat": 2.6, 
                 "reviews": "793", 
                 "time": 80, 
-                "score": "4.49689435958862", 
-                "cal": 192
+                "carb": 32.5, 
+                "protein": 12.1
             }, 
             "name": "Red Lentil Curry", 
             "key": 22701
         }, 
         {
             "values": {
+                "rating": "4.38589859008789", 
+                "sodium": 4499, 
+                "cal": 404, 
+                "chol": 143, 
+                "fat": 28.9, 
                 "reviews": "2026", 
                 "time": 220, 
-                "score": "4.38589859008789", 
-                "cal": 404
+                "carb": 13.3, 
+                "protein": 24.6
             }, 
             "name": "Chicken Tikka Masala", 
             "key": 22702
         }, 
         {
             "values": {
+                "rating": "4.49748134613037", 
+                "sodium": 807, 
+                "cal": 375, 
+                "chol": 78, 
+                "fat": 20.9, 
                 "reviews": "2285", 
                 "time": 140, 
-                "score": "4.49748134613037", 
-                "cal": 375
+                "carb": 16.7, 
+                "protein": 32.2
             }, 
             "name": "Curried Coconut Chicken", 
             "key": 22703
         }, 
         {
             "values": {
+                "rating": "4.57950019836426", 
+                "sodium": 611, 
+                "cal": 187, 
+                "chol": 27, 
+                "fat": 14.2, 
                 "reviews": "1389", 
                 "time": 40, 
-                "score": "4.57950019836426", 
-                "cal": 187
+                "carb": 13.2, 
+                "protein": 5.1
             }, 
             "name": "Broccoli with Garlic Butter and Cashews", 
             "key": 22704
         }, 
         {
             "values": {
+                "rating": "4.28345823287964", 
+                "sodium": 596, 
+                "cal": 437, 
+                "chol": 66, 
+                "fat": 23.3, 
                 "reviews": "817", 
                 "time": 150, 
-                "score": "4.28345823287964", 
-                "cal": 437
+                "carb": 25.3, 
+                "protein": 34.4
             }, 
             "name": "Kung Pao Chicken", 
             "key": 22705
         }, 
         {
             "values": {
+                "rating": "4.4175181388855", 
+                "sodium": 500, 
+                "cal": 142, 
+                "chol": 164, 
+                "fat": 4.4, 
                 "reviews": "1954", 
                 "time": 40, 
-                "score": "4.4175181388855", 
-                "cal": 142
+                "carb": 6.7, 
+                "protein": 18.3
             }, 
             "name": "Szechwan Shrimp", 
             "key": 22706
         }, 
         {
             "values": {
+                "rating": "4.38619089126587", 
+                "sodium": 516, 
+                "cal": 255, 
+                "chol": 83, 
+                "fat": 10.2, 
                 "reviews": "1186", 
                 "time": 30, 
-                "score": "4.38619089126587", 
-                "cal": 255
+                "carb": 25.9, 
+                "protein": 14.1
             }, 
             "name": "Chinese Chicken Fried Rice II", 
             "key": 22707
         }, 
         {
             "values": {
+                "rating": "4.3052544593811", 
+                "sodium": 711, 
+                "cal": 203, 
+                "chol": 39, 
+                "fat": 10.0, 
                 "reviews": "814", 
                 "time": 30, 
-                "score": "4.3052544593811", 
-                "cal": 203
+                "carb": 9.7, 
+                "protein": 16.0
             }, 
             "name": "Asian Beef with Snow Peas", 
             "key": 22708
         }, 
         {
             "values": {
+                "rating": "4.5625", 
+                "sodium": 1405, 
+                "cal": 304, 
+                "chol": 51, 
+                "fat": 19.7, 
                 "reviews": "35", 
                 "time": 120, 
-                "score": "4.5625", 
-                "cal": 304
+                "carb": 15.0, 
+                "protein": 17.8
             }, 
             "name": "Sinigang na Baka", 
             "key": 22709
         }, 
         {
             "values": {
+                "rating": "4.78980398178101", 
+                "sodium": 734, 
+                "cal": 223, 
+                "chol": 62, 
+                "fat": 15.8, 
                 "reviews": "953", 
                 "time": 160, 
-                "score": "4.78980398178101", 
-                "cal": 223
+                "carb": 13.5, 
+                "protein": 6.9
             }, 
             "name": "Mulligatawny Soup I", 
             "key": 22710
         }, 
         {
             "values": {
+                "rating": "4.52173900604248", 
+                "sodium": 1824, 
+                "cal": 356, 
+                "chol": 43, 
+                "fat": 14.3, 
                 "reviews": "36", 
                 "time": 70, 
-                "score": "4.52173900604248", 
-                "cal": 356
+                "carb": 34.0, 
+                "protein": 22.7
             }, 
             "name": "Mie Goreng - Indonesian Fried Noodles", 
             "key": 22712
         }, 
         {
             "values": {
+                "rating": "4.45454549789429", 
+                "sodium": 763, 
+                "cal": 445, 
+                "chol": 34, 
+                "fat": 11.2, 
                 "reviews": "1266", 
                 "time": 280, 
-                "score": "4.45454549789429", 
-                "cal": 445
+                "carb": 68.7, 
+                "protein": 17.8
             }, 
             "name": "Asian Orange Chicken", 
             "key": 22713
         }, 
         {
             "values": {
+                "rating": "4.70599269866943", 
+                "sodium": 364, 
+                "cal": 211, 
+                "chol": 22, 
+                "fat": 4.5, 
                 "reviews": "1614", 
                 "time": 217, 
-                "score": "4.70599269866943", 
-                "cal": 211
+                "carb": 36.0, 
+                "protein": 6.1
             }, 
             "name": "Naan", 
             "key": 22714
         }, 
         {
             "values": {
+                "rating": "4.49310350418091", 
+                "sodium": 523, 
+                "cal": 408, 
+                "chol": 107, 
+                "fat": 27.8, 
                 "reviews": "841", 
                 "time": 70, 
-                "score": "4.49310350418091", 
-                "cal": 408
+                "carb": 15.6, 
+                "protein": 23.4
             }, 
             "name": "Chicken Makhani (Indian Butter Chicken)", 
             "key": 22715
         }, 
         {
             "values": {
+                "rating": "4.61936140060425", 
+                "sodium": 580, 
+                "cal": 388, 
+                "chol": 69, 
+                "fat": 22.3, 
                 "reviews": "1395", 
                 "time": 70, 
-                "score": "4.61936140060425", 
-                "cal": 388
+                "carb": 24.3, 
+                "protein": 23.4
             }, 
             "name": "Asian Lettuce Wraps", 
             "key": 22716
         }, 
         {
             "values": {
+                "rating": "4.54918050765991", 
+                "sodium": 1866, 
+                "cal": 367, 
+                "chol": 76, 
+                "fat": 25.0, 
                 "reviews": "180", 
                 "time": 300, 
-                "score": "4.54918050765991", 
-                "cal": 367
+                "carb": 10.8, 
+                "protein": 24.4
             }, 
             "name": "Beef Yakitori", 
             "key": 22717
         }, 
         {
             "values": {
+                "rating": "4.32337427139282", 
+                "sodium": 381, 
+                "cal": 261, 
+                "chol": 46, 
+                "fat": 8.4, 
                 "reviews": "840", 
                 "time": 90, 
-                "score": "4.32337427139282", 
-                "cal": 261
+                "carb": 39.7, 
+                "protein": 5.8
             }, 
             "name": "Fried Rice Restaurant Style", 
             "key": 22718
         }, 
         {
             "values": {
+                "rating": "4.44816589355469", 
+                "sodium": 308, 
+                "cal": 349, 
+                "chol": 24, 
+                "fat": 15.2, 
                 "reviews": "924", 
                 "time": 60, 
-                "score": "4.44816589355469", 
-                "cal": 349
+                "carb": 38.3, 
+                "protein": 15.9
             }, 
             "name": "Sesame Pasta Chicken Salad", 
             "key": 22719
         }, 
         {
             "values": {
+                "rating": "4.4219651222229", 
+                "sodium": 546, 
+                "cal": 184, 
+                "chol": 37, 
+                "fat": 8.5, 
                 "reviews": "128", 
                 "time": 90, 
-                "score": "4.4219651222229", 
-                "cal": 184
+                "carb": 18.5, 
+                "protein": 7.9
             }, 
             "name": "Gyoza", 
             "key": 22720
         }, 
         {
             "values": {
+                "rating": "4.26909732818604", 
+                "sodium": 268, 
+                "cal": 313, 
+                "chol": 38, 
+                "fat": 21.7, 
                 "reviews": "871", 
                 "time": 90, 
-                "score": "4.26909732818604", 
-                "cal": 313
+                "carb": 14.0, 
+                "protein": 19.1
             }, 
             "name": "Indian Chicken Curry II", 
             "key": 22721
         }, 
         {
             "values": {
+                "rating": "4.68867921829224", 
+                "sodium": 1112, 
+                "cal": 675, 
+                "chol": 158, 
+                "fat": 44.3, 
                 "reviews": "1005", 
                 "time": 120, 
-                "score": "4.68867921829224", 
-                "cal": 675
+                "carb": 51.4, 
+                "protein": 18.9
             }, 
             "name": "Japanese Chicken Wings", 
             "key": 22722
         }, 
         {
             "values": {
+                "rating": "4.69565200805664", 
+                "sodium": 376, 
+                "cal": 491, 
+                "chol": 65, 
+                "fat": 9.9, 
                 "reviews": "73", 
                 "time": 100, 
-                "score": "4.69565200805664", 
-                "cal": 491
+                "carb": 68.3, 
+                "protein": 30.2
             }, 
             "name": "Thai Ginger Chicken (Gai Pad King)", 
             "key": 22724
         }, 
         {
             "values": {
+                "rating": "4.46016502380371", 
+                "sodium": 1188, 
+                "cal": 330, 
+                "chol": 0, 
+                "fat": 12.0, 
                 "reviews": "1054", 
                 "time": 50, 
-                "score": "4.46016502380371", 
-                "cal": 330
+                "carb": 46.8, 
+                "protein": 10.7
             }, 
             "name": "Peanut Butter Noodles", 
             "key": 22725
         }, 
         {
             "values": {
+                "rating": "4.75862073898315", 
+                "sodium": 2831, 
+                "cal": 1096, 
+                "chol": 172, 
+                "fat": 85.6, 
                 "reviews": "97", 
                 "time": 240, 
-                "score": "4.75862073898315", 
-                "cal": 1096
+                "carb": 44.9, 
+                "protein": 35.9
             }, 
             "name": "Kalbi (Korean BBQ Short Ribs)", 
             "key": 22726
         }, 
         {
             "values": {
+                "rating": "4.51301097869873", 
+                "sodium": 759, 
+                "cal": 639, 
+                "chol": 160, 
+                "fat": 18.4, 
                 "reviews": "829", 
                 "time": 110, 
-                "score": "4.51301097869873", 
-                "cal": 639
+                "carb": 56.2, 
+                "protein": 59.2
             }, 
             "name": "Sweet and Sour Chicken I", 
             "key": 22727
         }, 
         {
             "values": {
+                "rating": "4.55674839019775", 
+                "sodium": 1434, 
+                "cal": 462, 
+                "chol": 82, 
+                "fat": 31.1, 
                 "reviews": "886", 
                 "time": 110, 
-                "score": "4.55674839019775", 
-                "cal": 462
+                "carb": 41.3, 
+                "protein": 8.6
             }, 
             "name": "Vegetarian Korma", 
             "key": 22728
         }, 
         {
             "values": {
+                "rating": "4.49670314788818", 
+                "sodium": 424, 
+                "cal": 347, 
+                "chol": 69, 
+                "fat": 8.4, 
                 "reviews": "683", 
                 "time": 120, 
-                "score": "4.49670314788818", 
-                "cal": 347
+                "carb": 38.0, 
+                "protein": 28.3
             }, 
             "name": "Mama's Asian Chicken and Rice", 
             "key": 22729
         }, 
         {
             "values": {
+                "rating": "4.67741918563843", 
+                "sodium": 251, 
+                "cal": 297, 
+                "chol": 118, 
+                "fat": 11.4, 
                 "reviews": "483", 
                 "time": 40, 
-                "score": "4.67741918563843", 
-                "cal": 297
+                "carb": 22.2, 
+                "protein": 31.2
             }, 
             "name": "Chicken Katsu", 
             "key": 22731
         }, 
         {
             "values": {
+                "rating": "4.6487603187561", 
+                "sodium": 1059, 
+                "cal": 375, 
+                "chol": 89, 
+                "fat": 33.2, 
                 "reviews": "585", 
                 "time": 130, 
-                "score": "4.6487603187561", 
-                "cal": 375
+                "carb": 9.4, 
+                "protein": 13.7
             }, 
             "name": "The Best Thai Coconut Soup", 
             "key": 22732
         }, 
         {
             "values": {
+                "rating": "4.53464221954346", 
+                "sodium": 1143, 
+                "cal": 76, 
+                "chol": 149, 
+                "fat": 4.1, 
                 "reviews": "656", 
                 "time": 40, 
-                "score": "4.53464221954346", 
-                "cal": 76
+                "carb": 4.2, 
+                "protein": 4.9
             }, 
             "name": "Restaurant Style Egg Drop Soup", 
             "key": 22733
         }, 
         {
             "values": {
+                "rating": "4.71731472015381", 
+                "sodium": 1182, 
+                "cal": 663, 
+                "chol": 43, 
+                "fat": 35.0, 
                 "reviews": "659", 
                 "time": 180, 
-                "score": "4.71731472015381", 
-                "cal": 663
+                "carb": 74.7, 
+                "protein": 13.9
             }, 
             "name": "Sweet and Sour Pork III", 
             "key": 22734
         }, 
         {
             "values": {
+                "rating": "4.43096780776978", 
+                "sodium": 419, 
+                "cal": 331, 
+                "chol": 52, 
+                "fat": 21.1, 
                 "reviews": "573", 
                 "time": 90, 
-                "score": "4.43096780776978", 
-                "cal": 331
+                "carb": 13.3, 
+                "protein": 21.7
             }, 
             "name": "Restaurant Style Beef and Broccoli", 
             "key": 22735
         }, 
         {
             "values": {
+                "rating": "4.47280788421631", 
+                "sodium": 649, 
+                "cal": 507, 
+                "chol": 61, 
+                "fat": 18.7, 
                 "reviews": "659", 
                 "time": 100, 
-                "score": "4.47280788421631", 
-                "cal": 507
+                "carb": 59.2, 
+                "protein": 27.4
             }, 
             "name": "Crispy Orange Beef", 
             "key": 22736
         }, 
         {
             "values": {
+                "rating": "4.27930545806885", 
+                "sodium": 1887, 
+                "cal": 193, 
+                "chol": 65, 
+                "fat": 6.7, 
                 "reviews": "501", 
                 "time": 165, 
-                "score": "4.27930545806885", 
-                "cal": 193
+                "carb": 5.1, 
+                "protein": 27.1
             }, 
             "name": "Baked Soy Lemon Chops", 
             "key": 22737
         }, 
         {
             "values": {
+                "rating": "4.72157430648804", 
+                "sodium": 1370, 
+                "cal": 427, 
+                "chol": 95, 
+                "fat": 24.3, 
                 "reviews": "540", 
                 "time": 120, 
-                "score": "4.72157430648804", 
-                "cal": 427
+                "carb": 14.7, 
+                "protein": 38.1
             }, 
             "name": "Indian Chicken Curry (Murgh Kari)", 
             "key": 22738
         }, 
         {
             "values": {
+                "rating": "4.52359533309937", 
+                "sodium": 944, 
+                "cal": 354, 
+                "chol": 57, 
+                "fat": 22.5, 
                 "reviews": "654", 
                 "time": 60, 
-                "score": "4.52359533309937", 
-                "cal": 354
+                "carb": 15.8, 
+                "protein": 22.2
             }, 
             "name": "Sesame Beef", 
             "key": 22739
         }, 
         {
             "values": {
+                "rating": "4.37733125686646", 
+                "sodium": 325, 
+                "cal": 438, 
+                "chol": 82, 
+                "fat": 19.5, 
                 "reviews": "498", 
                 "time": 60, 
-                "score": "4.37733125686646", 
-                "cal": 438
+                "carb": 27.7, 
+                "protein": 37.8
             }, 
             "name": "Amber's Sesame Chicken", 
             "key": 22740
         }, 
         {
             "values": {
+                "rating": "4.78714847564697", 
+                "sodium": 1157, 
+                "cal": 232, 
+                "chol": 27, 
+                "fat": 13.2, 
                 "reviews": "464", 
                 "time": 90, 
-                "score": "4.78714847564697", 
-                "cal": 232
+                "carb": 12.4, 
+                "protein": 16.2
             }, 
             "name": "Beef Bulgogi", 
             "key": 22741
         }, 
         {
             "values": {
+                "rating": "4.15392446517944", 
+                "sodium": 755, 
+                "cal": 178, 
+                "chol": 39, 
+                "fat": 3.2, 
                 "reviews": "729", 
                 "time": 60, 
-                "score": "4.15392446517944", 
-                "cal": 178
+                "carb": 19.0, 
+                "protein": 19.2
             }, 
             "name": "Broccoli Beef I", 
             "key": 22742
         }, 
         {
             "values": {
+                "rating": "4.36233949661255", 
+                "sodium": 680, 
+                "cal": 232, 
+                "chol": 0, 
+                "fat": 13.2, 
                 "reviews": "489", 
                 "time": 80, 
-                "score": "4.36233949661255", 
-                "cal": 232
+                "carb": 16.9, 
+                "protein": 16.5
             }, 
             "name": "Coconut Curry Tofu", 
             "key": 22743
         }, 
         {
             "values": {
+                "rating": "4.70514297485352", 
+                "sodium": 1461, 
+                "cal": 880, 
+                "chol": 303, 
+                "fat": 82.3, 
                 "reviews": "654", 
                 "time": 120, 
-                "score": "4.70514297485352", 
-                "cal": 880
+                "carb": 12.8, 
+                "protein": 26.4
             }, 
             "name": "Easy Indian Butter Chicken", 
             "key": 22744
         }, 
         {
             "values": {
+                "rating": "4.46122455596924", 
+                "sodium": 236, 
+                "cal": 43, 
+                "chol": 0, 
+                "fat": 0.0, 
                 "reviews": "595", 
                 "time": 24, 
-                "score": "4.46122455596924", 
-                "cal": 43
+                "carb": 10.8, 
+                "protein": 0.3
             }, 
             "name": "Sweet and Sour Sauce I", 
             "key": 22746
         }, 
         {
             "values": {
+                "rating": "4.65679693222046", 
+                "sodium": 874, 
+                "cal": 509, 
+                "chol": 44, 
+                "fat": 28.5, 
                 "reviews": "580", 
                 "time": 130, 
-                "score": "4.65679693222046", 
-                "cal": 509
+                "carb": 50.0, 
+                "protein": 14.2
             }, 
             "name": "Perfect Sesame Chicken", 
             "key": 22747
         }, 
         {
             "values": {
+                "rating": "4.76589965820313", 
+                "sodium": 1192, 
+                "cal": 634, 
+                "chol": 101, 
+                "fat": 36.5, 
                 "reviews": "549", 
                 "time": 100, 
-                "score": "4.76589965820313", 
-                "cal": 634
+                "carb": 54.9, 
+                "protein": 24.3
             }, 
             "name": "General Tsao's Chicken II", 
             "key": 22748
         }, 
         {
             "values": {
+                "rating": "4.63636350631714", 
+                "sodium": 305, 
+                "cal": 82, 
+                "chol": 11, 
+                "fat": 0.7, 
                 "reviews": "421", 
                 "time": 100, 
-                "score": "4.63636350631714", 
-                "cal": 82
+                "carb": 15.8, 
+                "protein": 3.3
             }, 
             "name": "Vietnamese Fresh Spring Rolls", 
             "key": 22749
         }, 
         {
             "values": {
+                "rating": "4.38800001144409", 
+                "sodium": 903, 
+                "cal": 119, 
+                "chol": 0, 
+                "fat": 9.3, 
                 "reviews": "353", 
                 "time": 80, 
-                "score": "4.38800001144409", 
-                "cal": 119
+                "carb": 8.0, 
+                "protein": 2.2
             }, 
             "name": "Ginger Veggie Stir-Fry", 
             "key": 22750
         }, 
         {
             "values": {
+                "rating": "4.58083820343018", 
+                "sodium": 1852, 
+                "cal": 544, 
+                "chol": 142, 
+                "fat": 30.2, 
                 "reviews": "365", 
                 "time": 135, 
-                "score": "4.58083820343018", 
-                "cal": 544
+                "carb": 26.6, 
+                "protein": 40.6
             }, 
             "name": "Asian Glazed Chicken Thighs", 
             "key": 22751
         }, 
         {
             "values": {
+                "rating": "4.39317512512207", 
+                "sodium": 34, 
+                "cal": 179, 
+                "chol": 0, 
+                "fat": 4.8, 
                 "reviews": "469", 
                 "time": 70, 
-                "score": "4.39317512512207", 
-                "cal": 179
+                "carb": 30.1, 
+                "protein": 4.0
             }, 
             "name": "Carrot Rice", 
             "key": 22752
         }, 
         {
             "values": {
+                "rating": "4.47749519348145", 
+                "sodium": 961, 
+                "cal": 217, 
+                "chol": 67, 
+                "fat": 7.6, 
                 "reviews": "383", 
                 "time": 80, 
-                "score": "4.47749519348145", 
-                "cal": 217
+                "carb": 10.6, 
+                "protein": 25.7
             }, 
             "name": "Grilled Asian Chicken", 
             "key": 22753
         }, 
         {
             "values": {
+                "rating": "3.89081454277039", 
+                "sodium": 594, 
+                "cal": 524, 
+                "chol": 178, 
+                "fat": 20.7, 
                 "reviews": "421", 
                 "time": 120, 
-                "score": "3.89081454277039", 
-                "cal": 524
+                "carb": 58.5, 
+                "protein": 26.4
             }, 
             "name": "Pad Thai", 
             "key": 22754
         }, 
         {
             "values": {
+                "rating": "4.34790897369385", 
+                "sodium": 603, 
+                "cal": 259, 
+                "chol": 59, 
+                "fat": 9.4, 
                 "reviews": "366", 
                 "time": 40, 
-                "score": "4.34790897369385", 
-                "cal": 259
+                "carb": 19.9, 
+                "protein": 23.7
             }, 
             "name": "Sweet and Sour Chicken III", 
             "key": 22755
         }, 
         {
             "values": {
+                "rating": "4.24081611633301", 
+                "sodium": 410, 
+                "cal": 360, 
+                "chol": 34, 
+                "fat": 11.3, 
                 "reviews": "372", 
                 "time": 80, 
-                "score": "4.24081611633301", 
-                "cal": 360
+                "carb": 43.4, 
+                "protein": 21.0
             }, 
             "name": "Thai Peanut Chicken", 
             "key": 22756
         }, 
         {
             "values": {
+                "rating": "4.63402080535889", 
+                "sodium": 225, 
+                "cal": 414, 
+                "chol": 55, 
+                "fat": 18.0, 
                 "reviews": "463", 
                 "time": 70, 
-                "score": "4.63402080535889", 
-                "cal": 414
+                "carb": 39.2, 
+                "protein": 22.7
             }, 
             "name": "Asian Chicken Salad", 
             "key": 22757
         }, 
         {
             "values": {
+                "rating": "4.11744403839111", 
+                "sodium": 2057, 
+                "cal": 842, 
+                "chol": 163, 
+                "fat": 40.5, 
                 "reviews": "456", 
                 "time": 100, 
-                "score": "4.11744403839111", 
-                "cal": 842
+                "carb": 60.7, 
+                "protein": 56.5
             }, 
             "name": "General Tsao's Chicken", 
             "key": 22759
         }, 
         {
             "values": {
+                "rating": "4.52054786682129", 
+                "sodium": 581, 
+                "cal": 110, 
+                "chol": 0, 
+                "fat": 8.2, 
                 "reviews": "360", 
                 "time": 40, 
-                "score": "4.52054786682129", 
-                "cal": 110
+                "carb": 8.1, 
+                "protein": 2.7
             }, 
             "name": "Japanese Zucchini and Onions", 
             "key": 22760
         }, 
         {
             "values": {
+                "rating": "4.59667348861694", 
+                "sodium": 304, 
+                "cal": 20, 
+                "chol": 0, 
+                "fat": 0.1, 
                 "reviews": "359", 
                 "time": 50, 
-                "score": "4.59667348861694", 
-                "cal": 20
+                "carb": 4.9, 
+                "protein": 0.3
             }, 
             "name": "Korean BBQ Chicken Marinade", 
             "key": 22761
         }, 
         {
             "values": {
+                "rating": "4.49333333969116", 
+                "sodium": 1790, 
+                "cal": 700, 
+                "chol": 161, 
+                "fat": 12.1, 
                 "reviews": "498", 
                 "time": 145, 
-                "score": "4.49333333969116", 
-                "cal": 700
+                "carb": 76.7, 
+                "protein": 67.7
             }, 
             "name": "Chicken Stir-Fry", 
             "key": 22762
         }, 
         {
             "values": {
+                "rating": "4.22315454483032", 
+                "sodium": 289, 
+                "cal": 135, 
+                "chol": 0, 
+                "fat": 4.5, 
                 "reviews": "439", 
                 "time": 80, 
-                "score": "4.22315454483032", 
-                "cal": 135
+                "carb": 20.5, 
+                "protein": 4.1
             }, 
             "name": "Chickpea Curry", 
             "key": 22763
         }, 
         {
             "values": {
+                "rating": "4.33937406539917", 
+                "sodium": 54, 
+                "cal": 453, 
+                "chol": 0, 
+                "fat": 20.9, 
                 "reviews": "459", 
                 "time": 50, 
-                "score": "4.33937406539917", 
-                "cal": 453
+                "carb": 61.4, 
+                "protein": 6.8
             }, 
             "name": "Asian Coconut Rice", 
             "key": 22765
         }, 
         {
             "values": {
+                "rating": "4.45360803604126", 
+                "sodium": 442, 
+                "cal": 480, 
+                "chol": 103, 
+                "fat": 33.3, 
                 "reviews": "342", 
                 "time": 540, 
-                "score": "4.45360803604126", 
-                "cal": 480
+                "carb": 17.2, 
+                "protein": 30.6
             }, 
             "name": "Slow Cooker Butter Chicken", 
             "key": 22766
         }, 
         {
             "values": {
+                "rating": "4.60508489608765", 
+                "sodium": 1862, 
+                "cal": 391, 
+                "chol": 27, 
+                "fat": 12.1, 
                 "reviews": "445", 
                 "time": 50, 
-                "score": "4.60508489608765", 
-                "cal": 391
+                "carb": 54.7, 
+                "protein": 18.0
             }, 
             "name": "Mongolian Beef and Spring Onions", 
             "key": 22767
         }, 
         {
             "values": {
+                "rating": "4.39490461349487", 
+                "sodium": 606, 
+                "cal": 156, 
+                "chol": 36, 
+                "fat": 6.2, 
                 "reviews": "319", 
                 "time": 60, 
-                "score": "4.39490461349487", 
-                "cal": 156
+                "carb": 10.9, 
+                "protein": 15.9
             }, 
             "name": "Sweet and Spicy Stir Fry with Chicken and Broccoli", 
             "key": 22768
         }, 
         {
             "values": {
+                "rating": "4.65573787689209", 
+                "sodium": 1000, 
+                "cal": 392, 
+                "chol": 124, 
+                "fat": 12.9, 
                 "reviews": "284", 
                 "time": 530, 
-                "score": "4.65573787689209", 
-                "cal": 392
+                "carb": 26.0, 
+                "protein": 40.9
             }, 
             "name": "Pineapple Grilled Pork Chops", 
             "key": 22769
         }, 
         {
             "values": {
+                "rating": "4.01631689071655", 
+                "sodium": 1002, 
+                "cal": 168, 
+                "chol": 0, 
+                "fat": 8.8, 
                 "reviews": "320", 
                 "time": 50, 
-                "score": "4.01631689071655", 
-                "cal": 168
+                "carb": 12.8, 
+                "protein": 12.7
             }, 
             "name": "Baked Tofu Bites", 
             "key": 22770
         }, 
         {
             "values": {
+                "rating": "4.24078607559204", 
+                "sodium": 434, 
+                "cal": 230, 
+                "chol": 48, 
+                "fat": 7.6, 
                 "reviews": "325", 
                 "time": 70, 
-                "score": "4.24078607559204", 
-                "cal": 230
+                "carb": 21.1, 
+                "protein": 18.6
             }, 
             "name": "Asian Tuna Patties", 
             "key": 22771
         }, 
         {
             "values": {
+                "rating": "4.30909109115601", 
+                "sodium": 1621, 
+                "cal": 295, 
+                "chol": 46, 
+                "fat": 4.8, 
                 "reviews": "319", 
                 "time": 60, 
-                "score": "4.30909109115601", 
-                "cal": 295
+                "carb": 40.7, 
+                "protein": 26.3
             }, 
             "name": "Yakisoba Chicken", 
             "key": 22772
         }, 
         {
             "values": {
+                "rating": "4.57411766052246", 
+                "sodium": 957, 
+                "cal": 329, 
+                "chol": 67, 
+                "fat": 18.2, 
                 "reviews": "323", 
                 "time": 105, 
-                "score": "4.57411766052246", 
-                "cal": 329
+                "carb": 11.8, 
+                "protein": 30.8
             }, 
             "name": "Indonesian Satay", 
             "key": 22773
         }, 
         {
             "values": {
+                "rating": "4.52173900604248", 
+                "sodium": 935, 
+                "cal": 472, 
+                "chol": 57, 
+                "fat": 40.9, 
                 "reviews": "332", 
                 "time": 120, 
-                "score": "4.52173900604248", 
-                "cal": 472
+                "carb": 14.6, 
+                "protein": 27.1
             }, 
             "name": "Thai Green Curry Chicken", 
             "key": 22774
         }, 
         {
             "values": {
+                "rating": "4.3059868812561", 
+                "sodium": 739, 
+                "cal": 146, 
+                "chol": 2, 
+                "fat": 8.0, 
                 "reviews": "309", 
                 "time": 120, 
-                "score": "4.3059868812561", 
-                "cal": 146
+                "carb": 15.2, 
+                "protein": 4.0
             }, 
             "name": "Baingan Bharta (Eggplant Curry)", 
             "key": 22775
         }, 
         {
             "values": {
+                "rating": "4.30260038375854", 
+                "sodium": 268, 
+                "cal": 203, 
+                "chol": 39, 
+                "fat": 11.7, 
                 "reviews": "329", 
                 "time": 90, 
-                "score": "4.30260038375854", 
-                "cal": 203
+                "carb": 15.8, 
+                "protein": 8.3
             }, 
             "name": "Crab Rangoon III", 
             "key": 22776
         }, 
         {
             "values": {
+                "rating": "4.55652189254761", 
+                "sodium": 972, 
+                "cal": 312, 
+                "chol": 69, 
+                "fat": 15.4, 
                 "reviews": "356", 
                 "time": 60, 
-                "score": "4.55652189254761", 
-                "cal": 312
+                "carb": 17.0, 
+                "protein": 26.1
             }, 
             "name": "Chinese Pepper Steak", 
             "key": 22778
         }, 
         {
             "values": {
+                "rating": "4.39810419082642", 
+                "sodium": 593, 
+                "cal": 235, 
+                "chol": 0, 
+                "fat": 14.1, 
                 "reviews": "290", 
                 "time": 60, 
-                "score": "4.39810419082642", 
-                "cal": 235
+                "carb": 25.7, 
+                "protein": 3.3
             }, 
             "name": "Aloo Phujia", 
             "key": 22779
         }, 
         {
             "values": {
+                "rating": "4.24893617630005", 
+                "sodium": 508, 
+                "cal": 280, 
+                "chol": 48, 
+                "fat": 22.1, 
                 "reviews": "363", 
                 "time": 40, 
-                "score": "4.24893617630005", 
-                "cal": 280
+                "carb": 9.5, 
+                "protein": 11.6
             }, 
             "name": "Black Pepper Beef and Cabbage Stir Fry", 
             "key": 22780
         }, 
         {
             "values": {
+                "rating": "4.20941162109375", 
+                "sodium": 1638, 
+                "cal": 483, 
+                "chol": 187, 
+                "fat": 17.5, 
                 "reviews": "320", 
                 "time": 60, 
-                "score": "4.20941162109375", 
-                "cal": 483
+                "carb": 60.3, 
+                "protein": 20.0
             }, 
             "name": "Shrimp Fried Rice II", 
             "key": 22781
         }, 
         {
             "values": {
+                "rating": "4.50675678253174", 
+                "sodium": 781, 
+                "cal": 623, 
+                "chol": 20, 
+                "fat": 34.5, 
                 "reviews": "307", 
                 "time": 100, 
-                "score": "4.50675678253174", 
-                "cal": 623
+                "carb": 77.5, 
+                "protein": 20.3
             }, 
             "name": "Thai Pineapple Chicken Curry", 
             "key": 22783
         }, 
         {
             "values": {
+                "rating": "4.49438190460205", 
+                "sodium": 339, 
+                "cal": 605, 
+                "chol": 180, 
+                "fat": 26.3, 
                 "reviews": "346", 
                 "time": 60, 
-                "score": "4.49438190460205", 
-                "cal": 605
+                "carb": 68.0, 
+                "protein": 26.2
             }, 
             "name": "Honey Walnut Shrimp", 
             "key": 22784
         }, 
         {
             "values": {
+                "rating": "4.46618366241455", 
+                "sodium": 233, 
+                "cal": 97, 
+                "chol": 0, 
+                "fat": 6.6, 
                 "reviews": "283", 
                 "time": 40, 
-                "score": "4.46618366241455", 
-                "cal": 97
+                "carb": 8.9, 
+                "protein": 2.7
             }, 
             "name": "Japanese-Style Sesame Green Beans", 
             "key": 22785
         }, 
         {
             "values": {
+                "rating": "4.557692527771", 
+                "sodium": 1599, 
+                "cal": 664, 
+                "chol": 112, 
+                "fat": 50.4, 
                 "reviews": "289", 
                 "time": 156, 
-                "score": "4.557692527771", 
-                "cal": 664
+                "carb": 11.2, 
+                "protein": 40.9
             }, 
             "name": "Slammin' Salmon", 
             "key": 22786
         }, 
         {
             "values": {
+                "rating": "3.98280096054077", 
+                "sodium": 253, 
+                "cal": 176, 
+                "chol": 67, 
+                "fat": 5.6, 
                 "reviews": "274", 
                 "time": 60, 
-                "score": "3.98280096054077", 
-                "cal": 176
+                "carb": 3.6, 
+                "protein": 27.0
             }, 
             "name": "Grilled Peanut Chicken", 
             "key": 22787
         }, 
         {
             "values": {
+                "rating": "4.46291542053223", 
+                "sodium": 361, 
+                "cal": 86, 
+                "chol": 0, 
+                "fat": 8.1, 
                 "reviews": "303", 
                 "time": 20, 
-                "score": "4.46291542053223", 
-                "cal": 86
+                "carb": 3.3, 
+                "protein": 0.5
             }, 
             "name": "Asian Ginger Dressing", 
             "key": 22789
         }, 
         {
             "values": {
+                "rating": "4.54987192153931", 
+                "sodium": 996, 
+                "cal": 200, 
+                "chol": 25, 
+                "fat": 11.9, 
                 "reviews": "281", 
                 "time": 102, 
-                "score": "4.54987192153931", 
-                "cal": 200
+                "carb": 7.9, 
+                "protein": 15.4
             }, 
             "name": "Super-Simple, Super-Spicy Mongolian Beef", 
             "key": 22790
         }, 
         {
             "values": {
+                "rating": "4.11734676361084", 
+                "sodium": 2177, 
+                "cal": 603, 
+                "chol": 62, 
+                "fat": 14.9, 
                 "reviews": "309", 
                 "time": 210, 
-                "score": "4.11734676361084", 
-                "cal": 603
+                "carb": 78.9, 
+                "protein": 38.3
             }, 
             "name": "Chicken Lo Mein", 
             "key": 22791
         }, 
         {
             "values": {
+                "rating": "4.29715776443481", 
+                "sodium": 1010, 
+                "cal": 619, 
+                "chol": 93, 
+                "fat": 34.0, 
                 "reviews": "271", 
                 "time": 60, 
-                "score": "4.29715776443481", 
-                "cal": 619
+                "carb": 64.1, 
+                "protein": 19.5
             }, 
             "name": "Sukhothai Pad Thai", 
             "key": 22792
         }, 
         {
             "values": {
+                "rating": "4.72703409194946", 
+                "sodium": 263, 
+                "cal": 290, 
+                "chol": 3, 
+                "fat": 21.3, 
                 "reviews": "294", 
                 "time": 50, 
-                "score": "4.72703409194946", 
-                "cal": 290
+                "carb": 22.8, 
+                "protein": 4.6
             }, 
             "name": "Chinese Cabbage Salad I", 
             "key": 22793
         }, 
         {
             "values": {
+                "rating": "3.82266020774841", 
+                "sodium": 147, 
+                "cal": 271, 
+                "chol": 59, 
+                "fat": 15.8, 
                 "reviews": "313", 
                 "time": 40, 
-                "score": "3.82266020774841", 
-                "cal": 271
+                "carb": 11.2, 
+                "protein": 25.4
             }, 
             "name": "Thai Red Chicken Curry", 
             "key": 22794
         }, 
         {
             "values": {
+                "rating": "4.66927099227905", 
+                "sodium": 1045, 
+                "cal": 422, 
+                "chol": 77, 
+                "fat": 20.7, 
                 "reviews": "280", 
                 "time": 40, 
-                "score": "4.66927099227905", 
-                "cal": 422
+                "carb": 13.2, 
+                "protein": 44.1
             }, 
             "name": "Sesame Seared Tuna", 
             "key": 22795
         }, 
         {
             "values": {
+                "rating": "3.8985915184021", 
+                "sodium": 2391, 
+                "cal": 450, 
+                "chol": 47, 
+                "fat": 13.0, 
                 "reviews": "266", 
                 "time": 530, 
-                "score": "3.8985915184021", 
-                "cal": 450
+                "carb": 55.4, 
+                "protein": 28.0
             }, 
             "name": "Slow Cooker Mongolian Beef", 
             "key": 22796
         }, 
         {
             "values": {
+                "rating": "4.30494499206543", 
+                "sodium": 789, 
+                "cal": 369, 
+                "chol": 35, 
+                "fat": 4.9, 
                 "reviews": "269", 
                 "time": 80, 
-                "score": "4.30494499206543", 
-                "cal": 369
+                "carb": 65.1, 
+                "protein": 18.1
             }, 
             "name": "Quick and Easy Pancit", 
             "key": 22797
         }, 
         {
             "values": {
+                "rating": "4.68112230300903", 
+                "sodium": 1967, 
+                "cal": 615, 
+                "chol": 129, 
+                "fat": 33.2, 
                 "reviews": "295", 
                 "time": 80, 
-                "score": "4.68112230300903", 
-                "cal": 615
+                "carb": 37.9, 
+                "protein": 43.0
             }, 
             "name": "Chef John's Caramel Chicken", 
             "key": 22798
         }, 
         {
             "values": {
+                "rating": "4.66011238098145", 
+                "sodium": 571, 
+                "cal": 418, 
+                "chol": 40, 
+                "fat": 28.6, 
                 "reviews": "282", 
                 "time": 210, 
-                "score": "4.66011238098145", 
-                "cal": 418
+                "carb": 21.2, 
+                "protein": 24.1
             }, 
             "name": "Easy Chicken Satay", 
             "key": 22799
         }, 
         {
             "values": {
+                "rating": "4.54922294616699", 
+                "sodium": 772, 
+                "cal": 393, 
+                "chol": 69, 
+                "fat": 10.3, 
                 "reviews": "304", 
                 "time": 120, 
-                "score": "4.54922294616699", 
-                "cal": 393
+                "carb": 41.9, 
+                "protein": 34.1
             }, 
             "name": "Chinese Chicken Salad III", 
             "key": 22800
@@ -913,23 +1368,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

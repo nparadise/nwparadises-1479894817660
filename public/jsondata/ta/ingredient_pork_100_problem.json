@@ -2,970 +2,1455 @@
     "options": [
         {
             "values": {
+                "rating": "4.54326915740967", 
+                "sodium": 1142, 
+                "cal": 457, 
+                "chol": 128, 
+                "fat": 19.9, 
                 "reviews": "4217", 
                 "time": 240, 
-                "score": "4.54326915740967", 
-                "cal": 457
+                "carb": 36.0, 
+                "protein": 29.9
             }, 
             "name": "Baked Pork Chops I", 
             "key": 20501
         }, 
         {
             "values": {
+                "rating": "4.29752683639526", 
+                "sodium": 256, 
+                "cal": 166, 
+                "chol": 36, 
+                "fat": 8.8, 
                 "reviews": "1883", 
                 "time": 150, 
-                "score": "4.29752683639526", 
-                "cal": 166
+                "carb": 6.5, 
+                "protein": 14.6
             }, 
             "name": "Marinated Baked Pork Chops", 
             "key": 20502
         }, 
         {
             "values": {
+                "rating": "4.75918197631836", 
+                "sodium": 696, 
+                "cal": 356, 
+                "chol": 49, 
+                "fat": 27.2, 
                 "reviews": "1691", 
                 "time": 60, 
-                "score": "4.75918197631836", 
-                "cal": 356
+                "carb": 18.9, 
+                "protein": 9.0
             }, 
             "name": "Brown Sugar Smokies", 
             "key": 20503
         }, 
         {
             "values": {
+                "rating": "4.71731472015381", 
+                "sodium": 1182, 
+                "cal": 663, 
+                "chol": 43, 
+                "fat": 35.0, 
                 "reviews": "659", 
                 "time": 180, 
-                "score": "4.71731472015381", 
-                "cal": 663
+                "carb": 74.7, 
+                "protein": 13.9
             }, 
             "name": "Sweet and Sour Pork III", 
             "key": 20504
         }, 
         {
             "values": {
+                "rating": "4.61182355880737", 
+                "sodium": 1807, 
+                "cal": 813, 
+                "chol": 153, 
+                "fat": 46.1, 
                 "reviews": "2047", 
                 "time": 130, 
-                "score": "4.61182355880737", 
-                "cal": 813
+                "carb": 57.1, 
+                "protein": 47.2
             }, 
             "name": "Aussie Chicken", 
             "key": 20506
         }, 
         {
             "values": {
+                "rating": "4.60873460769653", 
+                "sodium": 990, 
+                "cal": 335, 
+                "chol": 49, 
+                "fat": 5.0, 
                 "reviews": "3234", 
                 "time": 860, 
-                "score": "4.60873460769653", 
-                "cal": 335
+                "carb": 49.4, 
+                "protein": 21.2
             }, 
             "name": "Slow Cooker Pulled Pork", 
             "key": 20508
         }, 
         {
             "values": {
+                "rating": "4.7885537147522", 
+                "sodium": 623, 
+                "cal": 355, 
+                "chol": 83, 
+                "fat": 18.1, 
                 "reviews": "2448", 
                 "time": 570, 
-                "score": "4.7885537147522", 
-                "cal": 355
+                "carb": 15.2, 
+                "protein": 30.2
             }, 
             "name": "BBQ Pork for Sandwiches", 
             "key": 20509
         }, 
         {
             "values": {
+                "rating": "4.80142498016357", 
+                "sodium": 2386, 
+                "cal": 554, 
+                "chol": 99, 
+                "fat": 32.6, 
                 "reviews": "1607", 
                 "time": 170, 
-                "score": "4.80142498016357", 
-                "cal": 554
+                "carb": 45.8, 
+                "protein": 19.8
             }, 
             "name": "Super-Delicious Zuppa Toscana", 
             "key": 20510
         }, 
         {
             "values": {
+                "rating": "4.46882772445679", 
+                "sodium": 151, 
+                "cal": 607, 
+                "chol": 194, 
+                "fat": 25.4, 
                 "reviews": "595", 
                 "time": 390, 
-                "score": "4.46882772445679", 
-                "cal": 607
+                "carb": 25.7, 
+                "protein": 64.9
             }, 
             "name": "Apple Butter Pork Loin", 
             "key": 20511
         }, 
         {
             "values": {
+                "rating": "4.59259271621704", 
+                "sodium": 307, 
+                "cal": 267, 
+                "chol": 66, 
+                "fat": 11.0, 
                 "reviews": "46", 
                 "time": 180, 
-                "score": "4.59259271621704", 
-                "cal": 267
+                "carb": 16.0, 
+                "protein": 25.5
             }, 
             "name": "Cranberry Apple Stuffed Pork Loin", 
             "key": 20512
         }, 
         {
             "values": {
+                "rating": "4.47857141494751", 
+                "sodium": 1026, 
+                "cal": 440, 
+                "chol": 186, 
+                "fat": 20.3, 
                 "reviews": "1384", 
                 "time": 120, 
-                "score": "4.47857141494751", 
-                "cal": 440
+                "carb": 33.4, 
+                "protein": 30.0
             }, 
             "name": "Italian Breaded Pork Chops", 
             "key": 20513
         }, 
         {
             "values": {
+                "rating": "4.65555572509766", 
+                "sodium": 1335, 
+                "cal": 748, 
+                "chol": 85, 
+                "fat": 49.3, 
                 "reviews": "1411", 
                 "time": 80, 
-                "score": "4.65555572509766", 
-                "cal": 748
+                "carb": 49.7, 
+                "protein": 27.2
             }, 
             "name": "Baked Potato Soup I", 
             "key": 20514
         }, 
         {
             "values": {
+                "rating": "4.65059661865234", 
+                "sodium": 879, 
+                "cal": 594, 
+                "chol": 91, 
+                "fat": 41.5, 
                 "reviews": "1554", 
                 "time": 100, 
-                "score": "4.65059661865234", 
-                "cal": 594
+                "carb": 44.0, 
+                "protein": 12.6
             }, 
             "name": "Absolutely Ultimate Potato Soup", 
             "key": 20515
         }, 
         {
             "values": {
+                "rating": "4.80604076385498", 
+                "sodium": 1259, 
+                "cal": 385, 
+                "chol": 58, 
+                "fat": 24.4, 
                 "reviews": "2027", 
                 "time": 100, 
-                "score": "4.80604076385498", 
-                "cal": 385
+                "carb": 22.5, 
+                "protein": 18.8
             }, 
             "name": "Italian Sausage Soup", 
             "key": 20516
         }, 
         {
             "values": {
+                "rating": "4.6195650100708", 
+                "sodium": 423, 
+                "cal": 211, 
+                "chol": 74, 
+                "fat": 7.6, 
                 "reviews": "74", 
                 "time": 240, 
-                "score": "4.6195650100708", 
-                "cal": 211
+                "carb": 6.7, 
+                "protein": 24.3
             }, 
             "name": "Portuguese Pork with Red Peppers", 
             "key": 20517
         }, 
         {
             "values": {
+                "rating": "4.71999979019165", 
+                "sodium": 1477, 
+                "cal": 468, 
+                "chol": 93, 
+                "fat": 26.1, 
                 "reviews": "86", 
                 "time": 240, 
-                "score": "4.71999979019165", 
-                "cal": 468
+                "carb": 32.3, 
+                "protein": 24.6
             }, 
             "name": "Puerto Rican Pork Roast", 
             "key": 20518
         }, 
         {
             "values": {
+                "rating": "4.65806436538696", 
+                "sodium": 1034, 
+                "cal": 524, 
+                "chol": 117, 
+                "fat": 29.6, 
                 "reviews": "231", 
                 "time": 620, 
-                "score": "4.65806436538696", 
-                "cal": 524
+                "carb": 33.7, 
+                "protein": 24.5
             }, 
             "name": "Amazing Ribs", 
             "key": 20519
         }, 
         {
             "values": {
+                "rating": "4.13644027709961", 
+                "sodium": 918, 
+                "cal": 180, 
+                "chol": 65, 
+                "fat": 3.7, 
                 "reviews": "2313", 
                 "time": 510, 
-                "score": "4.13644027709961", 
-                "cal": 180
+                "carb": 5.8, 
+                "protein": 24.5
             }, 
             "name": "Amazing Pork Tenderloin in the Slow Cooker", 
             "key": 20520
         }, 
         {
             "values": {
+                "rating": "4.61825704574585", 
+                "sodium": 381, 
+                "cal": 207, 
+                "chol": 76, 
+                "fat": 13.0, 
                 "reviews": "183", 
                 "time": 110, 
-                "score": "4.61825704574585", 
-                "cal": 207
+                "carb": 2.1, 
+                "protein": 18.0
             }, 
             "name": "Pork Tenderloin alla Napoli", 
             "key": 20521
         }, 
         {
             "values": {
+                "rating": "4.83584451675415", 
+                "sodium": 394, 
+                "cal": 195, 
+                "chol": 30, 
+                "fat": 10.5, 
                 "reviews": "9297", 
                 "time": 90, 
-                "score": "4.83584451675415", 
-                "cal": 195
+                "carb": 19.5, 
+                "protein": 6.1
             }, 
             "name": "Delicious Ham and Potato Soup", 
             "key": 20522
         }, 
         {
             "values": {
+                "rating": "4.81438493728638", 
+                "sodium": 1145, 
+                "cal": 324, 
+                "chol": 50, 
+                "fat": 20.2, 
                 "reviews": "1516", 
                 "time": 190, 
-                "score": "4.81438493728638", 
-                "cal": 324
+                "carb": 19.1, 
+                "protein": 14.6
             }, 
             "name": "Italian Sausage Soup with Tortellini", 
             "key": 20523
         }, 
         {
             "values": {
+                "rating": "4.44046545028687", 
+                "sodium": 27, 
+                "cal": 262, 
+                "chol": 48, 
+                "fat": 16.0, 
                 "reviews": "1561", 
                 "time": 90, 
-                "score": "4.44046545028687", 
-                "cal": 262
+                "carb": 17.1, 
+                "protein": 13.8
             }, 
             "name": "Caramel Apple Pork Chops", 
             "key": 20524
         }, 
         {
             "values": {
+                "rating": "4.58891820907593", 
+                "sodium": 732, 
+                "cal": 299, 
+                "chol": 55, 
+                "fat": 23.4, 
                 "reviews": "1461", 
                 "time": 250, 
-                "score": "4.58891820907593", 
-                "cal": 299
+                "carb": 3.1, 
+                "protein": 18.3
             }, 
             "name": "Balsamic Roasted Pork Loin", 
             "key": 20526
         }, 
         {
             "values": {
+                "rating": "4.52750110626221", 
+                "sodium": 761, 
+                "cal": 415, 
+                "chol": 53, 
+                "fat": 27.2, 
                 "reviews": "1706", 
                 "time": 150, 
-                "score": "4.52750110626221", 
-                "cal": 415
+                "carb": 29.7, 
+                "protein": 14.4
             }, 
             "name": "Cheesy Ham and Hash Brown Casserole", 
             "key": 20527
         }, 
         {
             "values": {
+                "rating": "4.68076324462891", 
+                "sodium": 1088, 
+                "cal": 656, 
+                "chol": 111, 
+                "fat": 42.1, 
                 "reviews": "2256", 
                 "time": 90, 
-                "score": "4.68076324462891", 
-                "cal": 656
+                "carb": 50.9, 
+                "protein": 20.1
             }, 
             "name": "Bow Ties with Sausage, Tomatoes and Cream", 
             "key": 20528
         }, 
         {
             "values": {
+                "rating": "4.5135440826416", 
+                "sodium": 790, 
+                "cal": 527, 
+                "chol": 98, 
+                "fat": 23.1, 
                 "reviews": "1297", 
                 "time": 630, 
-                "score": "4.5135440826416", 
-                "cal": 527
+                "carb": 45.5, 
+                "protein": 31.9
             }, 
             "name": "Slow Cooker Texas Pulled Pork", 
             "key": 20529
         }, 
         {
             "values": {
+                "rating": "4.77861642837524", 
+                "sodium": 458, 
+                "cal": 163, 
+                "chol": 26, 
+                "fat": 10.5, 
                 "reviews": "1200", 
                 "time": 180, 
-                "score": "4.77861642837524", 
-                "cal": 163
+                "carb": 10.7, 
+                "protein": 6.5
             }, 
             "name": "Bacon Wrapped Smokies", 
             "key": 20530
         }, 
         {
             "values": {
+                "rating": "4.66378164291382", 
+                "sodium": 544, 
+                "cal": 435, 
+                "chol": 29, 
+                "fat": 18.4, 
                 "reviews": "1024", 
                 "time": 50, 
-                "score": "4.66378164291382", 
-                "cal": 435
+                "carb": 52.7, 
+                "protein": 13.3
             }, 
             "name": "Penne with Spicy Vodka Tomato Cream Sauce", 
             "key": 20531
         }, 
         {
             "values": {
+                "rating": "4.58892345428467", 
+                "sodium": 223, 
+                "cal": 187, 
+                "chol": 197, 
+                "fat": 17.0, 
                 "reviews": "909", 
                 "time": 80, 
-                "score": "4.58892345428467", 
-                "cal": 187
+                "carb": 0.8, 
+                "protein": 7.9
             }, 
             "name": "Bacon Cheddar Deviled Eggs", 
             "key": 20532
         }, 
         {
             "values": {
+                "rating": "4.41383218765259", 
+                "sodium": 924, 
+                "cal": 210, 
+                "chol": 65, 
+                "fat": 8.5, 
                 "reviews": "1200", 
                 "time": 80, 
-                "score": "4.41383218765259", 
-                "cal": 210
+                "carb": 9.6, 
+                "protein": 23.6
             }, 
             "name": "Mushroom Pork Chops", 
             "key": 20533
         }, 
         {
             "values": {
+                "rating": "4.33292388916016", 
+                "sodium": 676, 
+                "cal": 400, 
+                "chol": 148, 
+                "fat": 8.6, 
                 "reviews": "1169", 
                 "time": 180, 
-                "score": "4.33292388916016", 
-                "cal": 400
+                "carb": 8.2, 
+                "protein": 47.8
             }, 
             "name": "Burgundy Pork Tenderloin", 
             "key": 20534
         }, 
         {
             "values": {
+                "rating": "4.70349550247192", 
+                "sodium": 715, 
+                "cal": 243, 
+                "chol": 82, 
+                "fat": 14.7, 
                 "reviews": "1246", 
                 "time": 2420, 
-                "score": "4.70349550247192", 
-                "cal": 243
+                "carb": 0.0, 
+                "protein": 25.9
             }, 
             "name": "Kalua Pig in a Slow Cooker", 
             "key": 20535
         }, 
         {
             "values": {
+                "rating": "4.81321001052856", 
+                "sodium": 4260, 
+                "cal": 441, 
+                "chol": 128, 
+                "fat": 22.2, 
                 "reviews": "1026", 
                 "time": 240, 
-                "score": "4.81321001052856", 
-                "cal": 441
+                "carb": 24.5, 
+                "protein": 33.3
             }, 
             "name": "Simple BBQ Ribs", 
             "key": 20536
         }, 
         {
             "values": {
+                "rating": "4.7066764831543", 
+                "sodium": 577, 
+                "cal": 391, 
+                "chol": 79, 
+                "fat": 38.3, 
                 "reviews": "1068", 
                 "time": 40, 
-                "score": "4.7066764831543", 
-                "cal": 391
+                "carb": 2.2, 
+                "protein": 9.5
             }, 
             "name": "Grilled Bacon Jalapeno Wraps", 
             "key": 20537
         }, 
         {
             "values": {
+                "rating": "4.63902044296265", 
+                "sodium": 804, 
+                "cal": 291, 
+                "chol": 170, 
+                "fat": 18.8, 
                 "reviews": "1013", 
                 "time": 100, 
-                "score": "4.63902044296265", 
-                "cal": 291
+                "carb": 12.9, 
+                "protein": 17.0
             }, 
             "name": "Quick Quiche", 
             "key": 20538
         }, 
         {
             "values": {
+                "rating": "4.29693365097046", 
+                "sodium": 483, 
+                "cal": 210, 
+                "chol": 66, 
+                "fat": 7.7, 
                 "reviews": "1410", 
                 "time": 740, 
-                "score": "4.29693365097046", 
-                "cal": 210
+                "carb": 9.4, 
+                "protein": 24.6
             }, 
             "name": "Tangy Slow Cooker Pork Roast", 
             "key": 20539
         }, 
         {
             "values": {
+                "rating": "4.28059720993042", 
+                "sodium": 335, 
+                "cal": 444, 
+                "chol": 248, 
+                "fat": 36.1, 
                 "reviews": "1270", 
                 "time": 120, 
-                "score": "4.28059720993042", 
-                "cal": 444
+                "carb": 10.6, 
+                "protein": 19.7
             }, 
             "name": "Famous Pork Chops", 
             "key": 20540
         }, 
         {
             "values": {
+                "rating": "4.58653831481934", 
+                "sodium": 474, 
+                "cal": 223, 
+                "chol": 73, 
+                "fat": 13.8, 
                 "reviews": "1136", 
                 "time": 1220, 
-                "score": "4.58653831481934", 
-                "cal": 223
+                "carb": 0.7, 
+                "protein": 22.2
             }, 
             "name": "Slow Cooker Carnitas", 
             "key": 20541
         }, 
         {
             "values": {
+                "rating": "4.40410423278809", 
+                "sodium": 1063, 
+                "cal": 159, 
+                "chol": 75, 
+                "fat": 7.8, 
                 "reviews": "930", 
                 "time": 130, 
-                "score": "4.40410423278809", 
-                "cal": 159
+                "carb": 0.6, 
+                "protein": 20.6
             }, 
             "name": "Sage Pork Chops", 
             "key": 20542
         }, 
         {
             "values": {
+                "rating": "4.7012791633606", 
+                "sodium": 857, 
+                "cal": 461, 
+                "chol": 96, 
+                "fat": 39.4, 
                 "reviews": "943", 
                 "time": 80, 
-                "score": "4.7012791633606", 
-                "cal": 461
+                "carb": 7.0, 
+                "protein": 17.1
             }, 
             "name": "Italian Sausage, Peppers, and Onions", 
             "key": 20543
         }, 
         {
             "values": {
+                "rating": "4.51360177993774", 
+                "sodium": 1245, 
+                "cal": 497, 
+                "chol": 117, 
+                "fat": 29.6, 
                 "reviews": "1355", 
                 "time": 1040, 
-                "score": "4.51360177993774", 
-                "cal": 497
+                "carb": 33.0, 
+                "protein": 26.0
             }, 
             "name": "Slow-Cooker Barbecue Ribs", 
             "key": 20544
         }, 
         {
             "values": {
+                "rating": "4.60530090332031", 
+                "sodium": 543, 
+                "cal": 273, 
+                "chol": 35, 
+                "fat": 24.0, 
                 "reviews": "1064", 
                 "time": 60, 
-                "score": "4.60530090332031", 
-                "cal": 273
+                "carb": 7.3, 
+                "protein": 8.1
             }, 
             "name": "Bodacious Broccoli Salad", 
             "key": 20545
         }, 
         {
             "values": {
+                "rating": "4.67296504974365", 
+                "sodium": 1492, 
+                "cal": 521, 
+                "chol": 96, 
+                "fat": 28.3, 
                 "reviews": "961", 
                 "time": 190, 
-                "score": "4.67296504974365", 
-                "cal": 521
+                "carb": 42.4, 
+                "protein": 26.1
             }, 
             "name": "Honey Glazed Ham", 
             "key": 20546
         }, 
         {
             "values": {
+                "rating": "4.78544044494629", 
+                "sodium": 584, 
+                "cal": 559, 
+                "chol": 31, 
+                "fat": 48.1, 
                 "reviews": "1118", 
                 "time": 60, 
-                "score": "4.78544044494629", 
-                "cal": 559
+                "carb": 23.9, 
+                "protein": 12.9
             }, 
             "name": "Alyson's Broccoli Salad", 
             "key": 20547
         }, 
         {
             "values": {
+                "rating": "4.54850769042969", 
+                "sodium": 1015, 
+                "cal": 377, 
+                "chol": 160, 
+                "fat": 26.0, 
                 "reviews": "1223", 
                 "time": 700, 
-                "score": "4.54850769042969", 
-                "cal": 377
+                "carb": 13.4, 
+                "protein": 21.5
             }, 
             "name": "Christmas Breakfast Sausage Casserole", 
             "key": 20548
         }, 
         {
             "values": {
+                "rating": "4.62819385528564", 
+                "sodium": 333, 
+                "cal": 613, 
+                "chol": 149, 
+                "fat": 53.2, 
                 "reviews": "874", 
                 "time": 100, 
-                "score": "4.62819385528564", 
-                "cal": 613
+                "carb": 6.6, 
+                "protein": 26.6
             }, 
             "name": "The Best Meatballs", 
             "key": 20549
         }, 
         {
             "values": {
+                "rating": "4.38424444198608", 
+                "sodium": 485, 
+                "cal": 257, 
+                "chol": 54, 
+                "fat": 14.5, 
                 "reviews": "916", 
                 "time": 1050, 
-                "score": "4.38424444198608", 
-                "cal": 257
+                "carb": 14.3, 
+                "protein": 16.9
             }, 
             "name": "Sour Cream Pork Chops", 
             "key": 20550
         }, 
         {
             "values": {
+                "rating": "4.64384937286377", 
+                "sodium": 430, 
+                "cal": 216, 
+                "chol": 18, 
+                "fat": 15.1, 
                 "reviews": "782", 
                 "time": 84, 
-                "score": "4.64384937286377", 
-                "cal": 216
+                "carb": 15.0, 
+                "protein": 5.3
             }, 
             "name": "Bacon and Tomato Cups", 
             "key": 20551
         }, 
         {
             "values": {
+                "rating": "4.71676826477051", 
+                "sodium": 801, 
+                "cal": 489, 
+                "chol": 55, 
+                "fat": 24.5, 
                 "reviews": "839", 
                 "time": 180, 
-                "score": "4.71676826477051", 
-                "cal": 489
+                "carb": 43.8, 
+                "protein": 22.1
             }, 
             "name": "Baked Ziti IV", 
             "key": 20552
         }, 
         {
             "values": {
+                "rating": "4.54472255706787", 
+                "sodium": 667, 
+                "cal": 183, 
+                "chol": 62, 
+                "fat": 6.1, 
                 "reviews": "807", 
                 "time": 70, 
-                "score": "4.54472255706787", 
-                "cal": 183
+                "carb": 11.7, 
+                "protein": 20.4
             }, 
             "name": "Chipotle Crusted Pork Tenderloin", 
             "key": 20553
         }, 
         {
             "values": {
+                "rating": "4.74144792556763", 
+                "sodium": 470, 
+                "cal": 472, 
+                "chol": 138, 
+                "fat": 24.6, 
                 "reviews": "956", 
                 "time": 400, 
-                "score": "4.74144792556763", 
-                "cal": 472
+                "carb": 13.9, 
+                "protein": 45.8
             }, 
             "name": "Herb Roasted Pork", 
             "key": 20554
         }, 
         {
             "values": {
+                "rating": "4.52804660797119", 
+                "sodium": 301, 
+                "cal": 181, 
+                "chol": 22, 
+                "fat": 17.8, 
                 "reviews": "828", 
                 "time": 40, 
-                "score": "4.52804660797119", 
-                "cal": 181
+                "carb": 1.5, 
+                "protein": 4.1
             }, 
             "name": "BLT Dip", 
             "key": 20555
         }, 
         {
             "values": {
+                "rating": "4.67389249801636", 
+                "sodium": 919, 
+                "cal": 235, 
+                "chol": 47, 
+                "fat": 11.4, 
                 "reviews": "791", 
                 "time": 150, 
-                "score": "4.67389249801636", 
-                "cal": 235
+                "carb": 14.4, 
+                "protein": 18.9
             }, 
             "name": "Chicken and Bacon Shish Kabobs", 
             "key": 20556
         }, 
         {
             "values": {
+                "rating": "4.76957273483276", 
+                "sodium": 353, 
+                "cal": 374, 
+                "chol": 18, 
+                "fat": 27.2, 
                 "reviews": "865", 
                 "time": 60, 
-                "score": "4.76957273483276", 
-                "cal": 374
+                "carb": 28.5, 
+                "protein": 7.3
             }, 
             "name": "Fresh Broccoli Salad", 
             "key": 20557
         }, 
         {
             "values": {
+                "rating": "4.45784330368042", 
+                "sodium": 43, 
+                "cal": 238, 
+                "chol": 54, 
+                "fat": 16.2, 
                 "reviews": "793", 
                 "time": 160, 
-                "score": "4.45784330368042", 
-                "cal": 238
+                "carb": 1.1, 
+                "protein": 18.4
             }, 
             "name": "Roasted Pork Loin", 
             "key": 20558
         }, 
         {
             "values": {
+                "rating": "4.4714035987854", 
+                "sodium": 691, 
+                "cal": 336, 
+                "chol": 31, 
+                "fat": 26.8, 
                 "reviews": "839", 
                 "time": 110, 
-                "score": "4.4714035987854", 
-                "cal": 336
+                "carb": 14.9, 
+                "protein": 9.3
             }, 
             "name": "Bacon Ranch Pasta Salad", 
             "key": 20559
         }, 
         {
             "values": {
+                "rating": "4.78365850448608", 
+                "sodium": 1274, 
+                "cal": 377, 
+                "chol": 52, 
+                "fat": 16.9, 
                 "reviews": "814", 
                 "time": 220, 
-                "score": "4.78365850448608", 
-                "cal": 377
+                "carb": 35.1, 
+                "protein": 20.1
             }, 
             "name": "Chef John's Stuffed Peppers", 
             "key": 20560
         }, 
         {
             "values": {
+                "rating": "4.55752229690552", 
+                "sodium": 1320, 
+                "cal": 382, 
+                "chol": 14, 
+                "fat": 6.3, 
                 "reviews": "790", 
                 "time": 570, 
-                "score": "4.55752229690552", 
-                "cal": 382
+                "carb": 63.1, 
+                "protein": 20.7
             }, 
             "name": "Boston Baked Beans", 
             "key": 20561
         }, 
         {
             "values": {
+                "rating": "4.58875513076782", 
+                "sodium": 1425, 
+                "cal": 360, 
+                "chol": 74, 
+                "fat": 20.1, 
                 "reviews": "975", 
                 "time": 990, 
-                "score": "4.58875513076782", 
-                "cal": 360
+                "carb": 18.0, 
+                "protein": 25.8
             }, 
             "name": "Slow Cooker Ham", 
             "key": 20562
         }, 
         {
             "values": {
+                "rating": "4.72601556777954", 
+                "sodium": 1001, 
+                "cal": 127, 
+                "chol": 12, 
+                "fat": 9.2, 
                 "reviews": "884", 
                 "time": 140, 
-                "score": "4.72601556777954", 
-                "cal": 127
+                "carb": 7.9, 
+                "protein": 4.4
             }, 
             "name": "Kickin' Collard Greens", 
             "key": 20563
         }, 
         {
             "values": {
+                "rating": "4.61693954467773", 
+                "sodium": 110, 
+                "cal": 149, 
+                "chol": 20, 
+                "fat": 12.0, 
                 "reviews": "846", 
                 "time": 120, 
-                "score": "4.61693954467773", 
-                "cal": 149
+                "carb": 6.8, 
+                "protein": 3.9
             }, 
             "name": "Best Ever Jalapeno Poppers", 
             "key": 20564
         }, 
         {
             "values": {
+                "rating": "4.82089567184448", 
+                "sodium": 1720, 
+                "cal": 1043, 
+                "chol": 234, 
+                "fat": 68.5, 
                 "reviews": "920", 
                 "time": 360, 
-                "score": "4.82089567184448", 
-                "cal": 1043
+                "carb": 54.7, 
+                "protein": 50.7
             }, 
             "name": "Scott Hibb's Amazing Whisky Grilled Baby Back Ribs", 
             "key": 20565
         }, 
         {
             "values": {
+                "rating": "4.7254900932312", 
+                "sodium": 1078, 
+                "cal": 444, 
+                "chol": 156, 
+                "fat": 33.6, 
                 "reviews": "888", 
                 "time": 160, 
-                "score": "4.7254900932312", 
-                "cal": 444
+                "carb": 14.6, 
+                "protein": 21.5
             }, 
             "name": "Clark's Quiche", 
             "key": 20566
         }, 
         {
             "values": {
+                "rating": "3.94991374015808", 
+                "sodium": 1337, 
+                "cal": 146, 
+                "chol": 36, 
+                "fat": 4.3, 
                 "reviews": "891", 
                 "time": 730, 
-                "score": "3.94991374015808", 
-                "cal": 146
+                "carb": 10.6, 
+                "protein": 16.0
             }, 
             "name": "Pork Chops for the Slow Cooker", 
             "key": 20567
         }, 
         {
             "values": {
+                "rating": "4.55756425857544", 
+                "sodium": 1008, 
+                "cal": 278, 
+                "chol": 73, 
+                "fat": 10.7, 
                 "reviews": "807", 
                 "time": 420, 
-                "score": "4.55756425857544", 
-                "cal": 278
+                "carb": 16.9, 
+                "protein": 27.0
             }, 
             "name": "Marinated Pork Tenderloin", 
             "key": 20568
         }, 
         {
             "values": {
+                "rating": "4.43229150772095", 
+                "sodium": 660, 
+                "cal": 264, 
+                "chol": 49, 
+                "fat": 19.0, 
                 "reviews": "728", 
                 "time": 70, 
-                "score": "4.43229150772095", 
-                "cal": 264
+                "carb": 10.5, 
+                "protein": 12.8
             }, 
             "name": "Sausage Balls", 
             "key": 20569
         }, 
         {
             "values": {
+                "rating": "4.54282426834106", 
+                "sodium": 1975, 
+                "cal": 930, 
+                "chol": 152, 
+                "fat": 69.5, 
                 "reviews": "584", 
                 "time": 100, 
-                "score": "4.54282426834106", 
-                "cal": 930
+                "carb": 31.9, 
+                "protein": 46.8
             }, 
             "name": "Alice Chicken", 
             "key": 20570
         }, 
         {
             "values": {
+                "rating": "4.69373083114624", 
+                "sodium": 354, 
+                "cal": 189, 
+                "chol": 65, 
+                "fat": 8.1, 
                 "reviews": "690", 
                 "time": 210, 
-                "score": "4.69373083114624", 
-                "cal": 189
+                "carb": 4.3, 
+                "protein": 24.2
             }, 
             "name": "Souvlaki", 
             "key": 20571
         }, 
         {
             "values": {
+                "rating": "4.12552738189697", 
+                "sodium": 357, 
+                "cal": 171, 
+                "chol": 37, 
+                "fat": 6.4, 
                 "reviews": "727", 
                 "time": 140, 
-                "score": "4.12552738189697", 
-                "cal": 171
+                "carb": 14.3, 
+                "protein": 14.3
             }, 
             "name": "Cola Pork Chops", 
             "key": 20572
         }, 
         {
             "values": {
+                "rating": "4.7325701713562", 
+                "sodium": 1389, 
+                "cal": 299, 
+                "chol": 57, 
+                "fat": 14.7, 
                 "reviews": "732", 
                 "time": 150, 
-                "score": "4.7325701713562", 
-                "cal": 299
+                "carb": 24.3, 
+                "protein": 16.5
             }, 
             "name": "Golden Potato Soup", 
             "key": 20573
         }, 
         {
             "values": {
+                "rating": "4.66766166687012", 
+                "sodium": 255, 
+                "cal": 310, 
+                "chol": 0, 
+                "fat": 1.0, 
                 "reviews": "726", 
                 "time": 765, 
-                "score": "4.66766166687012", 
-                "cal": 310
+                "carb": 57.9, 
+                "protein": 19.7
             }, 
             "name": "Split Pea Soup", 
             "key": 20574
         }, 
         {
             "values": {
+                "rating": "4.46977186203003", 
+                "sodium": 565, 
+                "cal": 356, 
+                "chol": 113, 
+                "fat": 20.5, 
                 "reviews": "786", 
                 "time": 120, 
-                "score": "4.46977186203003", 
-                "cal": 356
+                "carb": 5.7, 
+                "protein": 36.5
             }, 
             "name": "Spinach Stuffed Chicken Breast", 
             "key": 20575
         }, 
         {
             "values": {
+                "rating": "4.67753219604492", 
+                "sodium": 1745, 
+                "cal": 558, 
+                "chol": 56, 
+                "fat": 25.2, 
                 "reviews": "685", 
                 "time": 100, 
-                "score": "4.67753219604492", 
-                "cal": 558
+                "carb": 57.4, 
+                "protein": 26.4
             }, 
             "name": "Tuscan Soup", 
             "key": 20576
         }, 
         {
             "values": {
+                "rating": "4.36085605621338", 
+                "sodium": 587, 
+                "cal": 234, 
+                "chol": 76, 
+                "fat": 12.1, 
                 "reviews": "750", 
                 "time": 110, 
-                "score": "4.36085605621338", 
-                "cal": 234
+                "carb": 7.3, 
+                "protein": 23.1
             }, 
             "name": "Gravy Baked Pork Chops", 
             "key": 20577
         }, 
         {
             "values": {
+                "rating": "4.31959819793701", 
+                "sodium": 856, 
+                "cal": 465, 
+                "chol": 95, 
+                "fat": 12.3, 
                 "reviews": "709", 
                 "time": 100, 
-                "score": "4.31959819793701", 
-                "cal": 465
+                "carb": 55.0, 
+                "protein": 36.3
             }, 
             "name": "Easy Honey Mustard Mozzarella Chicken", 
             "key": 20578
         }, 
         {
             "values": {
+                "rating": "4.28944492340088", 
+                "sodium": 179, 
+                "cal": 262, 
+                "chol": 36, 
+                "fat": 13.7, 
                 "reviews": "620", 
                 "time": 80, 
-                "score": "4.28944492340088", 
-                "cal": 262
+                "carb": 21.5, 
+                "protein": 13.3
             }, 
             "name": "Grilled Brown Sugar Pork Chops", 
             "key": 20579
         }, 
         {
             "values": {
+                "rating": "4.64534902572632", 
+                "sodium": 722, 
+                "cal": 440, 
+                "chol": 76, 
+                "fat": 27.2, 
                 "reviews": "656", 
                 "time": 150, 
-                "score": "4.64534902572632", 
-                "cal": 440
+                "carb": 34.8, 
+                "protein": 15.4
             }, 
             "name": "Baked Potato Soup V", 
             "key": 20580
         }, 
         {
             "values": {
+                "rating": "4.14464092254639", 
+                "sodium": 1793, 
+                "cal": 242, 
+                "chol": 81, 
+                "fat": 7.2, 
                 "reviews": "720", 
                 "time": 70, 
-                "score": "4.14464092254639", 
-                "cal": 242
+                "carb": 8.8, 
+                "protein": 32.4
             }, 
             "name": "Aimee's Quick Chicken", 
             "key": 20581
         }, 
         {
             "values": {
+                "rating": "4.32177686691284", 
+                "sodium": 897, 
+                "cal": 422, 
+                "chol": 128, 
+                "fat": 14.3, 
                 "reviews": "679", 
                 "time": 60, 
-                "score": "4.32177686691284", 
-                "cal": 422
+                "carb": 38.6, 
+                "protein": 32.3
             }, 
             "name": "Oven-Fried Pork Chops", 
             "key": 20582
         }, 
         {
             "values": {
+                "rating": "4.80104732513428", 
+                "sodium": 715, 
+                "cal": 504, 
+                "chol": 120, 
+                "fat": 30.2, 
                 "reviews": "741", 
                 "time": 330, 
-                "score": "4.80104732513428", 
-                "cal": 504
+                "carb": 23.1, 
+                "protein": 29.9
             }, 
             "name": "Barbecue Ribs", 
             "key": 20583
         }, 
         {
             "values": {
+                "rating": "4.54157066345215", 
+                "sodium": 512, 
+                "cal": 205, 
+                "chol": 10, 
+                "fat": 6.5, 
                 "reviews": "697", 
                 "time": 120, 
-                "score": "4.54157066345215", 
-                "cal": 205
+                "carb": 32.9, 
+                "protein": 4.3
             }, 
             "name": "Hot German Potato Salad III", 
             "key": 20584
         }, 
         {
             "values": {
+                "rating": "4.37338638305664", 
+                "sodium": 547, 
+                "cal": 517, 
+                "chol": 15, 
+                "fat": 14.8, 
                 "reviews": "736", 
                 "time": 50, 
-                "score": "4.37338638305664", 
-                "cal": 517
+                "carb": 73.8, 
+                "protein": 21.0
             }, 
             "name": "Penne Pasta with Spinach and Bacon", 
             "key": 20585
         }, 
         {
             "values": {
+                "rating": "4.58146953582764", 
+                "sodium": 167, 
+                "cal": 113, 
+                "chol": 8, 
+                "fat": 6.3, 
                 "reviews": "655", 
                 "time": 60, 
-                "score": "4.58146953582764", 
-                "cal": 113
+                "carb": 14.9, 
+                "protein": 0.2
             }, 
             "name": "Pork Chops with Raspberry Sauce", 
             "key": 20586
         }, 
         {
             "values": {
+                "rating": "4.07407426834106", 
+                "sodium": 270, 
+                "cal": 275, 
+                "chol": 49, 
+                "fat": 19.7, 
                 "reviews": "772", 
                 "time": 500, 
-                "score": "4.07407426834106", 
-                "cal": 275
+                "carb": 4.2, 
+                "protein": 20.3
             }, 
             "name": "Slow Cooker Pork Chops II", 
             "key": 20587
         }, 
         {
             "values": {
+                "rating": "4.71348333358765", 
+                "sodium": 196, 
+                "cal": 270, 
+                "chol": 85, 
+                "fat": 18.8, 
                 "reviews": "691", 
                 "time": 980, 
-                "score": "4.71348333358765", 
-                "cal": 270
+                "carb": 0.0, 
+                "protein": 23.4
             }, 
             "name": "Sarge's EZ Pulled Pork BBQ", 
             "key": 20588
         }, 
         {
             "values": {
+                "rating": "4.67081594467163", 
+                "sodium": 865, 
+                "cal": 203, 
+                "chol": 41, 
+                "fat": 15.6, 
                 "reviews": "612", 
                 "time": 40, 
-                "score": "4.67081594467163", 
-                "cal": 203
+                "carb": 0.5, 
+                "protein": 13.9
             }, 
             "name": "Bacon for the Family or a Crowd", 
             "key": 20589
         }, 
         {
             "values": {
+                "rating": "4.46882772445679", 
+                "sodium": 151, 
+                "cal": 607, 
+                "chol": 194, 
+                "fat": 25.4, 
                 "reviews": "595", 
                 "time": 390, 
-                "score": "4.46882772445679", 
-                "cal": 607
+                "carb": 25.7, 
+                "protein": 64.9
             }, 
             "name": "Apple Butter Pork Loin", 
             "key": 20590
         }, 
         {
             "values": {
+                "rating": "4.60405397415161", 
+                "sodium": 1041, 
+                "cal": 539, 
+                "chol": 45, 
+                "fat": 29.8, 
                 "reviews": "569", 
                 "time": 130, 
-                "score": "4.60405397415161", 
-                "cal": 539
+                "carb": 45.8, 
+                "protein": 20.2
             }, 
             "name": "Sausage, Peppers, Onions, and Potato Bake", 
             "key": 20591
         }, 
         {
             "values": {
+                "rating": "4.52496957778931", 
+                "sodium": 842, 
+                "cal": 378, 
+                "chol": 100, 
+                "fat": 19.8, 
                 "reviews": "612", 
                 "time": 50, 
-                "score": "4.52496957778931", 
-                "cal": 378
+                "carb": 24.4, 
+                "protein": 24.1
             }, 
             "name": "Bacon Wrapped Hamburgers", 
             "key": 20592
         }, 
         {
             "values": {
+                "rating": "4.72834634780884", 
+                "sodium": 2172, 
+                "cal": 511, 
+                "chol": 111, 
+                "fat": 30.1, 
                 "reviews": "555", 
                 "time": 360, 
-                "score": "4.72834634780884", 
-                "cal": 511
+                "carb": 19.4, 
+                "protein": 38.8
             }, 
             "name": "Tangy Honey Glazed Ham", 
             "key": 20593
         }, 
         {
             "values": {
+                "rating": "4.64839553833008", 
+                "sodium": 950, 
+                "cal": 399, 
+                "chol": 12, 
+                "fat": 9.1, 
                 "reviews": "558", 
                 "time": 180, 
-                "score": "4.64839553833008", 
-                "cal": 399
+                "carb": 68.0, 
+                "protein": 14.1
             }, 
             "name": "Pat's Baked Beans", 
             "key": 20594
         }, 
         {
             "values": {
+                "rating": "4.79106283187866", 
+                "sodium": 192, 
+                "cal": 82, 
+                "chol": 32, 
+                "fat": 5.5, 
                 "reviews": "630", 
                 "time": 190, 
-                "score": "4.79106283187866", 
-                "cal": 82
+                "carb": 1.7, 
+                "protein": 6.2
             }, 
             "name": "Chef John's Italian Meatballs", 
             "key": 20595
         }, 
         {
             "values": {
+                "rating": "4.71731472015381", 
+                "sodium": 1182, 
+                "cal": 663, 
+                "chol": 43, 
+                "fat": 35.0, 
                 "reviews": "659", 
                 "time": 180, 
-                "score": "4.71731472015381", 
-                "cal": 663
+                "carb": 74.7, 
+                "protein": 13.9
             }, 
             "name": "Sweet and Sour Pork III", 
             "key": 20596
         }, 
         {
             "values": {
+                "rating": "4.77865600585938", 
+                "sodium": 601, 
+                "cal": 362, 
+                "chol": 58, 
+                "fat": 34.3, 
                 "reviews": "561", 
                 "time": 90, 
-                "score": "4.77865600585938", 
-                "cal": 362
+                "carb": 4.3, 
+                "protein": 9.2
             }, 
             "name": "Sausage Stuffed Jalapenos", 
             "key": 20597
         }, 
         {
             "values": {
+                "rating": "4.34474611282349", 
+                "sodium": 102, 
+                "cal": 518, 
+                "chol": 100, 
+                "fat": 30.7, 
                 "reviews": "608", 
                 "time": 50, 
-                "score": "4.34474611282349", 
-                "cal": 518
+                "carb": 30.3, 
+                "protein": 30.6
             }, 
             "name": "Awesome Honey Pecan Pork Chops", 
             "key": 20598
         }, 
         {
             "values": {
+                "rating": "4.68844223022461", 
+                "sodium": 1143, 
+                "cal": 348, 
+                "chol": 72, 
+                "fat": 13.8, 
                 "reviews": "588", 
                 "time": 130, 
-                "score": "4.68844223022461", 
-                "cal": 348
+                "carb": 32.3, 
+                "protein": 22.7
             }, 
             "name": "Bubba's Jambalaya", 
             "key": 20599
         }, 
         {
             "values": {
+                "rating": "4.65442180633545", 
+                "sodium": 1761, 
+                "cal": 806, 
+                "chol": 153, 
+                "fat": 54.2, 
                 "reviews": "557", 
                 "time": 120, 
-                "score": "4.65442180633545", 
-                "cal": 806
+                "carb": 39.7, 
+                "protein": 39.8
             }, 
             "name": "Cheese and Bacon Potato Rounds", 
             "key": 20600
@@ -973,23 +1458,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

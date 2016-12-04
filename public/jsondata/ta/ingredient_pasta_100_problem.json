@@ -2,930 +2,1395 @@
     "options": [
         {
             "values": {
+                "rating": "4.70121002197266", 
+                "sodium": 1189, 
+                "cal": 935, 
+                "chol": 271, 
+                "fat": 61.7, 
                 "reviews": "1384", 
                 "time": 80, 
-                "score": "4.70121002197266", 
-                "cal": 935
+                "carb": 54.0, 
+                "protein": 43.7
             }, 
             "name": "Cajun Chicken Pasta", 
             "key": 9501
         }, 
         {
             "values": {
+                "rating": "4.60050249099731", 
+                "sodium": 870, 
+                "cal": 377, 
+                "chol": 89, 
+                "fat": 16.7, 
                 "reviews": "623", 
                 "time": 160, 
-                "score": "4.60050249099731", 
-                "cal": 377
+                "carb": 26.4, 
+                "protein": 29.4
             }, 
             "name": "Easy Lasagna II", 
             "key": 9502
         }, 
         {
             "values": {
+                "rating": "4.67819166183472", 
+                "sodium": 197, 
+                "cal": 299, 
+                "chol": 24, 
+                "fat": 9.4, 
                 "reviews": "1314", 
                 "time": 60, 
-                "score": "4.67819166183472", 
-                "cal": 299
+                "carb": 42.2, 
+                "protein": 11.6
             }, 
             "name": "Orzo with Parmesan and Basil", 
             "key": 9503
         }, 
         {
             "values": {
+                "rating": "4.52099370956421", 
+                "sodium": 1386, 
+                "cal": 673, 
+                "chol": 133, 
+                "fat": 30.8, 
                 "reviews": "1222", 
                 "time": 120, 
-                "score": "4.52099370956421", 
-                "cal": 673
+                "carb": 57.0, 
+                "protein": 43.3
             }, 
             "name": "Chicken Fettuccini Alfredo", 
             "key": 9504
         }, 
         {
             "values": {
+                "rating": "4.27603912353516", 
+                "sodium": 1068, 
+                "cal": 611, 
+                "chol": 103, 
+                "fat": 26.2, 
                 "reviews": "1585", 
                 "time": 70, 
-                "score": "4.27603912353516", 
-                "cal": 611
+                "carb": 58.1, 
+                "protein": 35.6
             }, 
             "name": "Best Tuna Casserole", 
             "key": 9505
         }, 
         {
             "values": {
+                "rating": "4.52304124832153", 
+                "sodium": 1544, 
+                "cal": 550, 
+                "chol": 116, 
+                "fat": 24.5, 
                 "reviews": "609", 
                 "time": 180, 
-                "score": "4.52304124832153", 
-                "cal": 550
+                "carb": 43.7, 
+                "protein": 37.7
             }, 
             "name": "Stuffed Shells III", 
             "key": 9506
         }, 
         {
             "values": {
+                "rating": "4.58363008499146", 
+                "sodium": 1345, 
+                "cal": 792, 
+                "chol": 246, 
+                "fat": 41.3, 
                 "reviews": "218", 
                 "time": 80, 
-                "score": "4.58363008499146", 
-                "cal": 792
+                "carb": 72.6, 
+                "protein": 36.1
             }, 
             "name": "Ultimate Shrimp Scampi", 
             "key": 9507
         }, 
         {
             "values": {
+                "rating": "4.08731079101563", 
+                "sodium": 879, 
+                "cal": 858, 
+                "chol": 142, 
+                "fat": 48.7, 
                 "reviews": "1337", 
                 "time": 100, 
-                "score": "4.08731079101563", 
-                "cal": 858
+                "carb": 66.7, 
+                "protein": 37.7
             }, 
             "name": "Homemade Mac and Cheese", 
             "key": 9508
         }, 
         {
             "values": {
+                "rating": "4.4895806312561", 
+                "sodium": 1265, 
+                "cal": 528, 
+                "chol": 107, 
+                "fat": 18.5, 
                 "reviews": "2758", 
                 "time": 180, 
-                "score": "4.4895806312561", 
-                "cal": 528
+                "carb": 48.3, 
+                "protein": 37.5
             }, 
             "name": "Angel Chicken Pasta", 
             "key": 9509
         }, 
         {
             "values": {
+                "rating": "4.51265001296997", 
+                "sodium": 1492, 
+                "cal": 349, 
+                "chol": 77, 
+                "fat": 21.2, 
                 "reviews": "2324", 
                 "time": 280, 
-                "score": "4.51265001296997", 
-                "cal": 349
+                "carb": 23.7, 
+                "protein": 18.9
             }, 
             "name": "Italian Spaghetti Sauce with Meatballs", 
             "key": 9510
         }, 
         {
             "values": {
+                "rating": "4.69987916946411", 
+                "sodium": 914, 
+                "cal": 578, 
+                "chol": 71, 
+                "fat": 25.3, 
                 "reviews": "5287", 
                 "time": 110, 
-                "score": "4.69987916946411", 
-                "cal": 578
+                "carb": 58.4, 
+                "protein": 27.9
             }, 
             "name": "Baked Ziti I", 
             "key": 9511
         }, 
         {
             "values": {
+                "rating": "4.6411247253418", 
+                "sodium": 885, 
+                "cal": 400, 
+                "chol": 79, 
+                "fat": 19.7, 
                 "reviews": "1304", 
                 "time": 80, 
-                "score": "4.6411247253418", 
-                "cal": 400
+                "carb": 43.9, 
+                "protein": 14.8
             }, 
             "name": "Spinach Tomato Tortellini", 
             "key": 9512
         }, 
         {
             "values": {
+                "rating": "4.39989709854126", 
+                "sodium": 895, 
+                "cal": 542, 
+                "chol": 133, 
+                "fat": 34.2, 
                 "reviews": "1441", 
                 "time": 120, 
-                "score": "4.39989709854126", 
-                "cal": 542
+                "carb": 35.5, 
+                "protein": 23.3
             }, 
             "name": "Chicken Noodle Casserole I", 
             "key": 9513
         }, 
         {
             "values": {
+                "rating": "4.72381401062012", 
+                "sodium": 1142, 
+                "cal": 227, 
+                "chol": 1, 
+                "fat": 8.3, 
                 "reviews": "1588", 
                 "time": 170, 
-                "score": "4.72381401062012", 
-                "cal": 227
+                "carb": 30.0, 
+                "protein": 8.6
             }, 
             "name": "Jamie's Minestrone", 
             "key": 9514
         }, 
         {
             "values": {
+                "rating": "4.70436811447144", 
+                "sodium": 1357, 
+                "cal": 161, 
+                "chol": 46, 
+                "fat": 6.1, 
                 "reviews": "1801", 
                 "time": 60, 
-                "score": "4.70436811447144", 
-                "cal": 161
+                "carb": 12.1, 
+                "protein": 13.4
             }, 
             "name": "Quick and Easy Chicken Noodle Soup", 
             "key": 9515
         }, 
         {
             "values": {
+                "rating": "4.25015544891357", 
+                "sodium": 720, 
+                "cal": 591, 
+                "chol": 88, 
+                "fat": 33.3, 
                 "reviews": "2400", 
                 "time": 110, 
-                "score": "4.25015544891357", 
-                "cal": 591
+                "carb": 45.5, 
+                "protein": 26.8
             }, 
             "name": "Chuck's Favorite Mac and Cheese", 
             "key": 9516
         }, 
         {
             "values": {
+                "rating": "4.46492052078247", 
+                "sodium": 529, 
+                "cal": 390, 
+                "chol": 8, 
+                "fat": 18.7, 
                 "reviews": "1682", 
                 "time": 300, 
-                "score": "4.46492052078247", 
-                "cal": 390
+                "carb": 49.3, 
+                "protein": 6.8
             }, 
             "name": "Classic Macaroni Salad", 
             "key": 9517
         }, 
         {
             "values": {
+                "rating": "4.40625", 
+                "sodium": 607, 
+                "cal": 589, 
+                "chol": 8, 
+                "fat": 26.9, 
                 "reviews": "66", 
                 "time": 85, 
-                "score": "4.40625", 
-                "cal": 589
+                "carb": 72.5, 
+                "protein": 18.6
             }, 
             "name": "Chef John's Pasta Primavera", 
             "key": 9518
         }, 
         {
             "values": {
+                "rating": "4.62380123138428", 
+                "sodium": 501, 
+                "cal": 641, 
+                "chol": 156, 
+                "fat": 34.8, 
                 "reviews": "1571", 
                 "time": 60, 
-                "score": "4.62380123138428", 
-                "cal": 641
+                "carb": 47.0, 
+                "protein": 36.3
             }, 
             "name": "Chicken Milano", 
             "key": 9519
         }, 
         {
             "values": {
+                "rating": "4.31326627731323", 
+                "sodium": 928, 
+                "cal": 695, 
+                "chol": 95, 
+                "fat": 32.3, 
                 "reviews": "663", 
                 "time": 110, 
-                "score": "4.31326627731323", 
-                "cal": 695
+                "carb": 72.8, 
+                "protein": 29.4
             }, 
             "name": "Chef John's Macaroni and Cheese", 
             "key": 9520
         }, 
         {
             "values": {
+                "rating": "4.52963209152222", 
+                "sodium": 565, 
+                "cal": 439, 
+                "chol": 138, 
+                "fat": 42.1, 
                 "reviews": "2474", 
                 "time": 40, 
-                "score": "4.52963209152222", 
-                "cal": 439
+                "carb": 3.4, 
+                "protein": 13.0
             }, 
             "name": "Alfredo Sauce", 
             "key": 9521
         }, 
         {
             "values": {
+                "rating": "4.4402174949646", 
+                "sodium": 523, 
+                "cal": 424, 
+                "chol": 72, 
+                "fat": 15.9, 
                 "reviews": "140", 
                 "time": 80, 
-                "score": "4.4402174949646", 
-                "cal": 424
+                "carb": 37.0, 
+                "protein": 32.2
             }, 
             "name": "Red Pepper-Salmon Pasta", 
             "key": 9522
         }, 
         {
             "values": {
+                "rating": "4.7631721496582", 
+                "sodium": 1009, 
+                "cal": 707, 
+                "chol": 201, 
+                "fat": 45.0, 
                 "reviews": "1269", 
                 "time": 100, 
-                "score": "4.7631721496582", 
-                "cal": 707
+                "carb": 50.6, 
+                "protein": 28.4
             }, 
             "name": "Peppered Shrimp Alfredo", 
             "key": 9523
         }, 
         {
             "values": {
+                "rating": "4.54852342605591", 
+                "sodium": 1707, 
+                "cal": 572, 
+                "chol": 84, 
+                "fat": 19.3, 
                 "reviews": "1089", 
                 "time": 110, 
-                "score": "4.54852342605591", 
-                "cal": 572
+                "carb": 57.3, 
+                "protein": 41.9
             }, 
             "name": "Pesto Chicken Florentine", 
             "key": 9524
         }, 
         {
             "values": {
+                "rating": "4.81438493728638", 
+                "sodium": 1145, 
+                "cal": 324, 
+                "chol": 50, 
+                "fat": 20.2, 
                 "reviews": "1516", 
                 "time": 190, 
-                "score": "4.81438493728638", 
-                "cal": 324
+                "carb": 19.1, 
+                "protein": 14.6
             }, 
             "name": "Italian Sausage Soup with Tortellini", 
             "key": 9525
         }, 
         {
             "values": {
+                "rating": "4.33670997619629", 
+                "sodium": 903, 
+                "cal": 386, 
+                "chol": 79, 
+                "fat": 25.3, 
                 "reviews": "1412", 
                 "time": 120, 
-                "score": "4.33670997619629", 
-                "cal": 386
+                "carb": 17.7, 
+                "protein": 20.2
             }, 
             "name": "Pizza Casserole", 
             "key": 9526
         }, 
         {
             "values": {
+                "rating": "4.59210538864136", 
+                "sodium": 728, 
+                "cal": 490, 
+                "chol": 44, 
+                "fat": 34.0, 
                 "reviews": "285", 
                 "time": 80, 
-                "score": "4.59210538864136", 
-                "cal": 490
+                "carb": 38.7, 
+                "protein": 9.3
             }, 
             "name": "Puttanesca I", 
             "key": 9527
         }, 
         {
             "values": {
+                "rating": "4.67443656921387", 
+                "sodium": 1134, 
+                "cal": 1109, 
+                "chol": 348, 
+                "fat": 82.2, 
                 "reviews": "1777", 
                 "time": 60, 
-                "score": "4.67443656921387", 
-                "cal": 1109
+                "carb": 53.7, 
+                "protein": 42.7
             }, 
             "name": "Cajun Chicken Pasta", 
             "key": 9528
         }, 
         {
             "values": {
+                "rating": "4.68076324462891", 
+                "sodium": 1088, 
+                "cal": 656, 
+                "chol": 111, 
+                "fat": 42.1, 
                 "reviews": "2256", 
                 "time": 90, 
-                "score": "4.68076324462891", 
-                "cal": 656
+                "carb": 50.9, 
+                "protein": 20.1
             }, 
             "name": "Bow Ties with Sausage, Tomatoes and Cream", 
             "key": 9529
         }, 
         {
             "values": {
+                "rating": "4.58419513702393", 
+                "sodium": 582, 
+                "cal": 964, 
+                "chol": 184, 
+                "fat": 61.2, 
                 "reviews": "1026", 
                 "time": 60, 
-                "score": "4.58419513702393", 
-                "cal": 964
+                "carb": 84.0, 
+                "protein": 23.7
             }, 
             "name": "To Die For Fettuccine Alfredo", 
             "key": 9530
         }, 
         {
             "values": {
+                "rating": "4.32027244567871", 
+                "sodium": 536, 
+                "cal": 362, 
+                "chol": 57, 
+                "fat": 10.8, 
                 "reviews": "764", 
                 "time": 70, 
-                "score": "4.32027244567871", 
-                "cal": 362
+                "carb": 37.8, 
+                "protein": 28.4
             }, 
             "name": "Basil Chicken over Angel Hair", 
             "key": 9531
         }, 
         {
             "values": {
+                "rating": "4.47181272506714", 
+                "sodium": 969, 
+                "cal": 527, 
+                "chol": 176, 
+                "fat": 18.1, 
                 "reviews": "803", 
                 "time": 70, 
-                "score": "4.47181272506714", 
-                "cal": 527
+                "carb": 46.7, 
+                "protein": 34.0
             }, 
             "name": "Angel Hair Pasta with Shrimp and Basil", 
             "key": 9532
         }, 
         {
             "values": {
+                "rating": "4.66378164291382", 
+                "sodium": 544, 
+                "cal": 435, 
+                "chol": 29, 
+                "fat": 18.4, 
                 "reviews": "1024", 
                 "time": 50, 
-                "score": "4.66378164291382", 
-                "cal": 435
+                "carb": 52.7, 
+                "protein": 13.3
             }, 
             "name": "Penne with Spicy Vodka Tomato Cream Sauce", 
             "key": 9533
         }, 
         {
             "values": {
+                "rating": "4.71676826477051", 
+                "sodium": 801, 
+                "cal": 489, 
+                "chol": 55, 
+                "fat": 24.5, 
                 "reviews": "839", 
                 "time": 180, 
-                "score": "4.71676826477051", 
-                "cal": 489
+                "carb": 43.8, 
+                "protein": 22.1
             }, 
             "name": "Baked Ziti IV", 
             "key": 9534
         }, 
         {
             "values": {
+                "rating": "4.31563186645508", 
+                "sodium": 673, 
+                "cal": 314, 
+                "chol": 65, 
+                "fat": 8.8, 
                 "reviews": "961", 
                 "time": 145, 
-                "score": "4.31563186645508", 
-                "cal": 314
+                "carb": 41.1, 
+                "protein": 17.4
             }, 
             "name": "Beef Tips and Noodles", 
             "key": 9535
         }, 
         {
             "values": {
+                "rating": "4.46016502380371", 
+                "sodium": 1188, 
+                "cal": 330, 
+                "chol": 0, 
+                "fat": 12.0, 
                 "reviews": "1054", 
                 "time": 50, 
-                "score": "4.46016502380371", 
-                "cal": 330
+                "carb": 46.8, 
+                "protein": 10.7
             }, 
             "name": "Peanut Butter Noodles", 
             "key": 9536
         }, 
         {
             "values": {
+                "rating": "4.53039693832397", 
+                "sodium": 257, 
+                "cal": 481, 
+                "chol": 203, 
+                "fat": 18.3, 
                 "reviews": "1160", 
                 "time": 80, 
-                "score": "4.53039693832397", 
-                "cal": 481
+                "carb": 47.5, 
+                "protein": 31.5
             }, 
             "name": "Shrimp Lemon Pepper Linguini", 
             "key": 9537
         }, 
         {
             "values": {
+                "rating": "4.62409830093384", 
+                "sodium": 978, 
+                "cal": 451, 
+                "chol": 37, 
+                "fat": 29.1, 
                 "reviews": "1014", 
                 "time": 130, 
-                "score": "4.62409830093384", 
-                "cal": 451
+                "carb": 33.2, 
+                "protein": 15.0
             }, 
             "name": "Antipasto Pasta Salad", 
             "key": 9538
         }, 
         {
             "values": {
+                "rating": "4.5420560836792", 
+                "sodium": 656, 
+                "cal": 451, 
+                "chol": 50, 
+                "fat": 20.6, 
                 "reviews": "785", 
                 "time": 80, 
-                "score": "4.5420560836792", 
-                "cal": 451
+                "carb": 51.8, 
+                "protein": 17.8
             }, 
             "name": "Suki's Spinach and Feta Pasta", 
             "key": 9539
         }, 
         {
             "values": {
+                "rating": "4.34275341033936", 
+                "sodium": 444, 
+                "cal": 488, 
+                "chol": 55, 
+                "fat": 11.4, 
                 "reviews": "900", 
                 "time": 60, 
-                "score": "4.34275341033936", 
-                "cal": 488
+                "carb": 70.0, 
+                "protein": 32.6
             }, 
             "name": "Greek Chicken Pasta", 
             "key": 9540
         }, 
         {
             "values": {
+                "rating": "4.32868671417236", 
+                "sodium": 69, 
+                "cal": 332, 
+                "chol": 20, 
+                "fat": 10.9, 
                 "reviews": "919", 
                 "time": 70, 
-                "score": "4.32868671417236", 
-                "cal": 332
+                "carb": 43.3, 
+                "protein": 16.7
             }, 
             "name": "Penne with Chicken and Asparagus", 
             "key": 9541
         }, 
         {
             "values": {
+                "rating": "4.41659879684448", 
+                "sodium": 1466, 
+                "cal": 386, 
+                "chol": 74, 
+                "fat": 14.6, 
                 "reviews": "936", 
                 "time": 160, 
-                "score": "4.41659879684448", 
-                "cal": 386
+                "carb": 34.1, 
+                "protein": 28.2
             }, 
             "name": "Classic Goulash", 
             "key": 9542
         }, 
         {
             "values": {
+                "rating": "4.3682336807251", 
+                "sodium": 793, 
+                "cal": 562, 
+                "chol": 125, 
+                "fat": 31.3, 
                 "reviews": "1036", 
                 "time": 150, 
-                "score": "4.3682336807251", 
-                "cal": 562
+                "carb": 39.9, 
+                "protein": 30.8
             }, 
             "name": "Tuna Noodle Casserole from Scratch", 
             "key": 9543
         }, 
         {
             "values": {
+                "rating": "4.55757141113281", 
+                "sodium": 1664, 
+                "cal": 147, 
+                "chol": 33, 
+                "fat": 3.6, 
                 "reviews": "1074", 
                 "time": 90, 
-                "score": "4.55757141113281", 
-                "cal": 147
+                "carb": 11.4, 
+                "protein": 15.7
             }, 
             "name": "Grandma's Chicken Noodle Soup", 
             "key": 9545
         }, 
         {
             "values": {
+                "rating": "4.44816589355469", 
+                "sodium": 308, 
+                "cal": 349, 
+                "chol": 24, 
+                "fat": 15.2, 
                 "reviews": "924", 
                 "time": 60, 
-                "score": "4.44816589355469", 
-                "cal": 349
+                "carb": 38.3, 
+                "protein": 15.9
             }, 
             "name": "Sesame Pasta Chicken Salad", 
             "key": 9546
         }, 
         {
             "values": {
+                "rating": "4.59781694412231", 
+                "sodium": 437, 
+                "cal": 646, 
+                "chol": 210, 
+                "fat": 42.5, 
                 "reviews": "892", 
                 "time": 60, 
-                "score": "4.59781694412231", 
-                "cal": 646
+                "carb": 43.0, 
+                "protein": 23.1
             }, 
             "name": "Creamy Pesto Shrimp", 
             "key": 9547
         }, 
         {
             "values": {
+                "rating": "4.26845645904541", 
+                "sodium": 708, 
+                "cal": 469, 
+                "chol": 24, 
+                "fat": 28.5, 
                 "reviews": "1148", 
                 "time": 90, 
-                "score": "4.26845645904541", 
-                "cal": 469
+                "carb": 37.1, 
+                "protein": 12.8
             }, 
             "name": "Easy Tuna Casserole", 
             "key": 9548
         }, 
         {
             "values": {
+                "rating": "4.30621004104614", 
+                "sodium": 635, 
+                "cal": 334, 
+                "chol": 50, 
+                "fat": 17.0, 
                 "reviews": "679", 
                 "time": 120, 
-                "score": "4.30621004104614", 
-                "cal": 334
+                "carb": 28.2, 
+                "protein": 15.6
             }, 
             "name": "Taco Casserole", 
             "key": 9550
         }, 
         {
             "values": {
+                "rating": "4.33915424346924", 
+                "sodium": 403, 
+                "cal": 475, 
+                "chol": 37, 
+                "fat": 13.9, 
                 "reviews": "723", 
                 "time": 30, 
-                "score": "4.33915424346924", 
-                "cal": 475
+                "carb": 69.3, 
+                "protein": 20.3
             }, 
             "name": "Fettuccine with Sweet Pepper-Cayenne Sauce", 
             "key": 9552
         }, 
         {
             "values": {
+                "rating": "4.44680833816528", 
+                "sodium": 350, 
+                "cal": 500, 
+                "chol": 6, 
+                "fat": 18.3, 
                 "reviews": "708", 
                 "time": 60, 
-                "score": "4.44680833816528", 
-                "cal": 500
+                "carb": 69.7, 
+                "protein": 16.2
             }, 
             "name": "Pasta Pomodoro", 
             "key": 9553
         }, 
         {
             "values": {
+                "rating": "4.24523830413818", 
+                "sodium": 1134, 
+                "cal": 735, 
+                "chol": 159, 
+                "fat": 42.0, 
                 "reviews": "672", 
                 "time": 60, 
-                "score": "4.24523830413818", 
-                "cal": 735
+                "carb": 60.9, 
+                "protein": 28.9
             }, 
             "name": "Simple Hamburger Stroganoff", 
             "key": 9554
         }, 
         {
             "values": {
+                "rating": "4.51537084579468", 
+                "sodium": 944, 
+                "cal": 532, 
+                "chol": 133, 
+                "fat": 25.3, 
                 "reviews": "911", 
                 "time": 110, 
-                "score": "4.51537084579468", 
-                "cal": 532
+                "carb": 66.0, 
+                "protein": 9.0
             }, 
             "name": "Amish Macaroni Salad", 
             "key": 9555
         }, 
         {
             "values": {
+                "rating": "4.60996770858765", 
+                "sodium": 1279, 
+                "cal": 746, 
+                "chol": 70, 
+                "fat": 56.1, 
                 "reviews": "685", 
                 "time": 170, 
-                "score": "4.60996770858765", 
-                "cal": 746
+                "carb": 40.4, 
+                "protein": 22.1
             }, 
             "name": "Greek Pasta Salad I", 
             "key": 9556
         }, 
         {
             "values": {
+                "rating": "4.47895812988281", 
+                "sodium": 403, 
+                "cal": 601, 
+                "chol": 210, 
+                "fat": 38.3, 
                 "reviews": "746", 
                 "time": 60, 
-                "score": "4.47895812988281", 
-                "cal": 601
+                "carb": 44.0, 
+                "protein": 23.2
             }, 
             "name": "Shrimp and Mushroom Linguini with Creamy Cheese Herb Sauce", 
             "key": 9557
         }, 
         {
             "values": {
+                "rating": "4.45642423629761", 
+                "sodium": 1333, 
+                "cal": 463, 
+                "chol": 78, 
+                "fat": 25.9, 
                 "reviews": "842", 
                 "time": 100, 
-                "score": "4.45642423629761", 
-                "cal": 463
+                "carb": 34.2, 
+                "protein": 23.0
             }, 
             "name": "Mouse's Macaroni and Cheese", 
             "key": 9558
         }, 
         {
             "values": {
+                "rating": "4.71609401702881", 
+                "sodium": 1258, 
+                "cal": 761, 
+                "chol": 96, 
+                "fat": 34.4, 
                 "reviews": "835", 
                 "time": 100, 
-                "score": "4.71609401702881", 
-                "cal": 761
+                "carb": 74.9, 
+                "protein": 36.2
             }, 
             "name": "Baked Ziti III", 
             "key": 9559
         }, 
         {
             "values": {
+                "rating": "4.43579769134521", 
+                "sodium": 1111, 
+                "cal": 703, 
+                "chol": 113, 
+                "fat": 28.1, 
                 "reviews": "715", 
                 "time": 105, 
-                "score": "4.43579769134521", 
-                "cal": 703
+                "carb": 72.6, 
+                "protein": 38.2
             }, 
             "name": "Baked Ziti II", 
             "key": 9561
         }, 
         {
             "values": {
+                "rating": "4.31326627731323", 
+                "sodium": 928, 
+                "cal": 695, 
+                "chol": 95, 
+                "fat": 32.3, 
                 "reviews": "663", 
                 "time": 110, 
-                "score": "4.31326627731323", 
-                "cal": 695
+                "carb": 72.8, 
+                "protein": 29.4
             }, 
             "name": "Chef John's Macaroni and Cheese", 
             "key": 9562
         }, 
         {
             "values": {
+                "rating": "4.52304124832153", 
+                "sodium": 1544, 
+                "cal": 550, 
+                "chol": 116, 
+                "fat": 24.5, 
                 "reviews": "609", 
                 "time": 180, 
-                "score": "4.52304124832153", 
-                "cal": 550
+                "carb": 43.7, 
+                "protein": 37.7
             }, 
             "name": "Stuffed Shells III", 
             "key": 9563
         }, 
         {
             "values": {
+                "rating": "4.63123846054077", 
+                "sodium": 1034, 
+                "cal": 588, 
+                "chol": 108, 
+                "fat": 16.5, 
                 "reviews": "750", 
                 "time": 90, 
-                "score": "4.63123846054077", 
-                "cal": 588
+                "carb": 75.3, 
+                "protein": 33.6
             }, 
             "name": "Brooklyn Girl's Penne Arrabiata", 
             "key": 9564
         }, 
         {
             "values": {
+                "rating": "4.39669418334961", 
+                "sodium": 1054, 
+                "cal": 735, 
+                "chol": 136, 
+                "fat": 44.2, 
                 "reviews": "705", 
                 "time": 120, 
-                "score": "4.39669418334961", 
-                "cal": 735
+                "carb": 47.6, 
+                "protein": 35.7
             }, 
             "name": "Tacos in Pasta Shells", 
             "key": 9565
         }, 
         {
             "values": {
+                "rating": "4.37949848175049", 
+                "sodium": 680, 
+                "cal": 606, 
+                "chol": 247, 
+                "fat": 30.8, 
                 "reviews": "661", 
                 "time": 50, 
-                "score": "4.37949848175049", 
-                "cal": 606
+                "carb": 35.5, 
+                "protein": 35.3
             }, 
             "name": "Shrimp Scampi", 
             "key": 9566
         }, 
         {
             "values": {
+                "rating": "4.4667444229126", 
+                "sodium": 1194, 
+                "cal": 561, 
+                "chol": 100, 
+                "fat": 33.3, 
                 "reviews": "675", 
                 "time": 120, 
-                "score": "4.4667444229126", 
-                "cal": 561
+                "carb": 36.5, 
+                "protein": 28.3
             }, 
             "name": "Mom's Favorite Baked Mac and Cheese", 
             "key": 9567
         }, 
         {
             "values": {
+                "rating": "4.37338638305664", 
+                "sodium": 547, 
+                "cal": 517, 
+                "chol": 15, 
+                "fat": 14.8, 
                 "reviews": "736", 
                 "time": 50, 
-                "score": "4.37338638305664", 
-                "cal": 517
+                "carb": 73.8, 
+                "protein": 21.0
             }, 
             "name": "Penne Pasta with Spinach and Bacon", 
             "key": 9568
         }, 
         {
             "values": {
+                "rating": "4.44121217727661", 
+                "sodium": 154, 
+                "cal": 328, 
+                "chol": 22, 
+                "fat": 10.1, 
                 "reviews": "548", 
                 "time": 60, 
-                "score": "4.44121217727661", 
-                "cal": 328
+                "carb": 43.3, 
+                "protein": 17.4
             }, 
             "name": "Pesto Pasta with Chicken", 
             "key": 9569
         }, 
         {
             "values": {
+                "rating": "4.64213180541992", 
+                "sodium": 1197, 
+                "cal": 557, 
+                "chol": 98, 
+                "fat": 18.2, 
                 "reviews": "557", 
                 "time": 100, 
-                "score": "4.64213180541992", 
-                "cal": 557
+                "carb": 59.6, 
+                "protein": 37.0
             }, 
             "name": "Stuffed Shells I", 
             "key": 9570
         }, 
         {
             "values": {
+                "rating": "4.46498584747314", 
+                "sodium": 746, 
+                "cal": 465, 
+                "chol": 100, 
+                "fat": 23.8, 
                 "reviews": "526", 
                 "time": 100, 
-                "score": "4.46498584747314", 
-                "cal": 465
+                "carb": 30.6, 
+                "protein": 30.5
             }, 
             "name": "Beefy Baked Ravioli", 
             "key": 9571
         }, 
         {
             "values": {
+                "rating": "4.19781732559204", 
+                "sodium": 633, 
+                "cal": 602, 
+                "chol": 148, 
+                "fat": 37.4, 
                 "reviews": "551", 
                 "time": 60, 
-                "score": "4.19781732559204", 
-                "cal": 602
+                "carb": 36.1, 
+                "protein": 28.9
             }, 
             "name": "Easy Beef Stroganoff", 
             "key": 9572
         }, 
         {
             "values": {
+                "rating": "4.62801218032837", 
+                "sodium": 341, 
+                "cal": 322, 
+                "chol": 20, 
+                "fat": 16.1, 
                 "reviews": "509", 
                 "time": 60, 
-                "score": "4.62801218032837", 
-                "cal": 322
+                "carb": 38.7, 
+                "protein": 9.0
             }, 
             "name": "Broccoli and Tortellini Salad", 
             "key": 9573
         }, 
         {
             "values": {
+                "rating": "4.59070444107056", 
+                "sodium": 655, 
+                "cal": 335, 
+                "chol": 52, 
+                "fat": 8.9, 
                 "reviews": "478", 
                 "time": 120, 
-                "score": "4.59070444107056", 
-                "cal": 335
+                "carb": 46.3, 
+                "protein": 18.7
             }, 
             "name": "Fra Diavolo Sauce With Pasta", 
             "key": 9574
         }, 
         {
             "values": {
+                "rating": "4.54401159286499", 
+                "sodium": 699, 
+                "cal": 371, 
+                "chol": 0, 
+                "fat": 14.8, 
                 "reviews": "541", 
                 "time": 60, 
-                "score": "4.54401159286499", 
-                "cal": 371
+                "carb": 52.0, 
+                "protein": 7.9
             }, 
             "name": "Sesame Noodles", 
             "key": 9575
         }, 
         {
             "values": {
+                "rating": "4.66711235046387", 
+                "sodium": 839, 
+                "cal": 398, 
+                "chol": 112, 
+                "fat": 20.1, 
                 "reviews": "570", 
                 "time": 80, 
-                "score": "4.66711235046387", 
-                "cal": 398
+                "carb": 23.9, 
+                "protein": 29.8
             }, 
             "name": "Chicken and Gnocchi Soup", 
             "key": 9576
         }, 
         {
             "values": {
+                "rating": "4.68378400802612", 
+                "sodium": 621, 
+                "cal": 477, 
+                "chol": 38, 
+                "fat": 21.8, 
                 "reviews": "524", 
                 "time": 100, 
-                "score": "4.68378400802612", 
-                "cal": 477
+                "carb": 50.1, 
+                "protein": 20.5
             }, 
             "name": "Pasta Primavera with Italian Turkey Sausage", 
             "key": 9577
         }, 
         {
             "values": {
+                "rating": "4.63277673721313", 
+                "sodium": 524, 
+                "cal": 244, 
+                "chol": 18, 
+                "fat": 6.5, 
                 "reviews": "491", 
                 "time": 95, 
-                "score": "4.63277673721313", 
-                "cal": 244
+                "carb": 40.0, 
+                "protein": 5.9
             }, 
             "name": "Sarah's Rice Pilaf", 
             "key": 9578
         }, 
         {
             "values": {
+                "rating": "4.23709917068481", 
+                "sodium": 828, 
+                "cal": 641, 
+                "chol": 118, 
+                "fat": 40.4, 
                 "reviews": "553", 
                 "time": 80, 
-                "score": "4.23709917068481", 
-                "cal": 641
+                "carb": 47.0, 
+                "protein": 22.6
             }, 
             "name": "Home Style Macaroni and Cheese", 
             "key": 9580
         }, 
         {
             "values": {
+                "rating": "4.61002445220947", 
+                "sodium": 1211, 
+                "cal": 416, 
+                "chol": 87, 
+                "fat": 14.2, 
                 "reviews": "634", 
                 "time": 100, 
-                "score": "4.61002445220947", 
-                "cal": 416
+                "carb": 43.3, 
+                "protein": 27.3
             }, 
             "name": "Italian Wedding Soup I", 
             "key": 9581
         }, 
         {
             "values": {
+                "rating": "4.44929599761963", 
+                "sodium": 281, 
+                "cal": 440, 
+                "chol": 172, 
+                "fat": 10.6, 
                 "reviews": "568", 
                 "time": 80, 
-                "score": "4.44929599761963", 
-                "cal": 440
+                "carb": 57.7, 
+                "protein": 29.2
             }, 
             "name": "Shrimp Fettuccine Alfredo", 
             "key": 9582
         }, 
         {
             "values": {
+                "rating": "4.32344627380371", 
+                "sodium": 826, 
+                "cal": 685, 
+                "chol": 94, 
+                "fat": 13.2, 
                 "reviews": "498", 
                 "time": 100, 
-                "score": "4.32344627380371", 
-                "cal": 685
+                "carb": 96.2, 
+                "protein": 47.0
             }, 
             "name": "Greek Penne and Chicken", 
             "key": 9583
         }, 
         {
             "values": {
+                "rating": "4.64564561843872", 
+                "sodium": 1045, 
+                "cal": 169, 
+                "chol": 71, 
+                "fat": 6.9, 
                 "reviews": "528", 
                 "time": 90, 
-                "score": "4.64564561843872", 
-                "cal": 169
+                "carb": 12.7, 
+                "protein": 13.1
             }, 
             "name": "Mama's Italian Wedding Soup", 
             "key": 9584
         }, 
         {
             "values": {
+                "rating": "4.36764717102051", 
+                "sodium": 1714, 
+                "cal": 664, 
+                "chol": 82, 
+                "fat": 33.5, 
                 "reviews": "478", 
                 "time": 100, 
-                "score": "4.36764717102051", 
-                "cal": 664
+                "carb": 59.2, 
+                "protein": 31.0
             }, 
             "name": "Baked Penne with Italian Sausage", 
             "key": 9586
         }, 
         {
             "values": {
+                "rating": "4.23712968826294", 
+                "sodium": 244, 
+                "cal": 119, 
+                "chol": 47, 
+                "fat": 1.0, 
                 "reviews": "453", 
                 "time": 95, 
-                "score": "4.23712968826294", 
-                "cal": 119
+                "carb": 13.6, 
+                "protein": 13.2
             }, 
             "name": "Turkey Veggie Meatloaf Cups", 
             "key": 9587
         }, 
         {
             "values": {
+                "rating": "4.54064512252808", 
+                "sodium": 164, 
+                "cal": 497, 
+                "chol": 97, 
+                "fat": 26.1, 
                 "reviews": "567", 
                 "time": 60, 
-                "score": "4.54064512252808", 
-                "cal": 497
+                "carb": 42.6, 
+                "protein": 24.0
             }, 
             "name": "Penne with Chicken and Pesto", 
             "key": 9588
         }, 
         {
             "values": {
+                "rating": "4.70173120498657", 
+                "sodium": 40, 
+                "cal": 206, 
+                "chol": 59, 
+                "fat": 3.8, 
                 "reviews": "573", 
                 "time": 51, 
-                "score": "4.70173120498657", 
-                "cal": 206
+                "carb": 35.0, 
+                "protein": 7.0
             }, 
             "name": "Egg Noodles", 
             "key": 9589
         }, 
         {
             "values": {
+                "rating": "4.61391305923462", 
+                "sodium": 459, 
+                "cal": 608, 
+                "chol": 254, 
+                "fat": 29.0, 
                 "reviews": "432", 
                 "time": 60, 
-                "score": "4.61391305923462", 
-                "cal": 608
+                "carb": 38.9, 
+                "protein": 31.5
             }, 
             "name": "Champagne Shrimp and Pasta", 
             "key": 9590
         }, 
         {
             "values": {
+                "rating": "4.5", 
+                "sodium": 875, 
+                "cal": 442, 
+                "chol": 131, 
+                "fat": 26.0, 
                 "reviews": "435", 
                 "time": 120, 
-                "score": "4.5", 
-                "cal": 442
+                "carb": 27.1, 
+                "protein": 22.4
             }, 
             "name": "Ricotta Gnocchi", 
             "key": 9591
         }, 
         {
             "values": {
+                "rating": "4.06718730926514", 
+                "sodium": 164, 
+                "cal": 351, 
+                "chol": 38, 
+                "fat": 10.6, 
                 "reviews": "432", 
                 "time": 60, 
-                "score": "4.06718730926514", 
-                "cal": 351
+                "carb": 40.4, 
+                "protein": 22.3
             }, 
             "name": "Garlic Chicken with Orzo Noodles", 
             "key": 9592
         }, 
         {
             "values": {
+                "rating": "4.63636350631714", 
+                "sodium": 305, 
+                "cal": 82, 
+                "chol": 11, 
+                "fat": 0.7, 
                 "reviews": "421", 
                 "time": 100, 
-                "score": "4.63636350631714", 
-                "cal": 82
+                "carb": 15.8, 
+                "protein": 3.3
             }, 
             "name": "Vietnamese Fresh Spring Rolls", 
             "key": 9593
         }, 
         {
             "values": {
+                "rating": "4.55691766738892", 
+                "sodium": 1410, 
+                "cal": 576, 
+                "chol": 82, 
+                "fat": 20.5, 
                 "reviews": "401", 
                 "time": 130, 
-                "score": "4.55691766738892", 
-                "cal": 576
+                "carb": 69.0, 
+                "protein": 29.8
             }, 
             "name": "Spinach Cheese Manicotti", 
             "key": 9594
         }, 
         {
             "values": {
+                "rating": "3.98934268951416", 
+                "sodium": 660, 
+                "cal": 679, 
+                "chol": 159, 
+                "fat": 40.5, 
                 "reviews": "434", 
                 "time": 60, 
-                "score": "3.98934268951416", 
-                "cal": 679
+                "carb": 48.2, 
+                "protein": 28.7
             }, 
             "name": "Simple Beef Stroganoff", 
             "key": 9596
         }, 
         {
             "values": {
+                "rating": "4.29276895523071", 
+                "sodium": 386, 
+                "cal": 340, 
+                "chol": 4, 
+                "fat": 8.9, 
                 "reviews": "390", 
                 "time": 80, 
-                "score": "4.29276895523071", 
-                "cal": 340
+                "carb": 52.0, 
+                "protein": 14.7
             }, 
             "name": "Spinach and Sun-Dried Tomato Pasta", 
             "key": 9597
         }, 
         {
             "values": {
+                "rating": "3.89081454277039", 
+                "sodium": 594, 
+                "cal": 524, 
+                "chol": 178, 
+                "fat": 20.7, 
                 "reviews": "421", 
                 "time": 120, 
-                "score": "3.89081454277039", 
-                "cal": 524
+                "carb": 58.5, 
+                "protein": 26.4
             }, 
             "name": "Pad Thai", 
             "key": 9598
         }, 
         {
             "values": {
+                "rating": "4.3006534576416", 
+                "sodium": 622, 
+                "cal": 660, 
+                "chol": 155, 
+                "fat": 44.9, 
                 "reviews": "463", 
                 "time": 60, 
-                "score": "4.3006534576416", 
-                "cal": 660
+                "carb": 37.4, 
+                "protein": 26.8
             }, 
             "name": "Amazing Italian Lemon Butter Chicken", 
             "key": 9599
         }, 
         {
             "values": {
+                "rating": "4.4490818977356", 
+                "sodium": 2687, 
+                "cal": 466, 
+                "chol": 69, 
+                "fat": 16.2, 
                 "reviews": "474", 
                 "time": 60, 
-                "score": "4.4490818977356", 
-                "cal": 466
+                "carb": 48.9, 
+                "protein": 33.2
             }, 
             "name": "Hamburger Vegetable Soup", 
             "key": 9600
@@ -933,23 +1398,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

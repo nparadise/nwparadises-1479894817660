@@ -2,850 +2,1275 @@
     "options": [
         {
             "values": {
+                "rating": "4.5351767539978", 
+                "sodium": 543, 
+                "cal": 448, 
+                "chol": 99, 
+                "fat": 26.6, 
                 "reviews": "3440", 
                 "time": 60, 
-                "score": "4.5351767539978", 
-                "cal": 448
+                "carb": 13.3, 
+                "protein": 28.8
             }, 
             "name": "Chicken Marsala", 
             "key": 72302
         }, 
         {
             "values": {
+                "rating": "4.44128656387329", 
+                "sodium": 156, 
+                "cal": 112, 
+                "chol": 0, 
+                "fat": 2.1, 
                 "reviews": "2128", 
                 "time": 70, 
-                "score": "4.44128656387329", 
-                "cal": 112
+                "carb": 20.1, 
+                "protein": 2.8
             }, 
             "name": "Pizza Dough I", 
             "key": 72304
         }, 
         {
             "values": {
+                "rating": "4.69117307662964", 
+                "sodium": 157, 
+                "cal": 119, 
+                "chol": 0, 
+                "fat": 2.1, 
                 "reviews": "3083", 
                 "time": 160, 
-                "score": "4.69117307662964", 
-                "cal": 119
+                "carb": 21.6, 
+                "protein": 3.1
             }, 
             "name": "Jay's Signature Pizza Crust", 
             "key": 72305
         }, 
         {
             "values": {
+                "rating": "4.70120477676392", 
+                "sodium": 89, 
+                "cal": 138, 
+                "chol": 25, 
+                "fat": 7.8, 
                 "reviews": "341", 
                 "time": 160, 
-                "score": "4.70120477676392", 
-                "cal": 138
+                "carb": 15.5, 
+                "protein": 2.2
             }, 
             "name": "Cinnamon Hazelnut Biscotti", 
             "key": 72306
         }, 
         {
             "values": {
+                "rating": "4.38491106033325", 
+                "sodium": 882, 
+                "cal": 428, 
+                "chol": 91, 
+                "fat": 24.0, 
                 "reviews": "1540", 
                 "time": 150, 
-                "score": "4.38491106033325", 
-                "cal": 428
+                "carb": 25.1, 
+                "protein": 28.6
             }, 
             "name": "White Cheese Chicken Lasagna", 
             "key": 72307
         }, 
         {
             "values": {
+                "rating": "4.80142498016357", 
+                "sodium": 2386, 
+                "cal": 554, 
+                "chol": 99, 
+                "fat": 32.6, 
                 "reviews": "1607", 
                 "time": 170, 
-                "score": "4.80142498016357", 
-                "cal": 554
+                "carb": 45.8, 
+                "protein": 19.8
             }, 
             "name": "Super-Delicious Zuppa Toscana", 
             "key": 72308
         }, 
         {
             "values": {
+                "rating": "4.47857141494751", 
+                "sodium": 1026, 
+                "cal": 440, 
+                "chol": 186, 
+                "fat": 20.3, 
                 "reviews": "1384", 
                 "time": 120, 
-                "score": "4.47857141494751", 
-                "cal": 440
+                "carb": 33.4, 
+                "protein": 30.0
             }, 
             "name": "Italian Breaded Pork Chops", 
             "key": 72309
         }, 
         {
             "values": {
+                "rating": "4.7854471206665", 
+                "sodium": 1788, 
+                "cal": 448, 
+                "chol": 82, 
+                "fat": 21.3, 
                 "reviews": "10212", 
                 "time": 375, 
-                "score": "4.7854471206665", 
-                "cal": 448
+                "carb": 36.5, 
+                "protein": 29.7
             }, 
             "name": "World's Best Lasagna", 
             "key": 72310
         }, 
         {
             "values": {
+                "rating": "4.51265001296997", 
+                "sodium": 1492, 
+                "cal": 349, 
+                "chol": 77, 
+                "fat": 21.2, 
                 "reviews": "2324", 
                 "time": 280, 
-                "score": "4.51265001296997", 
-                "cal": 349
+                "carb": 23.7, 
+                "protein": 18.9
             }, 
             "name": "Italian Spaghetti Sauce with Meatballs", 
             "key": 72312
         }, 
         {
             "values": {
+                "rating": "4.69486427307129", 
+                "sodium": 1925, 
+                "cal": 459, 
+                "chol": 87, 
+                "fat": 34.1, 
                 "reviews": "261", 
                 "time": 140, 
-                "score": "4.69486427307129", 
-                "cal": 459
+                "carb": 21.1, 
+                "protein": 17.2
             }, 
             "name": "Zuppa Toscana", 
             "key": 72313
         }, 
         {
             "values": {
+                "rating": "4.80604076385498", 
+                "sodium": 1259, 
+                "cal": 385, 
+                "chol": 58, 
+                "fat": 24.4, 
                 "reviews": "2027", 
                 "time": 100, 
-                "score": "4.80604076385498", 
-                "cal": 385
+                "carb": 22.5, 
+                "protein": 18.8
             }, 
             "name": "Italian Sausage Soup", 
             "key": 72314
         }, 
         {
             "values": {
+                "rating": "4.7886700630188", 
+                "sodium": 1131, 
+                "cal": 431, 
+                "chol": 29, 
+                "fat": 16.6, 
                 "reviews": "1727", 
                 "time": 100, 
-                "score": "4.7886700630188", 
-                "cal": 431
+                "carb": 56.6, 
+                "protein": 11.3
             }, 
             "name": "Gourmet Mushroom Risotto", 
             "key": 72315
         }, 
         {
             "values": {
+                "rating": "4.62977409362793", 
+                "sodium": 819, 
+                "cal": 318, 
+                "chol": 100, 
+                "fat": 15.8, 
                 "reviews": "1650", 
                 "time": 1470, 
-                "score": "4.62977409362793", 
-                "cal": 318
+                "carb": 1.6, 
+                "protein": 39.4
             }, 
             "name": "Slow Cooker Italian Beef for Sandwiches", 
             "key": 72316
         }, 
         {
             "values": {
+                "rating": "4.2738094329834", 
+                "sodium": 211, 
+                "cal": 300, 
+                "chol": 91, 
+                "fat": 26.9, 
                 "reviews": "59", 
                 "time": 90, 
-                "score": "4.2738094329834", 
-                "cal": 300
+                "carb": 12.3, 
+                "protein": 6.8
             }, 
             "name": "Baked Fennel with Parmesan", 
             "key": 72318
         }, 
         {
             "values": {
+                "rating": "4.62380123138428", 
+                "sodium": 501, 
+                "cal": 641, 
+                "chol": 156, 
+                "fat": 34.8, 
                 "reviews": "1571", 
                 "time": 60, 
-                "score": "4.62380123138428", 
-                "cal": 641
+                "carb": 47.0, 
+                "protein": 36.3
             }, 
             "name": "Chicken Milano", 
             "key": 72319
         }, 
         {
             "values": {
+                "rating": "4.4484715461731", 
+                "sodium": 1663, 
+                "cal": 487, 
+                "chol": 73, 
+                "fat": 16.0, 
                 "reviews": "2245", 
                 "time": 120, 
-                "score": "4.4484715461731", 
-                "cal": 487
+                "carb": 62.1, 
+                "protein": 24.2
             }, 
             "name": "Eggplant Parmesan II", 
             "key": 72320
         }, 
         {
             "values": {
+                "rating": "4.82358884811401", 
+                "sodium": 426, 
+                "cal": 215, 
+                "chol": 12, 
+                "fat": 8.9, 
                 "reviews": "1965", 
                 "time": 57, 
-                "score": "4.82358884811401", 
-                "cal": 215
+                "carb": 24.8, 
+                "protein": 9.6
             }, 
             "name": "Double Tomato Bruschetta", 
             "key": 72321
         }, 
         {
             "values": {
+                "rating": "4.67935228347778", 
+                "sodium": 1900, 
+                "cal": 664, 
+                "chol": 168, 
+                "fat": 29.5, 
                 "reviews": "1762", 
                 "time": 240, 
-                "score": "4.67935228347778", 
-                "cal": 664
+                "carb": 48.3, 
+                "protein": 50.9
             }, 
             "name": "American Lasagna", 
             "key": 72323
         }, 
         {
             "values": {
+                "rating": "4.72381401062012", 
+                "sodium": 1142, 
+                "cal": 227, 
+                "chol": 1, 
+                "fat": 8.3, 
                 "reviews": "1588", 
                 "time": 170, 
-                "score": "4.72381401062012", 
-                "cal": 227
+                "carb": 30.0, 
+                "protein": 8.6
             }, 
             "name": "Jamie's Minestrone", 
             "key": 72324
         }, 
         {
             "values": {
+                "rating": "4.7012791633606", 
+                "sodium": 857, 
+                "cal": 461, 
+                "chol": 96, 
+                "fat": 39.4, 
                 "reviews": "943", 
                 "time": 80, 
-                "score": "4.7012791633606", 
-                "cal": 461
+                "carb": 7.0, 
+                "protein": 17.1
             }, 
             "name": "Italian Sausage, Peppers, and Onions", 
             "key": 72325
         }, 
         {
             "values": {
+                "rating": "4.81438493728638", 
+                "sodium": 1145, 
+                "cal": 324, 
+                "chol": 50, 
+                "fat": 20.2, 
                 "reviews": "1516", 
                 "time": 190, 
-                "score": "4.81438493728638", 
-                "cal": 324
+                "carb": 19.1, 
+                "protein": 14.6
             }, 
             "name": "Italian Sausage Soup with Tortellini", 
             "key": 72327
         }, 
         {
             "values": {
+                "rating": "4.68076324462891", 
+                "sodium": 1088, 
+                "cal": 656, 
+                "chol": 111, 
+                "fat": 42.1, 
                 "reviews": "2256", 
                 "time": 90, 
-                "score": "4.68076324462891", 
-                "cal": 656
+                "carb": 50.9, 
+                "protein": 20.1
             }, 
             "name": "Bow Ties with Sausage, Tomatoes and Cream", 
             "key": 72328
         }, 
         {
             "values": {
+                "rating": "4.60240983963013", 
+                "sodium": 488, 
+                "cal": 400, 
+                "chol": 129, 
+                "fat": 24.9, 
                 "reviews": "1933", 
                 "time": 110, 
-                "score": "4.60240983963013", 
-                "cal": 400
+                "carb": 8.4, 
+                "protein": 34.5
             }, 
             "name": "Garlic Cheddar Chicken", 
             "key": 72329
         }, 
         {
             "values": {
+                "rating": "4.49012851715088", 
+                "sodium": 841, 
+                "cal": 357, 
+                "chol": 24, 
+                "fat": 21.5, 
                 "reviews": "809", 
                 "time": 90, 
-                "score": "4.49012851715088", 
-                "cal": 357
+                "carb": 18.8, 
+                "protein": 25.7
             }, 
             "name": "Tofu Parmigiana", 
             "key": 72330
         }, 
         {
             "values": {
+                "rating": "4.7012791633606", 
+                "sodium": 857, 
+                "cal": 461, 
+                "chol": 96, 
+                "fat": 39.4, 
                 "reviews": "943", 
                 "time": 80, 
-                "score": "4.7012791633606", 
-                "cal": 461
+                "carb": 7.0, 
+                "protein": 17.1
             }, 
             "name": "Italian Sausage, Peppers, and Onions", 
             "key": 72331
         }, 
         {
             "values": {
+                "rating": "4.72581815719604", 
+                "sodium": 1626, 
+                "cal": 494, 
+                "chol": 104, 
+                "fat": 21.8, 
                 "reviews": "1023", 
                 "time": 300, 
-                "score": "4.72581815719604", 
-                "cal": 494
+                "carb": 38.2, 
+                "protein": 38.2
             }, 
             "name": "Linda's Lasagna", 
             "key": 72332
         }, 
         {
             "values": {
+                "rating": "4.54852342605591", 
+                "sodium": 1707, 
+                "cal": 572, 
+                "chol": 84, 
+                "fat": 19.3, 
                 "reviews": "1089", 
                 "time": 110, 
-                "score": "4.54852342605591", 
-                "cal": 572
+                "carb": 57.3, 
+                "protein": 41.9
             }, 
             "name": "Pesto Chicken Florentine", 
             "key": 72333
         }, 
         {
             "values": {
+                "rating": "4.62409830093384", 
+                "sodium": 978, 
+                "cal": 451, 
+                "chol": 37, 
+                "fat": 29.1, 
                 "reviews": "1014", 
                 "time": 130, 
-                "score": "4.62409830093384", 
-                "cal": 451
+                "carb": 33.2, 
+                "protein": 15.0
             }, 
             "name": "Antipasto Pasta Salad", 
             "key": 72334
         }, 
         {
             "values": {
+                "rating": "4.57535123825073", 
+                "sodium": 1309, 
+                "cal": 528, 
+                "chol": 184, 
+                "fat": 18.3, 
                 "reviews": "1028", 
                 "time": 180, 
-                "score": "4.57535123825073", 
-                "cal": 528
+                "carb": 44.9, 
+                "protein": 43.5
             }, 
             "name": "Chicken Parmigiana", 
             "key": 72335
         }, 
         {
             "values": {
+                "rating": "4.59781694412231", 
+                "sodium": 437, 
+                "cal": 646, 
+                "chol": 210, 
+                "fat": 42.5, 
                 "reviews": "892", 
                 "time": 60, 
-                "score": "4.59781694412231", 
-                "cal": 646
+                "carb": 43.0, 
+                "protein": 23.1
             }, 
             "name": "Creamy Pesto Shrimp", 
             "key": 72336
         }, 
         {
             "values": {
+                "rating": "4.62625408172607", 
+                "sodium": 252, 
+                "cal": 171, 
+                "chol": 5, 
+                "fat": 5.8, 
                 "reviews": "923", 
                 "time": 95, 
-                "score": "4.62625408172607", 
-                "cal": 171
+                "carb": 23.4, 
+                "protein": 6.0
             }, 
             "name": "Focaccia Bread", 
             "key": 72337
         }, 
         {
             "values": {
+                "rating": "4.7631721496582", 
+                "sodium": 1009, 
+                "cal": 707, 
+                "chol": 201, 
+                "fat": 45.0, 
                 "reviews": "1269", 
                 "time": 100, 
-                "score": "4.7631721496582", 
-                "cal": 707
+                "carb": 50.6, 
+                "protein": 28.4
             }, 
             "name": "Peppered Shrimp Alfredo", 
             "key": 72338
         }, 
         {
             "values": {
+                "rating": "4.6513409614563", 
+                "sodium": 685, 
+                "cal": 151, 
+                "chol": 0, 
+                "fat": 10.5, 
                 "reviews": "1390", 
                 "time": 90, 
-                "score": "4.6513409614563", 
-                "cal": 151
+                "carb": 11.7, 
+                "protein": 2.0
             }, 
             "name": "Best Marinara Sauce Yet", 
             "key": 72339
         }, 
         {
             "values": {
+                "rating": "4.81436729431152", 
+                "sodium": 1236, 
+                "cal": 676, 
+                "chol": 187, 
+                "fat": 27.5, 
                 "reviews": "1125", 
                 "time": 105, 
-                "score": "4.81436729431152", 
-                "cal": 676
+                "carb": 81.0, 
+                "protein": 50.6
             }, 
             "name": "Chicken Parmesan", 
             "key": 72340
         }, 
         {
             "values": {
+                "rating": "4.7618203163147", 
+                "sodium": 309, 
+                "cal": 465, 
+                "chol": 78, 
+                "fat": 28.9, 
                 "reviews": "1296", 
                 "time": 145, 
-                "score": "4.7618203163147", 
-                "cal": 465
+                "carb": 46.3, 
+                "protein": 4.4
             }, 
             "name": "Tiramisu Layer Cake", 
             "key": 72341
         }, 
         {
             "values": {
+                "rating": "4.62819385528564", 
+                "sodium": 333, 
+                "cal": 613, 
+                "chol": 149, 
+                "fat": 53.2, 
                 "reviews": "874", 
                 "time": 100, 
-                "score": "4.62819385528564", 
-                "cal": 613
+                "carb": 6.6, 
+                "protein": 26.6
             }, 
             "name": "The Best Meatballs", 
             "key": 72342
         }, 
         {
             "values": {
+                "rating": "4.58891820907593", 
+                "sodium": 732, 
+                "cal": 299, 
+                "chol": 55, 
+                "fat": 23.4, 
                 "reviews": "1461", 
                 "time": 250, 
-                "score": "4.58891820907593", 
-                "cal": 299
+                "carb": 3.1, 
+                "protein": 18.3
             }, 
             "name": "Balsamic Roasted Pork Loin", 
             "key": 72343
         }, 
         {
             "values": {
+                "rating": "4.63123846054077", 
+                "sodium": 1034, 
+                "cal": 588, 
+                "chol": 108, 
+                "fat": 16.5, 
                 "reviews": "750", 
                 "time": 90, 
-                "score": "4.63123846054077", 
-                "cal": 588
+                "carb": 75.3, 
+                "protein": 33.6
             }, 
             "name": "Brooklyn Girl's Penne Arrabiata", 
             "key": 72344
         }, 
         {
             "values": {
+                "rating": "4.60349273681641", 
+                "sodium": 525, 
+                "cal": 188, 
+                "chol": 31, 
+                "fat": 18.4, 
                 "reviews": "1073", 
                 "time": 45, 
-                "score": "4.60349273681641", 
-                "cal": 188
+                "carb": 5.2, 
+                "protein": 2.8
             }, 
             "name": "Pan-Fried Asparagus", 
             "key": 72345
         }, 
         {
             "values": {
+                "rating": "4.62201833724976", 
+                "sodium": 1139, 
+                "cal": 396, 
+                "chol": 42, 
+                "fat": 16.0, 
                 "reviews": "1160", 
                 "time": 160, 
-                "score": "4.62201833724976", 
-                "cal": 396
+                "carb": 44.5, 
+                "protein": 21.1
             }, 
             "name": "Artichoke Spinach Lasagna", 
             "key": 72346
         }, 
         {
             "values": {
+                "rating": "4.71676826477051", 
+                "sodium": 801, 
+                "cal": 489, 
+                "chol": 55, 
+                "fat": 24.5, 
                 "reviews": "839", 
                 "time": 180, 
-                "score": "4.71676826477051", 
-                "cal": 489
+                "carb": 43.8, 
+                "protein": 22.1
             }, 
             "name": "Baked Ziti IV", 
             "key": 72347
         }, 
         {
             "values": {
+                "rating": "4.52099370956421", 
+                "sodium": 1386, 
+                "cal": 673, 
+                "chol": 133, 
+                "fat": 30.8, 
                 "reviews": "1222", 
                 "time": 120, 
-                "score": "4.52099370956421", 
-                "cal": 673
+                "carb": 57.0, 
+                "protein": 43.3
             }, 
             "name": "Chicken Fettuccini Alfredo", 
             "key": 72348
         }, 
         {
             "values": {
+                "rating": "4.6411247253418", 
+                "sodium": 885, 
+                "cal": 400, 
+                "chol": 79, 
+                "fat": 19.7, 
                 "reviews": "1304", 
                 "time": 80, 
-                "score": "4.6411247253418", 
-                "cal": 400
+                "carb": 43.9, 
+                "protein": 14.8
             }, 
             "name": "Spinach Tomato Tortellini", 
             "key": 72349
         }, 
         {
             "values": {
+                "rating": "4.53250455856323", 
+                "sodium": 1473, 
+                "cal": 781, 
+                "chol": 141, 
+                "fat": 31.9, 
                 "reviews": "732", 
                 "time": 80, 
-                "score": "4.53250455856323", 
-                "cal": 781
+                "carb": 78.2, 
+                "protein": 43.6
             }, 
             "name": "Meatball Sandwich", 
             "key": 72350
         }, 
         {
             "values": {
+                "rating": "4.6269006729126", 
+                "sodium": 984, 
+                "cal": 335, 
+                "chol": 54, 
+                "fat": 14.6, 
                 "reviews": "637", 
                 "time": 180, 
-                "score": "4.6269006729126", 
-                "cal": 335
+                "carb": 26.2, 
+                "protein": 24.0
             }, 
             "name": "Bob's Awesome Lasagna", 
             "key": 72351
         }, 
         {
             "values": {
+                "rating": "4.79106283187866", 
+                "sodium": 192, 
+                "cal": 82, 
+                "chol": 32, 
+                "fat": 5.5, 
                 "reviews": "630", 
                 "time": 190, 
-                "score": "4.79106283187866", 
-                "cal": 82
+                "carb": 1.7, 
+                "protein": 6.2
             }, 
             "name": "Chef John's Italian Meatballs", 
             "key": 72352
         }, 
         {
             "values": {
+                "rating": "4.44680833816528", 
+                "sodium": 350, 
+                "cal": 500, 
+                "chol": 6, 
+                "fat": 18.3, 
                 "reviews": "708", 
                 "time": 60, 
-                "score": "4.44680833816528", 
-                "cal": 500
+                "carb": 69.7, 
+                "protein": 16.2
             }, 
             "name": "Pasta Pomodoro", 
             "key": 72353
         }, 
         {
             "values": {
+                "rating": "4.66505432128906", 
+                "sodium": 843, 
+                "cal": 462, 
+                "chol": 77, 
+                "fat": 19.5, 
                 "reviews": "594", 
                 "time": 185, 
-                "score": "4.66505432128906", 
-                "cal": 462
+                "carb": 49.6, 
+                "protein": 23.2
             }, 
             "name": "Hearty Vegetable Lasagna", 
             "key": 72354
         }, 
         {
             "values": {
+                "rating": "4.69270849227905", 
+                "sodium": 376, 
+                "cal": 213, 
+                "chol": 22, 
+                "fat": 10.1, 
                 "reviews": "645", 
                 "time": 30, 
-                "score": "4.69270849227905", 
-                "cal": 213
+                "carb": 23.4, 
+                "protein": 6.9
             }, 
             "name": "Toasted Garlic Bread", 
             "key": 72356
         }, 
         {
             "values": {
+                "rating": "4.67753219604492", 
+                "sodium": 1745, 
+                "cal": 558, 
+                "chol": 56, 
+                "fat": 25.2, 
                 "reviews": "685", 
                 "time": 100, 
-                "score": "4.67753219604492", 
-                "cal": 558
+                "carb": 57.4, 
+                "protein": 26.4
             }, 
             "name": "Tuscan Soup", 
             "key": 72357
         }, 
         {
             "values": {
+                "rating": "4.36024236679077", 
+                "sodium": 1022, 
+                "cal": 477, 
+                "chol": 100, 
+                "fat": 21.7, 
                 "reviews": "742", 
                 "time": 100, 
-                "score": "4.36024236679077", 
-                "cal": 477
+                "carb": 28.0, 
+                "protein": 40.3
             }, 
             "name": "The Best Parmesan Chicken Bake", 
             "key": 72358
         }, 
         {
             "values": {
+                "rating": "4.65628719329834", 
+                "sodium": 224, 
+                "cal": 321, 
+                "chol": 87, 
+                "fat": 18.2, 
                 "reviews": "624", 
                 "time": 50, 
-                "score": "4.65628719329834", 
-                "cal": 321
+                "carb": 8.4, 
+                "protein": 24.7
             }, 
             "name": "Quick Chicken Piccata", 
             "key": 72364
         }, 
         {
             "values": {
+                "rating": "4.39669418334961", 
+                "sodium": 1054, 
+                "cal": 735, 
+                "chol": 136, 
+                "fat": 44.2, 
                 "reviews": "705", 
                 "time": 120, 
-                "score": "4.39669418334961", 
-                "cal": 735
+                "carb": 47.6, 
+                "protein": 35.7
             }, 
             "name": "Tacos in Pasta Shells", 
             "key": 72365
         }, 
         {
             "values": {
+                "rating": "4.39827251434326", 
+                "sodium": 348, 
+                "cal": 421, 
+                "chol": 128, 
+                "fat": 21.2, 
                 "reviews": "771", 
                 "time": 100, 
-                "score": "4.39827251434326", 
-                "cal": 421
+                "carb": 16.1, 
+                "protein": 41.1
             }, 
             "name": "Lemon Chicken Piccata", 
             "key": 72366
         }, 
         {
             "values": {
+                "rating": "4.67114114761353", 
+                "sodium": 40, 
+                "cal": 83, 
+                "chol": 13, 
+                "fat": 3.1, 
                 "reviews": "753", 
                 "time": 80, 
-                "score": "4.67114114761353", 
-                "cal": 83
+                "carb": 12.3, 
+                "protein": 1.4
             }, 
             "name": "Biscotti", 
             "key": 72367
         }, 
         {
             "values": {
+                "rating": "4.37338638305664", 
+                "sodium": 547, 
+                "cal": 517, 
+                "chol": 15, 
+                "fat": 14.8, 
                 "reviews": "736", 
                 "time": 50, 
-                "score": "4.37338638305664", 
-                "cal": 517
+                "carb": 73.8, 
+                "protein": 21.0
             }, 
             "name": "Penne Pasta with Spinach and Bacon", 
             "key": 72368
         }, 
         {
             "values": {
+                "rating": "4.43566608428955", 
+                "sodium": 886, 
+                "cal": 585, 
+                "chol": 123, 
+                "fat": 40.3, 
                 "reviews": "630", 
                 "time": 130, 
-                "score": "4.43566608428955", 
-                "cal": 585
+                "carb": 5.6, 
+                "protein": 49.5
             }, 
             "name": "Pesto Cheesy Chicken Rolls", 
             "key": 72369
         }, 
         {
             "values": {
+                "rating": "4.14694881439209", 
+                "sodium": 1420, 
+                "cal": 446, 
+                "chol": 72, 
+                "fat": 20.3, 
                 "reviews": "594", 
                 "time": 560, 
-                "score": "4.14694881439209", 
-                "cal": 446
+                "carb": 35.7, 
+                "protein": 31.2
             }, 
             "name": "Slow Cooker Lasagna", 
             "key": 72370
         }, 
         {
             "values": {
+                "rating": "4.50063037872314", 
+                "sodium": 768, 
+                "cal": 554, 
+                "chol": 92, 
+                "fat": 39.6, 
                 "reviews": "593", 
                 "time": 60, 
-                "score": "4.50063037872314", 
-                "cal": 554
+                "carb": 17.1, 
+                "protein": 31.8
             }, 
             "name": "Tender Italian Baked Chicken", 
             "key": 72372
         }, 
         {
             "values": {
+                "rating": "4.48186540603638", 
+                "sodium": 698, 
+                "cal": 297, 
+                "chol": 88, 
+                "fat": 19.2, 
                 "reviews": "545", 
                 "time": 80, 
-                "score": "4.48186540603638", 
-                "cal": 297
+                "carb": 1.5, 
+                "protein": 23.2
             }, 
             "name": "Modenese Pork Chops", 
             "key": 72373
         }, 
         {
             "values": {
+                "rating": "4", 
+                "sodium": 590, 
+                "cal": 261, 
+                "chol": 63, 
+                "fat": 6.1, 
                 "reviews": "598", 
                 "time": 1110, 
-                "score": "4", 
-                "cal": 261
+                "carb": 23.7, 
+                "protein": 27.1
             }, 
             "name": "Slow Cooker Chicken Cacciatore", 
             "key": 72374
         }, 
         {
             "values": {
+                "rating": "4.64213180541992", 
+                "sodium": 1197, 
+                "cal": 557, 
+                "chol": 98, 
+                "fat": 18.2, 
                 "reviews": "557", 
                 "time": 100, 
-                "score": "4.64213180541992", 
-                "cal": 557
+                "carb": 59.6, 
+                "protein": 37.0
             }, 
             "name": "Stuffed Shells I", 
             "key": 72375
         }, 
         {
             "values": {
+                "rating": "4.38431358337402", 
+                "sodium": 919, 
+                "cal": 730, 
+                "chol": 173, 
+                "fat": 42.6, 
                 "reviews": "574", 
                 "time": 120, 
-                "score": "4.38431358337402", 
-                "cal": 730
+                "carb": 52.7, 
+                "protein": 33.1
             }, 
             "name": "Chicken Tetrazzini IV", 
             "key": 72376
         }, 
         {
             "values": {
+                "rating": "4.6264443397522", 
+                "sodium": 94, 
+                "cal": 291, 
+                "chol": 97, 
+                "fat": 17.2, 
                 "reviews": "561", 
                 "time": 260, 
-                "score": "4.6264443397522", 
-                "cal": 291
+                "carb": 1.3, 
+                "protein": 30.8
             }, 
             "name": "Roast Chicken with Rosemary", 
             "key": 72377
         }, 
         {
             "values": {
+                "rating": "4.60405397415161", 
+                "sodium": 1041, 
+                "cal": 539, 
+                "chol": 45, 
+                "fat": 29.8, 
                 "reviews": "569", 
                 "time": 130, 
-                "score": "4.60405397415161", 
-                "cal": 539
+                "carb": 45.8, 
+                "protein": 20.2
             }, 
             "name": "Sausage, Peppers, Onions, and Potato Bake", 
             "key": 72379
         }, 
         {
             "values": {
+                "rating": "4.35218524932861", 
+                "sodium": 701, 
+                "cal": 490, 
+                "chol": 74, 
+                "fat": 24.8, 
                 "reviews": "565", 
                 "time": 120, 
-                "score": "4.35218524932861", 
-                "cal": 490
+                "carb": 39.8, 
+                "protein": 25.3
             }, 
             "name": "Baked Spaghetti I", 
             "key": 72380
         }, 
         {
             "values": {
+                "rating": "4.61002445220947", 
+                "sodium": 1211, 
+                "cal": 416, 
+                "chol": 87, 
+                "fat": 14.2, 
                 "reviews": "634", 
                 "time": 100, 
-                "score": "4.61002445220947", 
-                "cal": 416
+                "carb": 43.3, 
+                "protein": 27.3
             }, 
             "name": "Italian Wedding Soup I", 
             "key": 72381
         }, 
         {
             "values": {
+                "rating": "4.60050249099731", 
+                "sodium": 870, 
+                "cal": 377, 
+                "chol": 89, 
+                "fat": 16.7, 
                 "reviews": "623", 
                 "time": 160, 
-                "score": "4.60050249099731", 
-                "cal": 377
+                "carb": 26.4, 
+                "protein": 29.4
             }, 
             "name": "Easy Lasagna II", 
             "key": 72382
         }, 
         {
             "values": {
+                "rating": "4.54064512252808", 
+                "sodium": 164, 
+                "cal": 497, 
+                "chol": 97, 
+                "fat": 26.1, 
                 "reviews": "567", 
                 "time": 60, 
-                "score": "4.54064512252808", 
-                "cal": 497
+                "carb": 42.6, 
+                "protein": 24.0
             }, 
             "name": "Penne with Chicken and Pesto", 
             "key": 72383
         }, 
         {
             "values": {
+                "rating": "4.26010084152222", 
+                "sodium": 1177, 
+                "cal": 572, 
+                "chol": 87, 
+                "fat": 17.0, 
                 "reviews": "599", 
                 "time": 150, 
-                "score": "4.26010084152222", 
-                "cal": 572
+                "carb": 80.1, 
+                "protein": 27.7
             }, 
             "name": "Jenn's Out Of This World Spaghetti and Meatballs", 
             "key": 72384
         }, 
         {
             "values": {
+                "rating": "4.68106746673584", 
+                "sodium": 113, 
+                "cal": 568, 
+                "chol": 303, 
+                "fat": 31.8, 
                 "reviews": "631", 
                 "time": 180, 
-                "score": "4.68106746673584", 
-                "cal": 568
+                "carb": 59.6, 
+                "protein": 9.8
             }, 
             "name": "Classic Tiramisu", 
             "key": 72385
         }, 
         {
             "values": {
+                "rating": "4.68378400802612", 
+                "sodium": 621, 
+                "cal": 477, 
+                "chol": 38, 
+                "fat": 21.8, 
                 "reviews": "524", 
                 "time": 100, 
-                "score": "4.68378400802612", 
-                "cal": 477
+                "carb": 50.1, 
+                "protein": 20.5
             }, 
             "name": "Pasta Primavera with Italian Turkey Sausage", 
             "key": 72386
         }, 
         {
             "values": {
+                "rating": "4.59026908874512", 
+                "sodium": 195, 
+                "cal": 131, 
+                "chol": 0, 
+                "fat": 3.7, 
                 "reviews": "611", 
                 "time": 70, 
-                "score": "4.59026908874512", 
-                "cal": 131
+                "carb": 21.2, 
+                "protein": 3.0
             }, 
             "name": "Valentino's Pizza Crust", 
             "key": 72387
         }, 
         {
             "values": {
+                "rating": "4.44121217727661", 
+                "sodium": 154, 
+                "cal": 328, 
+                "chol": 22, 
+                "fat": 10.1, 
                 "reviews": "548", 
                 "time": 60, 
-                "score": "4.44121217727661", 
-                "cal": 328
+                "carb": 43.3, 
+                "protein": 17.4
             }, 
             "name": "Pesto Pasta with Chicken", 
             "key": 72388
         }, 
         {
             "values": {
+                "rating": "4.70100498199463", 
+                "sodium": 673, 
+                "cal": 157, 
+                "chol": 24, 
+                "fat": 8.6, 
                 "reviews": "624", 
                 "time": 210, 
-                "score": "4.70100498199463", 
-                "cal": 157
+                "carb": 11.9, 
+                "protein": 9.6
             }, 
             "name": "World's Best Pasta Sauce!", 
             "key": 72389
         }, 
         {
             "values": {
+                "rating": "4.70429229736328", 
+                "sodium": 1904, 
+                "cal": 380, 
+                "chol": 78, 
+                "fat": 25.4, 
                 "reviews": "461", 
                 "time": 130, 
-                "score": "4.70429229736328", 
-                "cal": 380
+                "carb": 21.1, 
+                "protein": 17.3
             }, 
             "name": "Restaurant-Style Zuppa Toscana", 
             "key": 72390
         }, 
         {
             "values": {
+                "rating": "4.36161327362061", 
+                "sodium": 379, 
+                "cal": 206, 
+                "chol": 34, 
+                "fat": 8.4, 
                 "reviews": "558", 
                 "time": 120, 
-                "score": "4.36161327362061", 
-                "cal": 206
+                "carb": 22.0, 
+                "protein": 13.2
             }, 
             "name": "Kay's Spaghetti and Lasagna Sauce", 
             "key": 72391
         }, 
         {
             "values": {
+                "rating": "4.46498584747314", 
+                "sodium": 746, 
+                "cal": 465, 
+                "chol": 100, 
+                "fat": 23.8, 
                 "reviews": "526", 
                 "time": 100, 
-                "score": "4.46498584747314", 
-                "cal": 465
+                "carb": 30.6, 
+                "protein": 30.5
             }, 
             "name": "Beefy Baked Ravioli", 
             "key": 72393
         }, 
         {
             "values": {
+                "rating": "4.41013813018799", 
+                "sodium": 459, 
+                "cal": 230, 
+                "chol": 41, 
+                "fat": 9.4, 
                 "reviews": "498", 
                 "time": 50, 
-                "score": "4.41013813018799", 
-                "cal": 230
+                "carb": 8.2, 
+                "protein": 21.2
             }, 
             "name": "Fish Fillets Italiano", 
             "key": 72394
         }, 
         {
             "values": {
+                "rating": "4.5724139213562", 
+                "sodium": 1060, 
+                "cal": 495, 
+                "chol": 104, 
+                "fat": 26.4, 
                 "reviews": "547", 
                 "time": 180, 
-                "score": "4.5724139213562", 
-                "cal": 495
+                "carb": 36.2, 
+                "protein": 28.0
             }, 
             "name": "Creamy Chicken Lasagna", 
             "key": 72395
         }, 
         {
             "values": {
+                "rating": "4.64564561843872", 
+                "sodium": 1045, 
+                "cal": 169, 
+                "chol": 71, 
+                "fat": 6.9, 
                 "reviews": "528", 
                 "time": 90, 
-                "score": "4.64564561843872", 
-                "cal": 169
+                "carb": 12.7, 
+                "protein": 13.1
             }, 
             "name": "Mama's Italian Wedding Soup", 
             "key": 72396
         }, 
         {
             "values": {
+                "rating": "4.44642877578735", 
+                "sodium": 1223, 
+                "cal": 403, 
+                "chol": 3, 
+                "fat": 7.6, 
                 "reviews": "537", 
                 "time": 200, 
-                "score": "4.44642877578735", 
-                "cal": 403
+                "carb": 68.0, 
+                "protein": 16.3
             }, 
             "name": "Andrea's Pasta Fagioli", 
             "key": 72397
         }, 
         {
             "values": {
+                "rating": "4.41894054412842", 
+                "sodium": 222, 
+                "cal": 251, 
+                "chol": 11, 
+                "fat": 10.8, 
                 "reviews": "413", 
                 "time": 150, 
-                "score": "4.41894054412842", 
-                "cal": 251
+                "carb": 34.2, 
+                "protein": 5.4
             }, 
             "name": "Roasted Garlic Mashed Potatoes", 
             "key": 72398
         }, 
         {
             "values": {
+                "rating": "4.3006534576416", 
+                "sodium": 622, 
+                "cal": 660, 
+                "chol": 155, 
+                "fat": 44.9, 
                 "reviews": "463", 
                 "time": 60, 
-                "score": "4.3006534576416", 
-                "cal": 660
+                "carb": 37.4, 
+                "protein": 26.8
             }, 
             "name": "Amazing Italian Lemon Butter Chicken", 
             "key": 72399
         }, 
         {
             "values": {
+                "rating": "4.37668180465698", 
+                "sodium": 941, 
+                "cal": 538, 
+                "chol": 181, 
+                "fat": 38.9, 
                 "reviews": "500", 
                 "time": 150, 
-                "score": "4.37668180465698", 
-                "cal": 538
+                "carb": 15.6, 
+                "protein": 29.8
             }, 
             "name": "Italian Style Meatloaf I", 
             "key": 72400
@@ -853,23 +1278,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 

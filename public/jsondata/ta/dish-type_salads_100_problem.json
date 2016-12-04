@@ -2,550 +2,825 @@
     "options": [
         {
             "values": {
+                "rating": "4.60103607177734", 
+                "sodium": 796, 
+                "cal": 183, 
+                "chol": 10, 
+                "fat": 3.9, 
                 "reviews": "748", 
                 "time": 100, 
-                "score": "4.60103607177734", 
-                "cal": 183
+                "carb": 32.2, 
+                "protein": 5.4
             }, 
             "name": "Authentic German Potato Salad", 
             "key": 9601
         }, 
         {
             "values": {
+                "rating": "4.62409830093384", 
+                "sodium": 978, 
+                "cal": 451, 
+                "chol": 37, 
+                "fat": 29.1, 
                 "reviews": "1014", 
                 "time": 130, 
-                "score": "4.62409830093384", 
-                "cal": 451
+                "carb": 33.2, 
+                "protein": 15.0
             }, 
             "name": "Antipasto Pasta Salad", 
             "key": 9602
         }, 
         {
             "values": {
+                "rating": "4.76957273483276", 
+                "sodium": 353, 
+                "cal": 374, 
+                "chol": 18, 
+                "fat": 27.2, 
                 "reviews": "865", 
                 "time": 60, 
-                "score": "4.76957273483276", 
-                "cal": 374
+                "carb": 28.5, 
+                "protein": 7.3
             }, 
             "name": "Fresh Broccoli Salad", 
             "key": 9603
         }, 
         {
             "values": {
+                "rating": "4.60530090332031", 
+                "sodium": 543, 
+                "cal": 273, 
+                "chol": 35, 
+                "fat": 24.0, 
                 "reviews": "1064", 
                 "time": 60, 
-                "score": "4.60530090332031", 
-                "cal": 273
+                "carb": 7.3, 
+                "protein": 8.1
             }, 
             "name": "Bodacious Broccoli Salad", 
             "key": 9606
         }, 
         {
             "values": {
+                "rating": "4.6097559928894", 
+                "sodium": 168, 
+                "cal": 427, 
+                "chol": 0, 
+                "fat": 23.7, 
                 "reviews": "29", 
                 "time": 95, 
-                "score": "4.6097559928894", 
-                "cal": 427
+                "carb": 49.5, 
+                "protein": 8.4
             }, 
             "name": "Quinoa Salad with Grapefruit, Avocado, and Arugula", 
             "key": 9612
         }, 
         {
             "values": {
+                "rating": "4.78544044494629", 
+                "sodium": 584, 
+                "cal": 559, 
+                "chol": 31, 
+                "fat": 48.1, 
                 "reviews": "1118", 
                 "time": 60, 
-                "score": "4.78544044494629", 
-                "cal": 559
+                "carb": 23.9, 
+                "protein": 12.9
             }, 
             "name": "Alyson's Broccoli Salad", 
             "key": 9615
         }, 
         {
             "values": {
+                "rating": "4.44816589355469", 
+                "sodium": 308, 
+                "cal": 349, 
+                "chol": 24, 
+                "fat": 15.2, 
                 "reviews": "924", 
                 "time": 60, 
-                "score": "4.44816589355469", 
-                "cal": 349
+                "carb": 38.3, 
+                "protein": 15.9
             }, 
             "name": "Sesame Pasta Chicken Salad", 
             "key": 9616
         }, 
         {
             "values": {
+                "rating": "4.75049257278442", 
+                "sodium": 549, 
+                "cal": 384, 
+                "chol": 18, 
+                "fat": 33.5, 
                 "reviews": "1172", 
                 "time": 70, 
-                "score": "4.75049257278442", 
-                "cal": 384
+                "carb": 16.3, 
+                "protein": 5.8
             }, 
             "name": "Caesar Salad Supreme", 
             "key": 9617
         }, 
         {
             "values": {
+                "rating": "4.78918218612671", 
+                "sodium": 58, 
+                "cal": 338, 
+                "chol": 4, 
+                "fat": 23.5, 
                 "reviews": "2722", 
                 "time": 40, 
-                "score": "4.78918218612671", 
-                "cal": 338
+                "carb": 30.4, 
+                "protein": 4.9
             }, 
             "name": "Jamie's Cranberry Spinach Salad", 
             "key": 9618
         }, 
         {
             "values": {
+                "rating": "4.46492052078247", 
+                "sodium": 529, 
+                "cal": 390, 
+                "chol": 8, 
+                "fat": 18.7, 
                 "reviews": "1682", 
                 "time": 300, 
-                "score": "4.46492052078247", 
-                "cal": 390
+                "carb": 49.3, 
+                "protein": 6.8
             }, 
             "name": "Classic Macaroni Salad", 
             "key": 9619
         }, 
         {
             "values": {
+                "rating": "4.4714035987854", 
+                "sodium": 691, 
+                "cal": 336, 
+                "chol": 31, 
+                "fat": 26.8, 
                 "reviews": "839", 
                 "time": 110, 
-                "score": "4.4714035987854", 
-                "cal": 336
+                "carb": 14.9, 
+                "protein": 9.3
             }, 
             "name": "Bacon Ranch Pasta Salad", 
             "key": 9621
         }, 
         {
             "values": {
+                "rating": "4.61747741699219", 
+                "sodium": 351, 
+                "cal": 344, 
+                "chol": 382, 
+                "fat": 31.9, 
                 "reviews": "847", 
                 "time": 60, 
-                "score": "4.61747741699219", 
-                "cal": 344
+                "carb": 2.3, 
+                "protein": 13.0
             }, 
             "name": "Delicious Egg Salad for Sandwiches", 
             "key": 9622
         }, 
         {
             "values": {
+                "rating": "4.60465097427368", 
+                "sodium": 405, 
+                "cal": 218, 
+                "chol": 11, 
+                "fat": 19.2, 
                 "reviews": "271", 
                 "time": 40, 
-                "score": "4.60465097427368", 
-                "cal": 218
+                "carb": 6.2, 
+                "protein": 6.5
             }, 
             "name": "Green Salad with Cranberry Vinaigrette", 
             "key": 9624
         }, 
         {
             "values": {
+                "rating": "4.85520601272583", 
+                "sodium": 654, 
+                "cal": 426, 
+                "chol": 21, 
+                "fat": 31.6, 
                 "reviews": "1320", 
                 "time": 60, 
-                "score": "4.85520601272583", 
-                "cal": 426
+                "carb": 33.1, 
+                "protein": 8.0
             }, 
             "name": "Roquefort Pear Salad", 
             "key": 9627
         }, 
         {
             "values": {
+                "rating": "4.60103607177734", 
+                "sodium": 796, 
+                "cal": 183, 
+                "chol": 10, 
+                "fat": 3.9, 
                 "reviews": "748", 
                 "time": 100, 
-                "score": "4.60103607177734", 
-                "cal": 183
+                "carb": 32.2, 
+                "protein": 5.4
             }, 
             "name": "Authentic German Potato Salad", 
             "key": 9630
         }, 
         {
             "values": {
+                "rating": "4.76235294342041", 
+                "sodium": 675, 
+                "cal": 270, 
+                "chol": 0, 
+                "fat": 11.5, 
                 "reviews": "635", 
                 "time": 60, 
-                "score": "4.76235294342041", 
-                "cal": 270
+                "carb": 33.8, 
+                "protein": 8.9
             }, 
             "name": "Zesty Quinoa Salad", 
             "key": 9631
         }, 
         {
             "values": {
+                "rating": "4.51537084579468", 
+                "sodium": 944, 
+                "cal": 532, 
+                "chol": 133, 
+                "fat": 25.3, 
                 "reviews": "911", 
                 "time": 110, 
-                "score": "4.51537084579468", 
-                "cal": 532
+                "carb": 66.0, 
+                "protein": 9.0
             }, 
             "name": "Amish Macaroni Salad", 
             "key": 9632
         }, 
         {
             "values": {
+                "rating": "4.60996770858765", 
+                "sodium": 1279, 
+                "cal": 746, 
+                "chol": 70, 
+                "fat": 56.1, 
                 "reviews": "685", 
                 "time": 170, 
-                "score": "4.60996770858765", 
-                "cal": 746
+                "carb": 40.4, 
+                "protein": 22.1
             }, 
             "name": "Greek Pasta Salad I", 
             "key": 9633
         }, 
         {
             "values": {
+                "rating": "4.62801218032837", 
+                "sodium": 341, 
+                "cal": 322, 
+                "chol": 20, 
+                "fat": 16.1, 
                 "reviews": "509", 
                 "time": 60, 
-                "score": "4.62801218032837", 
-                "cal": 322
+                "carb": 38.7, 
+                "protein": 9.0
             }, 
             "name": "Broccoli and Tortellini Salad", 
             "key": 9637
         }, 
         {
             "values": {
+                "rating": "4.5962963104248", 
+                "sodium": 907, 
+                "cal": 421, 
+                "chol": 40, 
+                "fat": 35.1, 
                 "reviews": "612", 
                 "time": 50, 
-                "score": "4.5962963104248", 
-                "cal": 421
+                "carb": 14.8, 
+                "protein": 12.5
             }, 
             "name": "BLT Salad", 
             "key": 9641
         }, 
         {
             "values": {
+                "rating": "4.45065402984619", 
+                "sodium": 383, 
+                "cal": 354, 
+                "chol": 0, 
+                "fat": 16.6, 
                 "reviews": "608", 
                 "time": 60, 
-                "score": "4.45065402984619", 
-                "cal": 354
+                "carb": 45.7, 
+                "protein": 9.6
             }, 
             "name": "Quinoa Tabbouleh", 
             "key": 9644
         }, 
         {
             "values": {
+                "rating": "4.54157066345215", 
+                "sodium": 512, 
+                "cal": 205, 
+                "chol": 10, 
+                "fat": 6.5, 
                 "reviews": "697", 
                 "time": 120, 
-                "score": "4.54157066345215", 
-                "cal": 205
+                "carb": 32.9, 
+                "protein": 4.3
             }, 
             "name": "Hot German Potato Salad III", 
             "key": 9645
         }, 
         {
             "values": {
+                "rating": "4.43035364151001", 
+                "sodium": 335, 
+                "cal": 206, 
+                "chol": 72, 
+                "fat": 7.6, 
                 "reviews": "732", 
                 "time": 120, 
-                "score": "4.43035364151001", 
-                "cal": 206
+                "carb": 30.5, 
+                "protein": 5.5
             }, 
             "name": "Old Fashioned Potato Salad", 
             "key": 9648
         }, 
         {
             "values": {
+                "rating": "4.72983884811401", 
+                "sodium": 785, 
+                "cal": 365, 
+                "chol": 102, 
+                "fat": 22.9, 
                 "reviews": "541", 
                 "time": 260, 
-                "score": "4.72983884811401", 
-                "cal": 365
+                "carb": 34.7, 
+                "protein": 6.5
             }, 
             "name": "The Best Potato Salad", 
             "key": 9649
         }, 
         {
             "values": {
+                "rating": "4.18255233764648", 
+                "sodium": 1069, 
+                "cal": 701, 
+                "chol": 445, 
+                "fat": 56.2, 
                 "reviews": "467", 
                 "time": 980, 
-                "score": "4.18255233764648", 
-                "cal": 701
+                "carb": 31.6, 
+                "protein": 17.5
             }, 
             "name": "Egg Salad Sandwiches", 
             "key": 9650
         }, 
         {
             "values": {
+                "rating": "4.61752986907959", 
+                "sodium": 713, 
+                "cal": 278, 
+                "chol": 45, 
+                "fat": 13.9, 
                 "reviews": "361", 
                 "time": 70, 
-                "score": "4.61752986907959", 
-                "cal": 278
+                "carb": 20.1, 
+                "protein": 18.4
             }, 
             "name": "Mediterranean Quinoa Salad", 
             "key": 9651
         }, 
         {
             "values": {
+                "rating": "4.60606050491333", 
+                "sodium": 403, 
+                "cal": 779, 
+                "chol": 126, 
+                "fat": 63.1, 
                 "reviews": "420", 
                 "time": 20, 
-                "score": "4.60606050491333", 
-                "cal": 779
+                "carb": 8.4, 
+                "protein": 44.3
             }, 
             "name": "Basic Chicken Salad", 
             "key": 9654
         }, 
         {
             "values": {
+                "rating": "4.38114738464355", 
+                "sodium": 711, 
+                "cal": 341, 
+                "chol": 26, 
+                "fat": 15.5, 
                 "reviews": "375", 
                 "time": 230, 
-                "score": "4.38114738464355", 
-                "cal": 341
+                "carb": 38.2, 
+                "protein": 12.2
             }, 
             "name": "BLT Pasta Salad", 
             "key": 9655
         }, 
         {
             "values": {
+                "rating": "4.63402080535889", 
+                "sodium": 225, 
+                "cal": 414, 
+                "chol": 55, 
+                "fat": 18.0, 
                 "reviews": "463", 
                 "time": 70, 
-                "score": "4.63402080535889", 
-                "cal": 414
+                "carb": 39.2, 
+                "protein": 22.7
             }, 
             "name": "Asian Chicken Salad", 
             "key": 9656
         }, 
         {
             "values": {
+                "rating": "4.59385681152344", 
+                "sodium": 455, 
+                "cal": 460, 
+                "chol": 196, 
+                "fat": 27.4, 
                 "reviews": "437", 
                 "time": 180, 
-                "score": "4.59385681152344", 
-                "cal": 460
+                "carb": 44.6, 
+                "protein": 11.3
             }, 
             "name": "Southern Potato Salad", 
             "key": 9657
         }, 
         {
             "values": {
+                "rating": "4.67869424819946", 
+                "sodium": 667, 
+                "cal": 387, 
+                "chol": 51, 
+                "fat": 32.7, 
                 "reviews": "445", 
                 "time": 60, 
-                "score": "4.67869424819946", 
-                "cal": 387
+                "carb": 9.9, 
+                "protein": 14.5
             }, 
             "name": "Seven Layer Salad", 
             "key": 9660
         }, 
         {
             "values": {
+                "rating": "4.64521169662476", 
+                "sodium": 1606, 
+                "cal": 311, 
+                "chol": 36, 
+                "fat": 6.4, 
                 "reviews": "429", 
                 "time": 80, 
-                "score": "4.64521169662476", 
-                "cal": 311
+                "carb": 42.2, 
+                "protein": 23.0
             }, 
             "name": "Chicken Fiesta Salad", 
             "key": 9664
         }, 
         {
             "values": {
+                "rating": "4.56747961044312", 
+                "sodium": 543, 
+                "cal": 253, 
+                "chol": 0, 
+                "fat": 12.5, 
                 "reviews": "470", 
                 "time": 50, 
-                "score": "4.56747961044312", 
-                "cal": 253
+                "carb": 30.5, 
+                "protein": 7.1
             }, 
             "name": "Ramen Coleslaw", 
             "key": 9665
         }, 
         {
             "values": {
+                "rating": "4.64299821853638", 
+                "sodium": 913, 
+                "cal": 310, 
+                "chol": 31, 
+                "fat": 17.7, 
                 "reviews": "386", 
                 "time": 80, 
-                "score": "4.64299821853638", 
-                "cal": 310
+                "carb": 25.9, 
+                "protein": 12.9
             }, 
             "name": "Awesome Pasta Salad", 
             "key": 9666
         }, 
         {
             "values": {
+                "rating": "4.53526973724365", 
+                "sodium": 291, 
+                "cal": 315, 
+                "chol": 73, 
+                "fat": 23.7, 
                 "reviews": "382", 
                 "time": 190, 
-                "score": "4.53526973724365", 
-                "cal": 315
+                "carb": 22.3, 
+                "protein": 4.5
             }, 
             "name": "New Red Potato Salad", 
             "key": 9667
         }, 
         {
             "values": {
+                "rating": "4.42181062698364", 
+                "sodium": 1540, 
+                "cal": 449, 
+                "chol": 4, 
+                "fat": 27.4, 
                 "reviews": "352", 
                 "time": 120, 
-                "score": "4.42181062698364", 
-                "cal": 449
+                "carb": 45.1, 
+                "protein": 8.4
             }, 
             "name": "Garden Pasta Salad", 
             "key": 9668
         }, 
         {
             "values": {
+                "rating": "4.47073173522949", 
+                "sodium": 223, 
+                "cal": 212, 
+                "chol": 284, 
+                "fat": 18.4, 
                 "reviews": "292", 
                 "time": 42, 
-                "score": "4.47073173522949", 
-                "cal": 212
+                "carb": 3.2, 
+                "protein": 9.9
             }, 
             "name": "Jen's Heavenly Egg Salad", 
             "key": 9670
         }, 
         {
             "values": {
+                "rating": "4.8354115486145", 
+                "sodium": 273, 
+                "cal": 308, 
+                "chol": 22, 
+                "fat": 19.2, 
                 "reviews": "266", 
                 "time": 20, 
-                "score": "4.8354115486145", 
-                "cal": 308
+                "carb": 29.4, 
+                "protein": 7.4
             }, 
             "name": "Missy's Candied Walnut Gorgonzola Salad", 
             "key": 9674
         }, 
         {
             "values": {
+                "rating": "4.60249996185303", 
+                "sodium": 503, 
+                "cal": 353, 
+                "chol": 21, 
+                "fat": 25.9, 
                 "reviews": "314", 
                 "time": 120, 
-                "score": "4.60249996185303", 
-                "cal": 353
+                "carb": 24.8, 
+                "protein": 6.5
             }, 
             "name": "Texas Ranch Potato Salad", 
             "key": 9677
         }, 
         {
             "values": {
+                "rating": "4.64568758010864", 
+                "sodium": 1420, 
+                "cal": 377, 
+                "chol": 17, 
+                "fat": 23.2, 
                 "reviews": "316", 
                 "time": 60, 
-                "score": "4.64568758010864", 
-                "cal": 377
+                "carb": 33.1, 
+                "protein": 13.1
             }, 
             "name": "Spinach and Tortellini Salad", 
             "key": 9679
         }, 
         {
             "values": {
+                "rating": "4.78239631652832", 
+                "sodium": 584, 
+                "cal": 559, 
+                "chol": 31, 
+                "fat": 48.1, 
                 "reviews": "320", 
                 "time": 60, 
-                "score": "4.78239631652832", 
-                "cal": 559
+                "carb": 23.9, 
+                "protein": 12.9
             }, 
             "name": "Alyson's Broccoli Salad", 
             "key": 9680
         }, 
         {
             "values": {
+                "rating": "4.54196643829346", 
+                "sodium": 13, 
+                "cal": 176, 
+                "chol": 0, 
+                "fat": 3.9, 
                 "reviews": "307", 
                 "time": 180, 
-                "score": "4.54196643829346", 
-                "cal": 176
+                "carb": 31.6, 
+                "protein": 5.4
             }, 
             "name": "Cranberry and Cilantro Quinoa Salad", 
             "key": 9681
         }, 
         {
             "values": {
+                "rating": "4.27051019668579", 
+                "sodium": 1580, 
+                "cal": 846, 
+                "chol": 70, 
+                "fat": 56.5, 
                 "reviews": "355", 
                 "time": 80, 
-                "score": "4.27051019668579", 
-                "cal": 846
+                "carb": 59.6, 
+                "protein": 26.1
             }, 
             "name": "Taco Salad I", 
             "key": 9682
         }, 
         {
             "values": {
+                "rating": "4.7024998664856", 
+                "sodium": 107, 
+                "cal": 347, 
+                "chol": 7, 
+                "fat": 26.1, 
                 "reviews": "282", 
                 "time": 80, 
-                "score": "4.7024998664856", 
-                "cal": 347
+                "carb": 25.0, 
+                "protein": 5.3
             }, 
             "name": "Beet Salad with Goat Cheese", 
             "key": 9683
         }, 
         {
             "values": {
+                "rating": "4.73095226287842", 
+                "sodium": 915, 
+                "cal": 525, 
+                "chol": 179, 
+                "fat": 39.9, 
                 "reviews": "271", 
                 "time": 100, 
-                "score": "4.73095226287842", 
-                "cal": 525
+                "carb": 10.2, 
+                "protein": 31.7
             }, 
             "name": "Cobb Salad", 
             "key": 9686
         }, 
         {
             "values": {
+                "rating": "4.64320373535156", 
+                "sodium": 844, 
+                "cal": 421, 
+                "chol": 49, 
+                "fat": 29.4, 
                 "reviews": "338", 
                 "time": 210, 
-                "score": "4.64320373535156", 
-                "cal": 421
+                "carb": 26.7, 
+                "protein": 13.8
             }, 
             "name": "Baked Potato Salad I", 
             "key": 9687
         }, 
         {
             "values": {
+                "rating": "4.64285707473755", 
+                "sodium": 312, 
+                "cal": 315, 
+                "chol": 0, 
+                "fat": 20.6, 
                 "reviews": "308", 
                 "time": 516, 
-                "score": "4.64285707473755", 
-                "cal": 315
+                "carb": 33.4, 
+                "protein": 1.7
             }, 
             "name": "Amish Slaw", 
             "key": 9689
         }, 
         {
             "values": {
+                "rating": "4.55068492889404", 
+                "sodium": 250, 
+                "cal": 328, 
+                "chol": 19, 
+                "fat": 12.8, 
                 "reviews": "301", 
                 "time": 110, 
-                "score": "4.55068492889404", 
-                "cal": 328
+                "carb": 46.1, 
+                "protein": 8.0
             }, 
             "name": "German Potato Salad", 
             "key": 9690
         }, 
         {
             "values": {
+                "rating": "4.72703409194946", 
+                "sodium": 263, 
+                "cal": 290, 
+                "chol": 3, 
+                "fat": 21.3, 
                 "reviews": "294", 
                 "time": 50, 
-                "score": "4.72703409194946", 
-                "cal": 290
+                "carb": 22.8, 
+                "protein": 4.6
             }, 
             "name": "Chinese Cabbage Salad I", 
             "key": 9691
         }, 
         {
             "values": {
+                "rating": "4.21818161010742", 
+                "sodium": 468, 
+                "cal": 217, 
+                "chol": 0, 
+                "fat": 10.3, 
                 "reviews": "299", 
                 "time": 60, 
-                "score": "4.21818161010742", 
-                "cal": 217
+                "carb": 27.2, 
+                "protein": 6.5
             }, 
             "name": "Southwestern Pasta Salad", 
             "key": 9694
         }, 
         {
             "values": {
+                "rating": "3.97647047042847", 
+                "sodium": 348, 
+                "cal": 183, 
+                "chol": 373, 
+                "fat": 12.8, 
                 "reviews": "262", 
                 "time": 50, 
-                "score": "3.97647047042847", 
-                "cal": 183
+                "carb": 4.2, 
+                "protein": 12.9
             }, 
             "name": "Egg Salad I", 
             "key": 9695
         }, 
         {
             "values": {
+                "rating": "4.65116262435913", 
+                "sodium": 321, 
+                "cal": 374, 
+                "chol": 24, 
+                "fat": 32.3, 
                 "reviews": "304", 
                 "time": 60, 
-                "score": "4.65116262435913", 
-                "cal": 374
+                "carb": 19.5, 
+                "protein": 4.7
             }, 
             "name": "Asian Salad", 
             "key": 9696
         }, 
         {
             "values": {
+                "rating": "4.70467853546143", 
+                "sodium": 243, 
+                "cal": 149, 
+                "chol": 14, 
+                "fat": 10.3, 
                 "reviews": "246", 
                 "time": 135, 
-                "score": "4.70467853546143", 
-                "cal": 149
+                "carb": 11.1, 
+                "protein": 3.9
             }, 
             "name": "Roasted Beets with Feta", 
             "key": 9697
         }, 
         {
             "values": {
+                "rating": "4.5280237197876", 
+                "sodium": 1344, 
+                "cal": 440, 
+                "chol": 31, 
+                "fat": 34.1, 
                 "reviews": "274", 
                 "time": 50, 
-                "score": "4.5280237197876", 
-                "cal": 440
+                "carb": 23.4, 
+                "protein": 12.2
             }, 
             "name": "B.L.T. Salad with Basil Mayo Dressing", 
             "key": 9698
         }, 
         {
             "values": {
+                "rating": "4.60465097427368", 
+                "sodium": 405, 
+                "cal": 218, 
+                "chol": 11, 
+                "fat": 19.2, 
                 "reviews": "271", 
                 "time": 40, 
-                "score": "4.60465097427368", 
-                "cal": 218
+                "carb": 6.2, 
+                "protein": 6.5
             }, 
             "name": "Green Salad with Cranberry Vinaigrette", 
             "key": 9700
@@ -553,23 +828,7 @@
     ], 
     "columns": [
         {
-            "key": "cal", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:2", 
-            "full_name": "Calories of food", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "time", 
-            "is_objective": true, 
-            "goal": "min", 
-            "format": "number:0", 
-            "full_name": "Total Making time", 
-            "type": "numeric"
-        }, 
-        {
-            "key": "score", 
+            "key": "rating", 
             "is_objective": true, 
             "goal": "max", 
             "format": "number:0.0", 
