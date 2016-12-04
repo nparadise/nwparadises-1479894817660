@@ -169,9 +169,11 @@ $(document).ready(function(){
 			var foodIngrs = singleFood.ingredients;		// get list of foods ingredients
 			var exit = false;							// save the condition to exit for loop
 			for (var sentence in foodIngrs) {
-				var senLower = sentence.toLowerCase();
+				var senLower = foodIngrs[sentence].toLowerCase();
+				console.log(senLower);
 				for (var exIng in exception) {
-					var ingLower = exIng.toLowerCase();
+					var ingLower = exception[exIng].toLowerCase();
+					console.log(ingLower);
 					if (senLower.search(ingLower) > -1) {	// if there is ingredient to avoid in the food, continue to most outer loop
 						j--;
 						exit = true;
