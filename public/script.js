@@ -18,30 +18,17 @@ $(document).ready(function(){
 		mainRequest();
 	});
 
-	$('.detail_name').click(function(){
-		$('.detail_wrap').slideToggle('slow');
-	});
-	
-	$('.detail_iT').click(function(){
-		$('.detail_i').slideToggle('slow');
-	});
-
-	$('.detail_dT').click(function(){
-		$('.detail_d').slideToggle('slow');
-	});
-
 	$('.msg_ex').click(function(){
-		$('.overlay').show();
-		//$('.examples').show();
+		$('.msg_wrap').slideToggle('slow');
+
 	});
 
 	$('.exText').click(function(){
+		$('.msg_wrap').slideToggle('slow');
 		var msg = $(this).text();
 		console.log(msg);
 		$('textarea').val(msg);
 		mainRequest();
-		//$('.examples').hide();
-		$('.overlay').hide();
 	});
 
 	$('textarea').keypress(
@@ -136,7 +123,7 @@ $(document).ready(function(){
 
 								var ratings = nowShowing[it].rating * 20;
 								// show food information
-								var htmlString = '<div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
+								var htmlString = '<div class="msg_a"><div class="chefPic"></div><div class="msg_ina"><div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
 												'<div class="detail_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="380" height="290"/></div>' + 
 												'<div class="detail_right"><div class="detail_rightText"><table><tr><td>cook time: </td><td>' + nowShowing[it].cook_time + ' m</td></tr>' +
 												'<tr><td>rating: </td><td><div class="detail_star"><p class="detail_star2" style="width: ' + ratings + '%;"</p></div></td></tr></table>' +
@@ -150,7 +137,7 @@ $(document).ready(function(){
 												'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + nowShowing[it].nutrition2.sodium + '</td></tr></table></div>' +
 								    			'<div class="detail_bottom"><div class="detail_iT detail_bT">Ingredient</div>' +
 								    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
-								      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div>';
+								      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div></div></div>';
 								$(htmlString).insertBefore('.msg_push');
 								$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 							}

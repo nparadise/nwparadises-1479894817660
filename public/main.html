@@ -14,17 +14,33 @@
   </head>
 
   <body>
+    <!--<div class="overlay"></div>-->
     <div class="msg_box">
       <div class="msg_head">My Chef, WATSON</div>
+      <div class="msg_ex">Examples</div>
       <div class="msg_wrap">
         <div class="msg_body">
           <div id="loading_image"></div>
           <div class="msg_push"></div>
         </div>
       <div class="msg_footer">
-        <textarea class="msg_input" placeholder="Ask something to Watson!"rows="3"></textarea>
+        <textarea class="msg_input" placeholder="Ask something you want to eat to Watson! You can also click and see Examples on the top right button of the screen."rows="3"></textarea>
         <div class="msg_click">Send</div>
       </div>
+      </div>
+    </div>
+    <div style="padding: 50px"></div>
+    <div class="examples">
+      <div class="ex_head">Click the sentence. Then, the sentence will be send to Watson.</div>
+      <div class="ex_body">
+        <div class="exText">Hello?</div>
+        <div class="exDescribe"> ->This question can make Watson greeting you.</div>
+        <div class="exText">Today is Christmas, so can you recommend me some food?</div>
+        <div class="exDescribe"> ->This question can make Watson recommend some food that is related to Christmas. Each time, he recommend 4 dishes.</div>
+        <div class="exText">Anything else?</div>
+        <div class="exDescribe"> ->This question can only works after seeing recommended dishes. If you ask this question, MC Watson will show you another 4 dishes.</div>
+        <div class="exText">I want to eat Christmas Cake!</div>
+        <div class="exDescribe"> ->This question can only works after some questions that is similiar to question2. MC Watson will show you more information about that dish.</div>
       </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
