@@ -104,7 +104,7 @@ $(document).ready(function(){
 				}
 
 				// if next flag is true, show next 4 foods
-				if (context.hasOwnProperty('next') && context.next === true) {
+				if (context.hasOwnProperty('next') && context.next === true && parsedData.intents[0].intent === "Next_foods") {
 					printExamples();
 					delete context.next;
 					console.log(context);
