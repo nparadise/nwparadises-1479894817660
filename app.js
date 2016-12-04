@@ -152,6 +152,8 @@ app.post("/test", function(req, res) {
                             console.log("I think you are very disappointed with my suggestions.");
                             save_anger = true;
                             response.context.next = true;
+                            if (current_intent === "IngredientException")
+                                response.context.next = false;
                         } else {
                             save_anger = false;
                         }
