@@ -65,12 +65,6 @@ var natural_language_classifier = watson.natural_language_classifier({
     version: 'v1'
 });
 
-var tradeoff_analytics = watson.tradeoff_analytics({
-  username: '87172859-e18c-4bc5-8dcd-6eca8e51e61d',
-  password: 'exX3L0bJuSVU',
-  version: 'v1'
-});
-
 // replace with the context obtained from the initial request
 var allFoodList = [];
 var intent2check = ['Next_foods', 'Events', 'Time', 'Health'];
@@ -117,15 +111,6 @@ app.post("/start", function(req, res) {
     });
 });
 
-var options = new Array();
-var newOp = {
-	'type':'numeric', 
-	"is_objective": true
-};
-var isSysNum = false;
-var isMin = true;
-var isLM = false;
-var theme_intent = '';
 var classifyingDeterminator = JSON.parse(fs.readFileSync(directory + '/intentClassifyingData.json', 'utf8'));
 app.post("/test", function(req, res) {
     console.log(req.body);
@@ -158,7 +143,7 @@ app.post("/test", function(req, res) {
                         console.log(response);
                         if (response.intents.length > 0)
                             current_intent = response.intents[0].intent;
-                        	theme_intent = response.intents[0].intent;
+
                         tone_analyzer.tone({
                             text: input_sentence
                         }, function(err, tone) {
@@ -205,103 +190,7 @@ app.post("/test", function(req, res) {
                     else {
                         console.log(response);
                         response.context.main = false;
-
-                        console.log("in tradeoff");
-                        
-                        if (isSysNum) {
-                        	var enti = response.entities;
-                    		for (var e in enti) {
-	                    		if (enti[e].entity === 'nutrition') {
-	                    			newOp['key'] = enti[e].value;
-	                    		} else if (enti[e].entity === 'sys-number') {
-	                    			newOp['range'] = {}
-	                    			if (isMin) {
-		                        		newOp['range']['low'] = 0;
-		                        		newOp['range']['high'] = parseInt(response.entities[0].value);
-		                        	} else {
-		                        		newOp['range']['low'] = parseInt(response.entities[0].value);
-		                        		newOp['range']['high'] = 3000;
-		                        	}
-	                    		}
-                        	}
-                        	isSysNum = false;
-                        	console.log("add SysNum:\n" + JSON.stringify(newOp, null, 2));
-                        	options.push(newOp);
-                        	newOp = {
-								'type':'numeric', 
-								"is_objective": true
-							};
-                        } else if (response.intents[0].intent === 'negative') {
-                        	console.log("adding option phase is end. send query\n");
-                        	if (theme_intent === "") {
-                        		var params = require("./public/jsondata/ta/foods_100_problem.json");
-                        	} else {
-                        		var params = require("./public/jsondata/ta/" + entity + "_" + category + "_100_problem.json");
-                        	} 	
-      
-                        	for (op in options) {
-                        		params['columns'].push(options[op]);
-                        	}
-                        	console.log(JSON.stringify(params['columns'], null, 2));
-                        	tradeoff_analytics.dilemmas(params, function(error, resol) {
-								if (error)
-									console.log('error:', error)
-								else {
-									//console.log(JSON.stringify(resol, null, 2));
-
-									var result = {
-										"recommand":[]
-									};
-									//console.log(JSON.stringify(resol['resolution']['solutions'], null, 2));
-									var sol = resol['resolution']['solutions'];
-									for (var i in sol) {
-										console.log(JSON.stringify(sol[i], null, 2));
-										if (sol[i]['status'] === 'FRONT') {
-											console.log(sol[i]['solution_ref']);
-											result['recommand'].push(sol[i]['solution_ref']);
-										}
-									}
-									console.log(JSON.stringify(result, null, 2))
-									response.context.tra = result;
-									console.log("success recommand using tra");
-								}
-						    });
-                        	options = new Array(); // reset option
-                        } else if (response.intents[0].intent === 'positive') {
-                        	// through
-                        } else if (response.intents[0].intent === 'less') {                        		
-                    		newOp["format"] = "number:0.0";
-                    		newOp['goal'] = 'min';
-                        	newOp['key'] = response.entities[0].value;
-                        	isMin = true;
-                        	isSysNum = true;
-                        	isLM = true;
-                        	console.log("add columns(less):\n" + JSON.stringify(newOp, null, 2));
-                        } else if (response.intents[0].intent === 'more') {
-                        	newOp["format"] = "number:0.0";
-                    		newOp['goal'] = 'max';
-                        	console.log("add columns(more):\n" + JSON.stringify(newOp, null, 2));
-                        	isMin = false;
-          					isSysNum = true;
-                        	isLM = true;
-                        } else {
-                        	newOp["format"] = "number:0.0";
-                    		newOp['goal'] = 'min';
-                        	newOp['key'] = response.intents[0].intent;
-                        	if (response.intents[0].intent === 'protein') {
-                        		newOp['goal'] = 'max';
-                        		isMin = false;
-                        	} else {
-                        		isMin = true;
-                        		console.log("wrong value?:\n" + response.entities[0].value);
-                        	}
-                        	isSysNum = true;
-                        	isLM = false;
-                        	console.log("add columns(else):\n" + JSON.stringify(newOp, null, 2));
-                        }
-            
                         res.json(response);
-
                     }
                 });
             }
