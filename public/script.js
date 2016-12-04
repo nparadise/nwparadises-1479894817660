@@ -295,9 +295,11 @@ $(document).ready(function(){
 			console.log(context['world-cuisine'] + ' is came for input.');
 			category = context["world-cuisine"];
 			getData('world-cuisine');
+			delete context['world-cuisine'];
 		} else if (context.hasOwnProperty('common')) {
 			console.log(context['common'] + 'is came for input');
 			findCommonFood(context['common']);
+			delete context.common;
 		}
 		printExamples();	// after get list, print list
 	}
