@@ -84,6 +84,13 @@ for (var j in target) {
         protein = initialNut[3].split(" "),
         cholesterol = initialNut[4].split(" "),
         sodium = initialNut[5].split(" ");
+    var initialNut = target[j].nutrition,
+        per_calories = initialNut[0].split("kcal"),
+        per_fat = initialNut[1].split("g"),
+        per_carb = initialNut[2].split("g"),
+        per_protein = initialNut[3].split("g"),
+        per_chol = initialNut[4].split("mg"),
+        per_sodium = initialNut[5].split("mg");
     var nutritionObj = {
         'calories': calories[1],
         'fat': fat[1],
@@ -92,7 +99,16 @@ for (var j in target) {
         'cholesterol': cholesterol[1],
         'sodium': sodium[1]
     };
+    var nutri2 = {
+        'calories': per_calories[1],
+        'fat': per_fat[1],
+        'carbohydrate': per_carb[1],
+        'protein': per_protein[1],
+        'cholesterol': per_chol[1],
+        'sodium': per_sodium[1]
+    };
     target[j].nutrition = nutritionObj;
+    target[j].nutrition2 = nutri2;
 }
 
 app.post("/start", function(req, res) {
