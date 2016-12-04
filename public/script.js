@@ -12,6 +12,7 @@ $(document).ready(function(){
 
 	$('.msg_head').click(function(){
 		$('.msg_wrap').slideToggle('slow');
+		$('.examples').slideToggle('slow');
 	});
 
 	$('.msg_click').click(function(){
@@ -20,10 +21,11 @@ $(document).ready(function(){
 
 	$('.msg_ex').click(function(){
 		$('.msg_wrap').slideToggle('slow');
-
+		$('.examples').slideToggle('slow');
 	});
 
 	$('.exText').click(function(){
+		$('.examples').slideToggle('slow');
 		$('.msg_wrap').slideToggle('slow');
 		var msg = $(this).text();
 		console.log(msg);
@@ -61,6 +63,7 @@ $(document).ready(function(){
 				$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 			}
 		});
+		$('.examples').slideToggle(0);
 	}
 
 	var mainRequest = function() {
@@ -117,10 +120,9 @@ $(document).ready(function(){
 							}
 							if (nowShowing[it].name == lookingfor) { // check food appear
 								checkAppear = true;	
-
+								var heightTmp1 = $('.msg_body')[0].scrollHeight;
 								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
 								$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
-
 								var ratings = nowShowing[it].rating * 20;
 								// show food information
 								var htmlString = '<div class="msg_a"><div class="chefPic"></div><div class="msg_ina"><div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
@@ -139,7 +141,7 @@ $(document).ready(function(){
 								    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
 								      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div></div></div>';
 								$(htmlString).insertBefore('.msg_push');
-								$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
+								$('.msg_body').scrollTop(heightTmp1-20);
 							}
 						}
 						if (!checkAppear) { // if food does not appear, show message
