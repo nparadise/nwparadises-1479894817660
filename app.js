@@ -59,12 +59,6 @@ var tone_analyzer = watson.tone_analyzer({
     version_date: '2016-05-19'
 });
 
-var natural_language_classifier = watson.natural_language_classifier({
-    username: 'fd8f4926-9fa1-48c5-bc1e-138b175605a9',
-    password: 'ijyZRnqZYcks',
-    version: 'v1'
-});
-
 // replace with the context obtained from the initial request
 var allFoodList = [];
 var intent2check = ['Next_foods', 'Events', 'Time', 'Health'];
@@ -119,82 +113,49 @@ app.post("/test", function(req, res) {
     console.log(input_sentence);
     //console.log(context);
 
-    natural_language_classifier.classify({
-        text: input_sentence,
-        classifier_id: 'b7339ax137-nlc-597'
-    }, function(err, nlcResponse) {
+    conversation.message({
+        workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
+        input: {
+            'text': input_sentence
+        },
+        context: context
+    }, function(err, response) {
         if (err)
             console.log('error:', err);
         else {
-            console.log('nlc start');
-            var curClass = nlcResponse.classes[0].class_name;
-            if (classifyingDeterminator.main.indexOf(curClass) > -1) {
-                console.log('main conversation');
-                conversation.message({
-                    workspace_id: '7a492733-40e3-4f49-8a49-8f99db079c75',
-                    input: {
-                        'text': input_sentence
-                    },
-                    context: context
-                }, function(err, response) {
-                    if (err)
-                        console.log('error:', err);
-                    else {
-                        console.log(response);
-                        if (response.intents.length > 0)
-                            current_intent = response.intents[0].intent;
+            console.log(response);
+            if (response.intents.length > 0)
+                current_intent = response.intents[0].intent;
 
-                        tone_analyzer.tone({
-                            text: input_sentence
-                        }, function(err, tone) {
-                            if (err)
-                                console.log(err);
-                            else {
-                                var save_anger = false;
-                                // check only when previous intent is about specific food category: health, time, cuisine, and events
-                                if (intent2check.indexOf(prev_intent) > -1 && response.context.next === false) {
-                                    var emotion_obj1 = JSON.stringify(tone, null, 2);
-                                    var emotion_obj2 = JSON.parse(emotion_obj1);
-                                    var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
-                                    var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
-                                    var agreeableness = emotion_obj2.document_tone.tone_categories[2].tones[3].score;
-                                    var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
-                                    if (anger >= 0.5 || disgust >= 0.5 || agreeableness <= 0.5) {
-                                        console.log("I think you are very disappointed with my suggestions.");
-                                        save_anger = true;
-                                        response.context.next = true;
-                                    } else {
-                                        save_anger = false;
-                                    }
-                                }
-                            }
-                            response.context.anger = save_anger;
-                            response.context.main = true;
-                            prev_intent = current_intent;
-                            res.json(response);
-                            //console.log(JSON.stringify(response, null, 2));
-                        });
+            tone_analyzer.tone({
+                text: input_sentence
+            }, function(err, tone) {
+                if (err)
+                    console.log(err);
+                else {
+                    var save_anger = false;
+                    // check only when previous intent is about specific food category: health, time, cuisine, and events
+                    if (intent2check.indexOf(prev_intent) > -1 && response.context.next === false) {
+                        var emotion_obj1 = JSON.stringify(tone, null, 2);
+                        var emotion_obj2 = JSON.parse(emotion_obj1);
+                        var anger = emotion_obj2.document_tone.tone_categories[0].tones[0].score;
+                        var disgust = emotion_obj2.document_tone.tone_categories[0].tones[1].score;
+                        var agreeableness = emotion_obj2.document_tone.tone_categories[2].tones[3].score;
+                        var sadness = emotion_obj2.document_tone.tone_categories[0].tones[4].score;
+                        if (anger >= 0.5 || disgust >= 0.5 || agreeableness <= 0.5) {
+                            console.log("I think you are very disappointed with my suggestions.");
+                            save_anger = true;
+                            response.context.next = true;
+                        } else {
+                            save_anger = false;
+                        }
                     }
-                });
-            } else {
-            	console.log('sub conversation');
-                conversation.message({
-                    workspace_id: '671b4b13-362b-4cc5-b6b4-f8dea9f33908',
-                    input: {
-                        'text': input_sentence
-                    },
-                    context: context
-                }, function(err, response) {
-                    if (err)
-                        console.log(err);
-                    else {
-                        console.log(response);
-                        response.context.main = false;
-                        res.json(response);
-                    }
-                });
-            }
-            //console.log(JSON.stringify(nlcResponse, null, 2));
+                }
+                response.context.anger = save_anger;
+                prev_intent = current_intent;
+                res.json(response);
+                //console.log(JSON.stringify(response, null, 2));
+            });
         }
     });
 });
