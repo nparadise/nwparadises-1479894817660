@@ -7,8 +7,8 @@ body,html {
 	width : 100%;
 	height: 100%;
 	margin: 0 auto;
-	overflow : hidden;
 	color: #000000;
+	overflow-y: hidden;
 }
 
 a {
@@ -150,7 +150,7 @@ th, td {
 .msg_body{
 	background-image: url("../images/msg_box.png");
 	background-attachment: fixed;
-	height:750px;
+	height:600px;
 	font-size:12px;
 	padding:15px;
 	overflow:auto;
