@@ -12,25 +12,22 @@ $(document).ready(function(){
 
 	$('.msg_head').click(function(){
 		$('.msg_wrap').slideToggle('slow');
-		$('.examples').slideToggle('slow');
 	});
 
 	$('.msg_click').click(function(){
 		mainRequest();
 	});
 
-	$('.msg_ex').click(function(){
-		$('.msg_wrap').slideToggle('slow');
-		$('.examples').slideToggle('slow');
+	$('.detail_name').click(function(){
+		$('.detail_wrap').slideToggle('slow');
+	});
+	
+	$('.detail_iT').click(function(){
+		$('.detail_i').slideToggle('slow');
 	});
 
-	$('.exText').click(function(){
-		$('.examples').slideToggle('slow');
-		$('.msg_wrap').slideToggle('slow');
-		var msg = $(this).text();
-		console.log(msg);
-		$('textarea').val(msg);
-		mainRequest();
+	$('.detail_dT').click(function(){
+		$('.detail_d').slideToggle('slow');
 	});
 
 	$('textarea').keypress(
@@ -63,16 +60,13 @@ $(document).ready(function(){
 				$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 			}
 		});
-		$('.examples').slideToggle(0);
 	}
 
 	var mainRequest = function() {
 		var msg = $('textarea').val();
-		if (msg === '') return;
 		$('textarea').val('');
-		if(msg!='') {
+		if(msg!='')
 			$('<div class="msg_b"><div class="msg_inb">'+msg+'</div></div>').insertBefore('.msg_push');
-		}
 		$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
 		$.ajax({
 			url: "/test",
@@ -89,73 +83,69 @@ $(document).ready(function(){
 			success: function (data) {
 				var parsedData = JSON.parse(data);
 				context = parsedData.context;			// context passed by watson
+				console.log(data);
 				console.log(context);
 				output = parsedData.output.text[0];		// watson answer
 				jQuery("#loading_image").fadeOut();		// loading image disappear
 
-				if (context.main === true) {
-					if (context.hasOwnProperty('except')) {
-						exception.push(context.except);		// add ingredients to except
-						delete context.except;
-					}
-					if (!context.hasOwnProperty('foodnames')) {
-						$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
-						$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
-						$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
-					}
-
-					// if next flag is true, show next 4 foods
-					if (context.hasOwnProperty('next') && context.next === true) {
-						printExamples();
-						delete context.next;
-						console.log(context);
-					} else if (context.hasOwnProperty('foodnames')) {	// if user choose food, show that food
-						console.log(context.foodnames);
-						var lookingfor = context.foodnames;		// food to find
-						var checkAppear = false;				// flag to check wether food is in list or not
-						for (var it in nowShowing) {
-
-							for (var j = 0; j < 4; j++) {
-								$("#food_" + j).html("");
-							}
-							if (nowShowing[it].name == lookingfor) { // check food appear
-								checkAppear = true;	
-								var heightTmp1 = $('.msg_body')[0].scrollHeight;
-								$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
-								$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
-								var ratings = nowShowing[it].rating * 20;
-								// show food information
-								var htmlString = '<div class="msg_a"><div class="chefPic"></div><div class="msg_ina"><div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
-												'<div class="detail_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="380" height="290"/></div>' + 
-												'<div class="detail_right"><div class="detail_rightText"><table><tr><td>cook time: </td><td>' + nowShowing[it].cook_time + ' m</td></tr>' +
-												'<tr><td>rating: </td><td><div class="detail_star"><p class="detail_star2" style="width: ' + ratings + '%;"</p></div></td></tr></table>' +
-												'comment: ' + nowShowing[it].comment + '</table></div><table border="1" class="table_dri">' +
-												'<th colspan="3">Nutrition</th><tr><td></td><td>Quantity</td><td>D.R.I</td></tr>' + 
-												'<tr><td>Calories</td><td>' + nowShowing[it].nutrition.calories + 'kcal</td><td>' + nowShowing[it].nutrition2.calories + '</td></tr>' + 
-												'<tr><td>Fat</td><td>' + nowShowing[it].nutrition.fat + 'g</td><td>' + nowShowing[it].nutrition2.fat + '</td></tr>' + 
-												'<tr><td>Carbs</td><td>' + nowShowing[it].nutrition.carbohydrate + 'g</td><td>' + nowShowing[it].nutrition2.carbohydrate + '</td></tr>' + 
-												'<tr><td>Protein</td><td>' + nowShowing[it].nutrition.protein + 'g</td><td>' + nowShowing[it].nutrition2.protein + '</td></tr>' + 
-												'<tr><td>Cholesterol</td><td>' + nowShowing[it].nutrition.cholesterol + 'mg</td><td>' + nowShowing[it].nutrition2.cholesterol + '</td></tr>' + 
-												'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + nowShowing[it].nutrition2.sodium + '</td></tr></table></div>' +
-								    			'<div class="detail_bottom"><div class="detail_iT detail_bT">Ingredient</div>' +
-								    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
-								      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div></div></div>';
-								$(htmlString).insertBefore('.msg_push');
-								$('.msg_body').scrollTop(heightTmp1-20);
-							}
-						}
-						if (!checkAppear) { // if food does not appear, show message
-							$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
-							$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
-						}
-						delete context.foodnames;
-					} else {
-						afterGetContext();
-					}
-				} else {
+				if (context.hasOwnProperty('except')) {
+					exception.push(context.except);		// add ingredients to except
+					delete context.except;
+				}
+				if (!context.hasOwnProperty('foodnames')) {
 					$('<audio src="/api/synthesize?text=' + output + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');
 					$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">'+output+'</div></div>').insertBefore('.msg_push');
 					$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
+				}
+
+				// if next flag is true, show next 4 foods
+				if (context.hasOwnProperty('next') && context.next === true) {
+					printExamples();
+					delete context.next;
+					console.log(context);
+				} else if (context.hasOwnProperty('foodnames')) {	// if user choose food, show that food
+					console.log(context.foodnames);
+					var lookingfor = context.foodnames;		// food to find
+					var checkAppear = false;				// flag to check wether food is in list or not
+					for (var it in nowShowing) {
+
+						for (var j = 0; j < 4; j++) {
+							$("#food_" + j).html("");
+						}
+						if (nowShowing[it].name == lookingfor) { // check food appear
+							checkAppear = true;	
+
+							$('<audio src="/api/synthesize?text=Here+is+the+recipe+of+' + lookingfor + '&voice=en-US_AllisonVoice" autoplay></audio>').insertBefore('.msg_push');	// read the Watson's response
+							$('<div class="msg_a"><div class="chefPic"></div><div class="chefPic"></div><div class="msg_ina">Here is the recipe of ' + lookingfor + '.</div></div>').insertBefore('.msg_push');	// print the Watson's response
+
+							var ratings = nowShowing[it].rating * 20;
+							// show food information
+							var htmlString = '<div class="detail"><div class="detail_name">' + nowShowing[it].name + '</div><div class="detail_wrap">' +
+											'<div class="detail_pic"><img src="' + nowShowing[it].image + '" alt="' + nowShowing[it].name + '" width="380" height="290"/></div>' + 
+											'<div class="detail_right"><div class="detail_rightText"><table><tr><td>cook time: </td><td>' + nowShowing[it].cook_time + ' m</td></tr>' +
+											'<tr><td>rating: </td><td><div class="detail_star"><p class="detail_star2" style="width: ' + ratings + '%;"</p></div></td></tr></table>' +
+											'comment: ' + nowShowing[it].comment + '</table></div><table border="1" class="table_dri">' +
+											'<th colspan="3">Nutrition</th><tr><td></td><td>Quantity</td><td>D.R.I</td></tr>' + 
+											'<tr><td>Calories</td><td>' + nowShowing[it].nutrition.calories + 'kcal</td><td>' + nowShowing[it].nutrition2.calories + '</td></tr>' + 
+											'<tr><td>Fat</td><td>' + nowShowing[it].nutrition.fat + 'g</td><td>' + nowShowing[it].nutrition2.fat + '</td></tr>' + 
+											'<tr><td>Carbs</td><td>' + nowShowing[it].nutrition.carbohydrate + 'g</td><td>' + nowShowing[it].nutrition2.carbohydrate + '</td></tr>' + 
+											'<tr><td>Protein</td><td>' + nowShowing[it].nutrition.protein + 'g</td><td>' + nowShowing[it].nutrition2.protein + '</td></tr>' + 
+											'<tr><td>Cholesterol</td><td>' + nowShowing[it].nutrition.cholesterol + 'mg</td><td>' + nowShowing[it].nutrition2.cholesterol + '</td></tr>' + 
+											'<tr><td>Sodium</td><td>' + nowShowing[it].nutrition.sodium + 'mg</td><td>' + nowShowing[it].nutrition2.sodium + '</td></tr></table></div>' +
+							    			'<div class="detail_bottom"><div class="detail_iT detail_bT">Ingredient</div>' +
+							    			'<div class="detail_i detail_b">' + nowShowing[it].ingredients + '</div><div style="padding: 5px"></div>' +
+							      			'<div class="detail_dT detail_bT">Directions</div><div class="detail_d detail_b">' + nowShowing[it].directions + '</div></div></div></div>';
+							$(htmlString).insertBefore('.msg_push');
+							$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
+						}
+					}
+					if (!checkAppear) { // if food does not appear, show message
+						$('<div class="msg_a"><div class="chefPic"></div><div class="msg_ina">There is no ' + lookingfor + ' in the list.</div></div>').insertBefore('.msg_push');
+						$('.msg_body').scrollTop($('.msg_body')[0].scrollHeight);
+					}
+					delete context.foodnames;
+				} else {
+					afterGetContext();
 				}
 			}
 		});
@@ -280,9 +270,10 @@ $(document).ready(function(){
 			getData('timeslot');
 			delete context.time;
 		} else if (context.hasOwnProperty('world-cuisine')) {
-			console.log(context.time + ' is came for input.');
+			console.log(context["world-cuisine"] + ' is came for input.');
 			category = context["world-cuisine"];
 			getData('world-cuisine');
+			delete context["world-cuisine"];
 		}
 		printExamples();	// after get list, print list
 	}
